@@ -401,9 +401,7 @@
             "c-76-27-213-157.hsd1.or.comcast.net",
             "c-76-27-228-172.hsd1.or.comcast.net",
             "c-76-27-237-46.hsd1.or.comcast.net",
-            "c-76-29-116-134.hsd1.in.comcast.net"
-        ],
-        "to_test": [
+            "c-76-29-116-134.hsd1.in.comcast.net",
             "c-76-99-122-165.hsd1.pa.comcast.net",
             "c-82-209-130-49.cust.bredband2.com",
             "c-82-209-173-130.cust.bredband2.com",
@@ -430,7 +428,9 @@
             "c-83-233-46-194.cust.bredband2.com",
             "c-89-160-19-104.cust.bredband2.com",
             "c-89-233-218-17.cust.bredband2.com",
-            "c-98-197-88-140.hsd1.tx.comcast.net",
+            "c-98-197-88-140.hsd1.tx.comcast.net"
+        ],
+        "to_test": [
             "c-98-218-237-84.hsd1.dc.comcast.net",
             "c.datajunction.org",
             "c.maccosmetics.com",
