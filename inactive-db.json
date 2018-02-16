@@ -8271,9 +8271,7 @@
             "84.123.215.39.dyn.user.ono.com",
             "84.123.221.39.dyn.user.ono.com",
             "84.123.221.7.dyn.user.ono.com",
-            "84.123.222.169.dyn.user.ono.com"
-        ],
-        "to_test": [
+            "84.123.222.169.dyn.user.ono.com",
             "85-156-154-15.elisa-mobile.fi",
             "85-156-52-29.elisa-mobile.fi",
             "85-156-61-176.elisa-mobile.fi",
@@ -8283,7 +8281,9 @@
             "85-156-91-214.elisa-mobile.fi",
             "85-156-91-88.elisa-mobile.fi",
             "85-222-121-222.home.aster.pl",
-            "85.187.216.81.static.av.siw.siwnet.net",
+            "85.187.216.81.static.av.siw.siwnet.net"
+        ],
+        "to_test": [
             "85ni5bnb60.firoli-sys.com",
             "87-198-40-169.ptr.magnet.ie",
             "87-198-40-175.ptr.magnet.ie",
