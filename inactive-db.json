@@ -429,13 +429,10 @@
             "c-89-160-19-104.cust.bredband2.com",
             "c-89-233-218-17.cust.bredband2.com",
             "c-98-197-88-140.hsd1.tx.comcast.net",
-            "c-98-218-237-84.hsd1.dc.comcast.net"
-        ],
-        "to_test": [
+            "c-98-218-237-84.hsd1.dc.comcast.net",
             "c.datajunction.org",
             "c.maccosmetics.com",
             "c.webwise.com",
-            "c.webwise.net",
             "c1.stylefun.info",
             "c1.stylezip.info",
             "c151120.adsl.hansenet.de",
@@ -450,7 +447,9 @@
             "c213-100-228-140.swipnet.se",
             "c213-100-229-90.swipnet.se",
             "c213-100-58-81.swipnet.se",
-            "c213-100-96-19.swipnet.se",
+            "c213-100-96-19.swipnet.se"
+        ],
+        "to_test": [
             "c214071.adsl.hansenet.de",
             "c214167.adsl.hansenet.de",
             "c225075.adsl.hansenet.de",
