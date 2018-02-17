@@ -1,6 +1,10 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
-        "1518802929": [
+        "1518889466": [
+            "74.duote.com.cn",
+            "77-176-82-209.g-net.net"
+        ],
+        "to_test": [
             "adtrading.de",
             "adult-mpg.net",
             "adult.foxcounter.com",
@@ -10655,8 +10659,6 @@
             "70.duote.org",
             "71-92-213-132.static.mtpk.ca.charter.com",
             "71.duote.org",
-            "74.duote.com.cn",
-            "77-176-82-209.g-net.net",
             "77-52-199-185.dialup.umc.net.ua",
             "77-52-202-118.dialup.umc.net.ua",
             "77-52-204-31.dialup.umc.net.ua",
@@ -10852,7 +10854,6 @@
             "adsrv.worldvillage.com",
             "194-237-107-154.customer.telia.com",
             "194-237-107-43.customer.telia.com"
-        ],
-        "to_test": []
+        ]
     }
 }
