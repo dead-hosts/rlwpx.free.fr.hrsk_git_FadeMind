@@ -1935,9 +1935,7 @@
             "h112.113.56.24.cable.rstb.jetbroadband.com",
             "h122.117.56.24.cable.rstb.jetbroadband.com",
             "h1666015.stratoserver.net",
-            "h1e.fileave.com"
-        ],
-        "to_test": [
+            "h1e.fileave.com",
             "h202n2-sv-g-a31.ias.bredband.telia.com",
             "h207n3-spaa-a12.ias.bredband.telia.com",
             "h209n1-sv-g-d4.ias.bredband.telia.com",
@@ -2230,7 +2228,9 @@
             "healthfoodpharmacy.net",
             "healthsouthwellness.net",
             "heartattackprevention.info",
-            "hebbo.rel7.com",
+            "hebbo.rel7.com"
+        ],
+        "to_test": [
             "help-on-error.com",
             "helpfilez.com",
             "herrty.esy.es",
