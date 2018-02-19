@@ -7819,9 +7819,7 @@
             "82.158.5.44.dyn.user.ono.com",
             "87-198-17-229.ptr.magnet.ie",
             "87-198-40-169.ptr.magnet.ie",
-            "87-198-41-44.ptr.magnet.ie"
-        ],
-        "to_test": [
+            "87-198-41-44.ptr.magnet.ie",
             "adserv2.meritdesigns.com",
             "adserver.bluewin.ch",
             "adserver.hipertextual.com",
@@ -7829,7 +7827,9 @@
             "adserver4.fileave.com",
             "adserving.liveuniversenetwork.com",
             "adserving.yourfilehost.com",
-            "adserwer.intercon.pl",
+            "adserwer.intercon.pl"
+        ],
+        "to_test": [
             "adsrv.worldvillage.com",
             "adtrading.de",
             "adult-mpg.net",
