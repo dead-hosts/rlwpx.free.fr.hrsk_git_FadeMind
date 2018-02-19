@@ -79,9 +79,7 @@
             "dl.microsword.net",
             "dl.targetsaver.com",
             "dl.torrent101.com",
-            "dl.winzix.com"
-        ],
-        "to_test": [
+            "dl.winzix.com",
             "dl1.spylocked.com",
             "dl10.spyfalcon.com",
             "dl16.spyfalcon.com",
@@ -179,7 +177,9 @@
             "download.spytrooper.com",
             "download.spywares-removal.info",
             "download.ttrili.com",
-            "download.winantivirus.com",
+            "download.winantivirus.com"
+        ],
+        "to_test": [
             "download09.org",
             "download2.desktopsmiley.com",
             "download3.spylocked.com",
