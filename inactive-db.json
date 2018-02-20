@@ -1808,9 +1808,7 @@
             "marialorena.com.br",
             "marmanjosurf.com.br",
             "marshfieldclinic.org.102.112.2o7.net",
-            "marshfieldlabs.org.102.112.2o7.net"
-        ],
-        "to_test": [
+            "marshfieldlabs.org.102.112.2o7.net",
             "masdnas.fileave.com",
             "maskedip.info",
             "masn.it",
@@ -1871,7 +1869,9 @@
             "metrics.fxcm.com",
             "metrics.gamestop.com",
             "metrics.impre.com",
-            "metrics.metrobostonnews.com",
+            "metrics.metrobostonnews.com"
+        ],
+        "to_test": [
             "metrics.preciomania.com",
             "metrics.precomania.com",
             "metrics.premiereinteractive.com",
