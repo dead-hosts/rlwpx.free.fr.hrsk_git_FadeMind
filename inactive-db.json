@@ -1,10 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
-        "0": [
-            "adsrv.worldvillage.com"
-        ],
-        "to_test": [
-            "adtrading.de",
+        "1519152842": [
             "adult-mpg.net",
             "adult.foxcounter.com",
             "adult.hard-core-xxx.com",
@@ -26,7 +22,9 @@
             "affiliate.ab1trk.com",
             "affiliate.agstracker.com",
             "affiliate.cshtracker.com",
-            "agadoo.biz",
+            "agadoo.biz"
+        ],
+        "to_test": [
             "agnexsss.fileave.com",
             "aguardsoftware.com",
             "ahimsaphotos.com",
@@ -10867,7 +10865,9 @@
             "adserver4.fileave.com",
             "adserving.liveuniversenetwork.com",
             "adserving.yourfilehost.com",
-            "adserwer.intercon.pl"
+            "adserwer.intercon.pl",
+            "adsrv.worldvillage.com",
+            "adtrading.de"
         ]
     }
 }
