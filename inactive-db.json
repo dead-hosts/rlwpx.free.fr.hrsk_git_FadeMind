@@ -4641,9 +4641,7 @@
             "track.mindfieldresources.com",
             "track.msadcenter.etvz.com",
             "track.msadcenter.mazp.com",
-            "track.msadcenter.mkqa.com"
-        ],
-        "to_test": [
+            "track.msadcenter.mkqa.com",
             "track.msadcenter.moas.com",
             "track.msadcenter.qpz.com",
             "track.msadcenter.wmd.com",
@@ -5042,7 +5040,9 @@
             "virglilio.it",
             "virgoilio.it",
             "virgtilio.it",
-            "virguilio.it",
+            "virguilio.it"
+        ],
+        "to_test": [
             "virgvilio.it",
             "virgyilio.it",
             "virhgilio.it",
