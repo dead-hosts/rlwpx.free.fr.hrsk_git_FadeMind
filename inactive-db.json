@@ -24,9 +24,7 @@
             "p1.pool2.staticadsl.iconz.net.nz",
             "p1153-ipbf1101funabasi.chiba.ocn.ne.jp",
             "p1212-ipbf408kokuryo.gunma.ocn.ne.jp",
-            "p1221-ipbf203okidate.aomori.ocn.ne.jp"
-        ],
-        "to_test": [
+            "p1221-ipbf203okidate.aomori.ocn.ne.jp",
             "p17101-ipngn1501marunouchi.tokyo.ocn.ne.jp",
             "p2008.zbjimg.com",
             "p2032-ipbf2301funabasi.chiba.ocn.ne.jp",
@@ -93,7 +91,9 @@
             "parsabs.4t.com",
             "partner1.kanoodle.com",
             "partner23.firehunt.com",
-            "partneraccesspg.esy.es",
+            "partneraccesspg.esy.es"
+        ],
+        "to_test": [
             "partners.hotbar.com",
             "partners.mygeek.com",
             "partners.pcsecurityshield.com",
