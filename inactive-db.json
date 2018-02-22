@@ -182,9 +182,7 @@
             "ads.net-ad-vantage.com",
             "ads.oggix.com",
             "ads.okazii.ro",
-            "ads.onlineathens.com"
-        ],
-        "to_test": [
+            "ads.onlineathens.com",
             "ads.theglobeandmail.com",
             "ads.wnd.com",
             "ads.z-quest.com",
@@ -199,7 +197,9 @@
             "adserver4.fileave.com",
             "adserving.liveuniversenetwork.com",
             "adserving.yourfilehost.com",
-            "adserwer.intercon.pl",
+            "adserwer.intercon.pl"
+        ],
+        "to_test": [
             "adsrv.worldvillage.com",
             "adtrading.de",
             "adult-mpg.net",
