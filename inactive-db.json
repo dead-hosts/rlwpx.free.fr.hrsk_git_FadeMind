@@ -1002,9 +1002,7 @@
             "dmdl.dmcast.com",
             "dmns4sale.com",
             "dn9726.91mt.com",
-            "dns.yawsa.com"
-        ],
-        "to_test": [
+            "dns.yawsa.com",
             "dns404page.com",
             "dns5error.com",
             "dnserroralert.com",
@@ -1052,6 +1050,7 @@
             "download-limewire.org",
             "download-nation.com",
             "download-now.rmp1.info",
+            "download-services.com",
             "download-this.us",
             "download-trillian.com",
             "download-windvd.com",
@@ -1113,7 +1112,9 @@
             "downloadproas2009.com",
             "downloads-finereader.ru",
             "downloads-free.org",
-            "downloads.180solutions.com",
+            "downloads.180solutions.com"
+        ],
+        "to_test": [
             "downloads.adaware.cc",
             "downloads.all4soft.com",
             "downloads.morpheus.com",
