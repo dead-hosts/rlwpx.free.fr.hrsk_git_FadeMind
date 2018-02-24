@@ -9970,9 +9970,7 @@
             "82-171-139-129.ip.telfort.nl",
             "82-171-55-216.ip.telfort.nl",
             "84-32-150-119-ip.remo.lt",
-            "84-32-85-52-ip.remo.lt"
-        ],
-        "to_test": [
+            "84-32-85-52-ip.remo.lt",
             "84.123.212.173.dyn.user.ono.com",
             "84.123.212.244.dyn.user.ono.com",
             "84.123.212.55.dyn.user.ono.com",
@@ -9988,7 +9986,9 @@
             "84.123.215.39.dyn.user.ono.com",
             "84.123.221.39.dyn.user.ono.com",
             "84.123.221.7.dyn.user.ono.com",
-            "84.123.222.169.dyn.user.ono.com",
+            "84.123.222.169.dyn.user.ono.com"
+        ],
+        "to_test": [
             "85-156-154-15.elisa-mobile.fi",
             "85-156-52-29.elisa-mobile.fi",
             "85-156-61-176.elisa-mobile.fi",
