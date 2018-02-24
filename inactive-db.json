@@ -10110,9 +10110,7 @@
             "ads.gusanito.com",
             "ads.jacksonville.com",
             "ads.mm.ap.org",
-            "ads.net-ad-vantage.com"
-        ],
-        "to_test": [
+            "ads.net-ad-vantage.com",
             "ads.oggix.com",
             "ads.okazii.ro",
             "ads.onlineathens.com",
@@ -10130,7 +10128,9 @@
             "adserver4.fileave.com",
             "adserving.liveuniversenetwork.com",
             "adserving.yourfilehost.com",
-            "adserwer.intercon.pl",
+            "adserwer.intercon.pl"
+        ],
+        "to_test": [
             "adsrv.worldvillage.com",
             "adtrading.de",
             "adult-mpg.net",
