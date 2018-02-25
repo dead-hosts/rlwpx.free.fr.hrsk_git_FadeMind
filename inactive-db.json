@@ -1395,9 +1395,7 @@
             "f.about.com",
             "f1.truth-is-out-there.org",
             "f1organizer.com",
-            "f2.truth-is-out-there.org"
-        ],
-        "to_test": [
+            "f2.truth-is-out-there.org",
             "f3.truth-is-out-there.org",
             "f4.truth-is-out-there.org",
             "f5.truth-is-out-there.org",
@@ -1445,7 +1443,6 @@
             "fasion.biz",
             "fast-antimalware-scannerv2.com",
             "fastantimalwarescanner.com",
-            "fastantivirusscanner15.com.xorg.pl",
             "fasterxp.com",
             "fastmediaservice.com",
             "fastmetasearch.com",
@@ -1454,7 +1451,6 @@
             "fastssearch.com",
             "fastupdateservice.com",
             "fastvipgaming.net",
-            "fastweb-scanner.com.xorg.pl",
             "fatal-xxx-dangerous-windows.pcerror9880.com",
             "fatal-xxx-dangerous-windows.pcerror9886.com",
             "faucetdirect.com.102.112.2o7.net",
@@ -1490,7 +1486,9 @@
             "fgtkmcby02.eu",
             "fharaon.ro",
             "fhg.panet.org",
-            "fi1097.91mt.com",
+            "fi1097.91mt.com"
+        ],
+        "to_test": [
             "fifa14coinshack.com",
             "filarmon.info",
             "file.sidetab.co.kr",
