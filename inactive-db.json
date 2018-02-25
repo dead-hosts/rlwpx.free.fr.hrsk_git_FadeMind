@@ -808,9 +808,7 @@
             "dl7.spylocked.com",
             "dl8.spylocked.com",
             "dl9.spyfalcon.com",
-            "dl9.spylocked.com"
-        ],
-        "to_test": [
+            "dl9.spylocked.com",
             "dltvwp.it",
             "dmdl.dmcast.com",
             "dmns4sale.com",
@@ -849,6 +847,7 @@
             "down.zhaosui.com",
             "down1.cnd8.net",
             "down2.cngr.cn",
+            "down3.emstock.com.cn",
             "down4.pmdown.com",
             "down5.snoin.kr",
             "down6.pmdown.com",
@@ -878,6 +877,7 @@
             "download.cdn.oovoo.com",
             "download.contextplus.net",
             "download.daryasoft.com",
+            "download.exodirectory.com",
             "download.flvpremier.com",
             "download.forest.impress.co.jp",
             "download.game-store.es",
@@ -886,7 +886,9 @@
             "download.jupitersatellites.biz",
             "download.modernplus.net",
             "download.motphim.com",
-            "download.mywebsearch.com",
+            "download.mywebsearch.com"
+        ],
+        "to_test": [
             "download.scanandrepair.com",
             "download.searchtabs.net",
             "download.secureyournet.biz",
