@@ -167,9 +167,7 @@
             "adrianpeterson28.com",
             "ads-aa.wunderground.com",
             "ads.advertisingz.com",
-            "ads.agadoo.biz"
-        ],
-        "to_test": [
+            "ads.agadoo.biz",
             "ads.clearbluemedia.com",
             "ads.dealnews.com",
             "ads.dothads.com",
@@ -197,7 +195,9 @@
             "adserver4.fileave.com",
             "adserving.liveuniversenetwork.com",
             "adserving.yourfilehost.com",
-            "adserwer.intercon.pl",
+            "adserwer.intercon.pl"
+        ],
+        "to_test": [
             "adsrv.worldvillage.com",
             "adtrading.de",
             "adult-mpg.net",
