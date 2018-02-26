@@ -1714,9 +1714,7 @@
             "fitnessmagazine.com.102.112.2o7.net",
             "fixcomputervirus.net",
             "fixsoftwarevirus.net",
-            "fixvirus.net"
-        ],
-        "to_test": [
+            "fixvirus.net",
             "fl1-119-241-104-235.aom.mesh.ad.jp",
             "fl1-119-241-42-188.aom.mesh.ad.jp",
             "fl1-119-241-42-95.aom.mesh.ad.jp",
@@ -1772,7 +1770,9 @@
             "free-viruscan.com",
             "free.wegcash.com",
             "free2browse.info",
-            "free_toolbar.mystoretoolbar.com",
+            "free_toolbar.mystoretoolbar.com"
+        ],
+        "to_test": [
             "freebesthacks.com",
             "freecomputerworld.com",
             "freedom.com.102.112.2o7.net",
