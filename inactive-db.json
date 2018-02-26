@@ -151,9 +151,7 @@
             "adams.genwebhost.com",
             "adcenter.in2.com",
             "adcounter.globeandmail.com",
-            "adelogs.adobe.com"
-        ],
-        "to_test": [
+            "adelogs.adobe.com",
             "adforce.ads.imgis.com",
             "adforce.imgis.com",
             "adhref.pl",
@@ -169,7 +167,9 @@
             "adrianpeterson28.com",
             "ads-aa.wunderground.com",
             "ads.advertisingz.com",
-            "ads.agadoo.biz",
+            "ads.agadoo.biz"
+        ],
+        "to_test": [
             "ads.clearbluemedia.com",
             "ads.dealnews.com",
             "ads.dothads.com",
