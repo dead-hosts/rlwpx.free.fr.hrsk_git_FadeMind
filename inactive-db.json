@@ -7658,9 +7658,8 @@
             "87-198-17-229.ptr.magnet.ie",
             "87-198-40-107.ptr.magnet.ie",
             "87-198-40-169.ptr.magnet.ie",
-            "89-253-81-134.customers.ownit.se"
-        ],
-        "to_test": [
+            "89-253-81-134.customers.ownit.se",
+            "ads.eccentrix.com",
             "ads1.theglobeandmail.com",
             "ads2.radiocompanion.com",
             "adsby.uzoogle.com",
@@ -7668,10 +7667,13 @@
             "adserver.bluewin.ch",
             "adserver.hipertextual.com",
             "adserver.realhomesex.net",
+            "adserver1-images.backbeatmedia.com",
             "adserver4.fileave.com",
             "adserving.liveuniversenetwork.com",
             "adserving.yourfilehost.com",
-            "adserwer.intercon.pl",
+            "adserwer.intercon.pl"
+        ],
+        "to_test": [
             "adsrv.worldvillage.com",
             "adtrading.de",
             "adult-mpg.net",
