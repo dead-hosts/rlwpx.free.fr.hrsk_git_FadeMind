@@ -654,9 +654,7 @@
             "dynmenu.hotbar.com",
             "dz323.91mt.com",
             "e--online--daily.com",
-            "e--online-daily.com"
-        ],
-        "to_test": [
+            "e--online-daily.com",
             "e-bay-ebay.pochta.ru",
             "e-browse.info",
             "e-googles.com",
@@ -720,7 +718,9 @@
             "ebayj.it",
             "ebaymembers.pochta.ru",
             "ebaynowsignin.pochta.ru",
-            "ebaysellersingin.pochta.ru",
+            "ebaysellersingin.pochta.ru"
+        ],
+        "to_test": [
             "ebaysigninaccountr.pochta.ru",
             "ebazy.it",
             "ebestfind.org",
