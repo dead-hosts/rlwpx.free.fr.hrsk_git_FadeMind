@@ -10279,9 +10279,7 @@
             "77-52-207-118.dialup.umc.net.ua",
             "77-52-228-201.dialup.umc.net.ua",
             "194-237-107-154.customer.telia.com",
-            "194-237-107-43.customer.telia.com"
-        ],
-        "to_test": [
+            "194-237-107-43.customer.telia.com",
             "77-52-233-253.dialup.umc.net.ua",
             "77-52-235-129.dialup.umc.net.ua",
             "77-52-236-120.dialup.umc.net.ua",
@@ -10290,7 +10288,9 @@
             "77-52-240-217.dialup.umc.net.ua",
             "77-52-247-184.dialup.umc.net.ua",
             "77.74.131.75.karlsborgsenergi.se",
-            "77.74.135.182.karlsborgsenergi.se",
+            "77.74.135.182.karlsborgsenergi.se"
+        ],
+        "to_test": [
             "7979-69504_159.c.adprotect.net",
             "8.jxyd.crsky.com",
             "8.zjyd2.crsky.com",
