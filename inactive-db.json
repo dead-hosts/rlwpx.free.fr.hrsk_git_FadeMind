@@ -1,6 +1,30 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
-        "1520102478": [
+        "1520189081": [
+            "190_0_166_124.3g.solunet.com.ar",
+            "190_0_166_97.3g.solunet.com.ar",
+            "190_0_167_200.3g.solunet.com.ar",
+            "190_0_167_222.3g.solunet.com.ar",
+            "190_0_167_223.3g.solunet.com.ar",
+            "190_0_167_224.3g.solunet.com.ar",
+            "190_0_167_225.3g.solunet.com.ar",
+            "190_0_167_232.3g.solunet.com.ar",
+            "190_0_167_233.3g.solunet.com.ar",
+            "190_0_167_237.3g.solunet.com.ar",
+            "190_0_167_238.3g.solunet.com.ar",
+            "190_0_167_241.3g.solunet.com.ar",
+            "190_0_167_245.3g.solunet.com.ar",
+            "190_0_167_246.3g.solunet.com.ar",
+            "190_0_167_249.3g.solunet.com.ar",
+            "190_0_168_12.3g.solunet.com.ar",
+            "190_0_168_8.3g.solunet.com.ar",
+            "193.69.124.24.cm.sunflower.com",
+            "194-237-107-11.customer.telia.com",
+            "194-237-107-43.customer.telia.com",
+            "194-237-110-165.customer.telia.com",
+            "194-237-110-186.customer.telia.com"
+        ],
+        "to_test": [
             "a-c-o.hu",
             "a-discoflirt.de",
             "a.datajunction.org",
@@ -10653,25 +10677,6 @@
             "189.55.124.24.cm.sunflower.com",
             "19.duote.org",
             "19.red-88-28-116.staticip.rima-tde.net",
-            "190_0_166_124.3g.solunet.com.ar",
-            "190_0_166_97.3g.solunet.com.ar",
-            "190_0_167_200.3g.solunet.com.ar",
-            "190_0_167_222.3g.solunet.com.ar",
-            "190_0_167_223.3g.solunet.com.ar",
-            "190_0_167_224.3g.solunet.com.ar",
-            "190_0_167_225.3g.solunet.com.ar",
-            "190_0_167_232.3g.solunet.com.ar",
-            "190_0_167_233.3g.solunet.com.ar",
-            "190_0_167_237.3g.solunet.com.ar",
-            "190_0_167_238.3g.solunet.com.ar",
-            "190_0_167_241.3g.solunet.com.ar",
-            "190_0_167_245.3g.solunet.com.ar",
-            "190_0_167_246.3g.solunet.com.ar",
-            "190_0_167_249.3g.solunet.com.ar",
-            "190_0_168_12.3g.solunet.com.ar",
-            "190_0_168_8.3g.solunet.com.ar",
-            "193.69.124.24.cm.sunflower.com",
-            "194-237-107-43.customer.telia.com",
             "195-225-196-221.static.aixit.com",
             "195-240-165-204.ip.telfort.nl",
             "1cust1957.an1.dfw28.da.uu.net",
@@ -10866,7 +10871,6 @@
             "90-230-76-145-no134.tbcn.telia.com",
             "91131.org",
             "99browse.info"
-        ],
-        "to_test": []
+        ]
     }
 }
