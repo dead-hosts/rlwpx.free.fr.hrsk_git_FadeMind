@@ -551,9 +551,7 @@
             "c-98-197-88-140.hsd1.tx.comcast.net",
             "c-98-218-237-84.hsd1.dc.comcast.net",
             "c.datajunction.org",
-            "c.maccosmetics.com"
-        ],
-        "to_test": [
+            "c.maccosmetics.com",
             "c.webwise.com",
             "c1.stylefun.info",
             "c1.stylezip.info",
@@ -573,7 +571,9 @@
             "c214071.adsl.hansenet.de",
             "c214167.adsl.hansenet.de",
             "c225075.adsl.hansenet.de",
-            "c225206.adsl.hansenet.de",
+            "c225206.adsl.hansenet.de"
+        ],
+        "to_test": [
             "c99.gen.tr",
             "ca.winantivirus.com",
             "cablewheels.com",
