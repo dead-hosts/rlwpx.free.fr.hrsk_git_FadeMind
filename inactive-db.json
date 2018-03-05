@@ -130,9 +130,7 @@
             "ip-213-49-129-5.dsl-static.scarlet.be",
             "ip-49-129.atvci.net",
             "ip-50-060.atvci.net",
-            "ip-52-085.atvci.net"
-        ],
-        "to_test": [
+            "ip-52-085.atvci.net",
             "ip.sponsorix.com",
             "ip2-235.post-addison.dfw.ygnition.net",
             "ip205.tvmax-fiber-2.hou.ygnition.net",
@@ -145,7 +143,9 @@
             "ip82-139-117-250.lijbrandt.net",
             "ip91354740.adsl-surfen.hetnet.nl",
             "ipbil.com",
-            "ipichinchas.16mb.com",
+            "ipichinchas.16mb.com"
+        ],
+        "to_test": [
             "iprivacy.info",
             "ipspaccess.com",
             "ipus.assinger.com",
