@@ -3575,9 +3575,7 @@
             "www.apple-updates.com",
             "www.applicationcontenttag.com",
             "www.appsgrabbundles.com",
-            "www.aprotectedpage.com"
-        ],
-        "to_test": [
+            "www.aprotectedpage.com",
             "www.ares-freebie.com",
             "www.ares.click-new-download.com",
             "www.arespro2007.com",
@@ -4388,7 +4386,9 @@
             "www.easywww.info",
             "www.eba6y.it",
             "www.eba7y.it",
-            "www.ebagy.it",
+            "www.ebagy.it"
+        ],
+        "to_test": [
             "www.ebahy.it",
             "www.ebajy.it",
             "www.ebar520.com",
