@@ -77,9 +77,7 @@
             "adrianpeterson28.com",
             "ads-aa.wunderground.com",
             "ads.advertisingz.com",
-            "ads.agadoo.biz"
-        ],
-        "to_test": [
+            "ads.agadoo.biz",
             "ads.augusta.com",
             "ads.clearbluemedia.com",
             "ads.dealnews.com",
@@ -106,7 +104,9 @@
             "adserver.bluewin.ch",
             "adserver.hipertextual.com",
             "adserver.ilounge.com",
-            "adserver.realhomesex.net",
+            "adserver.realhomesex.net"
+        ],
+        "to_test": [
             "adserver4.fileave.com",
             "adserving.liveuniversenetwork.com",
             "adserving.yourfilehost.com",
