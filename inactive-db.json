@@ -10364,9 +10364,7 @@
             "90-228-231-145-no126.tbcn.telia.com",
             "90-230-72-195-no134.tbcn.telia.com",
             "90-230-76-145-no134.tbcn.telia.com",
-            "91131.org"
-        ],
-        "to_test": [
+            "91131.org",
             "99browse.info",
             "a-c-o.hu",
             "a-discoflirt.de",
@@ -10375,7 +10373,9 @@
             "a.flvdirect.com",
             "a.sisdotnet.com",
             "a.venetian.com",
-            "a.webwise.com",
+            "a.webwise.com"
+        ],
+        "to_test": [
             "a88-112-238-126.elisa-laajakaista.fi",
             "a88-112-99-161.elisa-laajakaista.fi",
             "a88-113-122-193.elisa-laajakaista.fi",
