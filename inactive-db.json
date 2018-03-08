@@ -1,6 +1,10 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
-        "1520451064": [
+        "1520537593": [
+            "213.37.250.251.dyn.user.ono.com",
+            "217-210-182-197-no68.tbcn.telia.com"
+        ],
+        "to_test": [
             "a88-112-99-161.elisa-laajakaista.fi",
             "a88-113-122-193.elisa-laajakaista.fi",
             "a88-113-123-84.elisa-laajakaista.fi",
@@ -10708,8 +10712,6 @@
             "207-172-209-227.c3-0.ded-ubr1.sbo-ded.ma.static.cable.rcn.com",
             "209.66.124.24.cm.sunflower.com",
             "213-65-169-184-no157.tbcn.telia.com",
-            "213.37.250.251.dyn.user.ono.com",
-            "217-210-182-197-no68.tbcn.telia.com",
             "219.red-88-28-2.staticip.rima-tde.net",
             "21centuryporn.com",
             "224.255.dsl-dhcp.mvtel.net",
@@ -10877,7 +10879,6 @@
             "a.venetian.com",
             "a.webwise.com",
             "a88-112-238-126.elisa-laajakaista.fi"
-        ],
-        "to_test": []
+        ]
     }
 }
