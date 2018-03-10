@@ -8411,9 +8411,7 @@
             "87-198-40-107.ptr.magnet.ie",
             "87-198-40-175.ptr.magnet.ie",
             "87-198-40-239.ptr.magnet.ie",
-            "a2p.org"
-        ],
-        "to_test": [
+            "a2p.org",
             "ads.oggix.com",
             "ads.okazii.ro",
             "ads.onlineathens.com",
@@ -8434,7 +8432,9 @@
             "adserver4.fileave.com",
             "adserving.liveuniversenetwork.com",
             "adserving.yourfilehost.com",
-            "adserwer.intercon.pl",
+            "adserwer.intercon.pl"
+        ],
+        "to_test": [
             "adsrv.worldvillage.com",
             "adtrading.de",
             "adult-mpg.net",
