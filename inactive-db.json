@@ -10022,9 +10022,7 @@
             "84.123.212.244.dyn.user.ono.com",
             "84.123.212.55.dyn.user.ono.com",
             "84.123.213.137.dyn.user.ono.com",
-            "194-237-107-43.customer.telia.com"
-        ],
-        "to_test": [
+            "194-237-107-43.customer.telia.com",
             "84.123.213.217.dyn.user.ono.com",
             "84.123.214.128.dyn.user.ono.com",
             "84.123.214.210.dyn.user.ono.com",
@@ -10036,7 +10034,9 @@
             "84.123.215.39.dyn.user.ono.com",
             "84.123.221.39.dyn.user.ono.com",
             "84.123.221.7.dyn.user.ono.com",
-            "84.123.222.169.dyn.user.ono.com",
+            "84.123.222.169.dyn.user.ono.com"
+        ],
+        "to_test": [
             "85-156-154-15.elisa-mobile.fi",
             "85-156-52-29.elisa-mobile.fi",
             "85-156-61-176.elisa-mobile.fi",
