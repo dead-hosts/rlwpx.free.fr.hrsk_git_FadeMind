@@ -2658,9 +2658,7 @@
             "mmproxy.com",
             "mn-10k-dhcp5-1182.dsl.hickorytech.net",
             "mn-10k-dhcp5-277.dsl.hickorytech.net",
-            "mn8994.91mt.com"
-        ],
-        "to_test": [
+            "mn8994.91mt.com",
             "mobile.francemobiles.com",
             "mobile.gamecopyworld.com",
             "mobile.ivwbox.de",
@@ -2717,7 +2715,9 @@
             "mtmsms.com",
             "mtrcs.bizrate.com",
             "mtsou.com",
-            "muiltyhunter.fileave.com",
+            "muiltyhunter.fileave.com"
+        ],
+        "to_test": [
             "multijackpot.net",
             "multimediacode.com",
             "multiplicadordemoedasgratis.rel7.com",
