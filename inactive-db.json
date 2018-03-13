@@ -596,9 +596,7 @@
             "c-89-160-19-104.cust.bredband2.com",
             "c-89-233-218-17.cust.bredband2.com",
             "c-98-197-88-140.hsd1.tx.comcast.net",
-            "c-98-218-237-84.hsd1.dc.comcast.net"
-        ],
-        "to_test": [
+            "c-98-218-237-84.hsd1.dc.comcast.net",
             "c.datajunction.org",
             "c.maccosmetics.com",
             "c.webwise.com",
@@ -620,7 +618,9 @@
             "c214071.adsl.hansenet.de",
             "c214167.adsl.hansenet.de",
             "c225075.adsl.hansenet.de",
-            "c225206.adsl.hansenet.de",
+            "c225206.adsl.hansenet.de"
+        ],
+        "to_test": [
             "c99.gen.tr",
             "ca.winantivirus.com",
             "cablewheels.com",
