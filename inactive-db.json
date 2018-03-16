@@ -1022,9 +1022,7 @@
             "coverbrowse.com",
             "cowokmanis.com",
             "cpe-24-25-168-214.maine.res.rr.com",
-            "cpe-24-25-179-205.maine.res.rr.com"
-        ],
-        "to_test": [
+            "cpe-24-25-179-205.maine.res.rr.com",
             "cpvtext.cpvfeed.com",
             "cqindex.newhua.com",
             "cr4778.91mt.com",
@@ -1045,7 +1043,9 @@
             "cs-hltv.ru",
             "cs-ventrillo.com",
             "cs.13pao.com",
-            "css.ealtai.ru",
+            "css.ealtai.ru"
+        ],
+        "to_test": [
             "ct.iwon.com",
             "ctamdq.org.ar",
             "cti.moobesring.com",
