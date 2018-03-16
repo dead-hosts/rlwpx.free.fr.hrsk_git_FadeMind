@@ -1662,9 +1662,7 @@
             "p3242-ipbf2102funabasi.chiba.ocn.ne.jp",
             "p4037-ipbf2401funabasi.chiba.ocn.ne.jp",
             "p4115-ipbf905niigatani.niigata.ocn.ne.jp",
-            "p4162-ipbf408aobadori.miyagi.ocn.ne.jp"
-        ],
-        "to_test": [
+            "p4162-ipbf408aobadori.miyagi.ocn.ne.jp",
             "p4241-ipbf911hodogaya.kanagawa.ocn.ne.jp",
             "p44066-adsau07doujib3-acca.osaka.ocn.ne.jp",
             "p5084-ipbfp405kamokounan.kagoshima.ocn.ne.jp",
@@ -1723,7 +1721,6 @@
             "pasic.fileave.com",
             "passtosites.net",
             "passunderground.com",
-            "passwordsearch.org",
             "pastbreak.ru",
             "pastubes.com",
             "pathgather.ru",
@@ -1749,7 +1746,9 @@
             "pazmogutionsa.com",
             "pazuzdb.cn",
             "pbaperformance.com",
-            "pbprosth.net",
+            "pbprosth.net"
+        ],
+        "to_test": [
             "pc-antispy.com",
             "pc-antispypro.com",
             "pc-clean-pro.com",
