@@ -1201,9 +1201,7 @@
             "dmdl.dmcast.com",
             "dmns4sale.com",
             "dn9726.91mt.com",
-            "dns.yawsa.com"
-        ],
-        "to_test": [
+            "dns.yawsa.com",
             "dns404page.com",
             "dns5error.com",
             "dnserroralert.com",
@@ -1237,6 +1235,7 @@
             "down.zhaosui.com",
             "down1.cnd8.net",
             "down2.cngr.cn",
+            "down3.emstock.com.cn",
             "down4.pmdown.com",
             "down5.snoin.kr",
             "down6.pmdown.com",
@@ -1315,7 +1314,9 @@
             "downloads.180solutions.com",
             "downloads.adaware.cc",
             "downloads.all4soft.com",
-            "downloads.morpheus.com",
+            "downloads.morpheus.com"
+        ],
+        "to_test": [
             "downloads.technutopia.net",
             "downloads.vlcplayerdownload.com",
             "downloadscan.net",
