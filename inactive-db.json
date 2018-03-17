@@ -395,9 +395,7 @@
             "djmixmax.net",
             "djvictoriouzmusic.com",
             "dl.dlxp.net",
-            "dl.microsword.net"
-        ],
-        "to_test": [
+            "dl.microsword.net",
             "dl.targetsaver.com",
             "dl.torrent101.com",
             "dl.winzix.com",
@@ -455,7 +453,6 @@
             "down.zhaosui.com",
             "down1.cnd8.net",
             "down2.cngr.cn",
-            "down3.emstock.com.cn",
             "down4.pmdown.com",
             "down5.snoin.kr",
             "down6.pmdown.com",
@@ -487,7 +484,9 @@
             "download.game-store.es",
             "download.grp.hk",
             "download.guardbay.com",
-            "download.jupitersatellites.biz",
+            "download.jupitersatellites.biz"
+        ],
+        "to_test": [
             "download.modernplus.net",
             "download.motphim.com",
             "download.mywebsearch.com",
