@@ -2148,9 +2148,7 @@
             "mailit.iwon.com",
             "main01.fileave.com",
             "mainhacks.com",
-            "malware-labs.us"
-        ],
-        "to_test": [
+            "malware-labs.us",
             "malwarealarms.com",
             "malwarebytespaidsupport.com",
             "malwareinfolist.com",
@@ -2201,7 +2199,9 @@
             "mediaplayer-download.org",
             "medspharmacyhealthdirect.net",
             "mega-adult.com",
-            "megaspaware.com",
+            "megaspaware.com"
+        ],
+        "to_test": [
             "melakisman.fileave.com",
             "memberhelp.happy.to",
             "memberofebay.pochta.ru",
