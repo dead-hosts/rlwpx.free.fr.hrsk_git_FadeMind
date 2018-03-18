@@ -91,9 +91,7 @@
             "ads.net-ad-vantage.com",
             "ads.oggix.com",
             "ads.okazii.ro",
-            "ads.onlineathens.com"
-        ],
-        "to_test": [
+            "ads.onlineathens.com",
             "ads.premiership.bg",
             "ads.savannahnow.com",
             "ads.theglobeandmail.com",
@@ -110,7 +108,9 @@
             "adserver4.fileave.com",
             "adserving.liveuniversenetwork.com",
             "adserving.yourfilehost.com",
-            "adserwer.intercon.pl",
+            "adserwer.intercon.pl"
+        ],
+        "to_test": [
             "adsrv.worldvillage.com",
             "adtrading.de",
             "adult-mpg.net",
