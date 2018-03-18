@@ -1865,9 +1865,7 @@
             "ip-195-242-255-106.catv.net.pl",
             "ip-213-49-129-5.dsl-static.scarlet.be",
             "ip-49-129.atvci.net",
-            "ip-50-060.atvci.net"
-        ],
-        "to_test": [
+            "ip-50-060.atvci.net",
             "ip.sponsorix.com",
             "ip2-235.post-addison.dfw.ygnition.net",
             "ip205.tvmax-fiber-2.hou.ygnition.net",
@@ -1898,7 +1896,9 @@
             "italiaiuta.org",
             "iu8965.91mt.com",
             "iugate.com",
-            "iuygbnm.pochta.ru",
+            "iuygbnm.pochta.ru"
+        ],
+        "to_test": [
             "iwgtest.co.uk",
             "iwonclick.iwon.com",
             "ixtente.com",
