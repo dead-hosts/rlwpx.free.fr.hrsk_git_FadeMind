@@ -1,7 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
-        "to_test": [
-            "a88-112-238-126.elisa-laajakaista.fi",
+        "1521396837": [
             "a88-112-99-161.elisa-laajakaista.fi",
             "a88-113-122-193.elisa-laajakaista.fi",
             "a88-113-123-84.elisa-laajakaista.fi",
@@ -9,7 +8,9 @@
             "a88-114-81-55.elisa-laajakaista.fi",
             "a88-115-203-27.elisa-laajakaista.fi",
             "a88-115-91-70.elisa-laajakaista.fi",
-            "a88-115-97-141.elisa-laajakaista.fi",
+            "a88-115-97-141.elisa-laajakaista.fi"
+        ],
+        "to_test": [
             "a91-155-22-43.elisa-laajakaista.fi",
             "a91-155-80-79.elisa-laajakaista.fi",
             "a91-156-168-102.elisa-laajakaista.fi",
@@ -10913,7 +10914,8 @@
             "a.flvdirect.com",
             "a.sisdotnet.com",
             "a.venetian.com",
-            "a.webwise.com"
+            "a.webwise.com",
+            "a88-112-238-126.elisa-laajakaista.fi"
         ]
     }
 }
