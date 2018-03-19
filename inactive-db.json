@@ -4821,9 +4821,7 @@
             "track.india-marketing.in",
             "track.kscentraltrack.us",
             "track.mindfieldresources.com",
-            "track.msadcenter.etvz.com"
-        ],
-        "to_test": [
+            "track.msadcenter.etvz.com",
             "track.msadcenter.mazp.com",
             "track.msadcenter.mkqa.com",
             "track.msadcenter.moas.com",
@@ -5195,7 +5193,6 @@
             "virgvilio.it",
             "virgyilio.it",
             "virprotect.com",
-            "virtgilio.it",
             "virtilio.it",
             "virtrigger.com",
             "virtualcodec.com",
@@ -5495,7 +5492,9 @@
             "www-spybotcom.com",
             "www-spywarebot.org",
             "www-win-mx.com",
-            "www.1-domains-registrations.com",
+            "www.1-domains-registrations.com"
+        ],
+        "to_test": [
             "www.100888290cs.com",
             "www.10sek.com",
             "www.123topsearch.com",
