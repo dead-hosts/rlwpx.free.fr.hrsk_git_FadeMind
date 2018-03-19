@@ -1392,9 +1392,7 @@
             "errari.it",
             "errclean.com",
             "error-found.com",
-            "error32system.com"
-        ],
-        "to_test": [
+            "error32system.com",
             "error404site.com",
             "error404site.net",
             "errorbrowser.com",
@@ -1469,7 +1467,9 @@
             "evidence-detector.biz",
             "evilbots.net",
             "evilspidercomics.com",
-            "evko.biz",
+            "evko.biz"
+        ],
+        "to_test": [
             "ew-versions.com",
             "ewebsearch.net",
             "exact-results.net",
