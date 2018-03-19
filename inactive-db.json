@@ -1467,9 +1467,7 @@
             "evidence-detector.biz",
             "evilbots.net",
             "evilspidercomics.com",
-            "evko.biz"
-        ],
-        "to_test": [
+            "evko.biz",
             "ew-versions.com",
             "ewebsearch.net",
             "exact-results.net",
@@ -1547,7 +1545,9 @@
             "facebookfernandalima.rel7.com",
             "facebookhackbase.org",
             "facebookpasswordhackonline.com",
-            "facebookproxy.net",
+            "facebookproxy.net"
+        ],
+        "to_test": [
             "facetofaceart.com",
             "fadfs55.fileave.com",
             "fagopfc.cn",
