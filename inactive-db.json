@@ -2,7 +2,8 @@
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
         "1521739617": [
             "1-warez.org",
-            "107.103.121.77.pool.smart.vn.ua"
+            "107.103.121.77.pool.smart.vn.ua",
+            ""
         ],
         "to_test": [
             "a88-112-99-161.elisa-laajakaista.fi",
@@ -10914,8 +10915,7 @@
             "a.sisdotnet.com",
             "a.venetian.com",
             "a.webwise.com",
-            "a88-112-238-126.elisa-laajakaista.fi",
-            ""
+            "a88-112-238-126.elisa-laajakaista.fi"
         ]
     }
 }
