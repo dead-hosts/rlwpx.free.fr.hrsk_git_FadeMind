@@ -1,10 +1,10 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
         "1523295420": [
-            "107.103.121.77.pool.smart.vn.ua"
+            "107.103.121.77.pool.smart.vn.ua",
+            "125.122.121.77.pool.smart.vn.ua"
         ],
         "to_test": [
-            "125.122.121.77.pool.smart.vn.ua",
             "194-237-107-154.customer.telia.com",
             "194-237-107-21.customer.telia.com",
             "194-237-107-43.customer.telia.com",
