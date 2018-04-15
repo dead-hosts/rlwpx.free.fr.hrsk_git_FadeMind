@@ -1,7 +1,9 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
-        "1523641123": [
-            "107.103.121.77.pool.smart.vn.ua",
+        "1523813972": [
+            "107.103.121.77.pool.smart.vn.ua"
+        ],
+        "to_test": [
             "125.122.121.77.pool.smart.vn.ua",
             "150freesms.de",
             "194-237-107-21.customer.telia.com",
@@ -9,9 +11,7 @@
             "194-237-110-186.customer.telia.com",
             "220-245-131-54.static.tpgi.com.au",
             "247-090-pppoe.kuban.tv",
-            "404surf.com"
-        ],
-        "to_test": [
+            "404surf.com",
             "1-warez.org"
         ]
     }
