@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
-        "1531419779": [
+        "1531592616": [
             "1-warez.org",
             "100.63.189.72.cfl.res.rr.com",
             "101.57.205.68.cfl.res.rr.com",
@@ -10,7 +10,9 @@
             "109-161-67-79.pppoe.yaroslavl.ru",
             "109-161-71-23.pppoe.yaroslavl.ru",
             "11.109.33.65.cfl.res.rr.com",
-            "111.134.205.68.cfl.res.rr.com",
+            "111.134.205.68.cfl.res.rr.com"
+        ],
+        "to_test": [
             "112.252.188.72.cfl.res.rr.com",
             "117.121.119.70.cfl.res.rr.com",
             "117.129.102.97.cfl.res.rr.com",
@@ -159,9 +161,7 @@
             "60pictures.com",
             "65.121.119.70.cfl.res.rr.com",
             "65.200.103.97.cfl.res.rr.com",
-            "65.99.204.68.cfl.res.rr.com"
-        ],
-        "to_test": [
+            "65.99.204.68.cfl.res.rr.com",
             "0qizz.super-promo.hoxo.info"
         ]
     }
