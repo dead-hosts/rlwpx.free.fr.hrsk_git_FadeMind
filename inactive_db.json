@@ -1,15 +1,17 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
-        "to_test": [
-            "194-237-107-11.customer.telia.com",
+        "1533334806": [
             "194-237-107-154.customer.telia.com",
             "194-237-107-21.customer.telia.com",
             "194-237-107-43.customer.telia.com",
-            "194-237-110-165.customer.telia.com",
             "194-237-110-186.customer.telia.com",
+            "1blog.info"
+        ],
+        "to_test": [
             "220sex.com",
             "2hide.net",
-            "4secureorders.com"
+            "4secureorders.com",
+            "194-237-107-11.customer.telia.com"
         ]
     }
 }
