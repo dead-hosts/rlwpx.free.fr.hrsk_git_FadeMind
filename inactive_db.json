@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
-        "0": [
-            "007surfing.com"
-        ],
         "to_test": [
             "1255.info",
             "1385157996.dhcp.dbnet.dk",
@@ -25,7 +22,8 @@
             "2hide.net",
             "39-8-ftth.onsnetstudenten.nl",
             "4secureorders.com",
-            "66-168-254-34.dhcp.mtgm.al.charter.com"
+            "66-168-254-34.dhcp.mtgm.al.charter.com",
+            "007surfing.com"
         ]
     }
 }
