@@ -1,14 +1,14 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
         "1535913990": [
-            "007surfing.com"
-        ],
-        "to_test": [
+            "007surfing.com",
             "1255.info",
             "1385157996.dhcp.dbnet.dk",
             "1385158790.dhcp.dbnet.dk",
             "1385158792.dhcp.dbnet.dk",
-            "1385158794.dhcp.dbnet.dk",
+            "1385158794.dhcp.dbnet.dk"
+        ],
+        "to_test": [
             "1503025265.dong.dbnet.dk",
             "1503027828.seas-nve.dbnet.dk",
             "1508885661.dong.dbnet.dk",
