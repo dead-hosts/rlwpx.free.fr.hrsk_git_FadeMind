@@ -1,10 +1,10 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
-        "to_test": [
-            "194-237-107-11.customer.telia.com",
+        "1536437134": [
             "194-237-107-154.customer.telia.com",
-            "194-237-107-21.customer.telia.com",
-            "194-237-110-186.customer.telia.com",
+            "194-237-110-186.customer.telia.com"
+        ],
+        "to_test": [
             "207-150-180-36.static.sagonet.net",
             "213-65-186-239-no181.tbcn.telia.com",
             "63-246-133-174.static.sagonet.net",
