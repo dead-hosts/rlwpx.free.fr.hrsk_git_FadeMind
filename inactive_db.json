@@ -1,9 +1,12 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
-        "1539981279": [
+        "1540149138": [
+            "0383.org",
+            "039068a.dialer-select.com"
+        ],
+        "to_test": [
             "1reg.info",
             "6.bbnface.com"
-        ],
-        "to_test": []
+        ]
     }
 }
