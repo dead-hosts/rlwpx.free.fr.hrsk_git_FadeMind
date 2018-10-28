@@ -744,6 +744,16 @@
             "epoch": "1592784000",
             "expiration_date": "22-jun-2020",
             "state": "future"
+        },
+        "62nds.com": {
+            "epoch": "1557100800",
+            "expiration_date": "06-may-2019",
+            "state": "future"
+        },
+        "64mb.org": {
+            "epoch": "1558224000",
+            "expiration_date": "19-may-2019",
+            "state": "future"
         }
     }
 }
