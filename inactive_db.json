@@ -1,9 +1,8 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
-        "1545517291": [
+        "to_test": [
             "217.217.52.223.dyn.user.ono.com",
             "217.217.54.71.dyn.user.ono.com"
-        ],
-        "to_test": []
+        ]
     }
 }
