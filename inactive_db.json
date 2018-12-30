@@ -1,10 +1,10 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
         "1546204210": [
-            "200-35-90-92.static.telcel.net.ve"
+            "200-35-90-92.static.telcel.net.ve",
+            "2k3net.110mb.com",
+            "3.coolerpillow.com"
         ],
-        "to_test": [
-            "2k3net.110mb.com"
-        ]
+        "to_test": []
     }
 }
