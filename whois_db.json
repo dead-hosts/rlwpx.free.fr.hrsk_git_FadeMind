@@ -983,7 +983,7 @@
         "345.biz": {
             "epoch": "1547337600",
             "expiration_date": "13-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "34f.com": {
             "epoch": "1587945600",
@@ -1111,8 +1111,8 @@
             "state": "future"
         },
         "3sixty5.net": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "3x-teens.net": {
