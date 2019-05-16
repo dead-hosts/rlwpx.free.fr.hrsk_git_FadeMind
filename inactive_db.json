@@ -1,6 +1,62 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
-        "1557867673": [
+        "1558040319": [
+            "094.104-113-64.ftth.swbr.surewest.net",
+            "11163221-517901.c.adprotect.net",
+            "1-170-195-217.cust.centrio.cz",
+            "121-73-136-182.cable.telstraclear.net",
+            "121-73-35-60.cable.telstraclear.net",
+            "121-73-9-30.cable.telstraclear.net"
+        ],
+        "1558040358": [
+            "12.147-62-69.ftth.swbr.surewest.net",
+            "11.gxdx2.crsky.com",
+            "121.vps.expresshost.ru"
+        ],
+        "1558040400": [
+            "144.130-62-69.ftth.swbr.surewest.net",
+            "168-100-182-165.static.cloud9.net"
+        ],
+        "1558040535": [
+            "1.ofsnetwork.com",
+            "200.124-113-64.ftth.swbr.surewest.net"
+        ],
+        "1558040665": [
+            "202-153-214-211.cust.aussiebb.net"
+        ],
+        "1558040679": [
+            "203-204-204-179.adsl.static.giga.net.tw",
+            "203-204-230-28.adsl.static.giga.net.tw",
+            "203-204-110-98.adsl.static.giga.net.tw"
+        ],
+        "1558040681": [
+            "207-255-68-141-dhcp.aoo.pa.atlanticbb.net",
+            "207-255-141-194-dhcp.bfd.pa.atlanticbb.net",
+            "207-255-35-042-dhcp.aoo.pa.atlanticbb.net",
+            "207-255-6-071-static.jst.pa.atlanticbb.net",
+            "207-255-85-253-dhcp.aoo.pa.atlanticbb.net"
+        ],
+        "1558040781": [
+            "216-73-119-74.ocdc-01.net",
+            "219-69-50-213.idc.static.giga.net.tw",
+            "219-69-19-36.idc.static.giga.net.tw",
+            "219-69-19-17.idc.static.giga.net.tw"
+        ],
+        "1558040844": [
+            "24-145-121-232-dhcp.bfd.pa.atlanticbb.net",
+            "24-145-67-088-dhcp.mia.fl.atlanticbb.net"
+        ],
+        "1558040873": [
+            "2k3net.110mb.com"
+        ],
+        "1558040895": [
+            "3.coolerpillow.com",
+            "40-169-195-217.cust.centrio.cz"
+        ],
+        "1558040902": [
+            "404.ragecash.com"
+        ],
+        "to_test": [
             "094.104-113-64.ftth.swbr.surewest.net",
             "1-170-195-217.cust.centrio.cz",
             "1.ofsnetwork.com",
@@ -13,6 +69,7 @@
             "121.vps.expresshost.ru",
             "144.130-62-69.ftth.swbr.surewest.net",
             "168-100-182-165.static.cloud9.net",
+            "200.124-113-64.ftth.swbr.surewest.net",
             "202-153-214-211.cust.aussiebb.net",
             "203-204-110-98.adsl.static.giga.net.tw",
             "203-204-204-179.adsl.static.giga.net.tw",
@@ -42,9 +99,6 @@
             "6-170-195-217.cust.centrio.cz",
             "6.jsdx3.crsky.com",
             "61-70-224-16.adsl.static.giga.net.tw"
-        ],
-        "to_test": [
-            "200.124-113-64.ftth.swbr.surewest.net"
         ]
     }
 }
