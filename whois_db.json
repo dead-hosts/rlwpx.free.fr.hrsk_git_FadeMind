@@ -835,8 +835,8 @@
         "state": "future"
     },
     "24start.com": {
-        "epoch": "1558569600",
-        "expiration_date": "23-may-2019",
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "24teen.com": {
@@ -950,7 +950,7 @@
         "state": "future"
     },
     "2x2.biz": {
-        "epoch": "1555632000",
+        "epoch": 1555632000,
         "expiration_date": "19-apr-2019",
         "state": "past"
     },
