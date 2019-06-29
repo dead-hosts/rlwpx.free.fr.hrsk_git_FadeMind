@@ -10,9 +10,9 @@
         "state": "future"
     },
     "001proxy.com": {
-        "epoch": "1561766400",
+        "epoch": 1561766400,
         "expiration_date": "29-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "001y.com": {
         "epoch": "1572825600",
