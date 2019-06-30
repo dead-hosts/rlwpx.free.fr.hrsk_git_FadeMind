@@ -200,9 +200,9 @@
         "state": "future"
     },
     "1000gratisproben.com": {
-        "epoch": "1561852800",
+        "epoch": 1561852800,
         "expiration_date": "30-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "1000millasargentina.com.ar": {
         "epoch": "1585785600",
