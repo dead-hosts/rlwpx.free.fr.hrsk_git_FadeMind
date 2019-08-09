@@ -90,8 +90,8 @@
         "state": "future"
     },
     "0446.org": {
-        "epoch": "1565049600",
-        "expiration_date": "06-aug-2019",
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
         "state": "future"
     },
     "05168.com.tw": {
@@ -160,9 +160,9 @@
         "state": "future"
     },
     "0q8.net": {
-        "epoch": "1565308800",
+        "epoch": 1565308800,
         "expiration_date": "09-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "0scan.com": {
         "epoch": "1568505600",
