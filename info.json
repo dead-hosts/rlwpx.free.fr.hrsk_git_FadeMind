@@ -1,16 +1,21 @@
 {
-    "arguments": [],
-    "clean_list_file": "clean.list",
-    "clean_original": "1",
-    "commit_autosave_message": "Test of rlwpx.free.fr.hrsk",
-    "currently_under_test": "0",
-    "days_until_next_test": "0",
-    "last_test": "1565570676",
-    "list_name": "rlwpx.free.fr.hrsk.list",
-    "name": "rlwpx.free.fr.hrsk",
+    "currently_under_test": true,
+    "custom_pyfunceble_config": {},
+    "days_until_next_test": 0.0,
+    "finish_datetime": "1970-01-01T00:00:00",
+    "finish_timestamp": 0.0,
+    "last_download_datetime": "2019-08-12T13:17:29.520727",
+    "last_download_timestamp": 1565615849.520727,
+    "latest_part_finish_datetime": "2019-08-12T13:27:33.285603",
+    "latest_part_finish_timestamp": 1565616453.285603,
+    "latest_part_start_datetime": "2019-08-12T13:17:30.178280",
+    "latest_part_start_timestamp": 1565615850.17828,
+    "name": "rlwpx.free.fr.hrsk_git_FadeMind",
+    "own_management": false,
     "ping": [
-        "FadeMind"
+        "@FadeMind"
     ],
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/rlwpx.free.fr.hrsk/hosts",
-    "stable": "0"
+    "start_datetime": "2019-08-12T13:17:30.175046",
+    "start_timestamp": 1565615850.175046
 }
