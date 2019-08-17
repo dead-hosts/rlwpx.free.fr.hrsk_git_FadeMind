@@ -2,9 +2,6 @@ addons:
     apt:
         packages:
         - dos2unix
-cache:
-- pip
-dist: xenial
 env:
     global:
     -   secure: G1fRrX2h94odg1lvgB6TjhLOb7iRriDloGHa8IjNMEy29ZFPpsKwgUMwipTe4NZgB5aXLob2iwFbo6pPod/1TO/6H2Jdd6pBNvstKt8lMlGfGZCJUO11iSzm4GRoI5QNoLZf5bL3ZTeiHuHF9fw8Jmc6ilNpymvWLMf1vVhzgUr1Y2rvySny0nCfxoq4KmWRPeM6ZBDt6cS1CWvrUrtOVc4V7nlqOFDzpi+RDletVnMeXfsdaH5pqlRag9EErLeoYEgTyh3dzgNi6LK1gAIb4wop4PlzCPrLExodhuy0beeb5q5w5A1X4FnXwj5r1mT+7IMUvJDtng+5DwRwoW45kIX10b1x9TlApgEgBfEcKAeKTbrzV58M85i7LrO5iUzxfyWNbyEdVRgBGP874wjd3EEqO8rXQvw8zZ2EUXXw5GIsi0KUSsvN3dZOXJKN65fPWJVNbsyV0CL+JMA4l0x2Myo2EOIvJtL1w48l3elgvuaRV0imeSbtdaxANhuZffOaNclCh5X+Wx9+SaONypiNxwo38i7+GgdIMsgtdQ/lQjoSQEOfrGra/NhQPwDqQHqLof1WtZ0kIN76zAMefMUew59DfNLYE9fhMoN8iZFfiWOuB8X3wAyIDOo+lX0Xea4qZ/9RegwJWtxyUgnx5ytWphTjRWWhypQggf96q1RUFIU=
@@ -12,7 +9,6 @@ env:
     -   GIT_EMAIL: dead-hosts@funilrys.com
     -   TRAVIS_REPO_SLUG: dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind
     -   GIT_BRANCH: master
-    -   UPDATE_ME_LOCATION: https://raw.githubusercontent.com/dead-hosts/repository-structure/master/update_me.py
     -   ADMIN_LOCATION: https://raw.githubusercontent.com/dead-hosts/repository-structure/master/admin.py
     matrix:
     - PYTHON_VERSION="3.7.3"
@@ -29,8 +25,6 @@ install:
 - pip --version
 - pip install dead-hosts-launcher
 language: generic
-matrix:
-    fast_finish: true
 notifications:
     email:
         on_failure: always
@@ -39,8 +33,6 @@ notifications:
         - dead-hosts@funilrys.com
 os:
 - linux
-python:
-- '3.7'
 script:
 - dead_hosts_launcher --version
 - dead_hosts_launcher
