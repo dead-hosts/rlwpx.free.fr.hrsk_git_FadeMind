@@ -1345,9 +1345,9 @@
         "state": "future"
     },
     "4se.net": {
-        "epoch": "1568505600",
+        "epoch": 1568505600,
         "expiration_date": "15-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "4ssl.ws": {
         "epoch": "1663545600",
