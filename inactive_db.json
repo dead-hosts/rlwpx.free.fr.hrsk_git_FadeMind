@@ -29,7 +29,6 @@
         "1568390726": {},
         "1568477621": {},
         "1568586225": {
-            "200.124-113-64.ftth.swbr.surewest.net": "INACTIVE",
             "202-153-214-211.cust.aussiebb.net": "INACTIVE",
             "203-204-110-98.adsl.static.giga.net.tw": "INACTIVE",
             "203-204-204-179.adsl.static.giga.net.tw": "INACTIVE",
@@ -67,7 +66,8 @@
             "121.vps.expresshost.ru": "INACTIVE",
             "144.130-62-69.ftth.swbr.surewest.net": "INACTIVE",
             "168-100-182-165.static.cloud9.net": "INACTIVE",
-            "1sheep.info": "INACTIVE"
+            "1sheep.info": "INACTIVE",
+            "200.124-113-64.ftth.swbr.surewest.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
