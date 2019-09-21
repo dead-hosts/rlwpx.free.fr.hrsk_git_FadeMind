@@ -33,12 +33,6 @@
         "1568803158": {},
         "1568930905": {
             "1.ofsnetwork.com": "INACTIVE",
-            "11.gxdx2.crsky.com": "INACTIVE",
-            "12.147-62-69.ftth.swbr.surewest.net": "INACTIVE",
-            "121-73-136-182.cable.telstraclear.net": "INACTIVE",
-            "121-73-35-60.cable.telstraclear.net": "INACTIVE",
-            "121-73-9-30.cable.telstraclear.net": "INACTIVE",
-            "121.vps.expresshost.ru": "INACTIVE",
             "144.130-62-69.ftth.swbr.surewest.net": "INACTIVE",
             "168-100-182-165.static.cloud9.net": "INACTIVE",
             "190-82-175-78.adsl.tie.cl": "INACTIVE",
@@ -79,7 +73,13 @@
         },
         "1569065712": {
             "094.104-113-64.ftth.swbr.surewest.net": "INACTIVE",
-            "11163221-517901.c.adprotect.net": "INACTIVE"
+            "11.gxdx2.crsky.com": "INACTIVE",
+            "11163221-517901.c.adprotect.net": "INACTIVE",
+            "12.147-62-69.ftth.swbr.surewest.net": "INACTIVE",
+            "121-73-136-182.cable.telstraclear.net": "INACTIVE",
+            "121-73-35-60.cable.telstraclear.net": "INACTIVE",
+            "121-73-9-30.cable.telstraclear.net": "INACTIVE",
+            "121.vps.expresshost.ru": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
