@@ -32,10 +32,6 @@
         "1568715961": {},
         "1568803158": {},
         "1568930905": {
-            "202-153-214-211.cust.aussiebb.net": "INACTIVE",
-            "203-204-110-98.adsl.static.giga.net.tw": "INACTIVE",
-            "203-204-204-179.adsl.static.giga.net.tw": "INACTIVE",
-            "203-204-230-28.adsl.static.giga.net.tw": "INACTIVE",
             "207-255-141-194-dhcp.bfd.pa.atlanticbb.net": "INACTIVE",
             "207-255-35-042-dhcp.aoo.pa.atlanticbb.net": "INACTIVE",
             "207-255-6-071-static.jst.pa.atlanticbb.net": "INACTIVE",
@@ -73,7 +69,11 @@
             "190-82-1-107.adsl.tie.cl": "INACTIVE",
             "190-82-10-75.adsl.tie.cl": "INACTIVE",
             "1sheep.info": "INACTIVE",
-            "200.124-113-64.ftth.swbr.surewest.net": "INACTIVE"
+            "200.124-113-64.ftth.swbr.surewest.net": "INACTIVE",
+            "202-153-214-211.cust.aussiebb.net": "INACTIVE",
+            "203-204-110-98.adsl.static.giga.net.tw": "INACTIVE",
+            "203-204-204-179.adsl.static.giga.net.tw": "INACTIVE",
+            "203-204-230-28.adsl.static.giga.net.tw": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
