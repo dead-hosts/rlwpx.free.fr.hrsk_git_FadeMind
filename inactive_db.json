@@ -34,7 +34,6 @@
         "1568930905": {},
         "1569065712": {
             "1.ofsnetwork.com": "INACTIVE",
-            "168-100-182-165.static.cloud9.net": "INACTIVE",
             "190-82-1-107.adsl.tie.cl": "INACTIVE",
             "190-82-10-75.adsl.tie.cl": "INACTIVE",
             "1sheep.info": "INACTIVE",
@@ -77,7 +76,8 @@
             "121-73-35-60.cable.telstraclear.net": "INACTIVE",
             "121-73-9-30.cable.telstraclear.net": "INACTIVE",
             "121.vps.expresshost.ru": "INACTIVE",
-            "144.130-62-69.ftth.swbr.surewest.net": "INACTIVE"
+            "144.130-62-69.ftth.swbr.surewest.net": "INACTIVE",
+            "168-100-182-165.static.cloud9.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
