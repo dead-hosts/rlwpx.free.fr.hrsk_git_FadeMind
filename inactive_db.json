@@ -36,9 +36,6 @@
         "1569154986": {},
         "1569243146": {},
         "1569408800": {
-            "219-69-19-17.idc.static.giga.net.tw": "INACTIVE",
-            "219-69-19-36.idc.static.giga.net.tw": "INACTIVE",
-            "219-69-50-213.idc.static.giga.net.tw": "INACTIVE",
             "24-145-121-232-dhcp.bfd.pa.atlanticbb.net": "INACTIVE",
             "24-145-67-088-dhcp.mia.fl.atlanticbb.net": "INACTIVE",
             "2k3net.110mb.com": "INACTIVE",
@@ -81,7 +78,10 @@
             "212-183-88-33.adsl.highway.telekom.at": "INACTIVE",
             "212-183-95-201.adsl.highway.telekom.at": "INACTIVE",
             "213-33-10-217.adsl.highway.telekom.at": "INACTIVE",
-            "216-73-119-74.ocdc-01.net": "INACTIVE"
+            "216-73-119-74.ocdc-01.net": "INACTIVE",
+            "219-69-19-17.idc.static.giga.net.tw": "INACTIVE",
+            "219-69-19-36.idc.static.giga.net.tw": "INACTIVE",
+            "219-69-50-213.idc.static.giga.net.tw": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
