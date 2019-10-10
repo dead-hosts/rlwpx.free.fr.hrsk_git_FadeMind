@@ -1,11 +1,38 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
+        "ACTIVE": [
+            "0001proxy.notlong.com",
+            "0002yr2.wcomhost.com",
+            "0-0-0.6te.net",
+            "000aproxy.on-4.com",
+            "000.ueuo.com",
+            "000webhost.info",
+            "001proxy.com",
+            "001y.com",
+            "005.free-counter.co.uk",
+            "006.free-counter.co.uk",
+            "007.free-counter.co.uk",
+            "007guard.com",
+            "007sites.com",
+            "008.free-counter.co.uk",
+            "008.free-counters.co.uk",
+            "00fun.com",
+            "00hidemyprivacy.ws",
+            "00hq.com",
+            "00o.info",
+            "010402.com",
+            "0141design.co.uk",
+            "016.ru",
+            "0190-dialer.com",
+            "01domain.com",
+            "01-edito-atf-laplacemedia-7.fr",
+            "01kao.com",
+            "01.sharedsource.org"
+        ],
         "INACTIVE": [
-            "65-101-17-156.phnx.qwest.net",
-            "65.105.167.227.ptr.us.xo.net",
-            "65-111-127-213.dyn.grandenetworks.net",
-            "65.142-241-81.adsl-dyn.isp.belgacom.be",
-            "65.27.34.95.customer.cdi.no"
+            "00fun.casalemedia.com",
+            "013.219113103.m-net.ne.jp",
+            "02-195.031.popsite.net"
         ]
     }
 }
