@@ -1,16 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1571351454": {
-            "6.hidemyass.com": "INVALID",
-            "6.jsdx3.crsky.com": "INVALID"
-        },
-        "1571351455": {
-            "6.scdx3.crsky.com": "INVALID",
-            "6.sub-70-211-6.myvzw.com": "INVALID",
-            "6.sub-70-212-77.myvzw.com": "INVALID",
-            "6.sub-70-222-217.myvzw.com": "INVALID",
-            "6.zupload.com": "INVALID"
-        },
         "1571435643": {
             "00fun.casalemedia.com": "INACTIVE"
         },
@@ -11172,6 +11161,24 @@
         },
         "1571504654": {
             "66-50-83-15.prtc.net": "INACTIVE"
+        },
+        "1571504863": {
+            "6.hidemyass.com": "INACTIVE"
+        },
+        "1571504864": {
+            "6.jsdx3.crsky.com": "INACTIVE"
+        },
+        "1571504865": {
+            "6.scdx3.crsky.com": "INACTIVE"
+        },
+        "1571504871": {
+            "6.sub-70-211-6.myvzw.com": "INACTIVE"
+        },
+        "1571504878": {
+            "6.sub-70-212-77.myvzw.com": "INACTIVE"
+        },
+        "1571504884": {
+            "6.sub-70-222-217.myvzw.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
