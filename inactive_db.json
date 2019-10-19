@@ -1,132 +1,8 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1571351443": {
-            "64-91-23-251.dyn.centurytel.net": "INVALID",
-            "64-91-64-21.stat.centurytel.net": "INVALID",
-            "64.red-88-31-85.staticip.rima-tde.net": "INVALID",
-            "64.sub-166-144-132.myvzw.com": "INVALID"
-        },
-        "1571351444": {
-            "64.sub-70-197-239.myvzw.com": "INVALID",
-            "64.sub-75-197-244.myvzw.com": "INVALID",
-            "65-101-17-156.phnx.qwest.net": "INVALID",
-            "65-111-127-213.dyn.grandenetworks.net": "INVALID",
-            "65.105.167.227.ptr.us.xo.net": "INVALID",
-            "65.142-241-81.adsl-dyn.isp.belgacom.be": "INVALID"
-        },
-        "1571351445": {
-            "65.27.34.95.customer.cdi.no": "INVALID",
-            "6532108hfc240.tampabay.res.rr.com": "INVALID",
-            "6532200hfc210.tampabay.res.rr.com": "INVALID",
-            "6532217hfc120.tampabay.res.rr.com": "INVALID",
-            "653271hfc241.tampabay.res.rr.com": "INVALID",
-            "653273hfc115.tampabay.res.rr.com": "INVALID",
-            "653279hfc82.tampabay.res.rr.com": "INVALID"
-        },
-        "1571351446": {
-            "65-73-153-26.nas1.hnv.mi.frontiernet.net": "INVALID",
-            "65-73-67-187.nas1.thk.wi.frontiernet.net": "INVALID",
-            "65.81-166-200.customer.lyse.net": "INVALID",
-            "65.sub-97-144-19.myvzw.com": "INVALID",
-            "653280hfc130.tampabay.res.rr.com": "INVALID"
-        },
-        "1571351447": {
-            "65.sub-97-52-214.myvzw.com": "INVALID",
-            "66-162-43-72.static.twtelecom.net": "INVALID",
-            "66-168-156-63.dhcp.jcsn.tn.charter.com": "INVALID",
-            "66-168-157-254.dhcp.jcsn.tn.charter.com": "INVALID",
-            "66-168-182-102.dhcp.clmb.ga.charter.com": "INVALID",
-            "66-168-189-236.dhcp.gwnt.ga.charter.com": "INVALID",
-            "66-168-194-22.dhcp.gsvl.ga.charter.com": "INVALID",
-            "66-168-254-34.dhcp.mtgm.al.charter.com": "INVALID",
-            "66-168-80-29.dhcp.kgpt.tn.charter.com": "INVALID",
-            "66-169-109-219.dhcp.ftwo.tx.charter.com": "INVALID",
-            "66-169-110-103.dhcp.ftwo.tx.charter.com": "INVALID",
-            "66-169-110-132.dhcp.ftwo.tx.charter.com": "INVALID"
-        },
-        "1571351448": {
-            "66-169-12-129.dhcp.spbg.sc.charter.com": "INVALID",
-            "66-169-12-206.dhcp.spbg.sc.charter.com": "INVALID",
-            "66-169-12-219.dhcp.spbg.sc.charter.com": "INVALID",
-            "66-169-121-214.dhcp.ftwo.tx.charter.com": "INVALID",
-            "66-169-13-149.dhcp.spbg.sc.charter.com": "INVALID",
-            "66-169-13-178.dhcp.spbg.sc.charter.com": "INVALID",
-            "66-169-13-214.dhcp.spbg.sc.charter.com": "INVALID",
-            "66-169-13-231.dhcp.spbg.sc.charter.com": "INVALID",
-            "66-169-13-240.dhcp.spbg.sc.charter.com": "INVALID",
-            "66-169-13-245.dhcp.spbg.sc.charter.com": "INVALID",
-            "66-169-139-189.dhcp.ftwo.tx.charter.com": "INVALID",
-            "66-169-14-127.dhcp.spbg.sc.charter.com": "INVALID",
-            "66-169-14-129.dhcp.spbg.sc.charter.com": "INVALID",
-            "66-169-14-199.dhcp.spbg.sc.charter.com": "INVALID"
-        },
-        "1571351449": {
-            "66-169-14-242.dhcp.spbg.sc.charter.com": "INVALID",
-            "66-169-15-185.dhcp.spbg.sc.charter.com": "INVALID",
-            "66-169-151-219.dhcp.ftwo.tx.charter.com": "INVALID",
-            "66-169-39-223.dhcp.gnvl.sc.charter.com": "INVALID",
-            "66-169-41-127.dhcp.gnvl.sc.charter.com": "INVALID",
-            "66-169-42-244.dhcp.gnvl.sc.charter.com": "INVALID",
-            "66-169-46-238.dhcp.gnvl.sc.charter.com": "INVALID",
-            "66-169-8-250.dhcp.spbg.sc.charter.com": "INVALID",
-            "66-178-43-201.reverse.newskies.net": "INVALID",
-            "66-188-75-140.dhcp.athn.ga.charter.com": "INVALID",
-            "66-189-105-253.dhcp.oxfr.ma.charter.com": "INVALID"
-        },
-        "1571351450": {
-            "66-189-246-99.dhcp.lgrn.ga.charter.com": "INVALID",
-            "66-189-64-104.dhcp.oxfr.ma.charter.com": "INVALID",
-            "66-189-65-31.dhcp.oxfr.ma.charter.com": "INVALID",
-            "66-189-69-11.dhcp.oxfr.ma.charter.com": "INVALID",
-            "66-190-175-221.dhcp.thtn.ga.charter.com": "INVALID",
-            "66-190-204-31.dhcp.thbd.la.charter.com": "INVALID",
-            "66-190-222-91.dhcp.slid.la.charter.com": "INVALID",
-            "66-191-161-225.dhcp.gnvl.sc.charter.com": "INVALID",
-            "66-191-162-186.dhcp.gnvl.sc.charter.com": "INVALID",
-            "66-191-165-173.dhcp.gnvl.sc.charter.com": "INVALID",
-            "66-191-17-8.dhcp.rsbg.or.charter.com": "INVALID",
-            "66-191-194-173.dhcp.spbg.sc.charter.com": "INVALID",
-            "66-191-228-245.dhcp.kgpt.tn.charter.com": "INVALID"
-        },
-        "1571351451": {
-            "66-191-231-240.dhcp.kgpt.tn.charter.com": "INVALID",
-            "66-191-232-147.dhcp.kgpt.tn.charter.com": "INVALID",
-            "66-191-234-83.dhcp.kgpt.tn.charter.com": "INVALID",
-            "66-191-248-17.dhcp.kgpt.tn.charter.com": "INVALID",
-            "66-191-249-167.dhcp.kgpt.tn.charter.com": "INVALID",
-            "66-191-95-148.dhcp.stpt.wi.charter.com": "INVALID",
-            "66-194-168-122.static.twtelecom.net": "INVALID"
-        },
-        "1571351452": {
-            "66-200-117-220.client.dsl.net": "INVALID",
-            "66-214-1-81.dhcp.lnbh.ca.charter.com": "INVALID",
-            "66-214-112-95.dhcp.hspr.ca.charter.com": "INVALID",
-            "66-214-116-46.dhcp.hspr.ca.charter.com": "INVALID",
-            "66-215-113-140.dhcp.snlo.ca.charter.com": "INVALID",
-            "66-215-161-155.dhcp.rvsd.ca.charter.com": "INVALID",
-            "66-215-203-53.dhcp.rvsd.ca.charter.com": "INVALID",
-            "66-215-247-101.dhcp.rvsd.ca.charter.com": "INVALID",
-            "66-215-38-191.dhcp.hspr.ca.charter.com": "INVALID",
-            "66-215-61-24.dhcp.atsc.ca.charter.com": "INVALID",
-            "66-215-61-247.dhcp.atsc.ca.charter.com": "INVALID"
-        },
-        "1571351453": {
-            "66-215-86-103.dhcp.psdn.ca.charter.com": "INVALID",
-            "66-215-92-157.dhcp.psdn.ca.charter.com": "INVALID",
-            "66-215-93-135.dhcp.psdn.ca.charter.com": "INVALID",
-            "66-226-75-10.dedicated.abac.net": "INVALID",
-            "66-231-194-106.oxfordnetworks.net": "INVALID",
-            "66-38-113-90.pool.dsl.nctc.com": "INVALID",
-            "66-38-116-134.pool.dsl.nctc.com": "INVALID",
-            "66-50-23-1.prtc.net": "INVALID",
-            "66-50-23-30.prtc.net": "INVALID"
-        },
         "1571351454": {
             "6.hidemyass.com": "INVALID",
-            "6.jsdx3.crsky.com": "INVALID",
-            "66-50-4-143.prtc.net": "INVALID",
-            "66-50-83-12.prtc.net": "INVALID",
-            "66-50-83-15.prtc.net": "INVALID"
+            "6.jsdx3.crsky.com": "INVALID"
         },
         "1571351455": {
             "6.scdx3.crsky.com": "INVALID",
@@ -10994,6 +10870,308 @@
         },
         "1571503445": {
             "64-91-23-247.dyn.centurytel.net": "INACTIVE"
+        },
+        "1571504060": {
+            "64-91-23-251.dyn.centurytel.net": "INACTIVE"
+        },
+        "1571504066": {
+            "64-91-64-21.stat.centurytel.net": "INACTIVE"
+        },
+        "1571504073": {
+            "64.red-88-31-85.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1571504079": {
+            "64.sub-166-144-132.myvzw.com": "INACTIVE"
+        },
+        "1571504085": {
+            "64.sub-70-197-239.myvzw.com": "INACTIVE"
+        },
+        "1571504092": {
+            "64.sub-75-197-244.myvzw.com": "INACTIVE"
+        },
+        "1571504098": {
+            "65-101-17-156.phnx.qwest.net": "INACTIVE"
+        },
+        "1571504104": {
+            "65.105.167.227.ptr.us.xo.net": "INACTIVE"
+        },
+        "1571504110": {
+            "65-111-127-213.dyn.grandenetworks.net": "INACTIVE"
+        },
+        "1571504111": {
+            "65.142-241-81.adsl-dyn.isp.belgacom.be": "INACTIVE"
+        },
+        "1571504117": {
+            "65.27.34.95.customer.cdi.no": "INACTIVE"
+        },
+        "1571504124": {
+            "6532108hfc240.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1571504130": {
+            "6532200hfc210.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1571504136": {
+            "6532217hfc120.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1571504142": {
+            "653271hfc241.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1571504148": {
+            "653273hfc115.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1571504154": {
+            "653279hfc82.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1571504161": {
+            "653280hfc130.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1571504167": {
+            "65-73-153-26.nas1.hnv.mi.frontiernet.net": "INACTIVE"
+        },
+        "1571504173": {
+            "65-73-67-187.nas1.thk.wi.frontiernet.net": "INACTIVE"
+        },
+        "1571504180": {
+            "65.81-166-200.customer.lyse.net": "INACTIVE"
+        },
+        "1571504186": {
+            "65.sub-97-144-19.myvzw.com": "INACTIVE"
+        },
+        "1571504192": {
+            "65.sub-97-52-214.myvzw.com": "INACTIVE"
+        },
+        "1571504198": {
+            "66-162-43-72.static.twtelecom.net": "INACTIVE"
+        },
+        "1571504204": {
+            "66-168-156-63.dhcp.jcsn.tn.charter.com": "INACTIVE"
+        },
+        "1571504211": {
+            "66-168-157-254.dhcp.jcsn.tn.charter.com": "INACTIVE"
+        },
+        "1571504217": {
+            "66-168-182-102.dhcp.clmb.ga.charter.com": "INACTIVE"
+        },
+        "1571504223": {
+            "66-168-189-236.dhcp.gwnt.ga.charter.com": "INACTIVE"
+        },
+        "1571504229": {
+            "66-168-194-22.dhcp.gsvl.ga.charter.com": "INACTIVE",
+            "66-168-254-34.dhcp.mtgm.al.charter.com": "INACTIVE"
+        },
+        "1571504235": {
+            "66-168-80-29.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1571504241": {
+            "66-169-109-219.dhcp.ftwo.tx.charter.com": "INACTIVE"
+        },
+        "1571504248": {
+            "66-169-110-103.dhcp.ftwo.tx.charter.com": "INACTIVE"
+        },
+        "1571504249": {
+            "66-169-110-132.dhcp.ftwo.tx.charter.com": "INACTIVE"
+        },
+        "1571504255": {
+            "66-169-121-214.dhcp.ftwo.tx.charter.com": "INACTIVE"
+        },
+        "1571504261": {
+            "66-169-12-129.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1571504267": {
+            "66-169-12-206.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1571504273": {
+            "66-169-12-219.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1571504279": {
+            "66-169-13-149.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1571504286": {
+            "66-169-13-178.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1571504292": {
+            "66-169-13-214.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1571504298": {
+            "66-169-13-231.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1571504304": {
+            "66-169-13-240.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1571504310": {
+            "66-169-13-245.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1571504316": {
+            "66-169-139-189.dhcp.ftwo.tx.charter.com": "INACTIVE"
+        },
+        "1571504322": {
+            "66-169-14-127.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1571504328": {
+            "66-169-14-129.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1571504335": {
+            "66-169-14-199.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1571504341": {
+            "66-169-14-242.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1571504342": {
+            "66-169-151-219.dhcp.ftwo.tx.charter.com": "INACTIVE"
+        },
+        "1571504348": {
+            "66-169-15-185.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1571504354": {
+            "66-169-39-223.dhcp.gnvl.sc.charter.com": "INACTIVE"
+        },
+        "1571504360": {
+            "66-169-41-127.dhcp.gnvl.sc.charter.com": "INACTIVE"
+        },
+        "1571504366": {
+            "66-169-42-244.dhcp.gnvl.sc.charter.com": "INACTIVE"
+        },
+        "1571504368": {
+            "66-169-46-238.dhcp.gnvl.sc.charter.com": "INACTIVE"
+        },
+        "1571504374": {
+            "66-169-8-250.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1571504380": {
+            "66-178-43-201.reverse.newskies.net": "INACTIVE"
+        },
+        "1571504386": {
+            "66-188-75-140.dhcp.athn.ga.charter.com": "INACTIVE"
+        },
+        "1571504392": {
+            "66-189-105-253.dhcp.oxfr.ma.charter.com": "INACTIVE"
+        },
+        "1571504398": {
+            "66-189-246-99.dhcp.lgrn.ga.charter.com": "INACTIVE"
+        },
+        "1571504405": {
+            "66-189-64-104.dhcp.oxfr.ma.charter.com": "INACTIVE"
+        },
+        "1571504411": {
+            "66-189-65-31.dhcp.oxfr.ma.charter.com": "INACTIVE"
+        },
+        "1571504417": {
+            "66-189-69-11.dhcp.oxfr.ma.charter.com": "INACTIVE"
+        },
+        "1571504423": {
+            "66-190-175-221.dhcp.thtn.ga.charter.com": "INACTIVE"
+        },
+        "1571504429": {
+            "66-190-204-31.dhcp.thbd.la.charter.com": "INACTIVE"
+        },
+        "1571504435": {
+            "66-190-222-91.dhcp.slid.la.charter.com": "INACTIVE"
+        },
+        "1571504441": {
+            "66-191-161-225.dhcp.gnvl.sc.charter.com": "INACTIVE"
+        },
+        "1571504448": {
+            "66-191-162-186.dhcp.gnvl.sc.charter.com": "INACTIVE"
+        },
+        "1571504454": {
+            "66-191-165-173.dhcp.gnvl.sc.charter.com": "INACTIVE"
+        },
+        "1571504460": {
+            "66-191-17-8.dhcp.rsbg.or.charter.com": "INACTIVE"
+        },
+        "1571504466": {
+            "66-191-194-173.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1571504472": {
+            "66-191-228-245.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1571504478": {
+            "66-191-231-240.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1571504484": {
+            "66-191-232-147.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1571504490": {
+            "66-191-234-83.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1571504497": {
+            "66-191-248-17.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1571504503": {
+            "66-191-249-167.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1571504509": {
+            "66-191-95-148.dhcp.stpt.wi.charter.com": "INACTIVE"
+        },
+        "1571504515": {
+            "66-194-168-122.static.twtelecom.net": "INACTIVE"
+        },
+        "1571504524": {
+            "66-200-117-220.client.dsl.net": "INACTIVE"
+        },
+        "1571504530": {
+            "66-214-112-95.dhcp.hspr.ca.charter.com": "INACTIVE",
+            "66-214-116-46.dhcp.hspr.ca.charter.com": "INACTIVE"
+        },
+        "1571504537": {
+            "66-214-1-81.dhcp.lnbh.ca.charter.com": "INACTIVE"
+        },
+        "1571504543": {
+            "66-215-113-140.dhcp.snlo.ca.charter.com": "INACTIVE"
+        },
+        "1571504549": {
+            "66-215-161-155.dhcp.rvsd.ca.charter.com": "INACTIVE"
+        },
+        "1571504555": {
+            "66-215-203-53.dhcp.rvsd.ca.charter.com": "INACTIVE"
+        },
+        "1571504561": {
+            "66-215-247-101.dhcp.rvsd.ca.charter.com": "INACTIVE"
+        },
+        "1571504567": {
+            "66-215-38-191.dhcp.hspr.ca.charter.com": "INACTIVE"
+        },
+        "1571504573": {
+            "66-215-61-247.dhcp.atsc.ca.charter.com": "INACTIVE"
+        },
+        "1571504580": {
+            "66-215-61-24.dhcp.atsc.ca.charter.com": "INACTIVE"
+        },
+        "1571504586": {
+            "66-215-86-103.dhcp.psdn.ca.charter.com": "INACTIVE"
+        },
+        "1571504592": {
+            "66-215-92-157.dhcp.psdn.ca.charter.com": "INACTIVE"
+        },
+        "1571504598": {
+            "66-215-93-135.dhcp.psdn.ca.charter.com": "INACTIVE"
+        },
+        "1571504604": {
+            "66-226-75-10.dedicated.abac.net": "INACTIVE"
+        },
+        "1571504610": {
+            "66-231-194-106.oxfordnetworks.net": "INACTIVE"
+        },
+        "1571504617": {
+            "66-38-113-90.pool.dsl.nctc.com": "INACTIVE"
+        },
+        "1571504623": {
+            "66-38-116-134.pool.dsl.nctc.com": "INACTIVE"
+        },
+        "1571504629": {
+            "66-50-23-1.prtc.net": "INACTIVE"
+        },
+        "1571504635": {
+            "66-50-23-30.prtc.net": "INACTIVE"
+        },
+        "1571504641": {
+            "66-50-4-143.prtc.net": "INACTIVE"
+        },
+        "1571504648": {
+            "66-50-83-12.prtc.net": "INACTIVE"
+        },
+        "1571504654": {
+            "66-50-83-15.prtc.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
