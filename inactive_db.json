@@ -1,137 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1571349184": {
-            "201-42-168-252.dsl.telesp.net.br": "INVALID",
-            "201-42-169-191.dsl.telesp.net.br": "INVALID",
-            "201-42-170-3.dsl.telesp.net.br": "INVALID",
-            "201-42-170-9.dsl.telesp.net.br": "INVALID",
-            "201-42-172-148.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349185": {
-            "201-42-172-247.dsl.telesp.net.br": "INVALID",
-            "201-42-172-99.dsl.telesp.net.br": "INVALID",
-            "201-42-173-124.dsl.telesp.net.br": "INVALID",
-            "201-42-173-41.dsl.telesp.net.br": "INVALID",
-            "201-42-173-51.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349186": {
-            "201-42-173-7.dsl.telesp.net.br": "INVALID",
-            "201-42-173-76.dsl.telesp.net.br": "INVALID",
-            "201-42-174-57.dsl.telesp.net.br": "INVALID",
-            "201-42-174-96.dsl.telesp.net.br": "INVALID",
-            "201-42-175-138.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349187": {
-            "201-42-193-207.dsl.telesp.net.br": "INVALID",
-            "201-42-197-38.dsl.telesp.net.br": "INVALID",
-            "201-42-211-135.dsl.telesp.net.br": "INVALID",
-            "201-42-212-225.dsl.telesp.net.br": "INVALID",
-            "201-42-212-7.dsl.telesp.net.br": "INVALID",
-            "201-42-213-119.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349188": {
-            "201-42-214-227.dsl.telesp.net.br": "INVALID",
-            "201-42-214-66.dsl.telesp.net.br": "INVALID",
-            "201-42-22-230.dsl.telesp.net.br": "INVALID",
-            "201-42-31-69.dsl.telesp.net.br": "INVALID",
-            "201-42-53-189.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349189": {
-            "201-42-71-118.dsl.telesp.net.br": "INVALID",
-            "201-42-71-81.dsl.telesp.net.br": "INVALID",
-            "201-42-8-226.dsl.telesp.net.br": "INVALID",
-            "201-42-86-1.dsl.telesp.net.br": "INVALID",
-            "201-42-9-21.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349190": {
-            "201-43-10-233.dsl.telesp.net.br": "INVALID",
-            "201-43-11-172.dsl.telesp.net.br": "INVALID",
-            "201-43-111-124.dsl.telesp.net.br": "INVALID",
-            "201-43-120-128.dsl.telesp.net.br": "INVALID",
-            "201-43-120-66.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349191": {
-            "201-43-12-14.dsl.telesp.net.br": "INVALID",
-            "201-43-12-192.dsl.telesp.net.br": "INVALID",
-            "201-43-122-168.dsl.telesp.net.br": "INVALID",
-            "201-43-122-250.dsl.telesp.net.br": "INVALID",
-            "201-43-122-93.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349192": {
-            "201-43-12-39.dsl.telesp.net.br": "INVALID",
-            "201-43-123-33.dsl.telesp.net.br": "INVALID",
-            "201-43-123-52.dsl.telesp.net.br": "INVALID",
-            "201-43-124-81.dsl.telesp.net.br": "INVALID",
-            "201-43-125-64.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349193": {
-            "201-43-12-97.dsl.telesp.net.br": "INVALID",
-            "201-43-125-92.dsl.telesp.net.br": "INVALID",
-            "201-43-129-196.dsl.telesp.net.br": "INVALID",
-            "201-43-13-165.dsl.telesp.net.br": "INVALID",
-            "201-43-132-30.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349194": {
-            "201-43-162-16.dsl.telesp.net.br": "INVALID",
-            "201-43-165-97.dsl.telesp.net.br": "INVALID",
-            "201-43-166-11.dsl.telesp.net.br": "INVALID",
-            "201-43-167-233.dsl.telesp.net.br": "INVALID",
-            "201-43-167-45.dsl.telesp.net.br": "INVALID",
-            "201-43-168-233.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349195": {
-            "201-43-177-225.dsl.telesp.net.br": "INVALID",
-            "201-43-180-13.dsl.telesp.net.br": "INVALID",
-            "201-43-180-65.dsl.telesp.net.br": "INVALID",
-            "201-43-200-170.dsl.telesp.net.br": "INVALID",
-            "201-43-206-129.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349196": {
-            "201-43-207-150.dsl.telesp.net.br": "INVALID",
-            "201-43-207-203.dsl.telesp.net.br": "INVALID",
-            "201-43-208-128.dsl.telesp.net.br": "INVALID",
-            "201-43-208-177.dsl.telesp.net.br": "INVALID",
-            "201-43-213-121.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349197": {
-            "201-43-213-72.dsl.telesp.net.br": "INVALID",
-            "201-43-213-84.dsl.telesp.net.br": "INVALID",
-            "201-43-30-75.dsl.telesp.net.br": "INVALID",
-            "201-43-34-230.dsl.telesp.net.br": "INVALID",
-            "201-43-36-57.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349198": {
-            "201-43-37-139.dsl.telesp.net.br": "INVALID",
-            "201-43-48-163.dsl.telesp.net.br": "INVALID",
-            "201-43-48-78.dsl.telesp.net.br": "INVALID",
-            "201-43-49-197.dsl.telesp.net.br": "INVALID",
-            "201-43-60-52.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349199": {
-            "201-43-6-117.dsl.telesp.net.br": "INVALID",
-            "201-43-65-242.dsl.telesp.net.br": "INVALID",
-            "201-43-66-215.dsl.telesp.net.br": "INVALID",
-            "201-43-67-12.dsl.telesp.net.br": "INVALID",
-            "201-43-71-7.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349200": {
-            "201-43-8-187.dsl.telesp.net.br": "INVALID",
-            "201-43-83-152.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349202": {
-            "201-43-9-184.dsl.telesp.net.br": "INVALID",
-            "201-43-9-208.dsl.telesp.net.br": "INVALID",
-            "201-43-93-194.dsl.telesp.net.br": "INVALID",
-            "201-43-94-164.dsl.telesp.net.br": "INVALID"
-        },
-        "1571349203": {
-            "201-43-94-97.dsl.telesp.net.br": "INVALID",
-            "201-43-99-30.dsl.telesp.net.br": "INVALID",
-            "201.52.189.109.customer.cdi.no": "INVALID"
-        },
         "1571349204": {
-            "201-54-86-141.sercomtel.com.br": "INVALID",
-            "201-54-98-70.sercomtel.com.br": "INVALID",
             "201-68-0-237.dsl.telesp.net.br": "INVALID",
             "201-68-108-202.dsl.telesp.net.br": "INVALID",
             "201-68-109-220.dsl.telesp.net.br": "INVALID"
@@ -8350,6 +8219,282 @@
         },
         "1571481008": {
             "201-42-168-1.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481167": {
+            "201-42-168-252.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481173": {
+            "201-42-169-191.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481179": {
+            "201-42-170-3.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481186": {
+            "201-42-170-9.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481192": {
+            "201-42-172-148.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481199": {
+            "201-42-172-247.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481205": {
+            "201-42-172-99.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481211": {
+            "201-42-173-124.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481218": {
+            "201-42-173-41.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481224": {
+            "201-42-173-51.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481230": {
+            "201-42-173-76.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481237": {
+            "201-42-173-7.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481243": {
+            "201-42-174-57.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481250": {
+            "201-42-174-96.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481256": {
+            "201-42-175-138.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481262": {
+            "201-42-193-207.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481269": {
+            "201-42-197-38.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481275": {
+            "201-42-211-135.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481281": {
+            "201-42-212-225.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481288": {
+            "201-42-212-7.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481294": {
+            "201-42-213-119.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481301": {
+            "201-42-214-227.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481307": {
+            "201-42-214-66.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481313": {
+            "201-42-22-230.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481320": {
+            "201-42-31-69.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481326": {
+            "201-42-53-189.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481333": {
+            "201-42-71-118.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481339": {
+            "201-42-71-81.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481345": {
+            "201-42-8-226.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481354": {
+            "201-42-86-1.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481360": {
+            "201-42-9-21.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481366": {
+            "201-43-10-233.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481373": {
+            "201-43-111-124.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481379": {
+            "201-43-11-172.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481386": {
+            "201-43-120-128.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481392": {
+            "201-43-120-66.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481398": {
+            "201-43-12-14.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481407": {
+            "201-43-12-192.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481413": {
+            "201-43-122-168.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481422": {
+            "201-43-122-250.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481428": {
+            "201-43-122-93.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481434": {
+            "201-43-123-33.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481441": {
+            "201-43-123-52.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481447": {
+            "201-43-12-39.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481453": {
+            "201-43-124-81.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481460": {
+            "201-43-125-64.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481466": {
+            "201-43-125-92.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481473": {
+            "201-43-129-196.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481479": {
+            "201-43-12-97.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481485": {
+            "201-43-13-165.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481494": {
+            "201-43-132-30.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481500": {
+            "201-43-162-16.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481506": {
+            "201-43-165-97.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481513": {
+            "201-43-166-11.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481519": {
+            "201-43-167-233.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481526": {
+            "201-43-167-45.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481532": {
+            "201-43-168-233.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481539": {
+            "201-43-177-225.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481545": {
+            "201-43-180-13.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481552": {
+            "201-43-180-65.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481558": {
+            "201-43-200-170.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481564": {
+            "201-43-206-129.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481571": {
+            "201-43-207-150.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481577": {
+            "201-43-207-203.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481584": {
+            "201-43-208-128.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481590": {
+            "201-43-208-177.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481596": {
+            "201-43-213-121.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481603": {
+            "201-43-213-72.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481609": {
+            "201-43-213-84.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481615": {
+            "201-43-30-75.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481622": {
+            "201-43-34-230.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481628": {
+            "201-43-36-57.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481635": {
+            "201-43-37-139.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481641": {
+            "201-43-48-163.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481648": {
+            "201-43-48-78.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481654": {
+            "201-43-49-197.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481660": {
+            "201-43-60-52.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481667": {
+            "201-43-6-117.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481673": {
+            "201-43-65-242.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481679": {
+            "201-43-66-215.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481686": {
+            "201-43-67-12.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481692": {
+            "201-43-71-7.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481699": {
+            "201-43-8-187.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481705": {
+            "201-43-83-152.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481711": {
+            "201-43-9-184.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481718": {
+            "201-43-9-208.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481724": {
+            "201-43-93-194.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481733": {
+            "201-43-94-164.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481739": {
+            "201-43-94-97.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481745": {
+            "201-43-99-30.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571481752": {
+            "201.52.189.109.customer.cdi.no": "INACTIVE"
+        },
+        "1571481759": {
+            "201-54-98-70.sercomtel.com.br": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
