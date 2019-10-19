@@ -1,163 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1571351412": {
-            "62.42.38.52.dyn.user.ono.com": "INVALID",
-            "62.42.94.146.dyn.user.ono.com": "INVALID"
-        },
-        "1571351413": {
-            "6-242.97-97.tampabay.res.rr.com": "INVALID",
-            "62.43.110.196.dyn.user.ono.com": "INVALID",
-            "62.43.121.152.dyn.user.ono.com": "INVALID",
-            "62.43.227.213.static.user.ono.com": "INVALID"
-        },
-        "1571351414": {
-            "62-47-11-206.adsl.highway.telekom.at": "INVALID",
-            "62-47-12-140.adsl.highway.telekom.at": "INVALID",
-            "62-47-13-64.adsl.highway.telekom.at": "INVALID"
-        },
-        "1571351415": {
-            "62-47-14-112.adsl.highway.telekom.at": "INVALID",
-            "62-47-16-150.adsl.highway.telekom.at": "INVALID",
-            "62-47-17-161.adsl.highway.telekom.at": "INVALID"
-        },
-        "1571351416": {
-            "62-47-19-226.adsl.highway.telekom.at": "INVALID",
-            "62-47-193-222.adsl.highway.telekom.at": "INVALID",
-            "62-47-2-106.adsl.highway.telekom.at": "INVALID",
-            "62-47-210-47.adsl.highway.telekom.at": "INVALID"
-        },
-        "1571351417": {
-            "62-47-21-119.adsl.highway.telekom.at": "INVALID",
-            "62-47-21-82.adsl.highway.telekom.at": "INVALID",
-            "62-47-223-124.adsl.highway.telekom.at": "INVALID"
-        },
-        "1571351418": {
-            "62-47-24-94.adsl.highway.telekom.at": "INVALID",
-            "62-47-28-164.adsl.highway.telekom.at": "INVALID",
-            "62-47-30-250.adsl.highway.telekom.at": "INVALID",
-            "62-47-30-48.adsl.highway.telekom.at": "INVALID"
-        },
-        "1571351419": {
-            "6-24.dedicado.com.uy": "INVALID",
-            "62-47-4-153.adsl.highway.telekom.at": "INVALID",
-            "62-47-4-182.adsl.highway.telekom.at": "INVALID"
-        },
-        "1571351420": {
-            "62.57.11.198.dyn.user.ono.com": "INVALID",
-            "62.57.177.11.dyn.user.ono.com": "INVALID",
-            "62.57.177.188.dyn.user.ono.com": "INVALID",
-            "62.57.213.163.dyn.user.ono.com": "INVALID"
-        },
-        "1571351421": {
-            "62.57.213.254.dyn.user.ono.com": "INVALID",
-            "62.57.213.68.dyn.user.ono.com": "INVALID",
-            "62.57.22.141.dyn.user.ono.com": "INVALID"
-        },
-        "1571351422": {
-            "62.57.239.86.dyn.user.ono.com": "INVALID",
-            "62.57.249.155.dyn.user.ono.com": "INVALID",
-            "62.57.56.29.dyn.user.ono.com": "INVALID",
-            "62.57.58.75.dyn.user.ono.com": "INVALID"
-        },
-        "1571351423": {
-            "62.57.59.7.dyn.user.ono.com": "INVALID",
-            "62.57.61.115.dyn.user.ono.com": "INVALID",
-            "62.57.9.152.dyn.user.ono.com": "INVALID"
-        },
-        "1571351424": {
-            "62.57.9.245.dyn.user.ono.com": "INVALID",
-            "62.57.96.148.dyn.user.ono.com": "INVALID",
-            "62.57.96.210.dyn.user.ono.com": "INVALID"
-        },
-        "1571351425": {
-            "62.57.96.88.dyn.user.ono.com": "INVALID",
-            "62.65.196.160.cable.starman.ee": "INVALID",
-            "62.65.196.206.cable.starman.ee": "INVALID",
-            "62.65.196.219.cable.starman.ee": "INVALID"
-        },
-        "1571351426": {
-            "62.65.199.69.cable.starman.ee": "INVALID",
-            "62.65.211.64.cable.starman.ee": "INVALID",
-            "62.65.225.164.cable.starman.ee": "INVALID"
-        },
-        "1571351427": {
-            "62.65.242.248.cable.starman.ee": "INVALID",
-            "62.65.243.210.cable.starman.ee": "INVALID",
-            "62.65.243.242.cable.starman.ee": "INVALID"
-        },
-        "1571351428": {
-            "62-87-110-99.red-acceso.airtel.net": "INVALID",
-            "62-87-43-223.red-acceso.airtel.net": "INVALID",
-            "62-87-78-97.red-acceso.airtel.net": "INVALID",
-            "62.65.243.45.cable.starman.ee": "INVALID"
-        },
-        "1571351429": {
-            "62-87-80-170.red-acceso.airtel.net": "INVALID",
-            "62-90-166-231.barak.net.il": "INVALID"
-        },
-        "1571351437": {
-            "62.red-88-31-53.staticip.rima-tde.net": "INVALID",
-            "62.sub-75-210-98.myvzw.com": "INVALID",
-            "62nds.com": "INVALID",
-            "63-150-121-24.dia.static.qwest.net": "INVALID",
-            "63-206-124-91.pool.ukrtel.net": "INVALID"
-        },
-        "1571351438": {
-            "63-228-205-205.slkc.qwest.net": "INVALID",
-            "63.sub-70-214-92.myvzw.com": "INVALID",
-            "63.sub-70-221-12.myvzw.com": "INVALID",
-            "63.sub-75-203-233.myvzw.com": "INVALID",
-            "633642.parkingcrew.net": "INVALID",
-            "63page.ws": "INVALID",
-            "64-118-14-216.fergus.prtel.com": "INVALID",
-            "64-126-77-2.dyn.everestkc.net": "INVALID",
-            "64-130-164-248.pool.dsl.scrtc.com": "INVALID"
-        },
-        "1571351439": {
-            "64-130-191-237.pool.dsl.scrtc.com": "INVALID",
-            "64-132-156-50.static.twtelecom.net": "INVALID",
-            "64-148-8-229.adsl.snet.net": "INVALID",
-            "64-175-137-108.abps.org": "INVALID",
-            "64-203-147-202.dmt.ntelos.net": "INVALID",
-            "64.136.61.200.host.ifxnw.com.ar": "INVALID"
-        },
-        "1571351440": {
-            "64-203-180-92.sher.dmt.ntelos.net": "INVALID",
-            "64-249-80-91.client.dsl.net": "INVALID",
-            "64-252-187-159.adsl.snet.net": "INVALID",
-            "64-252-48-179.adsl.snet.net": "INVALID",
-            "64.203.214.138.dyn-cm-pool-51.pool.hargray.net": "INVALID",
-            "64.221.27.156.ptr.us.xo.net": "INVALID"
-        },
-        "1571351441": {
-            "64-252-51-200.adsl.snet.net": "INVALID",
-            "64-46-23-76.dyn.novuscom.net": "INVALID",
-            "64.3.161.216.ptr.us.xo.net": "INVALID",
-            "64.50.10.72.ptr.us.xo.net": "INVALID",
-            "64.50.63.198.ptr.us.xo.net": "INVALID",
-            "64.50.63.29.ptr.us.xo.net": "INVALID",
-            "647800.ds.nac.net": "INVALID"
-        },
-        "1571351442": {
-            "64-8-218-21.client.dsl.net": "INVALID",
-            "64-91-14-112.dyn.centurytel.net": "INVALID",
-            "64-91-14-116.dyn.centurytel.net": "INVALID",
-            "64-91-23-142.dyn.centurytel.net": "INVALID",
-            "64-91-23-144.dyn.centurytel.net": "INVALID",
-            "64-91-23-150.dyn.centurytel.net": "INVALID",
-            "64-91-23-156.dyn.centurytel.net": "INVALID",
-            "64-91-23-185.dyn.centurytel.net": "INVALID",
-            "64.89.75.9.nw.nuvox.net": "INVALID",
-            "64.89.76.24.nw.nuvox.net": "INVALID"
-        },
         "1571351443": {
-            "64-91-23-187.dyn.centurytel.net": "INVALID",
-            "64-91-23-191.dyn.centurytel.net": "INVALID",
-            "64-91-23-204.dyn.centurytel.net": "INVALID",
-            "64-91-23-229.dyn.centurytel.net": "INVALID",
-            "64-91-23-240.dyn.centurytel.net": "INVALID",
-            "64-91-23-246.dyn.centurytel.net": "INVALID",
-            "64-91-23-247.dyn.centurytel.net": "INVALID",
             "64-91-23-251.dyn.centurytel.net": "INVALID",
             "64-91-64-21.stat.centurytel.net": "INVALID",
             "64.red-88-31-85.staticip.rima-tde.net": "INVALID",
@@ -10846,6 +10689,311 @@
         },
         "1571502533": {
             "62.42.3.59.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571502843": {
+            "62.42.38.52.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571502850": {
+            "62.42.94.146.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571502856": {
+            "6-242.97-97.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1571502862": {
+            "62.43.110.196.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571502869": {
+            "62.43.121.152.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571502875": {
+            "62.43.227.213.static.user.ono.com": "INACTIVE"
+        },
+        "1571502882": {
+            "62-47-11-206.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502889": {
+            "62-47-12-140.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502895": {
+            "62-47-13-64.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502896": {
+            "62-47-14-112.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502897": {
+            "62-47-16-150.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502903": {
+            "62-47-17-161.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502910": {
+            "62-47-19-226.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502916": {
+            "62-47-193-222.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502917": {
+            "62-47-210-47.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502923": {
+            "62-47-2-106.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502930": {
+            "62-47-21-119.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502937": {
+            "62-47-21-82.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502943": {
+            "62-47-223-124.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502950": {
+            "62-47-24-94.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502956": {
+            "62-47-28-164.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502957": {
+            "62-47-30-250.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502964": {
+            "62-47-30-48.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502970": {
+            "62-47-4-153.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502977": {
+            "62-47-4-182.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1571502983": {
+            "6-24.dedicado.com.uy": "INACTIVE"
+        },
+        "1571502984": {
+            "62.57.11.198.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571502990": {
+            "62.57.177.11.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571502997": {
+            "62.57.177.188.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571502998": {
+            "62.57.213.163.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571503004": {
+            "62.57.213.254.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571503011": {
+            "62.57.213.68.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571503012": {
+            "62.57.22.141.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571503018": {
+            "62.57.239.86.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571503025": {
+            "62.57.249.155.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571503031": {
+            "62.57.56.29.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571503038": {
+            "62.57.58.75.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571503044": {
+            "62.57.59.7.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571503051": {
+            "62.57.61.115.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571503058": {
+            "62.57.9.245.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571503059": {
+            "62.57.96.148.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571503066": {
+            "62.57.96.210.dyn.user.ono.com": "INACTIVE",
+            "62.57.96.88.dyn.user.ono.com": "INACTIVE"
+        },
+        "1571503073": {
+            "62.65.196.160.cable.starman.ee": "INACTIVE"
+        },
+        "1571503080": {
+            "62.65.196.206.cable.starman.ee": "INACTIVE"
+        },
+        "1571503086": {
+            "62.65.196.219.cable.starman.ee": "INACTIVE"
+        },
+        "1571503093": {
+            "62.65.199.69.cable.starman.ee": "INACTIVE"
+        },
+        "1571503099": {
+            "62.65.211.64.cable.starman.ee": "INACTIVE"
+        },
+        "1571503106": {
+            "62.65.225.164.cable.starman.ee": "INACTIVE"
+        },
+        "1571503112": {
+            "62.65.242.248.cable.starman.ee": "INACTIVE"
+        },
+        "1571503119": {
+            "62.65.243.210.cable.starman.ee": "INACTIVE"
+        },
+        "1571503126": {
+            "62.65.243.242.cable.starman.ee": "INACTIVE"
+        },
+        "1571503132": {
+            "62.65.243.45.cable.starman.ee": "INACTIVE"
+        },
+        "1571503139": {
+            "62-87-110-99.red-acceso.airtel.net": "INACTIVE"
+        },
+        "1571503145": {
+            "62-87-43-223.red-acceso.airtel.net": "INACTIVE"
+        },
+        "1571503152": {
+            "62-87-78-97.red-acceso.airtel.net": "INACTIVE"
+        },
+        "1571503159": {
+            "62-87-80-170.red-acceso.airtel.net": "INACTIVE"
+        },
+        "1571503165": {
+            "62-90-166-231.barak.net.il": "INACTIVE"
+        },
+        "1571503174": {
+            "62.red-88-31-53.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1571503180": {
+            "62.sub-75-210-98.myvzw.com": "INACTIVE"
+        },
+        "1571503187": {
+            "63-150-121-24.dia.static.qwest.net": "INACTIVE"
+        },
+        "1571503193": {
+            "63-206-124-91.pool.ukrtel.net": "INACTIVE"
+        },
+        "1571503199": {
+            "63-228-205-205.slkc.qwest.net": "INACTIVE"
+        },
+        "1571503206": {
+            "63.sub-70-214-92.myvzw.com": "INACTIVE"
+        },
+        "1571503213": {
+            "63.sub-70-221-12.myvzw.com": "INACTIVE"
+        },
+        "1571503219": {
+            "63.sub-75-203-233.myvzw.com": "INACTIVE"
+        },
+        "1571503225": {
+            "64-126-77-2.dyn.everestkc.net": "INACTIVE"
+        },
+        "1571503231": {
+            "64-130-164-248.pool.dsl.scrtc.com": "INACTIVE"
+        },
+        "1571503238": {
+            "64-130-191-237.pool.dsl.scrtc.com": "INACTIVE"
+        },
+        "1571503244": {
+            "64-132-156-50.static.twtelecom.net": "INACTIVE"
+        },
+        "1571503250": {
+            "64.136.61.200.host.ifxnw.com.ar": "INACTIVE"
+        },
+        "1571503256": {
+            "64-148-8-229.adsl.snet.net": "INACTIVE",
+            "64-175-137-108.abps.org": "INACTIVE"
+        },
+        "1571503264": {
+            "64-203-147-202.dmt.ntelos.net": "INACTIVE"
+        },
+        "1571503270": {
+            "64-203-180-92.sher.dmt.ntelos.net": "INACTIVE"
+        },
+        "1571503276": {
+            "64.203.214.138.dyn-cm-pool-51.pool.hargray.net": "INACTIVE"
+        },
+        "1571503282": {
+            "64.221.27.156.ptr.us.xo.net": "INACTIVE"
+        },
+        "1571503291": {
+            "64-249-80-91.client.dsl.net": "INACTIVE"
+        },
+        "1571503297": {
+            "64-252-48-179.adsl.snet.net": "INACTIVE"
+        },
+        "1571503303": {
+            "64-252-51-200.adsl.snet.net": "INACTIVE"
+        },
+        "1571503310": {
+            "64.3.161.216.ptr.us.xo.net": "INACTIVE"
+        },
+        "1571503316": {
+            "64-46-23-76.dyn.novuscom.net": "INACTIVE"
+        },
+        "1571503322": {
+            "64.50.10.72.ptr.us.xo.net": "INACTIVE"
+        },
+        "1571503328": {
+            "64.50.63.198.ptr.us.xo.net": "INACTIVE"
+        },
+        "1571503334": {
+            "64.50.63.29.ptr.us.xo.net": "INACTIVE"
+        },
+        "1571503341": {
+            "647800.ds.nac.net": "INACTIVE"
+        },
+        "1571503347": {
+            "64-8-218-21.client.dsl.net": "INACTIVE"
+        },
+        "1571503353": {
+            "64.89.75.9.nw.nuvox.net": "INACTIVE"
+        },
+        "1571503360": {
+            "64.89.76.24.nw.nuvox.net": "INACTIVE"
+        },
+        "1571503366": {
+            "64-91-14-112.dyn.centurytel.net": "INACTIVE"
+        },
+        "1571503372": {
+            "64-91-14-116.dyn.centurytel.net": "INACTIVE"
+        },
+        "1571503378": {
+            "64-91-23-142.dyn.centurytel.net": "INACTIVE"
+        },
+        "1571503384": {
+            "64-91-23-144.dyn.centurytel.net": "INACTIVE"
+        },
+        "1571503390": {
+            "64-91-23-150.dyn.centurytel.net": "INACTIVE"
+        },
+        "1571503396": {
+            "64-91-23-156.dyn.centurytel.net": "INACTIVE"
+        },
+        "1571503402": {
+            "64-91-23-185.dyn.centurytel.net": "INACTIVE"
+        },
+        "1571503409": {
+            "64-91-23-187.dyn.centurytel.net": "INACTIVE"
+        },
+        "1571503415": {
+            "64-91-23-191.dyn.centurytel.net": "INACTIVE"
+        },
+        "1571503421": {
+            "64-91-23-204.dyn.centurytel.net": "INACTIVE"
+        },
+        "1571503427": {
+            "64-91-23-229.dyn.centurytel.net": "INACTIVE"
+        },
+        "1571503433": {
+            "64-91-23-240.dyn.centurytel.net": "INACTIVE"
+        },
+        "1571503439": {
+            "64-91-23-246.dyn.centurytel.net": "INACTIVE"
+        },
+        "1571503445": {
+            "64-91-23-247.dyn.centurytel.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
