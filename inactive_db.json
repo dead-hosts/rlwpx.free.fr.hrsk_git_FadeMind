@@ -1,154 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1571348907": {
-            "189.202.32.76.cable.dyn.cableonline.com.mx": "INVALID",
-            "189.202.39.14.cable.dyn.cableonline.com.mx": "INVALID",
-            "189.202.40.53.cable.dyn.cableonline.com.mx": "INVALID"
-        },
-        "1571348908": {
-            "189.202.4.126.cable.dyn.cableonline.com.mx": "INVALID",
-            "189.202.41.188.cable.dyn.cableonline.com.mx": "INVALID",
-            "189.202.5.144.cable.dyn.cableonline.com.mx": "INVALID",
-            "189.202.51.14.cable.dyn.cableonline.com.mx": "INVALID",
-            "189.202.56.63.cable.dyn.cableonline.com.mx": "INVALID"
-        },
-        "1571348909": {
-            "189.202.58.152.cable.dyn.cableonline.com.mx": "INVALID",
-            "189.202.67.45.cable.dyn.cableonline.com.mx": "INVALID",
-            "189.202.72.143.cable.dyn.cableonline.com.mx": "INVALID",
-            "189.202.79.157.cable.dyn.cableonline.com.mx": "INVALID",
-            "189.202.8.227.cable.dyn.cableonline.com.mx": "INVALID",
-            "189.202.82.137.cable.dyn.cableonline.com.mx": "INVALID"
-        },
-        "1571348910": {
-            "189.202.82.29.cable.dyn.cableonline.com.mx": "INVALID",
-            "189.202.85.229.cable.dyn.cableonline.com.mx": "INVALID",
-            "189.202.88.20.cable.dyn.cableonline.com.mx": "INVALID",
-            "189.202.97.124.cable.dyn.cableonline.com.mx": "INVALID",
-            "189.202.98.234.cable.dyn.cableonline.com.mx": "INVALID"
-        },
-        "1571348911": {
-            "189-218-231-201.fibertel.com.ar": "INVALID",
-            "189.202.98.235.cable.dyn.cableonline.com.mx": "INVALID",
-            "189.202.98.43.cable.dyn.cableonline.com.mx": "INVALID",
-            "189.202.99.60.cable.dyn.cableonline.com.mx": "INVALID"
-        },
-        "1571348912": {
-            "18.9-245-81.adsl-static.isp.belgacom.be": "INVALID",
-            "189-46-101-19.dsl.telesp.net.br": "INVALID",
-            "189-46-101-24.dsl.telesp.net.br": "INVALID",
-            "189-46-113-47.dsl.telesp.net.br": "INVALID",
-            "189-46-117-234.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348913": {
-            "189-46-118-66.dsl.telesp.net.br": "INVALID",
-            "189-46-119-162.dsl.telesp.net.br": "INVALID",
-            "189-46-119-234.dsl.telesp.net.br": "INVALID",
-            "189-46-119-88.dsl.telesp.net.br": "INVALID",
-            "189-46-121-245.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348914": {
-            "189-46-1-231.dsl.telesp.net.br": "INVALID",
-            "189-46-13-178.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348916": {
-            "189-46-135-243.dsl.telesp.net.br": "INVALID",
-            "189-46-152-206.dsl.telesp.net.br": "INVALID",
-            "189-46-158-79.dsl.telesp.net.br": "INVALID",
-            "189-46-159-95.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348917": {
-            "189-46-172-9.dsl.telesp.net.br": "INVALID",
-            "189-46-173-33.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348919": {
-            "189-46-185-195.dsl.telesp.net.br": "INVALID",
-            "189-46-2-135.dsl.telesp.net.br": "INVALID",
-            "189-46-205-220.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348920": {
-            "189-46-2-193.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348921": {
-            "189-46-221-18.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348923": {
-            "189-46-221-30.dsl.telesp.net.br": "INVALID",
-            "189-46-228-235.dsl.telesp.net.br": "INVALID",
-            "189-46-231-208.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348924": {
-            "189-46-231-210.dsl.telesp.net.br": "INVALID",
-            "189-46-231-230.dsl.telesp.net.br": "INVALID",
-            "189-46-231-239.dsl.telesp.net.br": "INVALID",
-            "189-46-235-251.dsl.telesp.net.br": "INVALID",
-            "189-46-237-243.dsl.telesp.net.br": "INVALID",
-            "189-46-238-144.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348925": {
-            "189-46-238-50.dsl.telesp.net.br": "INVALID",
-            "189-46-238-92.dsl.telesp.net.br": "INVALID",
-            "189-46-239-253.dsl.telesp.net.br": "INVALID",
-            "189-46-240-188.dsl.telesp.net.br": "INVALID",
-            "189-46-241-246.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348926": {
-            "189-46-246-237.dsl.telesp.net.br": "INVALID",
-            "189-46-248-146.dsl.telesp.net.br": "INVALID",
-            "189-46-249-150.dsl.telesp.net.br": "INVALID",
-            "189-46-249-177.dsl.telesp.net.br": "INVALID",
-            "189-46-249-212.dsl.telesp.net.br": "INVALID",
-            "189-46-249-229.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348927": {
-            "189-46-3-156.dsl.telesp.net.br": "INVALID",
-            "189-46-34-129.dsl.telesp.net.br": "INVALID",
-            "189-46-35-5.dsl.telesp.net.br": "INVALID",
-            "189-46-42-13.dsl.telesp.net.br": "INVALID",
-            "189-46-43-76.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348928": {
-            "189-46-48-16.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348930": {
-            "189-46-49-253.dsl.telesp.net.br": "INVALID",
-            "189-46-66-232.dsl.telesp.net.br": "INVALID",
-            "189-46-81-115.dsl.telesp.net.br": "INVALID",
-            "189-46-81-2.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348931": {
-            "189-46-81-75.dsl.telesp.net.br": "INVALID",
-            "189-46-84-33.dsl.telesp.net.br": "INVALID",
-            "189-46-87-233.dsl.telesp.net.br": "INVALID",
-            "189-46-92-208.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348933": {
-            "189-46-93-226.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348935": {
-            "189-46-99-195.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348936": {
-            "189-47-135-3.dsl.telesp.net.br": "INVALID",
-            "189-47-165-119.dsl.telesp.net.br": "INVALID",
-            "189-47-18-11.dsl.telesp.net.br": "INVALID",
-            "189-47-180-65.dsl.telesp.net.br": "INVALID",
-            "189-47-200-60.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348939": {
-            "189-47-203-183.dsl.telesp.net.br": "INVALID"
-        },
-        "1571348941": {
-            "189-47-212-150.dsl.telesp.net.br": "INVALID",
-            "189-47-240-183.dsl.telesp.net.br": "INVALID",
-            "189-47-26-196.dsl.telesp.net.br": "INVALID",
-            "189-47-29-117.dsl.telesp.net.br": "INVALID"
-        },
         "1571348942": {
-            "189-47-30-206.dsl.telesp.net.br": "INVALID",
-            "189-47-31-192.dsl.telesp.net.br": "INVALID",
-            "189-47-63-40.dsl.telesp.net.br": "INVALID",
-            "189-68-128-206.dsl.telesp.net.br": "INVALID",
             "189-68-137-165.dsl.telesp.net.br": "INVALID",
             "189-68-17-88.dsl.telesp.net.br": "INVALID"
         },
@@ -7012,6 +6864,288 @@
         },
         "1571459555": {
             "189.202.30.4.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460585": {
+            "189.202.32.76.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460592": {
+            "189.202.39.14.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460599": {
+            "189.202.40.53.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460605": {
+            "189.202.41.188.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460611": {
+            "189.202.4.126.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460618": {
+            "189.202.51.14.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460624": {
+            "189.202.5.144.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460630": {
+            "189.202.56.63.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460637": {
+            "189.202.58.152.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460643": {
+            "189.202.67.45.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460649": {
+            "189.202.72.143.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460656": {
+            "189.202.79.157.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460662": {
+            "189.202.82.137.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460668": {
+            "189.202.8.227.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460674": {
+            "189.202.82.29.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460681": {
+            "189.202.85.229.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460687": {
+            "189.202.88.20.cable.dyn.cableonline.com.mx": "INACTIVE",
+            "189.202.97.124.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460688": {
+            "189.202.98.234.cable.dyn.cableonline.com.mx": "INACTIVE",
+            "189.202.98.235.cable.dyn.cableonline.com.mx": "INACTIVE",
+            "189.202.98.43.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460689": {
+            "189.202.99.60.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1571460695": {
+            "189-218-231-201.fibertel.com.ar": "INACTIVE"
+        },
+        "1571460701": {
+            "18.9-245-81.adsl-static.isp.belgacom.be": "INACTIVE"
+        },
+        "1571460707": {
+            "189-46-101-19.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460714": {
+            "189-46-101-24.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460720": {
+            "189-46-113-47.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460726": {
+            "189-46-117-234.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460733": {
+            "189-46-118-66.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460739": {
+            "189-46-119-162.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460745": {
+            "189-46-119-234.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460752": {
+            "189-46-119-88.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460758": {
+            "189-46-121-245.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460764": {
+            "189-46-1-231.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460771": {
+            "189-46-13-178.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460777": {
+            "189-46-135-243.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460783": {
+            "189-46-152-206.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460790": {
+            "189-46-158-79.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460796": {
+            "189-46-159-95.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460802": {
+            "189-46-172-9.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460809": {
+            "189-46-173-33.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460817": {
+            "189-46-185-195.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460823": {
+            "189-46-205-220.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460830": {
+            "189-46-2-135.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460836": {
+            "189-46-2-193.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460847": {
+            "189-46-221-18.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460853": {
+            "189-46-221-30.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460860": {
+            "189-46-228-235.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460866": {
+            "189-46-231-208.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460872": {
+            "189-46-231-210.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460881": {
+            "189-46-231-230.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460887": {
+            "189-46-231-239.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460894": {
+            "189-46-235-251.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460900": {
+            "189-46-237-243.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460906": {
+            "189-46-238-144.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460913": {
+            "189-46-238-50.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460919": {
+            "189-46-238-92.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460927": {
+            "189-46-239-253.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460934": {
+            "189-46-240-188.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460942": {
+            "189-46-241-246.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460949": {
+            "189-46-246-237.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460955": {
+            "189-46-248-146.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460961": {
+            "189-46-249-150.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460970": {
+            "189-46-249-177.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460976": {
+            "189-46-249-212.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460982": {
+            "189-46-249-229.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460989": {
+            "189-46-3-156.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571460997": {
+            "189-46-34-129.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461004": {
+            "189-46-35-5.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461010": {
+            "189-46-42-13.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461016": {
+            "189-46-43-76.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461025": {
+            "189-46-48-16.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461031": {
+            "189-46-49-253.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461038": {
+            "189-46-66-232.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461044": {
+            "189-46-81-115.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461050": {
+            "189-46-81-2.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461057": {
+            "189-46-81-75.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461065": {
+            "189-46-84-33.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461071": {
+            "189-46-87-233.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461078": {
+            "189-46-92-208.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461084": {
+            "189-46-93-226.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461091": {
+            "189-46-99-195.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461097": {
+            "189-47-135-3.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461103": {
+            "189-47-165-119.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461112": {
+            "189-47-180-65.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461118": {
+            "189-47-18-11.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461125": {
+            "189-47-200-60.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461131": {
+            "189-47-203-183.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461137": {
+            "189-47-212-150.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461144": {
+            "189-47-240-183.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461150": {
+            "189-47-26-196.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461158": {
+            "189-47-29-117.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461165": {
+            "189-47-30-206.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461171": {
+            "189-47-31-192.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461178": {
+            "189-47-63-40.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1571461184": {
+            "189-68-128-206.dsl.telesp.net.br": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
