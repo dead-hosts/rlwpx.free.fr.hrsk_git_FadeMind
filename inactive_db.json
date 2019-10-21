@@ -1,298 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1571500598": {
-            "5403ed32.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1571500692": {
-            "5403ed49.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1571500699": {
-            "5403ed76.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1571500706": {
-            "5403edfa.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1571500712": {
-            "5403f008.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1571500719": {
-            "5403f097.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1571500725": {
-            "5403f10c.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1571500732": {
-            "5403f195.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1571500739": {
-            "5403f217.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1571500745": {
-            "5403f592.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1571500752": {
-            "5403f735.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1571500758": {
-            "5403f772.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1571500765": {
-            "54-69.ae.cgocable.ca": "INACTIVE"
-        },
-        "1571500766": {
-            "54.94-65-87.adsl-dyn.isp.belgacom.be": "INACTIVE"
-        },
-        "1571500773": {
-            "54.red-80-35-69.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1571500779": {
-            "54.sub-75-213-167.myvzw.com": "INACTIVE"
-        },
-        "1571500785": {
-            "55-140-223-66.gci.net": "INACTIVE"
-        },
-        "1571500792": {
-            "55.5.189.109.customer.cdi.no": "INACTIVE"
-        },
-        "1571500799": {
-            "555.myblogtoolbar.com": "INACTIVE"
-        },
-        "1571500805": {
-            "5571e4b6.ftth.concepts.nl": "INACTIVE"
-        },
-        "1571500812": {
-            "5571f46e.ftth.concepts.nl": "INACTIVE"
-        },
-        "1571500818": {
-            "5571f6ce.ftth.concepts.nl": "INACTIVE"
-        },
-        "1571500826": {
-            "55-82-17-190.fibertel.com.ar": "INACTIVE"
-        },
-        "1571500832": {
-            "56340cc4.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500839": {
-            "56340d47.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500845": {
-            "563419f7.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500851": {
-            "56341b0c.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500858": {
-            "56341c66.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500864": {
-            "563426bf.rev.stofanet.dk": "INACTIVE",
-            "5634296a.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500866": {
-            "56342992.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500872": {
-            "56342b11.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500879": {
-            "56342c77.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500885": {
-            "563432d8.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500891": {
-            "56343386.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500897": {
-            "563437fe.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500899": {
-            "56343c6a.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500905": {
-            "56343f86.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500912": {
-            "563481fb.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500918": {
-            "56348705.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500924": {
-            "56348940.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500930": {
-            "56348af4.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500937": {
-            "56349915.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500943": {
-            "56349aa0.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500949": {
-            "56349c99.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500956": {
-            "5634a7f0.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500962": {
-            "5634ac6a.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500968": {
-            "5634b13d.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500975": {
-            "5634c271.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500981": {
-            "5634d38e.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500987": {
-            "5634d73e.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571500994": {
-            "5634eada.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571501000": {
-            "5634fbae.rev.stofanet.dk": "INACTIVE"
-        },
-        "1571501004": {
-            "56-42.asparuhovo.net": "INACTIVE"
-        },
-        "1571501010": {
-            "56.sub-70-195-20.myvzw.com": "INACTIVE"
-        },
-        "1571501016": {
-            "56.sub-70-223-218.myvzw.com": "INACTIVE"
-        },
-        "1571501022": {
-            "57-148-133-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1571501029": {
-            "57.174-224-87.telenet.ru": "INACTIVE"
-        },
-        "1571501035": {
-            "57-226-124-91.pool.ukrtel.net": "INACTIVE"
-        },
-        "1571501042": {
-            "57-250-113-92.pool.ukrtel.net": "INACTIVE"
-        },
-        "1571501048": {
-            "57.sub-75-193-209.myvzw.com": "INACTIVE"
-        },
-        "1571501055": {
-            "58.118.151.202.cc9.ne.jp": "INACTIVE"
-        },
-        "1571501062": {
-            "58-3-33-79.ppp.bbiq.jp": "INACTIVE"
-        },
-        "1571501069": {
-            "58-3-39-175.ppp.bbiq.jp": "INACTIVE"
-        },
-        "1571501075": {
-            "58-3-55-224.ppp.bbiq.jp": "INACTIVE"
-        },
-        "1571501082": {
-            "58-3-56-220.ppp.bbiq.jp": "INACTIVE"
-        },
-        "1571501088": {
-            "58.40.233.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1571501095": {
-            "58-97-43-172.static.asianet.co.th": "INACTIVE"
-        },
-        "1571501101": {
-            "58.red-80-34-98.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1571501108": {
-            "58.red-81-47-136.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1571501114": {
-            "58.sub-70-194-163.myvzw.com": "INACTIVE"
-        },
-        "1571501120": {
-            "58x13x239x201.ap58.ftth.ucom.ne.jp": "INACTIVE"
-        },
-        "1571501127": {
-            "58x159x21x200.ap58.ftth.ucom.ne.jp": "INACTIVE"
-        },
-        "1571501133": {
-            "59-106-20-39.r-bl100.sakura.ne.jp": "INACTIVE"
-        },
-        "1571501140": {
-            "59-120-216-117.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1571501146": {
-            "59-124-156-213.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1571501153": {
-            "59-124-29-195.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1571501159": {
-            "59-124-46-139.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1571501166": {
-            "59-124-92-168.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1571501173": {
-            "59-125-229-78.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1571501179": {
-            "59-168-70-19.rev.home.ne.jp": "INACTIVE"
-        },
-        "1571501186": {
-            "59-171-25-125.rev.home.ne.jp": "INACTIVE",
-            "59-188-9-234.simlink.com": "INACTIVE"
-        },
-        "1571501193": {
-            "59.64-138-225-net.sccoast.net": "INACTIVE",
-            "599.stats.misstrends.com": "INACTIVE"
-        },
-        "1571501201": {
-            "59.red-88-30-22.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1571501207": {
-            "59.sub-75-222-135.myvzw.com": "INACTIVE"
-        },
-        "1571501209": {
-            "5ed05472.cable.ziggo.nl": "INACTIVE"
-        },
-        "1571501215": {
-            "5ed10bdf.cable.ziggo.nl": "INACTIVE"
-        },
-        "1571501216": {
-            "5ed11271.cable.ziggo.nl": "INACTIVE"
-        },
-        "1571501222": {
-            "5ed1d035.cable.ziggo.nl": "INACTIVE"
-        },
-        "1571501223": {
-            "5ed1d2b9.cable.ziggo.nl": "INACTIVE"
-        },
-        "1571501229": {
-            "5ed40bd7.cable.ziggo.nl": "INACTIVE"
-        },
-        "1571501235": {
-            "5.estasiatica.com": "INACTIVE",
-            "5ed70fa9.cable.ziggo.nl": "INACTIVE"
-        },
-        "1571501236": {
-            "5.eventiduepuntozero.com": "INACTIVE",
-            "5.hidemyass.com": "INACTIVE"
-        },
-        "1571501258": {
-            "5.sub-75-206-187.myvzw.com": "INACTIVE"
-        },
-        "1571501266": {
-            "60.116.202.84.customer.cdi.no": "INACTIVE"
-        },
-        "1571501273": {
-            "60.184.16.62.customer.cdi.no": "INACTIVE"
-        },
-        "1571501280": {
-            "60.191.244.43.ap.yournet.ne.jp": "INACTIVE"
-        },
         "1571501286": {
             "60-234-124-91.pool.ukrtel.net": "INACTIVE"
         },
@@ -11169,6 +10876,297 @@
         },
         "1571644014": {
             "5403ec7f.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1571644106": {
+            "5403ed32.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1571644113": {
+            "5403ed49.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1571644120": {
+            "5403ed76.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1571644126": {
+            "5403edfa.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1571644133": {
+            "5403f008.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1571644139": {
+            "5403f097.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1571644146": {
+            "5403f10c.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1571644153": {
+            "5403f195.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1571644159": {
+            "5403f217.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1571644166": {
+            "5403f592.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1571644172": {
+            "5403f735.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1571644179": {
+            "5403f772.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1571644186": {
+            "54-69.ae.cgocable.ca": "INACTIVE"
+        },
+        "1571644187": {
+            "54.94-65-87.adsl-dyn.isp.belgacom.be": "INACTIVE"
+        },
+        "1571644194": {
+            "54.red-80-35-69.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1571644200": {
+            "54.sub-75-213-167.myvzw.com": "INACTIVE"
+        },
+        "1571644206": {
+            "55-140-223-66.gci.net": "INACTIVE"
+        },
+        "1571644213": {
+            "55.5.189.109.customer.cdi.no": "INACTIVE"
+        },
+        "1571644220": {
+            "555.myblogtoolbar.com": "INACTIVE"
+        },
+        "1571644226": {
+            "5571e4b6.ftth.concepts.nl": "INACTIVE"
+        },
+        "1571644233": {
+            "5571f46e.ftth.concepts.nl": "INACTIVE"
+        },
+        "1571644239": {
+            "5571f6ce.ftth.concepts.nl": "INACTIVE"
+        },
+        "1571644246": {
+            "55-82-17-190.fibertel.com.ar": "INACTIVE"
+        },
+        "1571644252": {
+            "56340cc4.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644259": {
+            "56340d47.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644265": {
+            "563419f7.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644271": {
+            "56341b0c.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644278": {
+            "56341c66.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644284": {
+            "563426bf.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644285": {
+            "5634296a.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644287": {
+            "56342992.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644293": {
+            "56342b11.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644299": {
+            "56342c77.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644306": {
+            "563432d8.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644312": {
+            "56343386.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644318": {
+            "563437fe.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644320": {
+            "56343c6a.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644326": {
+            "56343f86.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644332": {
+            "563481fb.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644339": {
+            "56348705.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644345": {
+            "56348940.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644351": {
+            "56348af4.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644358": {
+            "56349915.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644364": {
+            "56349aa0.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644370": {
+            "56349c99.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644377": {
+            "5634a7f0.rev.stofanet.dk": "INACTIVE",
+            "5634ac6a.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644383": {
+            "5634b13d.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644390": {
+            "5634c271.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644396": {
+            "5634d38e.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644402": {
+            "5634d73e.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644409": {
+            "5634eada.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644415": {
+            "5634fbae.rev.stofanet.dk": "INACTIVE"
+        },
+        "1571644419": {
+            "56-42.asparuhovo.net": "INACTIVE"
+        },
+        "1571644425": {
+            "56.sub-70-195-20.myvzw.com": "INACTIVE"
+        },
+        "1571644431": {
+            "56.sub-70-223-218.myvzw.com": "INACTIVE"
+        },
+        "1571644438": {
+            "57-148-133-95.pool.ukrtel.net": "INACTIVE"
+        },
+        "1571644444": {
+            "57.174-224-87.telenet.ru": "INACTIVE"
+        },
+        "1571644451": {
+            "57-226-124-91.pool.ukrtel.net": "INACTIVE"
+        },
+        "1571644457": {
+            "57-250-113-92.pool.ukrtel.net": "INACTIVE"
+        },
+        "1571644463": {
+            "57.sub-75-193-209.myvzw.com": "INACTIVE"
+        },
+        "1571644470": {
+            "58.118.151.202.cc9.ne.jp": "INACTIVE"
+        },
+        "1571644477": {
+            "58-3-33-79.ppp.bbiq.jp": "INACTIVE"
+        },
+        "1571644483": {
+            "58-3-39-175.ppp.bbiq.jp": "INACTIVE"
+        },
+        "1571644490": {
+            "58-3-55-224.ppp.bbiq.jp": "INACTIVE"
+        },
+        "1571644496": {
+            "58-3-56-220.ppp.bbiq.jp": "INACTIVE"
+        },
+        "1571644502": {
+            "58.40.233.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1571644509": {
+            "58-97-43-172.static.asianet.co.th": "INACTIVE"
+        },
+        "1571644515": {
+            "58.red-80-34-98.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1571644522": {
+            "58.red-81-47-136.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1571644528": {
+            "58.sub-70-194-163.myvzw.com": "INACTIVE"
+        },
+        "1571644535": {
+            "58x13x239x201.ap58.ftth.ucom.ne.jp": "INACTIVE"
+        },
+        "1571644542": {
+            "58x159x21x200.ap58.ftth.ucom.ne.jp": "INACTIVE"
+        },
+        "1571644548": {
+            "59-106-20-39.r-bl100.sakura.ne.jp": "INACTIVE"
+        },
+        "1571644555": {
+            "59-120-216-117.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1571644561": {
+            "59-124-156-213.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1571644568": {
+            "59-124-29-195.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1571644574": {
+            "59-124-46-139.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1571644589": {
+            "59-124-92-168.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1571644603": {
+            "59-125-229-78.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1571644609": {
+            "59-168-70-19.rev.home.ne.jp": "INACTIVE"
+        },
+        "1571644616": {
+            "59-171-25-125.rev.home.ne.jp": "INACTIVE"
+        },
+        "1571644617": {
+            "59-188-9-234.simlink.com": "INACTIVE"
+        },
+        "1571644623": {
+            "59.64-138-225-net.sccoast.net": "INACTIVE",
+            "599.stats.misstrends.com": "INACTIVE"
+        },
+        "1571644630": {
+            "59.red-88-30-22.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1571644636": {
+            "59.sub-75-222-135.myvzw.com": "INACTIVE"
+        },
+        "1571644637": {
+            "5ed05472.cable.ziggo.nl": "INACTIVE"
+        },
+        "1571644644": {
+            "5ed10bdf.cable.ziggo.nl": "INACTIVE",
+            "5ed11271.cable.ziggo.nl": "INACTIVE"
+        },
+        "1571644645": {
+            "5ed1d035.cable.ziggo.nl": "INACTIVE",
+            "5ed1d2b9.cable.ziggo.nl": "INACTIVE"
+        },
+        "1571644651": {
+            "5ed40bd7.cable.ziggo.nl": "INACTIVE"
+        },
+        "1571644658": {
+            "5.estasiatica.com": "INACTIVE",
+            "5.eventiduepuntozero.com": "INACTIVE",
+            "5ed70fa9.cable.ziggo.nl": "INACTIVE"
+        },
+        "1571644659": {
+            "5.hidemyass.com": "INACTIVE"
+        },
+        "1571644679": {
+            "5.sub-75-206-187.myvzw.com": "INACTIVE"
+        },
+        "1571644687": {
+            "60.116.202.84.customer.cdi.no": "INACTIVE"
+        },
+        "1571644693": {
+            "60.184.16.62.customer.cdi.no": "INACTIVE"
+        },
+        "1571644700": {
+            "60.191.244.43.ap.yournet.ne.jp": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
