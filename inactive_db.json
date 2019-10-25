@@ -1,241 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1571739912": {
-            "013.219113103.m-net.ne.jp": "INACTIVE"
-        },
-        "1571739920": {
-            "02-195.031.popsite.net": "INACTIVE"
-        },
-        "1571739924": {
-            "022.63.198.203.static.netvigator.com": "INACTIVE"
-        },
-        "1571739931": {
-            "03-080.031.popsite.net": "INACTIVE"
-        },
-        "1571739946": {
-            "046.221132170.m-net.ne.jp": "INACTIVE"
-        },
-        "1571739953": {
-            "059148221243.ctinets.com": "INACTIVE"
-        },
-        "1571739960": {
-            "061093102220.ctinets.com": "INACTIVE"
-        },
-        "1571739962": {
-            "061093161108.ctinets.com": "INACTIVE"
-        },
-        "1571739968": {
-            "061093189230.ctinets.com": "INACTIVE"
-        },
-        "1571739976": {
-            "061238002195.ctinets.com": "INACTIVE"
-        },
-        "1571739982": {
-            "061238094095.ctinets.com": "INACTIVE"
-        },
-        "1571739989": {
-            "061238122206.ctinets.com": "INACTIVE"
-        },
-        "1571739996": {
-            "061238141039.ctinets.com": "INACTIVE"
-        },
-        "1571740003": {
-            "061244119170.ctinets.com": "INACTIVE"
-        },
-        "1571740009": {
-            "061244120019.ctinets.com": "INACTIVE"
-        },
-        "1571740016": {
-            "061244129074.ctinets.com": "INACTIVE"
-        },
-        "1571740022": {
-            "061244144220.ctinets.com": "INACTIVE"
-        },
-        "1571740028": {
-            "07-074.031.popsite.net": "INACTIVE"
-        },
-        "1571740041": {
-            "078088118251.dzierzoniow.vectranet.pl": "INACTIVE"
-        },
-        "1571740049": {
-            "078088177231.elblag.vectranet.pl": "INACTIVE",
-            "078088224123.kielce.vectranet.pl": "INACTIVE"
-        },
-        "1571740056": {
-            "07.8c.d12c.cidr.airmail.net": "INACTIVE"
-        },
-        "1571740063": {
-            "082139042050.radom.vectranet.pl": "INACTIVE"
-        },
-        "1571740069": {
-            "082139043218.radom.vectranet.pl": "INACTIVE"
-        },
-        "1571740076": {
-            "088156009099.olsztyn.vectranet.pl": "INACTIVE"
-        },
-        "1571740082": {
-            "088156011233.olsztyn.vectranet.pl": "INACTIVE"
-        },
-        "1571740089": {
-            "088156034241.olsztyn.vectranet.pl": "INACTIVE"
-        },
-        "1571740096": {
-            "088156039027.olsztyn.vectranet.pl": "INACTIVE"
-        },
-        "1571740102": {
-            "088156040066.olsztyn.vectranet.pl": "INACTIVE"
-        },
-        "1571740109": {
-            "088156052081.olsztyn.vectranet.pl": "INACTIVE"
-        },
-        "1571740115": {
-            "088156057218.ostroda.vectranet.pl": "INACTIVE"
-        },
-        "1571740122": {
-            "088156060096.nidzica.vectranet.pl": "INACTIVE"
-        },
-        "1571740129": {
-            "088156069141.skarzysko.vectranet.pl": "INACTIVE"
-        },
-        "1571740135": {
-            "088156170190.szczecinek.vectranet.pl": "INACTIVE"
-        },
-        "1571740142": {
-            "088156175055.skarzysko.vectranet.pl": "INACTIVE"
-        },
-        "1571740148": {
-            "088156211139.radom.vectranet.pl": "INACTIVE"
-        },
-        "1571740155": {
-            "088156212231.radom.vectranet.pl": "INACTIVE"
-        },
-        "1571740162": {
-            "088156213183.radom.vectranet.pl": "INACTIVE"
-        },
-        "1571740168": {
-            "088156250062.koscierzyna.vectranet.pl": "INACTIVE"
-        },
-        "1571740170": {
-            "09-113.031.popsite.net": "INACTIVE"
-        },
-        "1571740176": {
-            "093105003066.radomsko.vectranet.pl": "INACTIVE"
-        },
-        "1571740183": {
-            "093105015032.braniewo.vectranet.pl": "INACTIVE"
-        },
-        "1571740189": {
-            "093105023115.skarzysko.vectranet.pl": "INACTIVE"
-        },
-        "1571740196": {
-            "093105025184.suwalki.vectranet.pl": "INACTIVE"
-        },
-        "1571740203": {
-            "093105030173.suwalki.vectranet.pl": "INACTIVE"
-        },
-        "1571740209": {
-            "093105107084.pila.vectranet.pl": "INACTIVE"
-        },
-        "1571740216": {
-            "093105147104.radom.vectranet.pl": "INACTIVE"
-        },
-        "1571740222": {
-            "093105148202.radom.vectranet.pl": "INACTIVE"
-        },
-        "1571740229": {
-            "093105151190.radom.vectranet.pl": "INACTIVE"
-        },
-        "1571740236": {
-            "093105154215.starachowice.vectranet.pl": "INACTIVE"
-        },
-        "1571740242": {
-            "093105160008.elblag.vectranet.pl": "INACTIVE"
-        },
-        "1571740249": {
-            "093105164148.elblag.vectranet.pl": "INACTIVE"
-        },
-        "1571740255": {
-            "093105164233.elblag.vectranet.pl": "INACTIVE"
-        },
-        "1571740262": {
-            "093105192018.skierniewice.vectranet.pl": "INACTIVE"
-        },
-        "1571740269": {
-            "093105201193.skierniewice.vectranet.pl": "INACTIVE"
-        },
-        "1571740275": {
-            "093105219198.rybnik.vectranet.pl": "INACTIVE"
-        },
-        "1571740282": {
-            "093105253184.raciborz.vectranet.pl": "INACTIVE",
-            "094.104-113-64.ftth.swbr.surewest.net": "INACTIVE"
-        },
-        "1571740288": {
-            "095-097-079-203.static.chello.nl": "INACTIVE"
-        },
-        "1571740300": {
-            "0rangemask.myblogtoolbar.com": "INACTIVE"
-        },
-        "1571740308": {
-            "0x4dd54bd9.adsl.cybercity.dk": "INACTIVE"
-        },
-        "1571740315": {
-            "0x80.online-software.org": "INACTIVE"
-        },
-        "1571740329": {
-            "100net4.197.rsv-dhcp.indytel.com": "INACTIVE"
-        },
-        "1571740336": {
-            "100.red-88-31-24.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1571740343": {
-            "101-130.echostar.pl": "INACTIVE"
-        },
-        "1571740349": {
-            "101-188-58-66.gci.net": "INACTIVE"
-        },
-        "1571740356": {
-            "10-159.031.popsite.net": "INACTIVE"
-        },
-        "1571740362": {
-            "101.60.233.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1571740384": {
-            "101.sub-75-199-205.myvzw.com": "INACTIVE"
-        },
-        "1571740390": {
-            "10-211-133-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1571740397": {
-            "102.115.broadband3.iol.cz": "INACTIVE"
-        },
-        "1571740398": {
-            "102.14-218-195.catv.internet.lu": "INACTIVE"
-        },
-        "1571740404": {
-            "10-218.031.popsite.net": "INACTIVE"
-        },
-        "1571740411": {
-            "102-19-231-201.fibertel.com.ar": "INACTIVE"
-        },
-        "1571740417": {
-            "102-239.126-70.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1571740423": {
-            "102-251.96-97.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1571740430": {
-            "103-138-112-92.pool.ukrtel.net": "INACTIVE"
-        },
-        "1571740436": {
-            "103-154-58-66.gci.net": "INACTIVE"
-        },
-        "1571740442": {
-            "103.sub-70-222-213.myvzw.com": "INACTIVE"
-        },
-        "1571740449": {
-            "103.sub-75-236-210.myvzw.com": "INACTIVE"
-        },
         "1571740455": {
             "104-22-133-95.pool.ukrtel.net": "INACTIVE"
         },
@@ -5609,9 +5373,6 @@
         },
         "1571783073": {
             "201-68-80-134.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1571785355": {
-            "00fun.casalemedia.com": "INACTIVE"
         },
         "1571785362": {
             "201-68-81-192.dsl.telesp.net.br": "INACTIVE"
@@ -11189,6 +10950,247 @@
         },
         "1571803871": {
             "6.sub-70-222-217.myvzw.com": "INACTIVE"
+        },
+        "1572035220": {
+            "00fun.casalemedia.com": "INACTIVE"
+        },
+        "1572035241": {
+            "013.219113103.m-net.ne.jp": "INACTIVE"
+        },
+        "1572035250": {
+            "02-195.031.popsite.net": "INACTIVE"
+        },
+        "1572035254": {
+            "022.63.198.203.static.netvigator.com": "INACTIVE"
+        },
+        "1572035262": {
+            "03-080.031.popsite.net": "INACTIVE"
+        },
+        "1572035283": {
+            "046.221132170.m-net.ne.jp": "INACTIVE"
+        },
+        "1572035290": {
+            "059148221243.ctinets.com": "INACTIVE"
+        },
+        "1572035297": {
+            "061093102220.ctinets.com": "INACTIVE"
+        },
+        "1572035298": {
+            "061093161108.ctinets.com": "INACTIVE"
+        },
+        "1572035304": {
+            "061093189230.ctinets.com": "INACTIVE"
+        },
+        "1572035311": {
+            "061238002195.ctinets.com": "INACTIVE"
+        },
+        "1572035318": {
+            "061238094095.ctinets.com": "INACTIVE"
+        },
+        "1572035324": {
+            "061238122206.ctinets.com": "INACTIVE"
+        },
+        "1572035332": {
+            "061238141039.ctinets.com": "INACTIVE"
+        },
+        "1572035338": {
+            "061244119170.ctinets.com": "INACTIVE"
+        },
+        "1572035345": {
+            "061244120019.ctinets.com": "INACTIVE"
+        },
+        "1572035351": {
+            "061244129074.ctinets.com": "INACTIVE"
+        },
+        "1572035358": {
+            "061244144220.ctinets.com": "INACTIVE"
+        },
+        "1572035364": {
+            "07-074.031.popsite.net": "INACTIVE"
+        },
+        "1572035377": {
+            "078088118251.dzierzoniow.vectranet.pl": "INACTIVE"
+        },
+        "1572035388": {
+            "078088177231.elblag.vectranet.pl": "INACTIVE"
+        },
+        "1572035389": {
+            "078088224123.kielce.vectranet.pl": "INACTIVE"
+        },
+        "1572035395": {
+            "07.8c.d12c.cidr.airmail.net": "INACTIVE"
+        },
+        "1572035402": {
+            "082139042050.radom.vectranet.pl": "INACTIVE"
+        },
+        "1572035408": {
+            "082139043218.radom.vectranet.pl": "INACTIVE"
+        },
+        "1572035415": {
+            "088156009099.olsztyn.vectranet.pl": "INACTIVE"
+        },
+        "1572035422": {
+            "088156011233.olsztyn.vectranet.pl": "INACTIVE"
+        },
+        "1572035428": {
+            "088156034241.olsztyn.vectranet.pl": "INACTIVE"
+        },
+        "1572035435": {
+            "088156039027.olsztyn.vectranet.pl": "INACTIVE"
+        },
+        "1572035442": {
+            "088156040066.olsztyn.vectranet.pl": "INACTIVE"
+        },
+        "1572035448": {
+            "088156052081.olsztyn.vectranet.pl": "INACTIVE"
+        },
+        "1572035455": {
+            "088156057218.ostroda.vectranet.pl": "INACTIVE"
+        },
+        "1572035461": {
+            "088156060096.nidzica.vectranet.pl": "INACTIVE"
+        },
+        "1572035468": {
+            "088156069141.skarzysko.vectranet.pl": "INACTIVE"
+        },
+        "1572035474": {
+            "088156170190.szczecinek.vectranet.pl": "INACTIVE"
+        },
+        "1572035481": {
+            "088156175055.skarzysko.vectranet.pl": "INACTIVE"
+        },
+        "1572035488": {
+            "088156211139.radom.vectranet.pl": "INACTIVE"
+        },
+        "1572035494": {
+            "088156212231.radom.vectranet.pl": "INACTIVE"
+        },
+        "1572035501": {
+            "088156213183.radom.vectranet.pl": "INACTIVE"
+        },
+        "1572035508": {
+            "088156250062.koscierzyna.vectranet.pl": "INACTIVE"
+        },
+        "1572035512": {
+            "09-113.031.popsite.net": "INACTIVE"
+        },
+        "1572035518": {
+            "093105003066.radomsko.vectranet.pl": "INACTIVE"
+        },
+        "1572035525": {
+            "093105015032.braniewo.vectranet.pl": "INACTIVE"
+        },
+        "1572035531": {
+            "093105023115.skarzysko.vectranet.pl": "INACTIVE"
+        },
+        "1572035538": {
+            "093105025184.suwalki.vectranet.pl": "INACTIVE"
+        },
+        "1572035545": {
+            "093105030173.suwalki.vectranet.pl": "INACTIVE"
+        },
+        "1572035551": {
+            "093105107084.pila.vectranet.pl": "INACTIVE"
+        },
+        "1572035558": {
+            "093105147104.radom.vectranet.pl": "INACTIVE"
+        },
+        "1572035564": {
+            "093105148202.radom.vectranet.pl": "INACTIVE"
+        },
+        "1572035571": {
+            "093105151190.radom.vectranet.pl": "INACTIVE"
+        },
+        "1572035578": {
+            "093105154215.starachowice.vectranet.pl": "INACTIVE"
+        },
+        "1572035584": {
+            "093105160008.elblag.vectranet.pl": "INACTIVE"
+        },
+        "1572035591": {
+            "093105164148.elblag.vectranet.pl": "INACTIVE"
+        },
+        "1572035597": {
+            "093105164233.elblag.vectranet.pl": "INACTIVE"
+        },
+        "1572035604": {
+            "093105192018.skierniewice.vectranet.pl": "INACTIVE"
+        },
+        "1572035611": {
+            "093105201193.skierniewice.vectranet.pl": "INACTIVE"
+        },
+        "1572035617": {
+            "093105219198.rybnik.vectranet.pl": "INACTIVE"
+        },
+        "1572035624": {
+            "093105253184.raciborz.vectranet.pl": "INACTIVE",
+            "094.104-113-64.ftth.swbr.surewest.net": "INACTIVE"
+        },
+        "1572035630": {
+            "095-097-079-203.static.chello.nl": "INACTIVE"
+        },
+        "1572035642": {
+            "0rangemask.myblogtoolbar.com": "INACTIVE"
+        },
+        "1572035650": {
+            "0x4dd54bd9.adsl.cybercity.dk": "INACTIVE"
+        },
+        "1572035656": {
+            "0x80.online-software.org": "INACTIVE"
+        },
+        "1572035682": {
+            "100net4.197.rsv-dhcp.indytel.com": "INACTIVE"
+        },
+        "1572035689": {
+            "100.red-88-31-24.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572035696": {
+            "101-130.echostar.pl": "INACTIVE"
+        },
+        "1572035703": {
+            "101-188-58-66.gci.net": "INACTIVE"
+        },
+        "1572035710": {
+            "10-159.031.popsite.net": "INACTIVE"
+        },
+        "1572035718": {
+            "101.60.233.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572035739": {
+            "101.sub-75-199-205.myvzw.com": "INACTIVE"
+        },
+        "1572035746": {
+            "10-211-133-95.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572035753": {
+            "102.115.broadband3.iol.cz": "INACTIVE"
+        },
+        "1572035754": {
+            "102.14-218-195.catv.internet.lu": "INACTIVE"
+        },
+        "1572035760": {
+            "10-218.031.popsite.net": "INACTIVE"
+        },
+        "1572035766": {
+            "102-19-231-201.fibertel.com.ar": "INACTIVE"
+        },
+        "1572035773": {
+            "102-239.126-70.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572035779": {
+            "102-251.96-97.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572035785": {
+            "103-138-112-92.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572035791": {
+            "103-154-58-66.gci.net": "INACTIVE"
+        },
+        "1572035798": {
+            "103.sub-70-222-213.myvzw.com": "INACTIVE"
+        },
+        "1572035804": {
+            "103.sub-75-236-210.myvzw.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
