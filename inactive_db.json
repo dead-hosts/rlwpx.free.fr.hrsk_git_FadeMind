@@ -1,302 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1571778633": {
-            "201.160.21.35.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778639": {
-            "201.160.213.65.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778646": {
-            "201.160.214.211.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778652": {
-            "201.160.214.219.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778659": {
-            "201.160.214.4.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778665": {
-            "201.160.215.82.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778671": {
-            "201.160.218.236.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778678": {
-            "201.160.222.147.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778684": {
-            "201.160.222.242.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778690": {
-            "201.160.230.45.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778697": {
-            "201.160.230.55.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778703": {
-            "201.160.233.171.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778704": {
-            "201.160.23.64.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778710": {
-            "201.160.238.137.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778716": {
-            "201.160.246.102.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778720": {
-            "201.160.249.175.cable.dyn.cableonline.com.mx": "INACTIVE",
-            "201.160.249.217.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778721": {
-            "201.160.25.217.cable.dyn.cableonline.com.mx": "INACTIVE",
-            "201.160.252.4.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778723": {
-            "201.160.253.45.cable.dyn.cableonline.com.mx": "INACTIVE",
-            "201.160.27.196.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778729": {
-            "201.160.38.39.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778736": {
-            "201.160.43.12.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778742": {
-            "201.160.46.172.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778748": {
-            "201.160.51.182.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778755": {
-            "201.160.55.46.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778761": {
-            "201.160.55.92.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571778767": {
-            "201.160.59.34.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779250": {
-            "201.160.62.108.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779257": {
-            "201.160.72.110.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779263": {
-            "201.160.82.222.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779269": {
-            "201.160.83.156.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779276": {
-            "201.160.85.26.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779282": {
-            "201.160.86.175.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779289": {
-            "201.160.91.54.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779295": {
-            "201.160.93.195.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779301": {
-            "201.160.94.218.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779308": {
-            "201.160.98.129.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779314": {
-            "201.160.98.223.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779323": {
-            "201-1-62-2.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1571779331": {
-            "201-1-62-47.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1571779338": {
-            "201-1-63-185.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1571779344": {
-            "201.166.101.34.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779351": {
-            "201.166.110.240.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779357": {
-            "201.166.112.9.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779363": {
-            "201.166.113.174.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779372": {
-            "201.166.121.18.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779378": {
-            "201.166.126.28.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779384": {
-            "201.166.2.195.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779391": {
-            "201.166.2.74.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779397": {
-            "201.166.3.114.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779403": {
-            "201.166.32.205.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779410": {
-            "201.166.33.2.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779416": {
-            "201.166.39.60.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779423": {
-            "201.166.40.139.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779429": {
-            "201.166.41.74.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779435": {
-            "201.166.46.237.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779442": {
-            "201.166.47.48.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779448": {
-            "201.166.48.45.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779454": {
-            "201.166.52.58.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779461": {
-            "201.166.53.119.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779467": {
-            "201.166.53.225.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779473": {
-            "201.166.58.49.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779480": {
-            "201.166.59.163.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779486": {
-            "201.166.59.87.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779492": {
-            "201.166.61.121.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779499": {
-            "201.166.62.197.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779505": {
-            "201.166.6.40.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779506": {
-            "201.166.67.154.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779512": {
-            "201.166.69.5.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779523": {
-            "201-1-66-69.dsl.telesp.net.br": "INACTIVE",
-            "201.166.71.211.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779529": {
-            "201.166.71.71.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779536": {
-            "201.166.72.131.cable.dyn.cableonline.com.mx": "INACTIVE",
-            "201.166.73.168.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779543": {
-            "201.166.74.183.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779549": {
-            "201.166.75.82.cable.dyn.cableonline.com.mx": "INACTIVE",
-            "201.166.79.172.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779556": {
-            "201.166.84.56.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779562": {
-            "201.166.85.195.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779568": {
-            "201.166.92.64.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779575": {
-            "201.166.96.218.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779581": {
-            "201.166.97.151.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779587": {
-            "201.166.98.140.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779594": {
-            "201.166.99.8.cable.dyn.cableonline.com.mx": "INACTIVE"
-        },
-        "1571779604": {
-            "201-1-68-162.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1571779611": {
-            "201-1-68-202.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1571779617": {
-            "201-1-89-131.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1571779623": {
-            "201-1-89-149.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1571779630": {
-            "201-1-90-134.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1571779642": {
-            "201-1-90-37.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1571779649": {
-            "201-1-92-15.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1571779659": {
-            "201-1-93-124.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1571779665": {
-            "201-1-93-44.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1571779672": {
-            "201-1-94-211.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1571779678": {
-            "201-1-94-40.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1571779687": {
-            "201-1-95-85.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1571779693": {
-            "201-212-109-210.prima.net.ar": "INACTIVE"
-        },
-        "1571779700": {
-            "201-212-111-59.prima.net.ar": "INACTIVE"
-        },
-        "1571779706": {
-            "201-212-115-109.prima.net.ar": "INACTIVE"
-        },
-        "1571779712": {
-            "201-212-118-69.prima.net.ar": "INACTIVE"
-        },
-        "1571779720": {
-            "201-212-132-249.cab.prima.net.ar": "INACTIVE"
-        },
-        "1571779727": {
-            "201-212-135-134.cab.prima.net.ar": "INACTIVE"
-        },
         "1571779734": {
             "201-212-135-146.cab.prima.net.ar": "INACTIVE"
         },
@@ -11209,6 +10912,303 @@
         },
         "1572073871": {
             "201.160.213.196.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572074910": {
+            "201.160.21.35.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572074917": {
+            "201.160.213.65.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572074923": {
+            "201.160.214.211.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572074930": {
+            "201.160.214.219.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572074936": {
+            "201.160.214.4.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572074943": {
+            "201.160.215.82.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572074949": {
+            "201.160.218.236.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572074955": {
+            "201.160.222.147.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572074962": {
+            "201.160.222.242.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572074968": {
+            "201.160.230.45.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572074975": {
+            "201.160.230.55.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572074981": {
+            "201.160.23.64.cable.dyn.cableonline.com.mx": "INACTIVE",
+            "201.160.233.171.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572074988": {
+            "201.160.238.137.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572074994": {
+            "201.160.246.102.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572074995": {
+            "201.160.249.175.cable.dyn.cableonline.com.mx": "INACTIVE",
+            "201.160.249.217.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572074996": {
+            "201.160.25.217.cable.dyn.cableonline.com.mx": "INACTIVE",
+            "201.160.252.4.cable.dyn.cableonline.com.mx": "INACTIVE",
+            "201.160.253.45.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572074997": {
+            "201.160.27.196.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075003": {
+            "201.160.38.39.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075010": {
+            "201.160.43.12.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075016": {
+            "201.160.46.172.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075023": {
+            "201.160.51.182.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075029": {
+            "201.160.55.46.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075036": {
+            "201.160.55.92.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075042": {
+            "201.160.59.34.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075049": {
+            "201.160.62.108.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075055": {
+            "201.160.72.110.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075062": {
+            "201.160.82.222.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075068": {
+            "201.160.83.156.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075074": {
+            "201.160.85.26.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075081": {
+            "201.160.86.175.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075087": {
+            "201.160.91.54.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075094": {
+            "201.160.93.195.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075100": {
+            "201.160.94.218.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075106": {
+            "201.160.98.129.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075113": {
+            "201.160.98.223.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075121": {
+            "201-1-62-2.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572075128": {
+            "201-1-62-47.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572075136": {
+            "201-1-63-185.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572075143": {
+            "201.166.101.34.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075149": {
+            "201.166.110.240.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075155": {
+            "201.166.112.9.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075162": {
+            "201.166.113.174.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075168": {
+            "201.166.121.18.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075175": {
+            "201.166.126.28.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075181": {
+            "201.166.2.195.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075187": {
+            "201.166.2.74.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075194": {
+            "201.166.3.114.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075200": {
+            "201.166.32.205.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075207": {
+            "201.166.33.2.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075213": {
+            "201.166.39.60.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075220": {
+            "201.166.40.139.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075226": {
+            "201.166.41.74.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075232": {
+            "201.166.46.237.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075239": {
+            "201.166.47.48.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075245": {
+            "201.166.48.45.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075252": {
+            "201.166.52.58.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075258": {
+            "201.166.53.119.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075264": {
+            "201.166.53.225.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075271": {
+            "201.166.58.49.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075277": {
+            "201.166.59.163.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075284": {
+            "201.166.59.87.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075290": {
+            "201.166.61.121.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075296": {
+            "201.166.62.197.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075303": {
+            "201.166.6.40.cable.dyn.cableonline.com.mx": "INACTIVE",
+            "201.166.67.154.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075304": {
+            "201.166.69.5.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075310": {
+            "201-1-66-69.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572075317": {
+            "201.166.71.211.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075323": {
+            "201.166.71.71.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075324": {
+            "201.166.72.131.cable.dyn.cableonline.com.mx": "INACTIVE",
+            "201.166.73.168.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075331": {
+            "201.166.74.183.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075337": {
+            "201.166.75.82.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075343": {
+            "201.166.79.172.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075350": {
+            "201.166.84.56.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075356": {
+            "201.166.85.195.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075363": {
+            "201.166.92.64.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075369": {
+            "201.166.96.218.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075375": {
+            "201.166.97.151.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075382": {
+            "201.166.98.140.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075388": {
+            "201.166.99.8.cable.dyn.cableonline.com.mx": "INACTIVE"
+        },
+        "1572075395": {
+            "201-1-68-162.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572075401": {
+            "201-1-68-202.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572075407": {
+            "201-1-89-131.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572075414": {
+            "201-1-89-149.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572075420": {
+            "201-1-90-134.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572075427": {
+            "201-1-90-37.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572075433": {
+            "201-1-92-15.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572075443": {
+            "201-1-93-124.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572075452": {
+            "201-1-93-44.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572075458": {
+            "201-1-94-211.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572075465": {
+            "201-1-94-40.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572075471": {
+            "201-1-95-85.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572075478": {
+            "201-212-109-210.prima.net.ar": "INACTIVE"
+        },
+        "1572075484": {
+            "201-212-111-59.prima.net.ar": "INACTIVE"
+        },
+        "1572075491": {
+            "201-212-115-109.prima.net.ar": "INACTIVE"
+        },
+        "1572075497": {
+            "201-212-118-69.prima.net.ar": "INACTIVE"
+        },
+        "1572075505": {
+            "201-212-132-249.cab.prima.net.ar": "INACTIVE"
+        },
+        "1572075512": {
+            "201-212-135-134.cab.prima.net.ar": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
