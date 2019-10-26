@@ -1,298 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1571795077": {
-            "24-181-216-249.dhcp.hckr.nc.charter.com": "INACTIVE"
-        },
-        "1571795083": {
-            "24-181-218-225.dhcp.hckr.nc.charter.com": "INACTIVE"
-        },
-        "1571795089": {
-            "24-181-43-124.dhcp.wspn.ga.charter.com": "INACTIVE"
-        },
-        "1571795096": {
-            "24-181-46-33.dhcp.nwnn.ga.charter.com": "INACTIVE",
-            "24-181-47-212.dhcp.nwnn.ga.charter.com": "INACTIVE"
-        },
-        "1571795102": {
-            "24-181-77-56.dhcp.lgrn.ga.charter.com": "INACTIVE"
-        },
-        "1571795108": {
-            "24-181-78-142.dhcp.lgrn.ga.charter.com": "INACTIVE"
-        },
-        "1571795114": {
-            "24-181-78-239.dhcp.lgrn.ga.charter.com": "INACTIVE"
-        },
-        "1571795120": {
-            "24-181-82-146.dhcp.leds.al.charter.com": "INACTIVE"
-        },
-        "1571795126": {
-            "24-181-99-167.dhcp.leds.al.charter.com": "INACTIVE"
-        },
-        "1571795132": {
-            "24-182-101-47.dhcp.ftwo.tx.charter.com": "INACTIVE"
-        },
-        "1571795133": {
-            "24-182-106-159.dhcp.ftwo.tx.charter.com": "INACTIVE"
-        },
-        "1571795139": {
-            "24-182-179-158.dhcp.stls.mo.charter.com": "INACTIVE"
-        },
-        "1571795145": {
-            "24-182-202-128.dhcp.ftwo.tx.charter.com": "INACTIVE"
-        },
-        "1571795151": {
-            "24-182-32-117.static.lnbh.ca.charter.com": "INACTIVE"
-        },
-        "1571795157": {
-            "24-183-101-155.dhcp.mdsn.wi.charter.com": "INACTIVE"
-        },
-        "1571795163": {
-            "24-183-188-108.dhcp.oxfr.ma.charter.com": "INACTIVE"
-        },
-        "1571795169": {
-            "24-183-39-48.dhcp.mdsn.wi.charter.com": "INACTIVE"
-        },
-        "1571795558": {
-            "24-196-162-170.dhcp.ahvl.nc.charter.com": "INACTIVE"
-        },
-        "1571795564": {
-            "24-196-27-147.dhcp.leds.al.charter.com": "INACTIVE"
-        },
-        "1571795570": {
-            "24-197-127-190.dhcp.spbg.sc.charter.com": "INACTIVE"
-        },
-        "1571795576": {
-            "24-197-133-106.dhcp.spbg.sc.charter.com": "INACTIVE"
-        },
-        "1571795582": {
-            "24-197-155-116.dhcp.gsvl.ga.charter.com": "INACTIVE"
-        },
-        "1571795589": {
-            "241.sub-70-198-113.myvzw.com": "INACTIVE"
-        },
-        "1571795595": {
-            "241.sub-70-212-28.myvzw.com": "INACTIVE"
-        },
-        "1571795601": {
-            "241.sub-75-192-132.myvzw.com": "INACTIVE"
-        },
-        "1571795607": {
-            "24-205-113-172.dhcp.hspr.ca.charter.com": "INACTIVE"
-        },
-        "1571795613": {
-            "24-205-115-201.dhcp.hspr.ca.charter.com": "INACTIVE"
-        },
-        "1571795620": {
-            "24-205-118-2.dhcp.hspr.ca.charter.com": "INACTIVE"
-        },
-        "1571795626": {
-            "24-205-125-148.dhcp.hspr.ca.charter.com": "INACTIVE",
-            "24-205-135-62.dhcp.mtpk.ca.charter.com": "INACTIVE"
-        },
-        "1571795632": {
-            "24-205-226-36.dhcp.atsc.ca.charter.com": "INACTIVE"
-        },
-        "1571795638": {
-            "24-205-92-160.dhcp.psdn.ca.charter.com": "INACTIVE"
-        },
-        "1571795644": {
-            "24-207-140-143.dhcp.stls.mo.charter.com": "INACTIVE"
-        },
-        "1571795650": {
-            "24-207-193-118.dhcp.stls.mo.charter.com": "INACTIVE"
-        },
-        "1571795657": {
-            "24-217-105-89.dhcp.stls.mo.charter.com": "INACTIVE"
-        },
-        "1571795663": {
-            "24-217-198-104.dhcp.stls.mo.charter.com": "INACTIVE"
-        },
-        "1571795669": {
-            "24-217-27-142.dhcp.stls.mo.charter.com": "INACTIVE"
-        },
-        "1571795675": {
-            "24-217-86-63.dhcp.stls.mo.charter.com": "INACTIVE"
-        },
-        "1571795681": {
-            "242-222-231-201.fibertel.com.ar": "INACTIVE"
-        },
-        "1571795688": {
-            "24-226-189-49.tr.cgocable.ca": "INACTIVE"
-        },
-        "1571795694": {
-            "24-230-203-77.dr.cgocable.ca": "INACTIVE"
-        },
-        "1571795700": {
-            "24-230-239-229.hy.cgocable.ca": "INACTIVE"
-        },
-        "1571795706": {
-            "24-230-242-35.hy.cgocable.ca": "INACTIVE"
-        },
-        "1571795712": {
-            "24-230-246-11.hy.cgocable.ca": "INACTIVE"
-        },
-        "1571795718": {
-            "24-230-253-199.ma.cgocable.ca": "INACTIVE"
-        },
-        "1571795724": {
-            "24-231-255-222.dhcp.aldl.mi.charter.com": "INACTIVE"
-        },
-        "1571795731": {
-            "24-241-115-155.dhcp.gnvl.sc.charter.com": "INACTIVE"
-        },
-        "1571795737": {
-            "24-247-10-171.dhcp.aldl.mi.charter.com": "INACTIVE"
-        },
-        "1571795743": {
-            "24-247-108-96.dhcp.aldl.mi.charter.com": "INACTIVE"
-        },
-        "1571795749": {
-            "24-247-184-2.dhcp.aldl.mi.charter.com": "INACTIVE"
-        },
-        "1571795755": {
-            "242688hfc223.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1571795761": {
-            "242694hfc191.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1571795768": {
-            "242695hfc238.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1571795774": {
-            "242.red-88-19-32.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1571795780": {
-            "242.sub-70-217-167.myvzw.com": "INACTIVE"
-        },
-        "1571795787": {
-            "243.210.67.209.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1571795793": {
-            "243.sub-75-196-52.myvzw.com": "INACTIVE"
-        },
-        "1571795799": {
-            "244.178.232.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1571795805": {
-            "244-193.126-70.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1571795812": {
-            "244.203-211-139.static.qala.com.sg": "INACTIVE"
-        },
-        "1571795819": {
-            "24.48.145.147.usa2net.net": "INACTIVE"
-        },
-        "1571795825": {
-            "24-49-241-35.sg.cgocable.ca": "INACTIVE"
-        },
-        "1571795826": {
-            "24-49-252-95.ae.cgocable.ca": "INACTIVE"
-        },
-        "1571795832": {
-            "244.sub-70-198-146.myvzw.com": "INACTIVE"
-        },
-        "1571795838": {
-            "244.sub-75-195-5.myvzw.com": "INACTIVE"
-        },
-        "1571795844": {
-            "244.sub-75-219-71.myvzw.com": "INACTIVE"
-        },
-        "1571795851": {
-            "245.102-54-92.telenet.ru": "INACTIVE"
-        },
-        "1571795857": {
-            "24-54-25-199.mg.cgocable.ca": "INACTIVE"
-        },
-        "1571795863": {
-            "245-86-179-94.pool.ukrtel.net": "INACTIVE"
-        },
-        "1571795870": {
-            "245.red-88-25-142.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1571795876": {
-            "245.sub-75-196-170.myvzw.com": "INACTIVE"
-        },
-        "1571795882": {
-            "245.sub-75-212-128.myvzw.com": "INACTIVE"
-        },
-        "1571795889": {
-            "246-112-133-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1571795895": {
-            "246.116.202.84.customer.cdi.no": "INACTIVE"
-        },
-        "1571795902": {
-            "246.red-83-63-228.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1571795908": {
-            "246.sub-70-212-144.myvzw.com": "INACTIVE"
-        },
-        "1571795914": {
-            "246.sub-70-214-160.myvzw.com": "INACTIVE"
-        },
-        "1571795920": {
-            "246.sub-75-212-168.myvzw.com": "INACTIVE"
-        },
-        "1571795926": {
-            "247-199.126-70.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1571795934": {
-            "247.57.49.60.klj02-home.tm.net.my": "INACTIVE"
-        },
-        "1571795942": {
-            "247.red-88-24-250.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1571795948": {
-            "247.red-88-24-252.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1571795955": {
-            "247.sub-70-198-42.myvzw.com": "INACTIVE"
-        },
-        "1571795961": {
-            "247.sub-75-220-215.myvzw.com": "INACTIVE"
-        },
-        "1571795967": {
-            "248-190.126-70.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1571795974": {
-            "248.kansas-11rh15rt.mo.dial-access.att.net": "INACTIVE"
-        },
-        "1571795980": {
-            "248.sub-75-195-29.myvzw.com": "INACTIVE"
-        },
-        "1571795986": {
-            "248.sub-75-223-225.myvzw.com": "INACTIVE"
-        },
-        "1571795992": {
-            "248.sub-75-237-34.myvzw.com": "INACTIVE"
-        },
-        "1571795999": {
-            "249.red-88-25-142.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1571796005": {
-            "250-131.106-97.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1571796012": {
-            "250.201.232.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1571796018": {
-            "250.32.233.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1571796024": {
-            "250-70-132-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1571796030": {
-            "250.sub-75-218-4.myvzw.com": "INACTIVE"
-        },
-        "1571796037": {
-            "25-1.127-70.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1571796043": {
-            "25-117-169-81.mobileinternet.proximus.be": "INACTIVE"
-        },
-        "1571796050": {
-            "251-182-133-95.pool.ukrtel.net": "INACTIVE"
-        },
         "1571796056": {
             "251.32.233.72.static.reverse.ltdomains.com": "INACTIVE"
         },
@@ -11195,6 +10902,297 @@
         },
         "1572090686": {
             "24-181-13-204.static.gwnt.ga.charter.com": "INACTIVE"
+        },
+        "1572091283": {
+            "24-181-216-249.dhcp.hckr.nc.charter.com": "INACTIVE"
+        },
+        "1572091289": {
+            "24-181-218-225.dhcp.hckr.nc.charter.com": "INACTIVE"
+        },
+        "1572091296": {
+            "24-181-43-124.dhcp.wspn.ga.charter.com": "INACTIVE"
+        },
+        "1572091302": {
+            "24-181-46-33.dhcp.nwnn.ga.charter.com": "INACTIVE",
+            "24-181-47-212.dhcp.nwnn.ga.charter.com": "INACTIVE"
+        },
+        "1572091308": {
+            "24-181-77-56.dhcp.lgrn.ga.charter.com": "INACTIVE"
+        },
+        "1572091314": {
+            "24-181-78-142.dhcp.lgrn.ga.charter.com": "INACTIVE"
+        },
+        "1572091320": {
+            "24-181-78-239.dhcp.lgrn.ga.charter.com": "INACTIVE"
+        },
+        "1572091326": {
+            "24-181-82-146.dhcp.leds.al.charter.com": "INACTIVE"
+        },
+        "1572091332": {
+            "24-181-99-167.dhcp.leds.al.charter.com": "INACTIVE"
+        },
+        "1572091339": {
+            "24-182-101-47.dhcp.ftwo.tx.charter.com": "INACTIVE",
+            "24-182-106-159.dhcp.ftwo.tx.charter.com": "INACTIVE"
+        },
+        "1572091345": {
+            "24-182-179-158.dhcp.stls.mo.charter.com": "INACTIVE"
+        },
+        "1572091351": {
+            "24-182-202-128.dhcp.ftwo.tx.charter.com": "INACTIVE"
+        },
+        "1572091357": {
+            "24-182-32-117.static.lnbh.ca.charter.com": "INACTIVE"
+        },
+        "1572091363": {
+            "24-183-101-155.dhcp.mdsn.wi.charter.com": "INACTIVE"
+        },
+        "1572091369": {
+            "24-183-188-108.dhcp.oxfr.ma.charter.com": "INACTIVE"
+        },
+        "1572091376": {
+            "24-183-39-48.dhcp.mdsn.wi.charter.com": "INACTIVE"
+        },
+        "1572091382": {
+            "24-196-162-170.dhcp.ahvl.nc.charter.com": "INACTIVE"
+        },
+        "1572091388": {
+            "24-196-27-147.dhcp.leds.al.charter.com": "INACTIVE"
+        },
+        "1572091394": {
+            "24-197-127-190.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1572091400": {
+            "24-197-133-106.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1572091406": {
+            "24-197-155-116.dhcp.gsvl.ga.charter.com": "INACTIVE"
+        },
+        "1572091412": {
+            "241.sub-70-198-113.myvzw.com": "INACTIVE"
+        },
+        "1572091419": {
+            "241.sub-70-212-28.myvzw.com": "INACTIVE"
+        },
+        "1572091425": {
+            "241.sub-75-192-132.myvzw.com": "INACTIVE"
+        },
+        "1572091431": {
+            "24-205-113-172.dhcp.hspr.ca.charter.com": "INACTIVE"
+        },
+        "1572091437": {
+            "24-205-115-201.dhcp.hspr.ca.charter.com": "INACTIVE"
+        },
+        "1572091443": {
+            "24-205-118-2.dhcp.hspr.ca.charter.com": "INACTIVE"
+        },
+        "1572091450": {
+            "24-205-125-148.dhcp.hspr.ca.charter.com": "INACTIVE",
+            "24-205-135-62.dhcp.mtpk.ca.charter.com": "INACTIVE"
+        },
+        "1572091456": {
+            "24-205-226-36.dhcp.atsc.ca.charter.com": "INACTIVE"
+        },
+        "1572091462": {
+            "24-205-92-160.dhcp.psdn.ca.charter.com": "INACTIVE"
+        },
+        "1572091468": {
+            "24-207-140-143.dhcp.stls.mo.charter.com": "INACTIVE"
+        },
+        "1572091474": {
+            "24-207-193-118.dhcp.stls.mo.charter.com": "INACTIVE"
+        },
+        "1572091480": {
+            "24-217-105-89.dhcp.stls.mo.charter.com": "INACTIVE"
+        },
+        "1572091487": {
+            "24-217-198-104.dhcp.stls.mo.charter.com": "INACTIVE"
+        },
+        "1572091493": {
+            "24-217-27-142.dhcp.stls.mo.charter.com": "INACTIVE"
+        },
+        "1572091499": {
+            "24-217-86-63.dhcp.stls.mo.charter.com": "INACTIVE"
+        },
+        "1572091505": {
+            "242-222-231-201.fibertel.com.ar": "INACTIVE"
+        },
+        "1572091512": {
+            "24-226-189-49.tr.cgocable.ca": "INACTIVE"
+        },
+        "1572091518": {
+            "24-230-203-77.dr.cgocable.ca": "INACTIVE"
+        },
+        "1572091524": {
+            "24-230-239-229.hy.cgocable.ca": "INACTIVE"
+        },
+        "1572091530": {
+            "24-230-242-35.hy.cgocable.ca": "INACTIVE"
+        },
+        "1572091536": {
+            "24-230-246-11.hy.cgocable.ca": "INACTIVE"
+        },
+        "1572091542": {
+            "24-230-253-199.ma.cgocable.ca": "INACTIVE"
+        },
+        "1572091548": {
+            "24-231-255-222.dhcp.aldl.mi.charter.com": "INACTIVE"
+        },
+        "1572091555": {
+            "24-241-115-155.dhcp.gnvl.sc.charter.com": "INACTIVE"
+        },
+        "1572091561": {
+            "24-247-10-171.dhcp.aldl.mi.charter.com": "INACTIVE"
+        },
+        "1572091567": {
+            "24-247-108-96.dhcp.aldl.mi.charter.com": "INACTIVE"
+        },
+        "1572091573": {
+            "24-247-184-2.dhcp.aldl.mi.charter.com": "INACTIVE"
+        },
+        "1572091579": {
+            "242688hfc223.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572091585": {
+            "242694hfc191.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572091591": {
+            "242695hfc238.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572091598": {
+            "242.red-88-19-32.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572091604": {
+            "242.sub-70-217-167.myvzw.com": "INACTIVE"
+        },
+        "1572091611": {
+            "243.210.67.209.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572091617": {
+            "243.sub-75-196-52.myvzw.com": "INACTIVE"
+        },
+        "1572091623": {
+            "244.178.232.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572091630": {
+            "244-193.126-70.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572091637": {
+            "244.203-211-139.static.qala.com.sg": "INACTIVE"
+        },
+        "1572091643": {
+            "24.48.145.147.usa2net.net": "INACTIVE"
+        },
+        "1572091649": {
+            "24-49-241-35.sg.cgocable.ca": "INACTIVE"
+        },
+        "1572091656": {
+            "24-49-252-95.ae.cgocable.ca": "INACTIVE"
+        },
+        "1572091662": {
+            "244.sub-70-198-146.myvzw.com": "INACTIVE"
+        },
+        "1572091668": {
+            "244.sub-75-195-5.myvzw.com": "INACTIVE"
+        },
+        "1572091674": {
+            "244.sub-75-219-71.myvzw.com": "INACTIVE"
+        },
+        "1572091681": {
+            "245.102-54-92.telenet.ru": "INACTIVE"
+        },
+        "1572091687": {
+            "24-54-25-199.mg.cgocable.ca": "INACTIVE"
+        },
+        "1572091693": {
+            "245-86-179-94.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572091700": {
+            "245.red-88-25-142.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572091706": {
+            "245.sub-75-196-170.myvzw.com": "INACTIVE"
+        },
+        "1572091712": {
+            "245.sub-75-212-128.myvzw.com": "INACTIVE"
+        },
+        "1572091719": {
+            "246-112-133-95.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572091725": {
+            "246.116.202.84.customer.cdi.no": "INACTIVE"
+        },
+        "1572091732": {
+            "246.red-83-63-228.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572091738": {
+            "246.sub-70-212-144.myvzw.com": "INACTIVE"
+        },
+        "1572091744": {
+            "246.sub-70-214-160.myvzw.com": "INACTIVE"
+        },
+        "1572091750": {
+            "246.sub-75-212-168.myvzw.com": "INACTIVE"
+        },
+        "1572091757": {
+            "247-199.126-70.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572091765": {
+            "247.57.49.60.klj02-home.tm.net.my": "INACTIVE"
+        },
+        "1572091772": {
+            "247.red-88-24-250.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572091779": {
+            "247.red-88-24-252.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572091785": {
+            "247.sub-70-198-42.myvzw.com": "INACTIVE"
+        },
+        "1572091791": {
+            "247.sub-75-220-215.myvzw.com": "INACTIVE"
+        },
+        "1572091798": {
+            "248-190.126-70.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572091804": {
+            "248.kansas-11rh15rt.mo.dial-access.att.net": "INACTIVE"
+        },
+        "1572091810": {
+            "248.sub-75-195-29.myvzw.com": "INACTIVE"
+        },
+        "1572091816": {
+            "248.sub-75-223-225.myvzw.com": "INACTIVE"
+        },
+        "1572091823": {
+            "248.sub-75-237-34.myvzw.com": "INACTIVE"
+        },
+        "1572091829": {
+            "249.red-88-25-142.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572091836": {
+            "250-131.106-97.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572091842": {
+            "250.201.232.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572091848": {
+            "250.32.233.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572091854": {
+            "250-70-132-95.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572091861": {
+            "250.sub-75-218-4.myvzw.com": "INACTIVE"
+        },
+        "1572091867": {
+            "25-1.127-70.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572091873": {
+            "25-117-169-81.mobileinternet.proximus.be": "INACTIVE"
+        },
+        "1572091880": {
+            "251-182-133-95.pool.ukrtel.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
