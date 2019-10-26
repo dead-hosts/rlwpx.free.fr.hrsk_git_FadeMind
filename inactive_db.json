@@ -1,101 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1571803180": {
-            "66-191-249-167.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1571803186": {
-            "66-191-95-148.dhcp.stpt.wi.charter.com": "INACTIVE"
-        },
-        "1571803193": {
-            "66-194-168-122.static.twtelecom.net": "INACTIVE"
-        },
-        "1571803199": {
-            "66-200-117-220.client.dsl.net": "INACTIVE"
-        },
-        "1571803205": {
-            "66-214-112-95.dhcp.hspr.ca.charter.com": "INACTIVE"
-        },
-        "1571803206": {
-            "66-214-116-46.dhcp.hspr.ca.charter.com": "INACTIVE"
-        },
-        "1571803212": {
-            "66-214-1-81.dhcp.lnbh.ca.charter.com": "INACTIVE"
-        },
-        "1571803218": {
-            "66-215-113-140.dhcp.snlo.ca.charter.com": "INACTIVE"
-        },
-        "1571803224": {
-            "66-215-161-155.dhcp.rvsd.ca.charter.com": "INACTIVE"
-        },
-        "1571803751": {
-            "66-215-203-53.dhcp.rvsd.ca.charter.com": "INACTIVE"
-        },
-        "1571803757": {
-            "66-215-247-101.dhcp.rvsd.ca.charter.com": "INACTIVE"
-        },
-        "1571803763": {
-            "66-215-38-191.dhcp.hspr.ca.charter.com": "INACTIVE"
-        },
-        "1571803770": {
-            "66-215-61-247.dhcp.atsc.ca.charter.com": "INACTIVE"
-        },
-        "1571803776": {
-            "66-215-61-24.dhcp.atsc.ca.charter.com": "INACTIVE"
-        },
-        "1571803782": {
-            "66-215-86-103.dhcp.psdn.ca.charter.com": "INACTIVE"
-        },
-        "1571803788": {
-            "66-215-92-157.dhcp.psdn.ca.charter.com": "INACTIVE"
-        },
-        "1571803794": {
-            "66-215-93-135.dhcp.psdn.ca.charter.com": "INACTIVE"
-        },
-        "1571803800": {
-            "66-226-75-10.dedicated.abac.net": "INACTIVE"
-        },
-        "1571803807": {
-            "66-231-194-106.oxfordnetworks.net": "INACTIVE"
-        },
-        "1571803813": {
-            "66-38-113-90.pool.dsl.nctc.com": "INACTIVE"
-        },
-        "1571803819": {
-            "66-38-116-134.pool.dsl.nctc.com": "INACTIVE"
-        },
-        "1571803825": {
-            "66-50-23-1.prtc.net": "INACTIVE"
-        },
-        "1571803832": {
-            "66-50-23-30.prtc.net": "INACTIVE"
-        },
-        "1571803838": {
-            "66-50-4-143.prtc.net": "INACTIVE"
-        },
-        "1571803844": {
-            "66-50-83-12.prtc.net": "INACTIVE"
-        },
-        "1571803850": {
-            "66-50-83-15.prtc.net": "INACTIVE"
-        },
-        "1571803851": {
-            "6.hidemyass.com": "INACTIVE"
-        },
-        "1571803852": {
-            "6.jsdx3.crsky.com": "INACTIVE"
-        },
-        "1571803853": {
-            "6.scdx3.crsky.com": "INACTIVE"
-        },
-        "1571803859": {
-            "6.sub-70-211-6.myvzw.com": "INACTIVE"
-        },
-        "1571803865": {
-            "6.sub-70-212-77.myvzw.com": "INACTIVE"
-        },
-        "1571803871": {
-            "6.sub-70-222-217.myvzw.com": "INACTIVE"
-        },
         "1572035220": {
             "00fun.casalemedia.com": "INACTIVE"
         },
@@ -11172,6 +11076,100 @@
         },
         "1572099745": {
             "66-191-248-17.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572100100": {
+            "66-191-249-167.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572100106": {
+            "66-191-95-148.dhcp.stpt.wi.charter.com": "INACTIVE"
+        },
+        "1572100112": {
+            "66-194-168-122.static.twtelecom.net": "INACTIVE"
+        },
+        "1572100118": {
+            "66-200-117-220.client.dsl.net": "INACTIVE"
+        },
+        "1572100125": {
+            "66-214-112-95.dhcp.hspr.ca.charter.com": "INACTIVE",
+            "66-214-116-46.dhcp.hspr.ca.charter.com": "INACTIVE"
+        },
+        "1572100131": {
+            "66-214-1-81.dhcp.lnbh.ca.charter.com": "INACTIVE"
+        },
+        "1572100137": {
+            "66-215-113-140.dhcp.snlo.ca.charter.com": "INACTIVE"
+        },
+        "1572100143": {
+            "66-215-161-155.dhcp.rvsd.ca.charter.com": "INACTIVE"
+        },
+        "1572100149": {
+            "66-215-203-53.dhcp.rvsd.ca.charter.com": "INACTIVE"
+        },
+        "1572100155": {
+            "66-215-247-101.dhcp.rvsd.ca.charter.com": "INACTIVE"
+        },
+        "1572100162": {
+            "66-215-38-191.dhcp.hspr.ca.charter.com": "INACTIVE"
+        },
+        "1572100168": {
+            "66-215-61-247.dhcp.atsc.ca.charter.com": "INACTIVE"
+        },
+        "1572100174": {
+            "66-215-61-24.dhcp.atsc.ca.charter.com": "INACTIVE"
+        },
+        "1572100180": {
+            "66-215-86-103.dhcp.psdn.ca.charter.com": "INACTIVE"
+        },
+        "1572100186": {
+            "66-215-92-157.dhcp.psdn.ca.charter.com": "INACTIVE"
+        },
+        "1572100192": {
+            "66-215-93-135.dhcp.psdn.ca.charter.com": "INACTIVE"
+        },
+        "1572100199": {
+            "66-226-75-10.dedicated.abac.net": "INACTIVE"
+        },
+        "1572100205": {
+            "66-231-194-106.oxfordnetworks.net": "INACTIVE"
+        },
+        "1572100211": {
+            "66-38-113-90.pool.dsl.nctc.com": "INACTIVE"
+        },
+        "1572100217": {
+            "66-38-116-134.pool.dsl.nctc.com": "INACTIVE"
+        },
+        "1572100223": {
+            "66-50-23-1.prtc.net": "INACTIVE"
+        },
+        "1572100230": {
+            "66-50-23-30.prtc.net": "INACTIVE"
+        },
+        "1572100236": {
+            "66-50-4-143.prtc.net": "INACTIVE"
+        },
+        "1572100242": {
+            "66-50-83-12.prtc.net": "INACTIVE"
+        },
+        "1572100248": {
+            "66-50-83-15.prtc.net": "INACTIVE"
+        },
+        "1572100249": {
+            "6.hidemyass.com": "INACTIVE"
+        },
+        "1572100250": {
+            "6.jsdx3.crsky.com": "INACTIVE"
+        },
+        "1572100251": {
+            "6.scdx3.crsky.com": "INACTIVE"
+        },
+        "1572100257": {
+            "6.sub-70-211-6.myvzw.com": "INACTIVE"
+        },
+        "1572100264": {
+            "6.sub-70-212-77.myvzw.com": "INACTIVE"
+        },
+        "1572100270": {
+            "6.sub-70-222-217.myvzw.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
