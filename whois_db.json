@@ -1100,9 +1100,9 @@
         "state": "future"
     },
     "3deepspace.com": {
-        "epoch": "1572220800",
+        "epoch": 1572220800,
         "expiration_date": "28-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "3designcenter.com": {
         "epoch": 1630540800,
