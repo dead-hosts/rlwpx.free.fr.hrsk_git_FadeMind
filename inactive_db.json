@@ -1,344 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1572097526": {
-            "61-24-68-209.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572097532": {
-            "61.254-224-87.telenet.ru": "INACTIVE"
-        },
-        "1572097539": {
-            "61-26-162-239.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572097545": {
-            "61-27-202-126.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572097552": {
-            "61-27-37-108.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572097558": {
-            "61-27-50-127.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572097565": {
-            "61-27-78-188.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572097571": {
-            "615446.ds.nac.net": "INACTIVE"
-        },
-        "1572097578": {
-            "61-56-132-197-adsl-tpe.static.so-net.net.tw": "INACTIVE"
-        },
-        "1572097585": {
-            "6-157-231-201.fibertel.com.ar": "INACTIVE"
-        },
-        "1572097591": {
-            "61-62-126-140-adsl-pin.static.so-net.net.tw": "INACTIVE"
-        },
-        "1572097598": {
-            "61-62-180-80-adsl-tan.static.so-net.net.tw": "INACTIVE"
-        },
-        "1572097605": {
-            "61-63-72-host17.kbtelecom.net.tw": "INACTIVE"
-        },
-        "1572097612": {
-            "61-64-162-98-adsl-tai.static.so-net.net.tw": "INACTIVE"
-        },
-        "1572097619": {
-            "61-64-188-239-adsl-kao.static.so-net.net.tw": "INACTIVE"
-        },
-        "1572097626": {
-            "61-64-96-136-adsl-chu.static.so-net.net.tw": "INACTIVE"
-        },
-        "1572097633": {
-            "61-67-214-host163.kbtelecom.net.tw": "INACTIVE"
-        },
-        "1572097639": {
-            "616768.ds.nac.net": "INACTIVE"
-        },
-        "1572097645": {
-            "616957.ds.nac.net": "INACTIVE"
-        },
-        "1572097651": {
-            "616959.ds.nac.net": "INACTIVE"
-        },
-        "1572097652": {
-            "6-170-195-217.cust.centrio.cz": "INACTIVE"
-        },
-        "1572097665": {
-            "61-70-224-16.adsl.static.giga.net.tw": "INACTIVE"
-        },
-        "1572097671": {
-            "61-90-163-130.static.asianet.co.th": "INACTIVE"
-        },
-        "1572097677": {
-            "6.198.36.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1572097684": {
-            "61.gardena-05rh15-16rt.ca.dial-access.att.net": "INACTIVE"
-        },
-        "1572097690": {
-            "61.piscataway-02rh15rt.nj.dial-access.att.net": "INACTIVE"
-        },
-        "1572097696": {
-            "61.red-213-98-109.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1572097702": {
-            "61.sub-70-197-50.myvzw.com": "INACTIVE"
-        },
-        "1572097709": {
-            "61.sub-75-200-41.myvzw.com": "INACTIVE"
-        },
-        "1572097715": {
-            "61.sub-75-235-197.myvzw.com": "INACTIVE"
-        },
-        "1572097721": {
-            "61.sub-97-250-109.myvzw.com": "INACTIVE"
-        },
-        "1572097728": {
-            "62.101.168.129.static.user.ono.com": "INACTIVE"
-        },
-        "1572097734": {
-            "62.101.169.192.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572097741": {
-            "62.101.169.223.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572097747": {
-            "62.101.169.232.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572097754": {
-            "62.101.170.54.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098096": {
-            "62.101.172.100.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098103": {
-            "62.101.172.129.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098109": {
-            "62.101.172.133.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098116": {
-            "62.101.172.158.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098122": {
-            "62.101.172.167.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098123": {
-            "62.101.172.187.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098130": {
-            "62.101.172.79.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098136": {
-            "62.101.173.121.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098143": {
-            "62.101.173.17.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098149": {
-            "62.101.173.211.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098150": {
-            "62.101.173.221.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098151": {
-            "62.101.173.34.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098157": {
-            "62.101.173.40.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098164": {
-            "62.101.174.105.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098170": {
-            "62.101.174.234.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098171": {
-            "62.101.174.76.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098178": {
-            "62.101.174.82.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098184": {
-            "62.101.174.97.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098191": {
-            "62.101.175.116.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098197": {
-            "62.101.175.12.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098204": {
-            "62.101.175.22.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098210": {
-            "62.101.175.30.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098217": {
-            "62.101.190.84.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098221": {
-            "62-101-87-201.ip.fastwebnet.it": "INACTIVE"
-        },
-        "1572098228": {
-            "62.105.48.60.brk01-home.tm.net.my": "INACTIVE"
-        },
-        "1572098234": {
-            "62-148-178-108-hosted-by.denit.net": "INACTIVE"
-        },
-        "1572098236": {
-            "62.183.18.160.modem-pool.kuban.ru": "INACTIVE"
-        },
-        "1572098237": {
-            "62.183.2.135.modem-pool.kuban.ru": "INACTIVE"
-        },
-        "1572098238": {
-            "62.183.2.136.modem-pool.kuban.ru": "INACTIVE"
-        },
-        "1572098239": {
-            "62.183.2.18.modem-pool.kuban.ru": "INACTIVE"
-        },
-        "1572098240": {
-            "62.183.2.195.modem-pool.kuban.ru": "INACTIVE"
-        },
-        "1572098241": {
-            "62.183.2.41.modem-pool.kuban.ru": "INACTIVE"
-        },
-        "1572098242": {
-            "62.183.2.60.modem-pool.kuban.ru": "INACTIVE"
-        },
-        "1572098243": {
-            "62.183.3.125.modem-pool.kuban.ru": "INACTIVE"
-        },
-        "1572098244": {
-            "62.183.3.13.modem-pool.kuban.ru": "INACTIVE"
-        },
-        "1572098245": {
-            "62.183.3.27.modem-pool.kuban.ru": "INACTIVE",
-            "62.183.3.86.modem-pool.kuban.ru": "INACTIVE"
-        },
-        "1572098252": {
-            "62.42.128.192.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098259": {
-            "62.42.196.157.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098265": {
-            "62.42.3.59.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098272": {
-            "62.42.38.52.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098278": {
-            "62.42.94.146.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098284": {
-            "6-242.97-97.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1572098291": {
-            "62.43.110.196.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098298": {
-            "62.43.121.152.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098304": {
-            "62.43.227.213.static.user.ono.com": "INACTIVE"
-        },
-        "1572098305": {
-            "62-47-11-206.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1572098312": {
-            "62-47-12-140.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1572098318": {
-            "62-47-13-64.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1572098325": {
-            "62-47-14-112.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1572098326": {
-            "62-47-16-150.adsl.highway.telekom.at": "INACTIVE",
-            "62-47-17-161.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1572098333": {
-            "62-47-19-226.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1572098339": {
-            "62-47-193-222.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1572098346": {
-            "62-47-210-47.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1572098352": {
-            "62-47-2-106.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1572098359": {
-            "62-47-21-119.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1572098366": {
-            "62-47-21-82.adsl.highway.telekom.at": "INACTIVE",
-            "62-47-223-124.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1572098373": {
-            "62-47-24-94.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1572098379": {
-            "62-47-28-164.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1572098380": {
-            "62-47-30-250.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1572098387": {
-            "62-47-30-48.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1572098393": {
-            "62-47-4-153.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1572098400": {
-            "62-47-4-182.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1572098406": {
-            "6-24.dedicado.com.uy": "INACTIVE"
-        },
-        "1572098407": {
-            "62.57.11.198.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098414": {
-            "62.57.177.11.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098420": {
-            "62.57.177.188.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098421": {
-            "62.57.213.163.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098428": {
-            "62.57.213.254.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098434": {
-            "62.57.213.68.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098435": {
-            "62.57.22.141.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098441": {
-            "62.57.239.86.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098448": {
-            "62.57.249.155.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098454": {
-            "62.57.56.29.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098461": {
-            "62.57.58.75.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098468": {
-            "62.57.59.7.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572098474": {
-            "62.57.61.115.dyn.user.ono.com": "INACTIVE"
-        },
         "1572098482": {
             "62.57.9.245.dyn.user.ono.com": "INACTIVE",
             "62.57.96.148.dyn.user.ono.com": "INACTIVE"
@@ -11160,6 +10821,345 @@
         },
         "1572242790": {
             "61-24-60-112.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572242945": {
+            "61-24-68-209.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572242951": {
+            "61.254-224-87.telenet.ru": "INACTIVE"
+        },
+        "1572242958": {
+            "61-26-162-239.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572242964": {
+            "61-27-202-126.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572242971": {
+            "61-27-37-108.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572242977": {
+            "61-27-50-127.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572242984": {
+            "61-27-78-188.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572242990": {
+            "615446.ds.nac.net": "INACTIVE"
+        },
+        "1572242997": {
+            "61-56-132-197-adsl-tpe.static.so-net.net.tw": "INACTIVE"
+        },
+        "1572243003": {
+            "6-157-231-201.fibertel.com.ar": "INACTIVE"
+        },
+        "1572243010": {
+            "61-62-126-140-adsl-pin.static.so-net.net.tw": "INACTIVE"
+        },
+        "1572243017": {
+            "61-62-180-80-adsl-tan.static.so-net.net.tw": "INACTIVE"
+        },
+        "1572243024": {
+            "61-63-72-host17.kbtelecom.net.tw": "INACTIVE"
+        },
+        "1572243031": {
+            "61-64-162-98-adsl-tai.static.so-net.net.tw": "INACTIVE"
+        },
+        "1572243037": {
+            "61-64-188-239-adsl-kao.static.so-net.net.tw": "INACTIVE"
+        },
+        "1572243044": {
+            "61-64-96-136-adsl-chu.static.so-net.net.tw": "INACTIVE"
+        },
+        "1572243051": {
+            "61-67-214-host163.kbtelecom.net.tw": "INACTIVE"
+        },
+        "1572243057": {
+            "616768.ds.nac.net": "INACTIVE"
+        },
+        "1572243063": {
+            "616957.ds.nac.net": "INACTIVE"
+        },
+        "1572243069": {
+            "616959.ds.nac.net": "INACTIVE"
+        },
+        "1572243070": {
+            "6-170-195-217.cust.centrio.cz": "INACTIVE"
+        },
+        "1572243086": {
+            "61-70-224-16.adsl.static.giga.net.tw": "INACTIVE"
+        },
+        "1572243092": {
+            "61-90-163-130.static.asianet.co.th": "INACTIVE"
+        },
+        "1572243099": {
+            "6.198.36.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572243105": {
+            "61.gardena-05rh15-16rt.ca.dial-access.att.net": "INACTIVE"
+        },
+        "1572243111": {
+            "61.piscataway-02rh15rt.nj.dial-access.att.net": "INACTIVE"
+        },
+        "1572243118": {
+            "61.red-213-98-109.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572243124": {
+            "61.sub-70-197-50.myvzw.com": "INACTIVE"
+        },
+        "1572243130": {
+            "61.sub-75-200-41.myvzw.com": "INACTIVE"
+        },
+        "1572243136": {
+            "61.sub-75-235-197.myvzw.com": "INACTIVE"
+        },
+        "1572243143": {
+            "61.sub-97-250-109.myvzw.com": "INACTIVE"
+        },
+        "1572243149": {
+            "62.101.168.129.static.user.ono.com": "INACTIVE"
+        },
+        "1572243156": {
+            "62.101.169.192.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243162": {
+            "62.101.169.223.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243169": {
+            "62.101.169.232.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243175": {
+            "62.101.170.54.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243176": {
+            "62.101.172.100.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243183": {
+            "62.101.172.129.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243189": {
+            "62.101.172.133.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243196": {
+            "62.101.172.158.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243202": {
+            "62.101.172.167.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243203": {
+            "62.101.172.187.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243210": {
+            "62.101.172.79.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243216": {
+            "62.101.173.121.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243223": {
+            "62.101.173.17.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243229": {
+            "62.101.173.211.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243230": {
+            "62.101.173.221.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243231": {
+            "62.101.173.34.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243237": {
+            "62.101.173.40.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243244": {
+            "62.101.174.105.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243250": {
+            "62.101.174.234.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243251": {
+            "62.101.174.76.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243258": {
+            "62.101.174.82.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243264": {
+            "62.101.174.97.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243271": {
+            "62.101.175.116.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243277": {
+            "62.101.175.12.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243284": {
+            "62.101.175.22.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243290": {
+            "62.101.175.30.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243297": {
+            "62.101.190.84.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243300": {
+            "62-101-87-201.ip.fastwebnet.it": "INACTIVE"
+        },
+        "1572243302": {
+            "62.105.48.60.brk01-home.tm.net.my": "INACTIVE"
+        },
+        "1572243308": {
+            "62-148-178-108-hosted-by.denit.net": "INACTIVE"
+        },
+        "1572243310": {
+            "62.183.18.160.modem-pool.kuban.ru": "INACTIVE"
+        },
+        "1572243311": {
+            "62.183.2.135.modem-pool.kuban.ru": "INACTIVE"
+        },
+        "1572243312": {
+            "62.183.2.136.modem-pool.kuban.ru": "INACTIVE"
+        },
+        "1572243313": {
+            "62.183.2.18.modem-pool.kuban.ru": "INACTIVE"
+        },
+        "1572243314": {
+            "62.183.2.195.modem-pool.kuban.ru": "INACTIVE"
+        },
+        "1572243315": {
+            "62.183.2.41.modem-pool.kuban.ru": "INACTIVE"
+        },
+        "1572243316": {
+            "62.183.2.60.modem-pool.kuban.ru": "INACTIVE"
+        },
+        "1572243317": {
+            "62.183.3.125.modem-pool.kuban.ru": "INACTIVE"
+        },
+        "1572243318": {
+            "62.183.3.13.modem-pool.kuban.ru": "INACTIVE"
+        },
+        "1572243319": {
+            "62.183.3.27.modem-pool.kuban.ru": "INACTIVE"
+        },
+        "1572243320": {
+            "62.183.3.86.modem-pool.kuban.ru": "INACTIVE"
+        },
+        "1572243327": {
+            "62.42.128.192.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243334": {
+            "62.42.196.157.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243340": {
+            "62.42.3.59.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243347": {
+            "62.42.38.52.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243353": {
+            "62.42.94.146.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243359": {
+            "6-242.97-97.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572243366": {
+            "62.43.110.196.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243373": {
+            "62.43.121.152.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243379": {
+            "62.43.227.213.static.user.ono.com": "INACTIVE"
+        },
+        "1572243386": {
+            "62-47-11-206.adsl.highway.telekom.at": "INACTIVE",
+            "62-47-12-140.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1572243393": {
+            "62-47-13-64.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1572243394": {
+            "62-47-14-112.adsl.highway.telekom.at": "INACTIVE",
+            "62-47-16-150.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1572243395": {
+            "62-47-17-161.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1572243402": {
+            "62-47-19-226.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1572243408": {
+            "62-47-193-222.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1572243415": {
+            "62-47-210-47.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1572243421": {
+            "62-47-2-106.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1572243422": {
+            "62-47-21-119.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1572243429": {
+            "62-47-21-82.adsl.highway.telekom.at": "INACTIVE",
+            "62-47-223-124.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1572243436": {
+            "62-47-24-94.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1572243442": {
+            "62-47-28-164.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1572243443": {
+            "62-47-30-250.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1572243450": {
+            "62-47-30-48.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1572243456": {
+            "62-47-4-153.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1572243463": {
+            "62-47-4-182.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1572243469": {
+            "6-24.dedicado.com.uy": "INACTIVE"
+        },
+        "1572243470": {
+            "62.57.11.198.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243477": {
+            "62.57.177.11.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243483": {
+            "62.57.177.188.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243484": {
+            "62.57.213.163.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243490": {
+            "62.57.213.254.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243497": {
+            "62.57.213.68.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243498": {
+            "62.57.22.141.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243504": {
+            "62.57.239.86.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243511": {
+            "62.57.249.155.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243517": {
+            "62.57.56.29.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243524": {
+            "62.57.58.75.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243531": {
+            "62.57.59.7.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572243537": {
+            "62.57.61.115.dyn.user.ono.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
