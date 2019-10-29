@@ -1,309 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1572219358": {
-            "16643.kit.carpediem.fr": "INACTIVE"
-        },
-        "1572219365": {
-            "166.los-angeles-11rh15rt.ca.dial-access.att.net": "INACTIVE"
-        },
-        "1572219479": {
-            "166.sub-75-212-119.myvzw.com": "INACTIVE"
-        },
-        "1572219485": {
-            "167.165-224-87.telenet.ru": "INACTIVE"
-        },
-        "1572219491": {
-            "167.183-224-87.telenet.ru": "INACTIVE"
-        },
-        "1572219498": {
-            "167-216-114-200.fibertel.com.ar": "INACTIVE"
-        },
-        "1572219511": {
-            "167.sub-75-203-78.myvzw.com": "INACTIVE",
-            "168-100-182-165.static.cloud9.net": "INACTIVE"
-        },
-        "1572219518": {
-            "168-136-16-190.fibertel.com.ar": "INACTIVE"
-        },
-        "1572219524": {
-            "168-233.dedicado.com.uy": "INACTIVE"
-        },
-        "1572219527": {
-            "168-92-146-160.ipv4.firstcomm.com": "INACTIVE"
-        },
-        "1572219530": {
-            "168.red-80-24-154.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1572219533": {
-            "169.93.broadband3.iol.cz": "INACTIVE"
-        },
-        "1572219539": {
-            "169.red-80-39-45.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1572219545": {
-            "169.sub-70-212-95.myvzw.com": "INACTIVE"
-        },
-        "1572219552": {
-            "169.sub-75-214-91.myvzw.com": "INACTIVE"
-        },
-        "1572219558": {
-            "16.red-212-78-145.user.auna.net": "INACTIVE"
-        },
-        "1572219565": {
-            "16.sub-75-236-153.myvzw.com": "INACTIVE"
-        },
-        "1572219573": {
-            "170.232.232.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1572219579": {
-            "170.47.103.87.rev.vodafone.pt": "INACTIVE"
-        },
-        "1572219581": {
-            "170.56.classcom.pl": "INACTIVE"
-        },
-        "1572219585": {
-            "170.red-88-31-71.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1572219591": {
-            "170.sub-70-213-75.myvzw.com": "INACTIVE"
-        },
-        "1572219597": {
-            "170.sub-70-220-29.myvzw.com": "INACTIVE"
-        },
-        "1572219604": {
-            "170.sub-75-206-120.myvzw.com": "INACTIVE"
-        },
-        "1572219610": {
-            "17-18.35-65.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1572219616": {
-            "171.sub-75-205-191.myvzw.com": "INACTIVE"
-        },
-        "1572219623": {
-            "173.116.232.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1572219629": {
-            "173-12-42-41-philadelphia.hfc.comcastbusiness.net": "INACTIVE"
-        },
-        "1572219635": {
-            "173-14-48-65-michigan.hfc.comcastbusiness.net": "INACTIVE"
-        },
-        "1572219641": {
-            "173-15-133-13-busname-philadelphia.hfc.comcastbusiness.net": "INACTIVE"
-        },
-        "1572219647": {
-            "173-15-57-185-illinois.hfc.comcastbusiness.net": "INACTIVE"
-        },
-        "1572219653": {
-            "173-16-134-229.client.mchsi.com": "INACTIVE"
-        },
-        "1572219659": {
-            "173-16-137-75.client.mchsi.com": "INACTIVE"
-        },
-        "1572219666": {
-            "173-163-151-27-cpennsylvania2.hfc.comcastbusiness.net": "INACTIVE"
-        },
-        "1572219672": {
-            "173-16-44-169.client.mchsi.com": "INACTIVE",
-            "173-17-151-241.client.mchsi.com": "INACTIVE"
-        },
-        "1572219678": {
-            "173-17-189-162.client.mchsi.com": "INACTIVE"
-        },
-        "1572219684": {
-            "173-17-38-121.client.mchsi.com": "INACTIVE"
-        },
-        "1572219690": {
-            "173-17-99-170.client.mchsi.com": "INACTIVE"
-        },
-        "1572219697": {
-            "173-18-103-201.client.mchsi.com": "INACTIVE"
-        },
-        "1572219703": {
-            "173-18-2-17.client.mchsi.com": "INACTIVE"
-        },
-        "1572219709": {
-            "173-18-96-66.client.mchsi.com": "INACTIVE"
-        },
-        "1572219715": {
-            "173-19-138-86.client.mchsi.com": "INACTIVE"
-        },
-        "1572219721": {
-            "173-19-26-252.client.mchsi.com": "INACTIVE",
-            "173-20-137-120.client.mchsi.com": "INACTIVE"
-        },
-        "1572219727": {
-            "173-21-231-180.client.mchsi.com": "INACTIVE"
-        },
-        "1572219734": {
-            "173-217-231-201.fibertel.com.ar": "INACTIVE"
-        },
-        "1572219741": {
-            "173-22-33-201.client.mchsi.com": "INACTIVE"
-        },
-        "1572219747": {
-            "173-22-56-250.client.mchsi.com": "INACTIVE"
-        },
-        "1572219754": {
-            "173-22-59-247.client.mchsi.com": "INACTIVE"
-        },
-        "1572219760": {
-            "173-22-59-251.client.mchsi.com": "INACTIVE"
-        },
-        "1572219766": {
-            "173-22-63-196.client.mchsi.com": "INACTIVE",
-            "173-22-63-235.client.mchsi.com": "INACTIVE"
-        },
-        "1572219772": {
-            "173-23-110-222.client.mchsi.com": "INACTIVE"
-        },
-        "1572219778": {
-            "173-24-245-171.client.mchsi.com": "INACTIVE"
-        },
-        "1572219785": {
-            "173-25-170-173.client.mchsi.com": "INACTIVE",
-            "173-26-122-222.client.mchsi.com": "INACTIVE"
-        },
-        "1572219791": {
-            "173-26-131-99.client.mchsi.com": "INACTIVE"
-        },
-        "1572219797": {
-            "173-26-44-80.client.mchsi.com": "INACTIVE"
-        },
-        "1572219803": {
-            "173-27-102-83.client.mchsi.com": "INACTIVE"
-        },
-        "1572219809": {
-            "173-27-244-99.client.mchsi.com": "INACTIVE"
-        },
-        "1572219810": {
-            "173-28-104-118.client.mchsi.com": "INACTIVE"
-        },
-        "1572219816": {
-            "173-28-162-255.client.mchsi.com": "INACTIVE"
-        },
-        "1572219822": {
-            "173-28-162-65.client.mchsi.com": "INACTIVE"
-        },
-        "1572219828": {
-            "173-28-164-168.client.mchsi.com": "INACTIVE"
-        },
-        "1572219834": {
-            "173-28-55-189.client.mchsi.com": "INACTIVE"
-        },
-        "1572219840": {
-            "173-28-94-124.client.mchsi.com": "INACTIVE",
-            "173-29-26-61.client.mchsi.com": "INACTIVE"
-        },
-        "1572219847": {
-            "173-29-3-194.client.mchsi.com": "INACTIVE",
-            "173-30-136-86.client.mchsi.com": "INACTIVE"
-        },
-        "1572219853": {
-            "173-30-231-168.client.mchsi.com": "INACTIVE"
-        },
-        "1572219859": {
-            "173-31-135-104.client.mchsi.com": "INACTIVE"
-        },
-        "1572219865": {
-            "173-31-208-81.client.mchsi.com": "INACTIVE"
-        },
-        "1572219871": {
-            "173-9-176-118-miami.txt.hfc.comcastbusiness.net": "INACTIVE"
-        },
-        "1572219877": {
-            "173-9-224-35-illinois.hfc.comcastbusiness.net": "INACTIVE"
-        },
-        "1572219884": {
-            "174-127-50-58.static-ip.telepacific.net": "INACTIVE"
-        },
-        "1572219890": {
-            "174.20.28.72.cpe.echoes.net": "INACTIVE"
-        },
-        "1572219897": {
-            "174-224-114-217.fttb.ur.ru": "INACTIVE"
-        },
-        "1572219903": {
-            "174.sub-70-218-143.myvzw.com": "INACTIVE"
-        },
-        "1572219910": {
-            "175-127-132-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1572219916": {
-            "175.148-224-87.telenet.ru": "INACTIVE"
-        },
-        "1572219922": {
-            "175-173.mc.ccapcable.com": "INACTIVE"
-        },
-        "1572219929": {
-            "175.21.240.77.static.louhi.net": "INACTIVE"
-        },
-        "1572219936": {
-            "175-239-133-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1572219942": {
-            "175-5-132-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1572219948": {
-            "175.sub-70-217-127.myvzw.com": "INACTIVE"
-        },
-        "1572219954": {
-            "175.sub-75-198-56.myvzw.com": "INACTIVE"
-        },
-        "1572219961": {
-            "17.62.233.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1572219967": {
-            "176.sub-75-199-247.myvzw.com": "INACTIVE"
-        },
-        "1572219973": {
-            "176.sub-75-206-136.myvzw.com": "INACTIVE"
-        },
-        "1572219974": {
-            "177.175.50.84.dyn.estpak.ee": "INACTIVE"
-        },
-        "1572219975": {
-            "177.214.38.84.otvk.pl": "INACTIVE"
-        },
-        "1572219981": {
-            "177-243-124-91.pool.ukrtel.net": "INACTIVE"
-        },
-        "1572219987": {
-            "177.sub-70-208-217.myvzw.com": "INACTIVE"
-        },
-        "1572219993": {
-            "177.sub-70-221-188.myvzw.com": "INACTIVE"
-        },
-        "1572220000": {
-            "177.sub-70-222-155.myvzw.com": "INACTIVE"
-        },
-        "1572220006": {
-            "178.173.92.64.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1572220012": {
-            "178.179.232.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1572220018": {
-            "178-183.200-68.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1572220025": {
-            "178524.ds.nac.net": "INACTIVE"
-        },
-        "1572220031": {
-            "178.red-88-30-12.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1572220038": {
-            "178.sub-70-211-240.myvzw.com": "INACTIVE"
-        },
-        "1572220044": {
-            "178.sub-75-251-231.myvzw.com": "INACTIVE"
-        },
-        "1572220050": {
-            "179-103-113-92.pool.ukrtel.net": "INACTIVE"
-        },
-        "1572220057": {
-            "17-93-231-201.fibertel.com.ar": "INACTIVE"
-        },
         "1572220063": {
             "179.red-88-22-100.staticip.rima-tde.net": "INACTIVE"
         },
@@ -11157,6 +10853,307 @@
         },
         "1572392343": {
             "16.62.233.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572392458": {
+            "16643.kit.carpediem.fr": "INACTIVE"
+        },
+        "1572392464": {
+            "166.los-angeles-11rh15rt.ca.dial-access.att.net": "INACTIVE"
+        },
+        "1572392471": {
+            "166.sub-75-212-119.myvzw.com": "INACTIVE"
+        },
+        "1572392476": {
+            "167.165-224-87.telenet.ru": "INACTIVE"
+        },
+        "1572392483": {
+            "167.183-224-87.telenet.ru": "INACTIVE"
+        },
+        "1572392489": {
+            "167-216-114-200.fibertel.com.ar": "INACTIVE"
+        },
+        "1572392498": {
+            "167.sub-75-203-78.myvzw.com": "INACTIVE",
+            "168-100-182-165.static.cloud9.net": "INACTIVE"
+        },
+        "1572392505": {
+            "168-136-16-190.fibertel.com.ar": "INACTIVE"
+        },
+        "1572392512": {
+            "168-233.dedicado.com.uy": "INACTIVE"
+        },
+        "1572392514": {
+            "168-92-146-160.ipv4.firstcomm.com": "INACTIVE"
+        },
+        "1572392518": {
+            "168.red-80-24-154.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572392520": {
+            "169.93.broadband3.iol.cz": "INACTIVE"
+        },
+        "1572392527": {
+            "169.red-80-39-45.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572392533": {
+            "169.sub-70-212-95.myvzw.com": "INACTIVE"
+        },
+        "1572392539": {
+            "169.sub-75-214-91.myvzw.com": "INACTIVE"
+        },
+        "1572392546": {
+            "16.red-212-78-145.user.auna.net": "INACTIVE"
+        },
+        "1572392552": {
+            "16.sub-75-236-153.myvzw.com": "INACTIVE"
+        },
+        "1572392560": {
+            "170.232.232.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572392566": {
+            "170.47.103.87.rev.vodafone.pt": "INACTIVE"
+        },
+        "1572392573": {
+            "170.56.classcom.pl": "INACTIVE"
+        },
+        "1572392590": {
+            "170.sub-70-213-75.myvzw.com": "INACTIVE"
+        },
+        "1572392596": {
+            "170.sub-70-220-29.myvzw.com": "INACTIVE"
+        },
+        "1572392602": {
+            "170.sub-75-206-120.myvzw.com": "INACTIVE"
+        },
+        "1572392608": {
+            "17-18.35-65.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572392615": {
+            "171.sub-75-205-191.myvzw.com": "INACTIVE"
+        },
+        "1572392621": {
+            "173.116.232.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572392627": {
+            "173-12-42-41-philadelphia.hfc.comcastbusiness.net": "INACTIVE"
+        },
+        "1572392633": {
+            "173-14-48-65-michigan.hfc.comcastbusiness.net": "INACTIVE"
+        },
+        "1572392640": {
+            "173-15-133-13-busname-philadelphia.hfc.comcastbusiness.net": "INACTIVE"
+        },
+        "1572392646": {
+            "173-15-57-185-illinois.hfc.comcastbusiness.net": "INACTIVE"
+        },
+        "1572392652": {
+            "173-16-134-229.client.mchsi.com": "INACTIVE"
+        },
+        "1572392658": {
+            "173-16-137-75.client.mchsi.com": "INACTIVE"
+        },
+        "1572392664": {
+            "173-163-151-27-cpennsylvania2.hfc.comcastbusiness.net": "INACTIVE"
+        },
+        "1572392670": {
+            "173-16-44-169.client.mchsi.com": "INACTIVE"
+        },
+        "1572392671": {
+            "173-17-151-241.client.mchsi.com": "INACTIVE"
+        },
+        "1572392677": {
+            "173-17-189-162.client.mchsi.com": "INACTIVE"
+        },
+        "1572392683": {
+            "173-17-38-121.client.mchsi.com": "INACTIVE"
+        },
+        "1572392689": {
+            "173-17-99-170.client.mchsi.com": "INACTIVE"
+        },
+        "1572392695": {
+            "173-18-103-201.client.mchsi.com": "INACTIVE"
+        },
+        "1572392701": {
+            "173-18-2-17.client.mchsi.com": "INACTIVE"
+        },
+        "1572392707": {
+            "173-18-96-66.client.mchsi.com": "INACTIVE"
+        },
+        "1572392714": {
+            "173-19-138-86.client.mchsi.com": "INACTIVE"
+        },
+        "1572392720": {
+            "173-19-26-252.client.mchsi.com": "INACTIVE",
+            "173-20-137-120.client.mchsi.com": "INACTIVE"
+        },
+        "1572392726": {
+            "173-21-231-180.client.mchsi.com": "INACTIVE"
+        },
+        "1572392732": {
+            "173-217-231-201.fibertel.com.ar": "INACTIVE"
+        },
+        "1572392739": {
+            "173-22-33-201.client.mchsi.com": "INACTIVE"
+        },
+        "1572392745": {
+            "173-22-56-250.client.mchsi.com": "INACTIVE"
+        },
+        "1572392751": {
+            "173-22-59-247.client.mchsi.com": "INACTIVE"
+        },
+        "1572392757": {
+            "173-22-59-251.client.mchsi.com": "INACTIVE"
+        },
+        "1572392763": {
+            "173-22-63-196.client.mchsi.com": "INACTIVE"
+        },
+        "1572392764": {
+            "173-22-63-235.client.mchsi.com": "INACTIVE"
+        },
+        "1572392770": {
+            "173-23-110-222.client.mchsi.com": "INACTIVE"
+        },
+        "1572392776": {
+            "173-24-245-171.client.mchsi.com": "INACTIVE"
+        },
+        "1572392782": {
+            "173-25-170-173.client.mchsi.com": "INACTIVE",
+            "173-26-122-222.client.mchsi.com": "INACTIVE"
+        },
+        "1572392788": {
+            "173-26-131-99.client.mchsi.com": "INACTIVE"
+        },
+        "1572392794": {
+            "173-26-44-80.client.mchsi.com": "INACTIVE"
+        },
+        "1572392801": {
+            "173-27-102-83.client.mchsi.com": "INACTIVE"
+        },
+        "1572392807": {
+            "173-27-244-99.client.mchsi.com": "INACTIVE",
+            "173-28-104-118.client.mchsi.com": "INACTIVE"
+        },
+        "1572392813": {
+            "173-28-162-255.client.mchsi.com": "INACTIVE"
+        },
+        "1572392819": {
+            "173-28-162-65.client.mchsi.com": "INACTIVE"
+        },
+        "1572392825": {
+            "173-28-164-168.client.mchsi.com": "INACTIVE"
+        },
+        "1572392831": {
+            "173-28-55-189.client.mchsi.com": "INACTIVE"
+        },
+        "1572392838": {
+            "173-28-94-124.client.mchsi.com": "INACTIVE",
+            "173-29-26-61.client.mchsi.com": "INACTIVE"
+        },
+        "1572392844": {
+            "173-29-3-194.client.mchsi.com": "INACTIVE",
+            "173-30-136-86.client.mchsi.com": "INACTIVE"
+        },
+        "1572392850": {
+            "173-30-231-168.client.mchsi.com": "INACTIVE"
+        },
+        "1572392856": {
+            "173-31-135-104.client.mchsi.com": "INACTIVE"
+        },
+        "1572392863": {
+            "173-31-208-81.client.mchsi.com": "INACTIVE"
+        },
+        "1572392869": {
+            "173-9-176-118-miami.txt.hfc.comcastbusiness.net": "INACTIVE"
+        },
+        "1572392875": {
+            "173-9-224-35-illinois.hfc.comcastbusiness.net": "INACTIVE"
+        },
+        "1572392881": {
+            "174-127-50-58.static-ip.telepacific.net": "INACTIVE"
+        },
+        "1572392887": {
+            "174.20.28.72.cpe.echoes.net": "INACTIVE"
+        },
+        "1572392894": {
+            "174-224-114-217.fttb.ur.ru": "INACTIVE"
+        },
+        "1572392900": {
+            "174.sub-70-218-143.myvzw.com": "INACTIVE"
+        },
+        "1572392906": {
+            "175-127-132-95.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572392913": {
+            "175.148-224-87.telenet.ru": "INACTIVE"
+        },
+        "1572392919": {
+            "175-173.mc.ccapcable.com": "INACTIVE"
+        },
+        "1572392926": {
+            "175.21.240.77.static.louhi.net": "INACTIVE"
+        },
+        "1572392932": {
+            "175-239-133-95.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572392938": {
+            "175-5-132-95.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572392945": {
+            "175.sub-70-217-127.myvzw.com": "INACTIVE"
+        },
+        "1572392951": {
+            "175.sub-75-198-56.myvzw.com": "INACTIVE"
+        },
+        "1572392957": {
+            "17.62.233.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572392963": {
+            "176.sub-75-199-247.myvzw.com": "INACTIVE"
+        },
+        "1572392970": {
+            "176.sub-75-206-136.myvzw.com": "INACTIVE",
+            "177.175.50.84.dyn.estpak.ee": "INACTIVE"
+        },
+        "1572392971": {
+            "177.214.38.84.otvk.pl": "INACTIVE"
+        },
+        "1572392978": {
+            "177-243-124-91.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572392984": {
+            "177.sub-70-208-217.myvzw.com": "INACTIVE"
+        },
+        "1572392990": {
+            "177.sub-70-221-188.myvzw.com": "INACTIVE"
+        },
+        "1572392996": {
+            "177.sub-70-222-155.myvzw.com": "INACTIVE"
+        },
+        "1572393002": {
+            "178.173.92.64.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572393009": {
+            "178.179.232.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572393015": {
+            "178-183.200-68.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572393021": {
+            "178524.ds.nac.net": "INACTIVE"
+        },
+        "1572393028": {
+            "178.red-88-30-12.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572393034": {
+            "178.sub-70-211-240.myvzw.com": "INACTIVE"
+        },
+        "1572393040": {
+            "178.sub-75-251-231.myvzw.com": "INACTIVE"
+        },
+        "1572393047": {
+            "179-103-113-92.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572393053": {
+            "17-93-231-201.fibertel.com.ar": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
