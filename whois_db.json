@@ -1445,9 +1445,9 @@
         "state": "future"
     },
     "54417.cn": {
-        "epoch": "1572393600",
+        "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "554.us": {
         "epoch": "1570492800",
