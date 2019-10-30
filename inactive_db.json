@@ -1,300 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1572233051": {
-            "213.37.207.92.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233058": {
-            "213.37.214.110.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233065": {
-            "213.37.223.115.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233071": {
-            "213.37.231.42.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233078": {
-            "213.37.232.68.dyn.user.ono.com": "INACTIVE",
-            "213.37.238.237.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233079": {
-            "213.37.31.88.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233086": {
-            "213.37.43.115.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233092": {
-            "213.37.45.182.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233099": {
-            "213.37.45.99.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233105": {
-            "213.37.55.221.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233112": {
-            "213.37.55.254.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233119": {
-            "213.37.59.182.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233125": {
-            "213.37.78.246.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233126": {
-            "213.37.78.31.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233132": {
-            "213.37.81.8.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233139": {
-            "213.37.88.59.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233146": {
-            "213.37.9.103.dyn.user.ono.com": "INACTIVE",
-            "213.37.9.119.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233153": {
-            "213.37.95.66.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233159": {
-            "213.37.99.111.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233166": {
-            "213.37.99.11.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233173": {
-            "213.37.99.190.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233179": {
-            "213.37.99.27.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233185": {
-            "213-65-186-239-no181.tbcn.telia.com": "INACTIVE"
-        },
-        "1572233192": {
-            "213-67-40-70-no158.tbcn.telia.com": "INACTIVE"
-        },
-        "1572233198": {
-            "213-74-133-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1572233205": {
-            "213.79-161-251.customer.lyse.net": "INACTIVE"
-        },
-        "1572233211": {
-            "213-92-184-157.serv-net.pl": "INACTIVE"
-        },
-        "1572233217": {
-            "213.sub-174-219-235.myvzw.com": "INACTIVE"
-        },
-        "1572233224": {
-            "213.sub-70-207-186.myvzw.com": "INACTIVE"
-        },
-        "1572233230": {
-            "213.sub-75-206-253.myvzw.com": "INACTIVE"
-        },
-        "1572233236": {
-            "213.sub-75-208-14.myvzw.com": "INACTIVE"
-        },
-        "1572233242": {
-            "213.sub-75-223-50.myvzw.com": "INACTIVE"
-        },
-        "1572233249": {
-            "2.141.232.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1572233256": {
-            "214.red-81-47-136.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1572233262": {
-            "214.sub-75-195-212.myvzw.com": "INACTIVE"
-        },
-        "1572233269": {
-            "214.sub-75-212-15.myvzw.com": "INACTIVE"
-        },
-        "1572233275": {
-            "214.sub-75-213-166.myvzw.com": "INACTIVE"
-        },
-        "1572233281": {
-            "214.sub-75-220-45.myvzw.com": "INACTIVE"
-        },
-        "1572233288": {
-            "215.194-224-87.telenet.ru": "INACTIVE"
-        },
-        "1572233294": {
-            "215.ch35080.cyberhome.ne.jp": "INACTIVE"
-        },
-        "1572233301": {
-            "216.112.242.156.ptr.us.xo.net": "INACTIVE"
-        },
-        "1572233307": {
-            "216-135-134-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1572233313": {
-            "216.156.144.213.ptr.us.xo.net": "INACTIVE"
-        },
-        "1572233320": {
-            "216-188-255-155.dyn.grandenetworks.net": "INACTIVE"
-        },
-        "1572233326": {
-            "216-221-195-9.pool.dsl.bbtel.com": "INACTIVE"
-        },
-        "1572233332": {
-            "216-224-51-206.client.dsl.net": "INACTIVE"
-        },
-        "1572233339": {
-            "216.237.188.24.ptr.us.xo.net": "INACTIVE"
-        },
-        "1572233346": {
-            "216-55-161-201.dedicated.abac.net": "INACTIVE"
-        },
-        "1572233352": {
-            "216-55-181-94.dedicated.abac.net": "INACTIVE"
-        },
-        "1572233358": {
-            "216-70-227-243.static-ip.telepacific.net": "INACTIVE"
-        },
-        "1572233374": {
-            "216-73-119-74.ocdc-01.net": "INACTIVE"
-        },
-        "1572233380": {
-            "216.mug120.mpls.sflmi01r1.dsl.att.net": "INACTIVE"
-        },
-        "1572233387": {
-            "216.red-88-22-96.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1572233393": {
-            "216.sub-75-196-189.myvzw.com": "INACTIVE"
-        },
-        "1572233399": {
-            "216.sub-97-239-173.myvzw.com": "INACTIVE"
-        },
-        "1572233406": {
-            "216.sub-97-247-218.myvzw.com": "INACTIVE"
-        },
-        "1572233412": {
-            "217.104.103.87.rev.vodafone.pt": "INACTIVE"
-        },
-        "1572233419": {
-            "217.116.151.202.cc9.ne.jp": "INACTIVE"
-        },
-        "1572233425": {
-            "217-119-149-71.sefanet.ch": "INACTIVE"
-        },
-        "1572233426": {
-            "217.15.19.91.static.futures.ru": "INACTIVE"
-        },
-        "1572233433": {
-            "217-162-114-4.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233439": {
-            "217-162-163-210.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233446": {
-            "217-162-165-248.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233453": {
-            "217-162-165-73.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233459": {
-            "217-162-165-74.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233466": {
-            "217-162-181-41.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233472": {
-            "217-162-211-111.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233479": {
-            "217-162-214-34.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233486": {
-            "217-162-219-141.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233492": {
-            "217-162-238-117.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233499": {
-            "217-162-247-1.dclient.hispeed.ch": "INACTIVE",
-            "217-162-32-107.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233500": {
-            "217-162-32-126.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233502": {
-            "217-162-32-170.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233503": {
-            "217-162-32-20.dclient.hispeed.ch": "INACTIVE",
-            "217-162-32-234.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233504": {
-            "217-162-33-44.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233505": {
-            "217-162-34-176.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233511": {
-            "217-162-36-123.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233518": {
-            "217-162-36-65.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233524": {
-            "217-162-39-170.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233531": {
-            "217-162-39-26.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233538": {
-            "217-162-50-71.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233672": {
-            "217-162-59-25.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233678": {
-            "217-162-65-230.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233685": {
-            "217-162-81-108.dclient.hispeed.ch": "INACTIVE"
-        },
-        "1572233692": {
-            "217.188.48.60.cbj01-home.tm.net.my": "INACTIVE"
-        },
-        "1572233699": {
-            "21719761128-ljungbybredband.host.songnetworks.se": "INACTIVE"
-        },
-        "1572233705": {
-            "2171976118-ljungbybredband.host.songnetworks.se": "INACTIVE"
-        },
-        "1572233712": {
-            "217.20.64.167.rikt.ru": "INACTIVE"
-        },
-        "1572233719": {
-            "217.20.76.213.rikt.ru": "INACTIVE"
-        },
-        "1572233726": {
-            "217.20.77.78.rikt.ru": "INACTIVE"
-        },
-        "1572233732": {
-            "217-208-138-219-no14.tbcn.telia.com": "INACTIVE"
-        },
-        "1572233739": {
-            "217.216.113.58.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233745": {
-            "217.216.121.4.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233752": {
-            "217.216.122.242.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233758": {
-            "217.216.122.61.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233765": {
-            "217.216.123.124.dyn.user.ono.com": "INACTIVE"
-        },
-        "1572233771": {
-            "217.216.123.177.dyn.user.ono.com": "INACTIVE"
-        },
         "1572233778": {
             "217.216.123.57.dyn.user.ono.com": "INACTIVE"
         },
@@ -11188,6 +10893,304 @@
         },
         "1572405790": {
             "213.37.203.33.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572405902": {
+            "213.37.207.92.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572405909": {
+            "213.37.214.110.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572405916": {
+            "213.37.223.115.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572405922": {
+            "213.37.231.42.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572405929": {
+            "213.37.232.68.dyn.user.ono.com": "INACTIVE",
+            "213.37.238.237.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572405930": {
+            "213.37.31.88.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572405937": {
+            "213.37.43.115.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572405943": {
+            "213.37.45.182.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572405950": {
+            "213.37.45.99.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572405956": {
+            "213.37.55.221.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572405963": {
+            "213.37.55.254.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572405969": {
+            "213.37.59.182.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572405976": {
+            "213.37.78.246.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572405983": {
+            "213.37.78.31.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572405989": {
+            "213.37.81.8.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572405996": {
+            "213.37.88.59.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572406002": {
+            "213.37.9.103.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572406003": {
+            "213.37.9.119.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572406010": {
+            "213.37.95.66.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572406016": {
+            "213.37.99.111.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572406023": {
+            "213.37.99.11.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572406029": {
+            "213.37.99.190.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572406036": {
+            "213.37.99.27.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572406042": {
+            "213-65-186-239-no181.tbcn.telia.com": "INACTIVE"
+        },
+        "1572406049": {
+            "213-67-40-70-no158.tbcn.telia.com": "INACTIVE"
+        },
+        "1572406055": {
+            "213-74-133-95.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572406062": {
+            "213.79-161-251.customer.lyse.net": "INACTIVE"
+        },
+        "1572406068": {
+            "213-92-184-157.serv-net.pl": "INACTIVE"
+        },
+        "1572406074": {
+            "213.sub-174-219-235.myvzw.com": "INACTIVE"
+        },
+        "1572406080": {
+            "213.sub-70-207-186.myvzw.com": "INACTIVE"
+        },
+        "1572406087": {
+            "213.sub-75-206-253.myvzw.com": "INACTIVE"
+        },
+        "1572406093": {
+            "213.sub-75-208-14.myvzw.com": "INACTIVE"
+        },
+        "1572406099": {
+            "213.sub-75-223-50.myvzw.com": "INACTIVE"
+        },
+        "1572406105": {
+            "2.141.232.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572406113": {
+            "214.red-81-47-136.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572406119": {
+            "214.sub-75-195-212.myvzw.com": "INACTIVE"
+        },
+        "1572406125": {
+            "214.sub-75-212-15.myvzw.com": "INACTIVE"
+        },
+        "1572406132": {
+            "214.sub-75-213-166.myvzw.com": "INACTIVE"
+        },
+        "1572406138": {
+            "214.sub-75-220-45.myvzw.com": "INACTIVE"
+        },
+        "1572406145": {
+            "215.194-224-87.telenet.ru": "INACTIVE"
+        },
+        "1572406151": {
+            "215.ch35080.cyberhome.ne.jp": "INACTIVE"
+        },
+        "1572406157": {
+            "216.112.242.156.ptr.us.xo.net": "INACTIVE"
+        },
+        "1572406164": {
+            "216-135-134-95.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572406170": {
+            "216.156.144.213.ptr.us.xo.net": "INACTIVE"
+        },
+        "1572406176": {
+            "216-188-255-155.dyn.grandenetworks.net": "INACTIVE"
+        },
+        "1572406183": {
+            "216-221-195-9.pool.dsl.bbtel.com": "INACTIVE"
+        },
+        "1572406189": {
+            "216-224-51-206.client.dsl.net": "INACTIVE"
+        },
+        "1572406195": {
+            "216.237.188.24.ptr.us.xo.net": "INACTIVE"
+        },
+        "1572406201": {
+            "216-30-124-91.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572406208": {
+            "216-55-161-201.dedicated.abac.net": "INACTIVE"
+        },
+        "1572406214": {
+            "216-55-181-94.dedicated.abac.net": "INACTIVE"
+        },
+        "1572406221": {
+            "216-70-227-243.static-ip.telepacific.net": "INACTIVE"
+        },
+        "1572406237": {
+            "216-73-119-74.ocdc-01.net": "INACTIVE"
+        },
+        "1572406243": {
+            "216.mug120.mpls.sflmi01r1.dsl.att.net": "INACTIVE"
+        },
+        "1572406249": {
+            "216.red-88-22-96.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572406255": {
+            "216.sub-75-196-189.myvzw.com": "INACTIVE"
+        },
+        "1572406262": {
+            "216.sub-97-239-173.myvzw.com": "INACTIVE"
+        },
+        "1572406268": {
+            "216.sub-97-247-218.myvzw.com": "INACTIVE"
+        },
+        "1572406274": {
+            "217.104.103.87.rev.vodafone.pt": "INACTIVE"
+        },
+        "1572406281": {
+            "217.116.151.202.cc9.ne.jp": "INACTIVE"
+        },
+        "1572406288": {
+            "217-119-149-71.sefanet.ch": "INACTIVE",
+            "217.15.19.91.static.futures.ru": "INACTIVE"
+        },
+        "1572406295": {
+            "217-162-114-4.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406302": {
+            "217-162-163-210.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406308": {
+            "217-162-165-248.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406315": {
+            "217-162-165-73.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406321": {
+            "217-162-165-74.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406328": {
+            "217-162-181-41.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406329": {
+            "217-162-211-111.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406335": {
+            "217-162-214-34.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406342": {
+            "217-162-219-141.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406348": {
+            "217-162-238-117.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406355": {
+            "217-162-247-1.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406356": {
+            "217-162-32-107.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406357": {
+            "217-162-32-126.dclient.hispeed.ch": "INACTIVE",
+            "217-162-32-170.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406358": {
+            "217-162-32-20.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406359": {
+            "217-162-32-234.dclient.hispeed.ch": "INACTIVE",
+            "217-162-33-44.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406360": {
+            "217-162-34-176.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406367": {
+            "217-162-36-123.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406373": {
+            "217-162-36-65.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406380": {
+            "217-162-39-170.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406386": {
+            "217-162-39-26.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406393": {
+            "217-162-50-71.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406400": {
+            "217-162-59-25.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406406": {
+            "217-162-65-230.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406413": {
+            "217-162-81-108.dclient.hispeed.ch": "INACTIVE"
+        },
+        "1572406420": {
+            "217.188.48.60.cbj01-home.tm.net.my": "INACTIVE"
+        },
+        "1572406427": {
+            "21719761128-ljungbybredband.host.songnetworks.se": "INACTIVE"
+        },
+        "1572406433": {
+            "2171976118-ljungbybredband.host.songnetworks.se": "INACTIVE"
+        },
+        "1572406440": {
+            "217.20.64.167.rikt.ru": "INACTIVE"
+        },
+        "1572406447": {
+            "217.20.76.213.rikt.ru": "INACTIVE"
+        },
+        "1572406454": {
+            "217.20.77.78.rikt.ru": "INACTIVE"
+        },
+        "1572406460": {
+            "217-208-138-219-no14.tbcn.telia.com": "INACTIVE"
+        },
+        "1572406466": {
+            "217.216.113.58.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572406473": {
+            "217.216.121.4.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572406480": {
+            "217.216.122.242.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572406486": {
+            "217.216.122.61.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572406493": {
+            "217.216.123.124.dyn.user.ono.com": "INACTIVE"
+        },
+        "1572406499": {
+            "217.216.123.177.dyn.user.ono.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
