@@ -1,157 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1572245156": {
-            "66-178-43-201.reverse.newskies.net": "INACTIVE"
-        },
-        "1572245162": {
-            "66-188-75-140.dhcp.athn.ga.charter.com": "INACTIVE"
-        },
-        "1572245169": {
-            "66-189-105-253.dhcp.oxfr.ma.charter.com": "INACTIVE"
-        },
-        "1572245175": {
-            "66-189-246-99.dhcp.lgrn.ga.charter.com": "INACTIVE"
-        },
-        "1572245181": {
-            "66-189-64-104.dhcp.oxfr.ma.charter.com": "INACTIVE"
-        },
-        "1572245187": {
-            "66-189-65-31.dhcp.oxfr.ma.charter.com": "INACTIVE"
-        },
-        "1572245193": {
-            "66-189-69-11.dhcp.oxfr.ma.charter.com": "INACTIVE"
-        },
-        "1572245199": {
-            "66-190-175-221.dhcp.thtn.ga.charter.com": "INACTIVE"
-        },
-        "1572245205": {
-            "66-190-204-31.dhcp.thbd.la.charter.com": "INACTIVE"
-        },
-        "1572245212": {
-            "66-190-222-91.dhcp.slid.la.charter.com": "INACTIVE"
-        },
-        "1572245218": {
-            "66-191-161-225.dhcp.gnvl.sc.charter.com": "INACTIVE"
-        },
-        "1572245224": {
-            "66-191-162-186.dhcp.gnvl.sc.charter.com": "INACTIVE"
-        },
-        "1572245230": {
-            "66-191-165-173.dhcp.gnvl.sc.charter.com": "INACTIVE"
-        },
-        "1572245236": {
-            "66-191-17-8.dhcp.rsbg.or.charter.com": "INACTIVE"
-        },
-        "1572245242": {
-            "66-191-194-173.dhcp.spbg.sc.charter.com": "INACTIVE"
-        },
-        "1572245248": {
-            "66-191-228-245.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572245254": {
-            "66-191-231-240.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572245261": {
-            "66-191-232-147.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572245267": {
-            "66-191-234-83.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572245273": {
-            "66-191-248-17.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572245279": {
-            "66-191-249-167.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572245285": {
-            "66-191-95-148.dhcp.stpt.wi.charter.com": "INACTIVE"
-        },
-        "1572245291": {
-            "66-194-168-122.static.twtelecom.net": "INACTIVE"
-        },
-        "1572245297": {
-            "66-200-117-220.client.dsl.net": "INACTIVE"
-        },
-        "1572245304": {
-            "66-214-112-95.dhcp.hspr.ca.charter.com": "INACTIVE",
-            "66-214-116-46.dhcp.hspr.ca.charter.com": "INACTIVE"
-        },
-        "1572245310": {
-            "66-214-1-81.dhcp.lnbh.ca.charter.com": "INACTIVE"
-        },
-        "1572245316": {
-            "66-215-113-140.dhcp.snlo.ca.charter.com": "INACTIVE"
-        },
-        "1572245322": {
-            "66-215-161-155.dhcp.rvsd.ca.charter.com": "INACTIVE"
-        },
-        "1572245328": {
-            "66-215-203-53.dhcp.rvsd.ca.charter.com": "INACTIVE"
-        },
-        "1572245334": {
-            "66-215-247-101.dhcp.rvsd.ca.charter.com": "INACTIVE"
-        },
-        "1572245341": {
-            "66-215-38-191.dhcp.hspr.ca.charter.com": "INACTIVE"
-        },
-        "1572245347": {
-            "66-215-61-247.dhcp.atsc.ca.charter.com": "INACTIVE"
-        },
-        "1572245353": {
-            "66-215-61-24.dhcp.atsc.ca.charter.com": "INACTIVE"
-        },
-        "1572245359": {
-            "66-215-86-103.dhcp.psdn.ca.charter.com": "INACTIVE"
-        },
-        "1572245365": {
-            "66-215-92-157.dhcp.psdn.ca.charter.com": "INACTIVE"
-        },
-        "1572245371": {
-            "66-215-93-135.dhcp.psdn.ca.charter.com": "INACTIVE"
-        },
-        "1572245377": {
-            "66-226-75-10.dedicated.abac.net": "INACTIVE"
-        },
-        "1572245384": {
-            "66-231-194-106.oxfordnetworks.net": "INACTIVE"
-        },
-        "1572245390": {
-            "66-38-113-90.pool.dsl.nctc.com": "INACTIVE"
-        },
-        "1572245396": {
-            "66-38-116-134.pool.dsl.nctc.com": "INACTIVE"
-        },
-        "1572245402": {
-            "66-50-23-1.prtc.net": "INACTIVE"
-        },
-        "1572245408": {
-            "66-50-23-30.prtc.net": "INACTIVE"
-        },
-        "1572245415": {
-            "66-50-4-143.prtc.net": "INACTIVE"
-        },
-        "1572245421": {
-            "66-50-83-12.prtc.net": "INACTIVE"
-        },
-        "1572245427": {
-            "6.hidemyass.com": "INACTIVE",
-            "66-50-83-15.prtc.net": "INACTIVE"
-        },
-        "1572245428": {
-            "6.jsdx3.crsky.com": "INACTIVE"
-        },
-        "1572245430": {
-            "6.scdx3.crsky.com": "INACTIVE"
-        },
-        "1572245436": {
-            "6.sub-70-211-6.myvzw.com": "INACTIVE"
-        },
-        "1572245442": {
-            "6.sub-70-212-77.myvzw.com": "INACTIVE"
-        },
-        "1572245448": {
-            "6.sub-70-222-217.myvzw.com": "INACTIVE"
-        },
         "1572388174": {
             "00fun.casalemedia.com": "INACTIVE"
         },
@@ -11175,6 +11023,160 @@
         },
         "1572415730": {
             "66-169-8-250.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1572415847": {
+            "66-178-43-201.reverse.newskies.net": "INACTIVE"
+        },
+        "1572415853": {
+            "66-188-75-140.dhcp.athn.ga.charter.com": "INACTIVE"
+        },
+        "1572415860": {
+            "66-189-105-253.dhcp.oxfr.ma.charter.com": "INACTIVE"
+        },
+        "1572415866": {
+            "66-189-246-99.dhcp.lgrn.ga.charter.com": "INACTIVE"
+        },
+        "1572415872": {
+            "66-189-64-104.dhcp.oxfr.ma.charter.com": "INACTIVE"
+        },
+        "1572415879": {
+            "66-189-65-31.dhcp.oxfr.ma.charter.com": "INACTIVE"
+        },
+        "1572415885": {
+            "66-189-69-11.dhcp.oxfr.ma.charter.com": "INACTIVE"
+        },
+        "1572415891": {
+            "66-190-175-221.dhcp.thtn.ga.charter.com": "INACTIVE"
+        },
+        "1572415897": {
+            "66-190-204-31.dhcp.thbd.la.charter.com": "INACTIVE"
+        },
+        "1572415903": {
+            "66-190-222-91.dhcp.slid.la.charter.com": "INACTIVE"
+        },
+        "1572415910": {
+            "66-191-161-225.dhcp.gnvl.sc.charter.com": "INACTIVE"
+        },
+        "1572415916": {
+            "66-191-162-186.dhcp.gnvl.sc.charter.com": "INACTIVE"
+        },
+        "1572415922": {
+            "66-191-165-173.dhcp.gnvl.sc.charter.com": "INACTIVE"
+        },
+        "1572415928": {
+            "66-191-17-8.dhcp.rsbg.or.charter.com": "INACTIVE"
+        },
+        "1572415934": {
+            "66-191-194-173.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1572415941": {
+            "66-191-228-245.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572415947": {
+            "66-191-231-240.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572415953": {
+            "66-191-232-147.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572415959": {
+            "66-191-234-83.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572415965": {
+            "66-191-248-17.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572415972": {
+            "66-191-249-167.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572415978": {
+            "66-191-95-148.dhcp.stpt.wi.charter.com": "INACTIVE"
+        },
+        "1572415985": {
+            "66-194-168-122.static.twtelecom.net": "INACTIVE"
+        },
+        "1572415991": {
+            "66-200-117-220.client.dsl.net": "INACTIVE"
+        },
+        "1572415997": {
+            "66-214-112-95.dhcp.hspr.ca.charter.com": "INACTIVE"
+        },
+        "1572415998": {
+            "66-214-116-46.dhcp.hspr.ca.charter.com": "INACTIVE"
+        },
+        "1572416004": {
+            "66-214-1-81.dhcp.lnbh.ca.charter.com": "INACTIVE"
+        },
+        "1572416010": {
+            "66-215-113-140.dhcp.snlo.ca.charter.com": "INACTIVE"
+        },
+        "1572416016": {
+            "66-215-161-155.dhcp.rvsd.ca.charter.com": "INACTIVE"
+        },
+        "1572416022": {
+            "66-215-203-53.dhcp.rvsd.ca.charter.com": "INACTIVE"
+        },
+        "1572416028": {
+            "66-215-247-101.dhcp.rvsd.ca.charter.com": "INACTIVE"
+        },
+        "1572416035": {
+            "66-215-38-191.dhcp.hspr.ca.charter.com": "INACTIVE"
+        },
+        "1572416041": {
+            "66-215-61-247.dhcp.atsc.ca.charter.com": "INACTIVE"
+        },
+        "1572416047": {
+            "66-215-61-24.dhcp.atsc.ca.charter.com": "INACTIVE"
+        },
+        "1572416053": {
+            "66-215-86-103.dhcp.psdn.ca.charter.com": "INACTIVE"
+        },
+        "1572416060": {
+            "66-215-92-157.dhcp.psdn.ca.charter.com": "INACTIVE"
+        },
+        "1572416066": {
+            "66-215-93-135.dhcp.psdn.ca.charter.com": "INACTIVE"
+        },
+        "1572416072": {
+            "66-226-75-10.dedicated.abac.net": "INACTIVE"
+        },
+        "1572416078": {
+            "66-231-194-106.oxfordnetworks.net": "INACTIVE"
+        },
+        "1572416084": {
+            "66-38-113-90.pool.dsl.nctc.com": "INACTIVE"
+        },
+        "1572416091": {
+            "66-38-116-134.pool.dsl.nctc.com": "INACTIVE"
+        },
+        "1572416097": {
+            "66-50-23-1.prtc.net": "INACTIVE"
+        },
+        "1572416103": {
+            "66-50-23-30.prtc.net": "INACTIVE"
+        },
+        "1572416109": {
+            "66-50-4-143.prtc.net": "INACTIVE"
+        },
+        "1572416116": {
+            "66-50-83-12.prtc.net": "INACTIVE"
+        },
+        "1572416122": {
+            "6.hidemyass.com": "INACTIVE",
+            "66-50-83-15.prtc.net": "INACTIVE"
+        },
+        "1572416123": {
+            "6.jsdx3.crsky.com": "INACTIVE"
+        },
+        "1572416124": {
+            "6.scdx3.crsky.com": "INACTIVE"
+        },
+        "1572416130": {
+            "6.sub-70-211-6.myvzw.com": "INACTIVE"
+        },
+        "1572416136": {
+            "6.sub-70-212-77.myvzw.com": "INACTIVE"
+        },
+        "1572416142": {
+            "6.sub-70-222-217.myvzw.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
