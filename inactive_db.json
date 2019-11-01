@@ -1,332 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1572408792": {
-            "232.red-88-31-15.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1572408799": {
-            "233-83-237-24.gci.net": "INACTIVE"
-        },
-        "1572408806": {
-            "233.red-83-63-229.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1572408812": {
-            "233.sub-70-208-253.myvzw.com": "INACTIVE"
-        },
-        "1572408818": {
-            "233.sub-70-216-95.myvzw.com": "INACTIVE"
-        },
-        "1572408825": {
-            "233.sub-75-199-28.myvzw.com": "INACTIVE"
-        },
-        "1572408831": {
-            "233.sub-75-207-114.myvzw.com": "INACTIVE"
-        },
-        "1572408837": {
-            "233.sub-75-217-115.myvzw.com": "INACTIVE"
-        },
-        "1572408844": {
-            "234-59-215.ftth.xms.internl.net": "INACTIVE"
-        },
-        "1572408851": {
-            "234.81.233.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1572408858": {
-            "234.sub-75-219-26.myvzw.com": "INACTIVE"
-        },
-        "1572408864": {
-            "235-133-134-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1572408871": {
-            "235.sub-70-195-148.myvzw.com": "INACTIVE"
-        },
-        "1572408877": {
-            "236-253-133-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1572408883": {
-            "236.kansas-11rh15rt.mo.dial-access.att.net": "INACTIVE"
-        },
-        "1572408889": {
-            "236.sub-75-212-130.myvzw.com": "INACTIVE"
-        },
-        "1572408896": {
-            "237.106.151.202.cc9.ne.jp": "INACTIVE"
-        },
-        "1572408903": {
-            "237-232.35-65.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1572408909": {
-            "237.28.145.122.ap.yournet.ne.jp": "INACTIVE"
-        },
-        "1572408916": {
-            "238.14-218-195.catv.internet.lu": "INACTIVE"
-        },
-        "1572408922": {
-            "238-74.btv.lv": "INACTIVE"
-        },
-        "1572408928": {
-            "238-7.dedicado.com.uy": "INACTIVE"
-        },
-        "1572408935": {
-            "238.sub-70-212-227.myvzw.com": "INACTIVE"
-        },
-        "1572408941": {
-            "238.sub-75-201-40.myvzw.com": "INACTIVE"
-        },
-        "1572408947": {
-            "239-101.187-72.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1572408954": {
-            "239-36-215.ftth.xms.internl.net": "INACTIVE"
-        },
-        "1572408960": {
-            "239-50-231-201.fibertel.com.ar": "INACTIVE"
-        },
-        "1572408967": {
-            "23.sub-70-212-233.myvzw.com": "INACTIVE"
-        },
-        "1572408973": {
-            "23.sub-70-220-6.myvzw.com": "INACTIVE"
-        },
-        "1572408979": {
-            "23.sub-70-223-193.myvzw.com": "INACTIVE"
-        },
-        "1572408985": {
-            "240-209-112-92.pool.ukrtel.net": "INACTIVE"
-        },
-        "1572408986": {
-            "240.35-241-81.adsl-dyn.isp.belgacom.be": "INACTIVE"
-        },
-        "1572408992": {
-            "24.102.132.61.res-cmts.sm.ptd.net": "INACTIVE"
-        },
-        "1572408998": {
-            "24-107-156-2.dhcp.stls.mo.charter.com": "INACTIVE"
-        },
-        "1572409005": {
-            "24-107-157-95.dhcp.stls.mo.charter.com": "INACTIVE"
-        },
-        "1572409011": {
-            "24-107-161-170.dhcp.nwnn.ga.charter.com": "INACTIVE"
-        },
-        "1572409017": {
-            "24-107-169-245.dhcp.thtn.ga.charter.com": "INACTIVE"
-        },
-        "1572409023": {
-            "24-107-193-82.dhcp.stls.mo.charter.com": "INACTIVE"
-        },
-        "1572409029": {
-            "24-107-197-97.dhcp.stls.mo.charter.com": "INACTIVE"
-        },
-        "1572409035": {
-            "24-107-207-129.dhcp.stls.mo.charter.com": "INACTIVE"
-        },
-        "1572409042": {
-            "24-107-229-243.dhcp.oxfr.ma.charter.com": "INACTIVE"
-        },
-        "1572409048": {
-            "24-107-234-148.dhcp.oxfr.ma.charter.com": "INACTIVE"
-        },
-        "1572409054": {
-            "24-107-235-46.dhcp.oxfr.ma.charter.com": "INACTIVE"
-        },
-        "1572409057": {
-            "24-107-243-142.dhcp.k717.oh.charter.com": "INACTIVE"
-        },
-        "1572409058": {
-            "24-116-106-167.cpe.cableone.net": "INACTIVE",
-            "24-116-145-198.cpe.cableone.net": "INACTIVE",
-            "24-116-226-7.cpe.cableone.net": "INACTIVE"
-        },
-        "1572409059": {
-            "24-116-63-154.cpe.cableone.net": "INACTIVE",
-            "24-117-114-192.cpe.cableone.net": "INACTIVE"
-        },
-        "1572409060": {
-            "24-117-114-227.cpe.cableone.net": "INACTIVE",
-            "24-117-12-48.cpe.cableone.net": "INACTIVE"
-        },
-        "1572409061": {
-            "24-117-142-140.cpe.cableone.net": "INACTIVE",
-            "24-117-233-191.cpe.cableone.net": "INACTIVE"
-        },
-        "1572409062": {
-            "24-117-234-37.cpe.cableone.net": "INACTIVE",
-            "24-117-239-165.cpe.cableone.net": "INACTIVE"
-        },
-        "1572409063": {
-            "24-117-242-185.cpe.cableone.net": "INACTIVE",
-            "24-117-42-251.cpe.cableone.net": "INACTIVE"
-        },
-        "1572409064": {
-            "24-119-132-187.cpe.cableone.net": "INACTIVE",
-            "24-119-209-118.cpe.cableone.net": "INACTIVE",
-            "24-122-120-228.ae.cgocable.ca": "INACTIVE"
-        },
-        "1572409070": {
-            "24-122-165-179.sh.cgocable.ca": "INACTIVE"
-        },
-        "1572409077": {
-            "24-122-200-233.dr.cgocable.ca": "INACTIVE"
-        },
-        "1572409083": {
-            "24-122-200-4.dr.cgocable.ca": "INACTIVE"
-        },
-        "1572409089": {
-            "24-122-214-157.ae.cgocable.ca": "INACTIVE"
-        },
-        "1572409095": {
-            "24-122-218-24.si.cgocable.ca": "INACTIVE"
-        },
-        "1572409101": {
-            "24-122-233-242.tr.cgocable.ca": "INACTIVE"
-        },
-        "1572409107": {
-            "24-122-73-145.tr.cgocable.ca": "INACTIVE"
-        },
-        "1572409108": {
-            "24-145-121-232-dhcp.bfd.pa.atlanticbb.net": "INACTIVE",
-            "24-145-67-088-dhcp.mia.fl.atlanticbb.net": "INACTIVE"
-        },
-        "1572409114": {
-            "24-151-108-112.dhcp.nwtn.ct.charter.com": "INACTIVE"
-        },
-        "1572409120": {
-            "24-151-108-154.dhcp.nwtn.ct.charter.com": "INACTIVE"
-        },
-        "1572409127": {
-            "24-151-108-92.dhcp.nwtn.ct.charter.com": "INACTIVE"
-        },
-        "1572409133": {
-            "24-151-13-70.dhcp.nwtn.ct.charter.com": "INACTIVE"
-        },
-        "1572409139": {
-            "24-151-150-56.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572409145": {
-            "24-151-153-165.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572409151": {
-            "24-151-161-63.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572409157": {
-            "24-151-169-239.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572409163": {
-            "24-151-190-201.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572409169": {
-            "24-151-19-155.dhcp.nwtn.ct.charter.com": "INACTIVE"
-        },
-        "1572409176": {
-            "24-151-192-130.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572409182": {
-            "24-151-221-191.dhcp.jcsn.tn.charter.com": "INACTIVE"
-        },
-        "1572409188": {
-            "24-151-221-232.dhcp.jcsn.tn.charter.com": "INACTIVE"
-        },
-        "1572409189": {
-            "24-151-239-103.dhcp.jcsn.tn.charter.com": "INACTIVE"
-        },
-        "1572409195": {
-            "24-151-80-115.dhcp.nwtn.ct.charter.com": "INACTIVE"
-        },
-        "1572409201": {
-            "24-151-96-241.dhcp.nwtn.ct.charter.com": "INACTIVE"
-        },
-        "1572409208": {
-            "24-155-16-109.dyn.grandenetworks.net": "INACTIVE"
-        },
-        "1572409214": {
-            "24-155-16-67.dyn.grandenetworks.net": "INACTIVE"
-        },
-        "1572409221": {
-            "24-155-202-18.dyn.grandenetworks.net": "INACTIVE"
-        },
-        "1572409227": {
-            "24-155-204-193.dyn.grandenetworks.net": "INACTIVE"
-        },
-        "1572409233": {
-            "24-155-21-84.dyn.grandenetworks.net": "INACTIVE"
-        },
-        "1572409234": {
-            "24-155-23-185.dyn.grandenetworks.net": "INACTIVE"
-        },
-        "1572409240": {
-            "24-155-25-233.dyn.grandenetworks.net": "INACTIVE"
-        },
-        "1572409247": {
-            "24-155-28-187.dyn.grandenetworks.net": "INACTIVE"
-        },
-        "1572409253": {
-            "24-155-39-198.dyn.grandenetworks.net": "INACTIVE"
-        },
-        "1572409259": {
-            "24-158-131-189.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572409265": {
-            "24-158-138-180.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572409271": {
-            "24-158-138-99.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572409275": {
-            "24-158-204-254.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572409281": {
-            "24-158-219-107.dhcp.slid.la.charter.com": "INACTIVE"
-        },
-        "1572409287": {
-            "24-158-226-162.dhcp.leds.al.charter.com": "INACTIVE"
-        },
-        "1572409293": {
-            "24-158-227-193.dhcp.leds.al.charter.com": "INACTIVE"
-        },
-        "1572409299": {
-            "24-158-66-197.dhcp.spbg.sc.charter.com": "INACTIVE",
-            "24-158-79-164.dhcp.spbg.sc.charter.com": "INACTIVE"
-        },
-        "1572409306": {
-            "24-159-187-3.dhcp.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572409312": {
-            "24-159-44-84.static.kgpt.tn.charter.com": "INACTIVE"
-        },
-        "1572409318": {
-            "24-166.97-97.tampabay.res.rr.com": "INACTIVE",
-            "24.169.138.210.bf.2iij.net": "INACTIVE"
-        },
-        "1572409324": {
-            "24-171-12-33.dhcp.stls.mo.charter.com": "INACTIVE"
-        },
-        "1572409331": {
-            "24-171-4-236.dhcp.stls.mo.charter.com": "INACTIVE"
-        },
-        "1572409337": {
-            "24-171-54-126.dhcp.stls.mo.charter.com": "INACTIVE"
-        },
-        "1572409343": {
-            "24-176-106-44.dhcp.jcsn.tn.charter.com": "INACTIVE"
-        },
-        "1572409349": {
-            "24-176-153-98.dhcp.jcsn.tn.charter.com": "INACTIVE"
-        },
-        "1572409355": {
-            "24-176-159-98.dhcp.jcsn.tn.charter.com": "INACTIVE"
-        },
-        "1572409361": {
-            "24-176-211-251.dhcp.lnbh.ca.charter.com": "INACTIVE"
-        },
-        "1572409367": {
-            "24-176-221-21.dhcp.lnbh.ca.charter.com": "INACTIVE"
-        },
-        "1572409374": {
-            "24-176-238-10.dhcp.atsc.ca.charter.com": "INACTIVE"
-        },
-        "1572409380": {
-            "24-176-96-12.dhcp.jcsn.tn.charter.com": "INACTIVE"
-        },
         "1572409386": {
             "24-176-97-97.dhcp.jcsn.tn.charter.com": "INACTIVE"
         },
@@ -11170,6 +10843,331 @@
         },
         "1572571881": {
             "232-85-237-24.gci.net": "INACTIVE"
+        },
+        "1572572522": {
+            "232.red-88-31-15.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572572529": {
+            "233-83-237-24.gci.net": "INACTIVE"
+        },
+        "1572572535": {
+            "233.red-83-63-229.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572572542": {
+            "233.sub-70-208-253.myvzw.com": "INACTIVE"
+        },
+        "1572572548": {
+            "233.sub-70-216-95.myvzw.com": "INACTIVE"
+        },
+        "1572572554": {
+            "233.sub-75-199-28.myvzw.com": "INACTIVE"
+        },
+        "1572572560": {
+            "233.sub-75-207-114.myvzw.com": "INACTIVE"
+        },
+        "1572572567": {
+            "233.sub-75-217-115.myvzw.com": "INACTIVE"
+        },
+        "1572572574": {
+            "234-59-215.ftth.xms.internl.net": "INACTIVE"
+        },
+        "1572572580": {
+            "234.81.233.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572572588": {
+            "234.sub-75-219-26.myvzw.com": "INACTIVE"
+        },
+        "1572572594": {
+            "235-133-134-95.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572572600": {
+            "235.sub-70-195-148.myvzw.com": "INACTIVE"
+        },
+        "1572572607": {
+            "236-253-133-95.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572572613": {
+            "236.kansas-11rh15rt.mo.dial-access.att.net": "INACTIVE"
+        },
+        "1572572619": {
+            "236.sub-75-212-130.myvzw.com": "INACTIVE"
+        },
+        "1572572626": {
+            "237.106.151.202.cc9.ne.jp": "INACTIVE"
+        },
+        "1572572632": {
+            "237-232.35-65.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572572639": {
+            "237.28.145.122.ap.yournet.ne.jp": "INACTIVE"
+        },
+        "1572572645": {
+            "238.14-218-195.catv.internet.lu": "INACTIVE"
+        },
+        "1572572652": {
+            "238-74.btv.lv": "INACTIVE"
+        },
+        "1572572658": {
+            "238-7.dedicado.com.uy": "INACTIVE"
+        },
+        "1572572664": {
+            "238.sub-70-212-227.myvzw.com": "INACTIVE"
+        },
+        "1572572671": {
+            "238.sub-75-201-40.myvzw.com": "INACTIVE"
+        },
+        "1572572677": {
+            "239-101.187-72.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572572683": {
+            "239-36-215.ftth.xms.internl.net": "INACTIVE"
+        },
+        "1572572690": {
+            "239-50-231-201.fibertel.com.ar": "INACTIVE"
+        },
+        "1572572697": {
+            "23.sub-70-212-233.myvzw.com": "INACTIVE"
+        },
+        "1572572703": {
+            "23.sub-70-220-6.myvzw.com": "INACTIVE"
+        },
+        "1572572709": {
+            "23.sub-70-223-193.myvzw.com": "INACTIVE"
+        },
+        "1572572716": {
+            "240-209-112-92.pool.ukrtel.net": "INACTIVE",
+            "240.35-241-81.adsl-dyn.isp.belgacom.be": "INACTIVE"
+        },
+        "1572572722": {
+            "24.102.132.61.res-cmts.sm.ptd.net": "INACTIVE"
+        },
+        "1572572729": {
+            "24-107-156-2.dhcp.stls.mo.charter.com": "INACTIVE"
+        },
+        "1572572735": {
+            "24-107-157-95.dhcp.stls.mo.charter.com": "INACTIVE"
+        },
+        "1572572741": {
+            "24-107-161-170.dhcp.nwnn.ga.charter.com": "INACTIVE"
+        },
+        "1572572747": {
+            "24-107-169-245.dhcp.thtn.ga.charter.com": "INACTIVE"
+        },
+        "1572572753": {
+            "24-107-193-82.dhcp.stls.mo.charter.com": "INACTIVE"
+        },
+        "1572572759": {
+            "24-107-197-97.dhcp.stls.mo.charter.com": "INACTIVE"
+        },
+        "1572572765": {
+            "24-107-207-129.dhcp.stls.mo.charter.com": "INACTIVE"
+        },
+        "1572572772": {
+            "24-107-229-243.dhcp.oxfr.ma.charter.com": "INACTIVE"
+        },
+        "1572572778": {
+            "24-107-234-148.dhcp.oxfr.ma.charter.com": "INACTIVE"
+        },
+        "1572572784": {
+            "24-107-235-46.dhcp.oxfr.ma.charter.com": "INACTIVE"
+        },
+        "1572572785": {
+            "24-107-243-142.dhcp.k717.oh.charter.com": "INACTIVE"
+        },
+        "1572572786": {
+            "24-116-106-167.cpe.cableone.net": "INACTIVE",
+            "24-116-145-198.cpe.cableone.net": "INACTIVE"
+        },
+        "1572572787": {
+            "24-116-226-7.cpe.cableone.net": "INACTIVE",
+            "24-116-63-154.cpe.cableone.net": "INACTIVE",
+            "24-117-114-192.cpe.cableone.net": "INACTIVE"
+        },
+        "1572572788": {
+            "24-117-114-227.cpe.cableone.net": "INACTIVE",
+            "24-117-12-48.cpe.cableone.net": "INACTIVE"
+        },
+        "1572572789": {
+            "24-117-142-140.cpe.cableone.net": "INACTIVE",
+            "24-117-233-191.cpe.cableone.net": "INACTIVE"
+        },
+        "1572572790": {
+            "24-117-234-37.cpe.cableone.net": "INACTIVE",
+            "24-117-239-165.cpe.cableone.net": "INACTIVE"
+        },
+        "1572572791": {
+            "24-117-242-185.cpe.cableone.net": "INACTIVE",
+            "24-117-42-251.cpe.cableone.net": "INACTIVE"
+        },
+        "1572572792": {
+            "24-119-132-187.cpe.cableone.net": "INACTIVE",
+            "24-119-209-118.cpe.cableone.net": "INACTIVE",
+            "24-122-120-228.ae.cgocable.ca": "INACTIVE"
+        },
+        "1572572799": {
+            "24-122-165-179.sh.cgocable.ca": "INACTIVE"
+        },
+        "1572572805": {
+            "24-122-200-233.dr.cgocable.ca": "INACTIVE"
+        },
+        "1572572811": {
+            "24-122-200-4.dr.cgocable.ca": "INACTIVE"
+        },
+        "1572572817": {
+            "24-122-214-157.ae.cgocable.ca": "INACTIVE"
+        },
+        "1572572823": {
+            "24-122-218-24.si.cgocable.ca": "INACTIVE"
+        },
+        "1572572829": {
+            "24-122-233-242.tr.cgocable.ca": "INACTIVE"
+        },
+        "1572572835": {
+            "24-122-73-145.tr.cgocable.ca": "INACTIVE"
+        },
+        "1572572836": {
+            "24-145-121-232-dhcp.bfd.pa.atlanticbb.net": "INACTIVE",
+            "24-145-67-088-dhcp.mia.fl.atlanticbb.net": "INACTIVE"
+        },
+        "1572572842": {
+            "24-151-108-112.dhcp.nwtn.ct.charter.com": "INACTIVE"
+        },
+        "1572572848": {
+            "24-151-108-154.dhcp.nwtn.ct.charter.com": "INACTIVE"
+        },
+        "1572572854": {
+            "24-151-108-92.dhcp.nwtn.ct.charter.com": "INACTIVE"
+        },
+        "1572572861": {
+            "24-151-13-70.dhcp.nwtn.ct.charter.com": "INACTIVE"
+        },
+        "1572572867": {
+            "24-151-150-56.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572572873": {
+            "24-151-153-165.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572572879": {
+            "24-151-161-63.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572572885": {
+            "24-151-169-239.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572572891": {
+            "24-151-190-201.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572572897": {
+            "24-151-19-155.dhcp.nwtn.ct.charter.com": "INACTIVE"
+        },
+        "1572572903": {
+            "24-151-192-130.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572572910": {
+            "24-151-221-191.dhcp.jcsn.tn.charter.com": "INACTIVE"
+        },
+        "1572572916": {
+            "24-151-221-232.dhcp.jcsn.tn.charter.com": "INACTIVE"
+        },
+        "1572572922": {
+            "24-151-239-103.dhcp.jcsn.tn.charter.com": "INACTIVE"
+        },
+        "1572572928": {
+            "24-151-80-115.dhcp.nwtn.ct.charter.com": "INACTIVE"
+        },
+        "1572572934": {
+            "24-151-96-241.dhcp.nwtn.ct.charter.com": "INACTIVE"
+        },
+        "1572572940": {
+            "24-155-16-109.dyn.grandenetworks.net": "INACTIVE"
+        },
+        "1572572947": {
+            "24-155-16-67.dyn.grandenetworks.net": "INACTIVE"
+        },
+        "1572572953": {
+            "24-155-202-18.dyn.grandenetworks.net": "INACTIVE"
+        },
+        "1572572959": {
+            "24-155-204-193.dyn.grandenetworks.net": "INACTIVE"
+        },
+        "1572572966": {
+            "24-155-21-84.dyn.grandenetworks.net": "INACTIVE",
+            "24-155-23-185.dyn.grandenetworks.net": "INACTIVE"
+        },
+        "1572572973": {
+            "24-155-25-233.dyn.grandenetworks.net": "INACTIVE"
+        },
+        "1572572979": {
+            "24-155-28-187.dyn.grandenetworks.net": "INACTIVE"
+        },
+        "1572572986": {
+            "24-155-39-198.dyn.grandenetworks.net": "INACTIVE"
+        },
+        "1572572992": {
+            "24-158-131-189.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572572998": {
+            "24-158-138-180.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572573006": {
+            "24-158-138-99.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572573009": {
+            "24-158-204-254.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572573016": {
+            "24-158-219-107.dhcp.slid.la.charter.com": "INACTIVE"
+        },
+        "1572573022": {
+            "24-158-226-162.dhcp.leds.al.charter.com": "INACTIVE"
+        },
+        "1572573028": {
+            "24-158-227-193.dhcp.leds.al.charter.com": "INACTIVE"
+        },
+        "1572573034": {
+            "24-158-66-197.dhcp.spbg.sc.charter.com": "INACTIVE",
+            "24-158-79-164.dhcp.spbg.sc.charter.com": "INACTIVE"
+        },
+        "1572573041": {
+            "24-159-187-3.dhcp.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572573047": {
+            "24-159-44-84.static.kgpt.tn.charter.com": "INACTIVE"
+        },
+        "1572573053": {
+            "24-166.97-97.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572573054": {
+            "24.169.138.210.bf.2iij.net": "INACTIVE"
+        },
+        "1572573060": {
+            "24-171-12-33.dhcp.stls.mo.charter.com": "INACTIVE"
+        },
+        "1572573066": {
+            "24-171-4-236.dhcp.stls.mo.charter.com": "INACTIVE"
+        },
+        "1572573072": {
+            "24-171-54-126.dhcp.stls.mo.charter.com": "INACTIVE"
+        },
+        "1572573078": {
+            "24-176-106-44.dhcp.jcsn.tn.charter.com": "INACTIVE"
+        },
+        "1572573084": {
+            "24-176-153-98.dhcp.jcsn.tn.charter.com": "INACTIVE"
+        },
+        "1572573090": {
+            "24-176-159-98.dhcp.jcsn.tn.charter.com": "INACTIVE"
+        },
+        "1572573096": {
+            "24-176-211-251.dhcp.lnbh.ca.charter.com": "INACTIVE"
+        },
+        "1572573103": {
+            "24-176-221-21.dhcp.lnbh.ca.charter.com": "INACTIVE"
+        },
+        "1572573109": {
+            "24-176-238-10.dhcp.atsc.ca.charter.com": "INACTIVE"
+        },
+        "1572573115": {
+            "24-176-96-12.dhcp.jcsn.tn.charter.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
