@@ -1,287 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1572413745": {
-            "56.sub-70-223-218.myvzw.com": "INACTIVE"
-        },
-        "1572413752": {
-            "57-148-133-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1572413758": {
-            "57.174-224-87.telenet.ru": "INACTIVE"
-        },
-        "1572413765": {
-            "57-226-124-91.pool.ukrtel.net": "INACTIVE"
-        },
-        "1572413771": {
-            "57-250-113-92.pool.ukrtel.net": "INACTIVE"
-        },
-        "1572413778": {
-            "57.sub-75-193-209.myvzw.com": "INACTIVE"
-        },
-        "1572413785": {
-            "58.118.151.202.cc9.ne.jp": "INACTIVE"
-        },
-        "1572413791": {
-            "58-3-33-79.ppp.bbiq.jp": "INACTIVE"
-        },
-        "1572413798": {
-            "58-3-39-175.ppp.bbiq.jp": "INACTIVE"
-        },
-        "1572413804": {
-            "58-3-55-224.ppp.bbiq.jp": "INACTIVE"
-        },
-        "1572413811": {
-            "58-3-56-220.ppp.bbiq.jp": "INACTIVE"
-        },
-        "1572413817": {
-            "58.40.233.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1572413823": {
-            "58-97-43-172.static.asianet.co.th": "INACTIVE"
-        },
-        "1572413830": {
-            "58.red-80-34-98.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1572413836": {
-            "58.red-81-47-136.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1572413843": {
-            "58.sub-70-194-163.myvzw.com": "INACTIVE"
-        },
-        "1572413849": {
-            "58x13x239x201.ap58.ftth.ucom.ne.jp": "INACTIVE"
-        },
-        "1572413855": {
-            "58x159x21x200.ap58.ftth.ucom.ne.jp": "INACTIVE"
-        },
-        "1572413862": {
-            "59-106-20-39.r-bl100.sakura.ne.jp": "INACTIVE"
-        },
-        "1572413869": {
-            "59-120-216-117.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1572413875": {
-            "59-124-156-213.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1572413882": {
-            "59-124-29-195.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1572413888": {
-            "59-124-46-139.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1572413895": {
-            "59-124-92-168.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1572413902": {
-            "59-125-229-78.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1572413908": {
-            "59-168-70-19.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572413915": {
-            "59-171-25-125.rev.home.ne.jp": "INACTIVE",
-            "59-188-9-234.simlink.com": "INACTIVE"
-        },
-        "1572413922": {
-            "59.64-138-225-net.sccoast.net": "INACTIVE",
-            "599.stats.misstrends.com": "INACTIVE"
-        },
-        "1572413929": {
-            "59.red-88-30-22.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1572413935": {
-            "59.sub-75-222-135.myvzw.com": "INACTIVE"
-        },
-        "1572413939": {
-            "5ed05472.cable.ziggo.nl": "INACTIVE"
-        },
-        "1572413945": {
-            "5ed10bdf.cable.ziggo.nl": "INACTIVE",
-            "5ed11271.cable.ziggo.nl": "INACTIVE"
-        },
-        "1572413946": {
-            "5ed1d035.cable.ziggo.nl": "INACTIVE",
-            "5ed1d2b9.cable.ziggo.nl": "INACTIVE"
-        },
-        "1572413953": {
-            "5ed40bd7.cable.ziggo.nl": "INACTIVE"
-        },
-        "1572413959": {
-            "5.estasiatica.com": "INACTIVE",
-            "5.eventiduepuntozero.com": "INACTIVE",
-            "5ed70fa9.cable.ziggo.nl": "INACTIVE"
-        },
-        "1572413960": {
-            "5.hidemyass.com": "INACTIVE"
-        },
-        "1572413975": {
-            "5.sub-75-206-187.myvzw.com": "INACTIVE"
-        },
-        "1572413983": {
-            "60.116.202.84.customer.cdi.no": "INACTIVE"
-        },
-        "1572413989": {
-            "60.184.16.62.customer.cdi.no": "INACTIVE"
-        },
-        "1572413996": {
-            "60.191.244.43.ap.yournet.ne.jp": "INACTIVE"
-        },
-        "1572414002": {
-            "60-234-124-91.pool.ukrtel.net": "INACTIVE"
-        },
-        "1572414003": {
-            "60-248-130-83.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1572414011": {
-            "60-249-117-96.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1572414018": {
-            "60-249-133-32.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1572414024": {
-            "60-250-10-199.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1572414031": {
-            "60-251-151-7.hinet-ip.hinet.net": "INACTIVE",
-            "602.stats.misstrends.com": "INACTIVE",
-            "604.stats.misstrends.com": "INACTIVE"
-        },
-        "1572414038": {
-            "60-58-166-231.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572414044": {
-            "60-62-133-186.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572414051": {
-            "60-62-140-23.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572414057": {
-            "60-62-140-24.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572414064": {
-            "60-62-192-132.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572414070": {
-            "60-62-221-199.rev.home.ne.jp": "INACTIVE",
-            "606.stats.misstrends.com": "INACTIVE"
-        },
-        "1572414077": {
-            "60-84-237-24.gci.net": "INACTIVE"
-        },
-        "1572414083": {
-            "60.sub-70-212-64.myvzw.com": "INACTIVE"
-        },
-        "1572414089": {
-            "60.sub-70-221-49.myvzw.com": "INACTIVE"
-        },
-        "1572414095": {
-            "61.116.232.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1572414102": {
-            "61-144-126-200.fibertel.com.ar": "INACTIVE"
-        },
-        "1572414108": {
-            "61-21-24-147.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572414115": {
-            "61-21-246-209.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572414121": {
-            "61-213-42-91.catv296.ne.jp": "INACTIVE"
-        },
-        "1572414128": {
-            "61-218-143-27.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1572414134": {
-            "61-218-167-194.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1572414140": {
-            "61-219-237-115.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1572414147": {
-            "61-219-39-160.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1572414154": {
-            "61-221-219-103.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1572414161": {
-            "61-221-222-63.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1572414168": {
-            "61.221.50.60.cbj04-home.tm.net.my": "INACTIVE"
-        },
-        "1572414174": {
-            "61-221-57-185.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1572414181": {
-            "61-22-46-47.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572414188": {
-            "61-23-149-139.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572414195": {
-            "61-23-190-206.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572414201": {
-            "61-24-60-112.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572414208": {
-            "61-24-68-209.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572414214": {
-            "61.254-224-87.telenet.ru": "INACTIVE"
-        },
-        "1572414221": {
-            "61-26-162-239.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572414227": {
-            "61-27-202-126.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572414234": {
-            "61-27-37-108.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572414240": {
-            "61-27-50-127.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572414247": {
-            "61-27-78-188.rev.home.ne.jp": "INACTIVE"
-        },
-        "1572414253": {
-            "615446.ds.nac.net": "INACTIVE"
-        },
-        "1572414260": {
-            "61-56-132-197-adsl-tpe.static.so-net.net.tw": "INACTIVE"
-        },
-        "1572414266": {
-            "6-157-231-201.fibertel.com.ar": "INACTIVE"
-        },
-        "1572414273": {
-            "61-62-126-140-adsl-pin.static.so-net.net.tw": "INACTIVE"
-        },
-        "1572414280": {
-            "61-62-180-80-adsl-tan.static.so-net.net.tw": "INACTIVE"
-        },
-        "1572414286": {
-            "61-63-72-host17.kbtelecom.net.tw": "INACTIVE"
-        },
-        "1572414293": {
-            "61-64-162-98-adsl-tai.static.so-net.net.tw": "INACTIVE"
-        },
-        "1572414300": {
-            "61-64-188-239-adsl-kao.static.so-net.net.tw": "INACTIVE"
-        },
-        "1572414307": {
-            "61-64-96-136-adsl-chu.static.so-net.net.tw": "INACTIVE"
-        },
-        "1572414313": {
-            "61-67-214-host163.kbtelecom.net.tw": "INACTIVE"
-        },
-        "1572414320": {
-            "616768.ds.nac.net": "INACTIVE"
-        },
-        "1572414432": {
-            "616957.ds.nac.net": "INACTIVE"
-        },
         "1572414438": {
             "616959.ds.nac.net": "INACTIVE"
         },
@@ -11161,6 +10879,301 @@
         },
         "1572579488": {
             "56.sub-70-195-20.myvzw.com": "INACTIVE"
+        },
+        "1572579684": {
+            "56.sub-70-223-218.myvzw.com": "INACTIVE"
+        },
+        "1572579691": {
+            "57-148-133-95.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572579698": {
+            "57.174-224-87.telenet.ru": "INACTIVE"
+        },
+        "1572579704": {
+            "57-226-124-91.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572579710": {
+            "57-250-113-92.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572579717": {
+            "57.sub-75-193-209.myvzw.com": "INACTIVE"
+        },
+        "1572579724": {
+            "58.118.151.202.cc9.ne.jp": "INACTIVE"
+        },
+        "1572579730": {
+            "58-3-33-79.ppp.bbiq.jp": "INACTIVE"
+        },
+        "1572579737": {
+            "58-3-39-175.ppp.bbiq.jp": "INACTIVE"
+        },
+        "1572579743": {
+            "58-3-55-224.ppp.bbiq.jp": "INACTIVE"
+        },
+        "1572579750": {
+            "58-3-56-220.ppp.bbiq.jp": "INACTIVE"
+        },
+        "1572579756": {
+            "58.40.233.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572579763": {
+            "58-97-43-172.static.asianet.co.th": "INACTIVE"
+        },
+        "1572579769": {
+            "58.red-80-34-98.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572579776": {
+            "58.red-81-47-136.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572579782": {
+            "58.sub-70-194-163.myvzw.com": "INACTIVE"
+        },
+        "1572579788": {
+            "58x13x239x201.ap58.ftth.ucom.ne.jp": "INACTIVE"
+        },
+        "1572579795": {
+            "58x159x21x200.ap58.ftth.ucom.ne.jp": "INACTIVE"
+        },
+        "1572579802": {
+            "59-106-20-39.r-bl100.sakura.ne.jp": "INACTIVE"
+        },
+        "1572579808": {
+            "59-120-216-117.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572579815": {
+            "59-124-156-213.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572579821": {
+            "59-124-29-195.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572579828": {
+            "59-124-46-139.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572579834": {
+            "59-124-92-168.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572579841": {
+            "59-125-229-78.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572579848": {
+            "59-168-70-19.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572579854": {
+            "59-171-25-125.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572579855": {
+            "59-188-9-234.simlink.com": "INACTIVE"
+        },
+        "1572579861": {
+            "59.64-138-225-net.sccoast.net": "INACTIVE"
+        },
+        "1572579862": {
+            "599.stats.misstrends.com": "INACTIVE"
+        },
+        "1572579869": {
+            "59.red-88-30-22.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572579875": {
+            "59.sub-75-222-135.myvzw.com": "INACTIVE"
+        },
+        "1572579876": {
+            "5ed05472.cable.ziggo.nl": "INACTIVE"
+        },
+        "1572579883": {
+            "5ed10bdf.cable.ziggo.nl": "INACTIVE",
+            "5ed11271.cable.ziggo.nl": "INACTIVE"
+        },
+        "1572579884": {
+            "5ed1d035.cable.ziggo.nl": "INACTIVE",
+            "5ed1d2b9.cable.ziggo.nl": "INACTIVE"
+        },
+        "1572579890": {
+            "5ed40bd7.cable.ziggo.nl": "INACTIVE"
+        },
+        "1572579897": {
+            "5ed70fa9.cable.ziggo.nl": "INACTIVE"
+        },
+        "1572579903": {
+            "5.estasiatica.com": "INACTIVE"
+        },
+        "1572579909": {
+            "5.eventiduepuntozero.com": "INACTIVE"
+        },
+        "1572579910": {
+            "5.hidemyass.com": "INACTIVE"
+        },
+        "1572579925": {
+            "5.sub-75-206-187.myvzw.com": "INACTIVE"
+        },
+        "1572579932": {
+            "5w90.co.cc": "INACTIVE"
+        },
+        "1572579939": {
+            "60.116.202.84.customer.cdi.no": "INACTIVE"
+        },
+        "1572579946": {
+            "60.184.16.62.customer.cdi.no": "INACTIVE"
+        },
+        "1572579953": {
+            "60.191.244.43.ap.yournet.ne.jp": "INACTIVE"
+        },
+        "1572579959": {
+            "60-234-124-91.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572579960": {
+            "60-248-130-83.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572579968": {
+            "60-249-117-96.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572579974": {
+            "60-249-133-32.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572579981": {
+            "60-250-10-199.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572579987": {
+            "60-251-151-7.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572579988": {
+            "602.stats.misstrends.com": "INACTIVE",
+            "604.stats.misstrends.com": "INACTIVE"
+        },
+        "1572579994": {
+            "60-58-166-231.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572580001": {
+            "60-62-133-186.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572580007": {
+            "60-62-140-23.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572580014": {
+            "60-62-140-24.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572580020": {
+            "60-62-192-132.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572580027": {
+            "60-62-221-199.rev.home.ne.jp": "INACTIVE",
+            "606.stats.misstrends.com": "INACTIVE"
+        },
+        "1572580033": {
+            "60-84-237-24.gci.net": "INACTIVE"
+        },
+        "1572580039": {
+            "60.sub-70-212-64.myvzw.com": "INACTIVE"
+        },
+        "1572580046": {
+            "60.sub-70-221-49.myvzw.com": "INACTIVE"
+        },
+        "1572580052": {
+            "61.116.232.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572580058": {
+            "61-144-126-200.fibertel.com.ar": "INACTIVE"
+        },
+        "1572580065": {
+            "61-21-24-147.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572580071": {
+            "61-21-246-209.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572580078": {
+            "61-213-42-91.catv296.ne.jp": "INACTIVE"
+        },
+        "1572580084": {
+            "61-218-143-27.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572580091": {
+            "61-218-167-194.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572580097": {
+            "61-219-237-115.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572580104": {
+            "61-219-39-160.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572580111": {
+            "61-221-219-103.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572580117": {
+            "61-221-222-63.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572580124": {
+            "61.221.50.60.cbj04-home.tm.net.my": "INACTIVE"
+        },
+        "1572580131": {
+            "61-221-57-185.hinet-ip.hinet.net": "INACTIVE"
+        },
+        "1572580137": {
+            "61-22-46-47.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572580145": {
+            "61-23-149-139.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572580151": {
+            "61-23-190-206.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572580158": {
+            "61-24-60-112.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572580164": {
+            "61-24-68-209.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572580171": {
+            "61.254-224-87.telenet.ru": "INACTIVE"
+        },
+        "1572580177": {
+            "61-26-162-239.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572580184": {
+            "61-27-202-126.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572580190": {
+            "61-27-37-108.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572580197": {
+            "61-27-50-127.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572580203": {
+            "61-27-78-188.rev.home.ne.jp": "INACTIVE"
+        },
+        "1572580209": {
+            "615446.ds.nac.net": "INACTIVE"
+        },
+        "1572580216": {
+            "61-56-132-197-adsl-tpe.static.so-net.net.tw": "INACTIVE"
+        },
+        "1572580223": {
+            "6-157-231-201.fibertel.com.ar": "INACTIVE"
+        },
+        "1572580230": {
+            "61-62-126-140-adsl-pin.static.so-net.net.tw": "INACTIVE"
+        },
+        "1572580237": {
+            "61-62-180-80-adsl-tan.static.so-net.net.tw": "INACTIVE"
+        },
+        "1572580243": {
+            "61-63-72-host17.kbtelecom.net.tw": "INACTIVE"
+        },
+        "1572580250": {
+            "61-64-162-98-adsl-tai.static.so-net.net.tw": "INACTIVE"
+        },
+        "1572580257": {
+            "61-64-188-239-adsl-kao.static.so-net.net.tw": "INACTIVE"
+        },
+        "1572580264": {
+            "61-64-96-136-adsl-chu.static.so-net.net.tw": "INACTIVE"
+        },
+        "1572580271": {
+            "61-67-214-host163.kbtelecom.net.tw": "INACTIVE"
+        },
+        "1572580277": {
+            "616768.ds.nac.net": "INACTIVE"
+        },
+        "1572580283": {
+            "616957.ds.nac.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
