@@ -1,277 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1572563065": {
-            "201-95-120-251.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563071": {
-            "201-95-12-28.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563077": {
-            "201-95-146-148.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563086": {
-            "201-95-147-1.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563092": {
-            "201-95-149-148.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563098": {
-            "201-95-150-123.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563105": {
-            "201-95-150-128.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563113": {
-            "201-95-151-199.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563120": {
-            "201-95-155-53.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563126": {
-            "201-95-16-193.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563132": {
-            "201-95-162-189.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563139": {
-            "201-95-16-6.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563145": {
-            "201-95-169-132.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563152": {
-            "201-95-17-159.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563158": {
-            "201-95-207-151.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563164": {
-            "201-95-219-117.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563171": {
-            "201-95-221-148.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563177": {
-            "201-95-224-154.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563184": {
-            "201-95-226-116.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563190": {
-            "201-95-28-205.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563196": {
-            "201-95-28-78.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563203": {
-            "201-95-38-134.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563209": {
-            "201-95-38-156.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563215": {
-            "201-95-38-163.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563222": {
-            "201-95-39-46.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563228": {
-            "201-95-45-168.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563235": {
-            "201-95-5-198.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563241": {
-            "201-95-66-169.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563247": {
-            "201-95-74-251.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563254": {
-            "201-95-75-252.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563260": {
-            "201-95-77-4.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563267": {
-            "201-95-90-81.dsl.telesp.net.br": "INACTIVE"
-        },
-        "1572563274": {
-            "202-110.thezone.bg": "INACTIVE"
-        },
-        "1572563281": {
-            "202-123-79-15.static.hdcdatacentre.com": "INACTIVE"
-        },
-        "1572563286": {
-            "202-153-214-211.cust.aussiebb.net": "INACTIVE"
-        },
-        "1572563293": {
-            "202-181-97-153.r-bl100.sakura.ne.jp": "INACTIVE"
-        },
-        "1572563300": {
-            "202.44.191.137.static.nexnet.net.au": "INACTIVE"
-        },
-        "1572563306": {
-            "202-45.thezone.bg": "INACTIVE"
-        },
-        "1572563313": {
-            "202.78.102.121.dy.bbexcite.jp": "INACTIVE"
-        },
-        "1572563319": {
-            "202-98-132-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1572563325": {
-            "202.sub-72-123-191.myvzw.com": "INACTIVE"
-        },
-        "1572563332": {
-            "202.sub-75-203-1.myvzw.com": "INACTIVE"
-        },
-        "1572563338": {
-            "202.sub-75-205-7.myvzw.com": "INACTIVE"
-        },
-        "1572563344": {
-            "202.sub-97-135-102.myvzw.com": "INACTIVE"
-        },
-        "1572563351": {
-            "203.110.151.202.cc9.ne.jp": "INACTIVE"
-        },
-        "1572563358": {
-            "203.112.dialup.westcall.net": "INACTIVE"
-        },
-        "1572563364": {
-            "203-136.thezone.bg": "INACTIVE"
-        },
-        "1572563371": {
-            "203-144-245-70.static.asianet.co.th": "INACTIVE",
-            "203-174-231-201.fibertel.com.ar": "INACTIVE"
-        },
-        "1572563381": {
-            "203-174-83-55.rev.ne.com.sg": "INACTIVE"
-        },
-        "1572563388": {
-            "203-174-83-75.rev.ne.com.sg": "INACTIVE"
-        },
-        "1572563394": {
-            "203186024182.ctinets.com": "INACTIVE"
-        },
-        "1572563401": {
-            "203186128153.ctinets.com": "INACTIVE"
-        },
-        "1572563407": {
-            "203186128180.ctinets.com": "INACTIVE"
-        },
-        "1572563413": {
-            "203-199.126-70.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1572563429": {
-            "203-204-110-98.adsl.static.giga.net.tw": "INACTIVE"
-        },
-        "1572563445": {
-            "203-204-204-179.adsl.static.giga.net.tw": "INACTIVE"
-        },
-        "1572563462": {
-            "203-204-230-28.adsl.static.giga.net.tw": "INACTIVE"
-        },
-        "1572563468": {
-            "203-213-76-12.static.tpgi.com.au": "INACTIVE"
-        },
-        "1572563474": {
-            "203-65-113-92.pool.ukrtel.net": "INACTIVE"
-        },
-        "1572563481": {
-            "203-74.pptp.artx.ru": "INACTIVE"
-        },
-        "1572563488": {
-            "203.red-88-31-19.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1572563494": {
-            "203.sub-70-199-6.myvzw.com": "INACTIVE"
-        },
-        "1572563500": {
-            "203.sub-75-236-92.myvzw.com": "INACTIVE"
-        },
-        "1572563506": {
-            "203.sub-75-242-130.myvzw.com": "INACTIVE"
-        },
-        "1572563513": {
-            "204-226.97-97.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1572563522": {
-            "204.red-88-30-8.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1572563528": {
-            "204.sub-70-208-131.myvzw.com": "INACTIVE"
-        },
-        "1572563534": {
-            "204.sub-75-212-38.myvzw.com": "INACTIVE"
-        },
-        "1572563540": {
-            "205.158.168.71.ptr.us.xo.net": "INACTIVE"
-        },
-        "1572563546": {
-            "205-179-184-200.client.dsl.net": "INACTIVE"
-        },
-        "1572563553": {
-            "205.218-224-87.telenet.ru": "INACTIVE",
-            "205.220.174.67.nw.nuvox.net": "INACTIVE"
-        },
-        "1572563560": {
-            "20.56.102.121.dy.bbexcite.jp": "INACTIVE"
-        },
-        "1572563956": {
-            "205-79.thezone.bg": "INACTIVE"
-        },
-        "1572563963": {
-            "205-92-113-92.pool.ukrtel.net": "INACTIVE"
-        },
-        "1572563969": {
-            "205-97.127-70.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1572563975": {
-            "205.red-88-24-249.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1572563982": {
-            "205.sub-75-203-103.myvzw.com": "INACTIVE"
-        },
-        "1572563988": {
-            "205.sub-75-218-5.myvzw.com": "INACTIVE"
-        },
-        "1572563994": {
-            "205.sub-75-237-43.myvzw.com": "INACTIVE"
-        },
-        "1572564000": {
-            "206-105-17-57.pcnet.net": "INACTIVE"
-        },
-        "1572564007": {
-            "206.177.48.60.brk02-home.tm.net.my": "INACTIVE"
-        },
-        "1572564014": {
-            "20.62.233.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1572564020": {
-            "206-225-94-32.dedicated.abac.net": "INACTIVE"
-        },
-        "1572564026": {
-            "206.232.36.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1572564032": {
-            "206-248-149-67.dsl.ncf.ca": "INACTIVE"
-        },
-        "1572564039": {
-            "206.sub-174-218-125.myvzw.com": "INACTIVE"
-        },
-        "1572564045": {
-            "206.sub-72-127-161.myvzw.com": "INACTIVE"
-        },
-        "1572564051": {
-            "206.sub-75-207-194.myvzw.com": "INACTIVE"
-        },
-        "1572564058": {
-            "206.sub-75-212-225.myvzw.com": "INACTIVE"
-        },
-        "1572564064": {
-            "207-150-133-95.pool.ukrtel.net": "INACTIVE"
-        },
         "1572564070": {
             "207-176-216-50.static-ip.ravand.ca": "INACTIVE"
         },
@@ -11195,6 +10923,276 @@
         },
         "1572748618": {
             "201-95-118-47.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748727": {
+            "201-95-120-251.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748733": {
+            "201-95-12-28.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748740": {
+            "201-95-146-148.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748746": {
+            "201-95-147-1.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748752": {
+            "201-95-149-148.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748759": {
+            "201-95-150-123.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748765": {
+            "201-95-150-128.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748772": {
+            "201-95-151-199.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748778": {
+            "201-95-155-53.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748784": {
+            "201-95-16-193.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748793": {
+            "201-95-162-189.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748799": {
+            "201-95-16-6.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748806": {
+            "201-95-169-132.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748812": {
+            "201-95-17-159.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748818": {
+            "201-95-207-151.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748825": {
+            "201-95-219-117.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748831": {
+            "201-95-221-148.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748837": {
+            "201-95-224-154.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748844": {
+            "201-95-226-116.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748852": {
+            "201-95-28-205.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748859": {
+            "201-95-28-78.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748865": {
+            "201-95-38-134.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748871": {
+            "201-95-38-156.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748878": {
+            "201-95-38-163.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748884": {
+            "201-95-39-46.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748891": {
+            "201-95-45-168.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748897": {
+            "201-95-5-198.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748903": {
+            "201-95-66-169.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748910": {
+            "201-95-74-251.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748916": {
+            "201-95-75-252.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748923": {
+            "201-95-77-4.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748929": {
+            "201-95-90-81.dsl.telesp.net.br": "INACTIVE"
+        },
+        "1572748936": {
+            "202-110.thezone.bg": "INACTIVE"
+        },
+        "1572748943": {
+            "202-123-79-15.static.hdcdatacentre.com": "INACTIVE"
+        },
+        "1572748945": {
+            "202-153-214-211.cust.aussiebb.net": "INACTIVE"
+        },
+        "1572748952": {
+            "202-181-97-153.r-bl100.sakura.ne.jp": "INACTIVE"
+        },
+        "1572748959": {
+            "202.44.191.137.static.nexnet.net.au": "INACTIVE"
+        },
+        "1572748965": {
+            "202-45.thezone.bg": "INACTIVE"
+        },
+        "1572748972": {
+            "202.78.102.121.dy.bbexcite.jp": "INACTIVE"
+        },
+        "1572748978": {
+            "202-98-132-95.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572748984": {
+            "202.sub-72-123-191.myvzw.com": "INACTIVE"
+        },
+        "1572748991": {
+            "202.sub-75-203-1.myvzw.com": "INACTIVE"
+        },
+        "1572748997": {
+            "202.sub-75-205-7.myvzw.com": "INACTIVE"
+        },
+        "1572749003": {
+            "202.sub-97-135-102.myvzw.com": "INACTIVE"
+        },
+        "1572749010": {
+            "203.110.151.202.cc9.ne.jp": "INACTIVE"
+        },
+        "1572749017": {
+            "203.112.dialup.westcall.net": "INACTIVE"
+        },
+        "1572749023": {
+            "203-136.thezone.bg": "INACTIVE"
+        },
+        "1572749030": {
+            "203-144-245-70.static.asianet.co.th": "INACTIVE",
+            "203-174-231-201.fibertel.com.ar": "INACTIVE"
+        },
+        "1572749037": {
+            "203-174-83-55.rev.ne.com.sg": "INACTIVE"
+        },
+        "1572749045": {
+            "203-174-83-75.rev.ne.com.sg": "INACTIVE"
+        },
+        "1572749051": {
+            "203186024182.ctinets.com": "INACTIVE"
+        },
+        "1572749058": {
+            "203186128153.ctinets.com": "INACTIVE",
+            "203186128180.ctinets.com": "INACTIVE"
+        },
+        "1572749064": {
+            "203-199.126-70.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572749080": {
+            "203-204-110-98.adsl.static.giga.net.tw": "INACTIVE"
+        },
+        "1572749097": {
+            "203-204-204-179.adsl.static.giga.net.tw": "INACTIVE"
+        },
+        "1572749113": {
+            "203-204-230-28.adsl.static.giga.net.tw": "INACTIVE"
+        },
+        "1572749119": {
+            "203-213-76-12.static.tpgi.com.au": "INACTIVE"
+        },
+        "1572749126": {
+            "203-65-113-92.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572749132": {
+            "203-74.pptp.artx.ru": "INACTIVE"
+        },
+        "1572749139": {
+            "203.red-88-31-19.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572749145": {
+            "203.sub-70-199-6.myvzw.com": "INACTIVE"
+        },
+        "1572749151": {
+            "203.sub-75-236-92.myvzw.com": "INACTIVE"
+        },
+        "1572749157": {
+            "203.sub-75-242-130.myvzw.com": "INACTIVE"
+        },
+        "1572749164": {
+            "204-226.97-97.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572749171": {
+            "204.red-88-30-8.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572749177": {
+            "204.sub-70-208-131.myvzw.com": "INACTIVE"
+        },
+        "1572749183": {
+            "204.sub-75-212-38.myvzw.com": "INACTIVE"
+        },
+        "1572749189": {
+            "205.158.168.71.ptr.us.xo.net": "INACTIVE"
+        },
+        "1572749195": {
+            "205-179-184-200.client.dsl.net": "INACTIVE"
+        },
+        "1572749202": {
+            "205.218-224-87.telenet.ru": "INACTIVE",
+            "205.220.174.67.nw.nuvox.net": "INACTIVE"
+        },
+        "1572749209": {
+            "20.56.102.121.dy.bbexcite.jp": "INACTIVE"
+        },
+        "1572749215": {
+            "205-79.thezone.bg": "INACTIVE"
+        },
+        "1572749221": {
+            "205-92-113-92.pool.ukrtel.net": "INACTIVE"
+        },
+        "1572749228": {
+            "205-97.127-70.tampabay.res.rr.com": "INACTIVE"
+        },
+        "1572749234": {
+            "205.red-88-24-249.staticip.rima-tde.net": "INACTIVE"
+        },
+        "1572749240": {
+            "205.sub-75-203-103.myvzw.com": "INACTIVE"
+        },
+        "1572749246": {
+            "205.sub-75-218-5.myvzw.com": "INACTIVE"
+        },
+        "1572749253": {
+            "205.sub-75-237-43.myvzw.com": "INACTIVE"
+        },
+        "1572749259": {
+            "206-105-17-57.pcnet.net": "INACTIVE"
+        },
+        "1572749266": {
+            "206.177.48.60.brk02-home.tm.net.my": "INACTIVE"
+        },
+        "1572749272": {
+            "20.62.233.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572749279": {
+            "206-225-94-32.dedicated.abac.net": "INACTIVE"
+        },
+        "1572749285": {
+            "206.232.36.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1572749292": {
+            "206-248-149-67.dsl.ncf.ca": "INACTIVE"
+        },
+        "1572749298": {
+            "206.sub-174-218-125.myvzw.com": "INACTIVE"
+        },
+        "1572749304": {
+            "206.sub-72-127-161.myvzw.com": "INACTIVE"
+        },
+        "1572749310": {
+            "206.sub-75-207-194.myvzw.com": "INACTIVE"
+        },
+        "1572749317": {
+            "206.sub-75-212-225.myvzw.com": "INACTIVE"
+        },
+        "1572749323": {
+            "207-150-133-95.pool.ukrtel.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
