@@ -1,281 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1572922194": {
-            "5400979e.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922200": {
-            "5400979f.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922207": {
-            "540097b4.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922213": {
-            "540097c6.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922220": {
-            "5400a808.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922227": {
-            "5400a847.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922233": {
-            "5400a92a.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922240": {
-            "5400a980.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922246": {
-            "5400a99e.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922253": {
-            "5400aadf.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922260": {
-            "5400ae9e.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922266": {
-            "5400aee7.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922273": {
-            "5400c001.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922279": {
-            "5400c02c.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922286": {
-            "5400c02e.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922293": {
-            "5400c033.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922299": {
-            "5400c03e.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922306": {
-            "5400c04d.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922312": {
-            "5400c058.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922319": {
-            "5400c06f.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922518": {
-            "5400c076.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922524": {
-            "5400c097.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922531": {
-            "5400c0b1.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922538": {
-            "5400c0b9.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922544": {
-            "5400c0cb.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922551": {
-            "5400c0e1.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922557": {
-            "5400d2ae.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922564": {
-            "5400de51.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922571": {
-            "5400de9c.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922577": {
-            "5400e1a5.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922584": {
-            "5400ef7b.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922590": {
-            "5400f7c4.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922597": {
-            "5400fd0d.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922604": {
-            "5400fd2a.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922610": {
-            "5400fd37.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922617": {
-            "5400fd5f.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922623": {
-            "5400fd64.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922630": {
-            "5400fd6e.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922637": {
-            "5400fd7f.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922643": {
-            "5400fd97.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922650": {
-            "5400fd9e.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922656": {
-            "5400fda0.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922663": {
-            "5400fddc.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922670": {
-            "5400fdf9.dsl.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922676": {
-            "540300d4.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922683": {
-            "5403051e.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922689": {
-            "54030a0a.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922696": {
-            "540320cc.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922703": {
-            "54032419.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922709": {
-            "54032971.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922716": {
-            "54032ac8.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922722": {
-            "54032bf0.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922729": {
-            "5403308a.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922736": {
-            "5403384c.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922742": {
-            "54033e0a.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922749": {
-            "54034071.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922755": {
-            "54034231.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922762": {
-            "540345a7.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922769": {
-            "540349e1.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922775": {
-            "540351b9.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922782": {
-            "54035467.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922783": {
-            "540356f1.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922789": {
-            "54035976.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922796": {
-            "54035e26.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922802": {
-            "54036868.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922809": {
-            "54036b0a.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922816": {
-            "54036b91.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922822": {
-            "54036cb1.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922829": {
-            "54037206.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922835": {
-            "54037260.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922842": {
-            "54037325.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922849": {
-            "540376f7.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922855": {
-            "54037a0b.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922862": {
-            "54037b29.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922868": {
-            "540387a1.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922875": {
-            "54038cd5.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922882": {
-            "54039066.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922888": {
-            "54039db3.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922895": {
-            "5403a25d.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922901": {
-            "5403a2a2.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922908": {
-            "5403a32d.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922915": {
-            "5403a393.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922921": {
-            "5403a3e4.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922928": {
-            "5403a43a.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922934": {
-            "5403a563.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922941": {
-            "5403a82f.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922948": {
-            "5403a835.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922954": {
-            "5403a9f7.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922961": {
-            "5403b02e.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922967": {
-            "5403b050.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922974": {
-            "5403b08e.catv.pool.telekom.hu": "INACTIVE"
-        },
-        "1572922981": {
-            "5403b2c2.catv.pool.telekom.hu": "INACTIVE"
-        },
         "1572922987": {
             "5403b3cf.catv.pool.telekom.hu": "INACTIVE"
         },
@@ -11168,6 +10892,282 @@
         },
         "1573104351": {
             "54009787.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104471": {
+            "5400979e.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104478": {
+            "5400979f.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104484": {
+            "540097b4.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104491": {
+            "540097c6.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104497": {
+            "5400a808.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104504": {
+            "5400a847.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104511": {
+            "5400a92a.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104517": {
+            "5400a980.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104524": {
+            "5400a99e.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104531": {
+            "5400aadf.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104537": {
+            "5400ae9e.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104544": {
+            "5400aee7.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104550": {
+            "5400c001.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104557": {
+            "5400c02c.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104564": {
+            "5400c02e.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104570": {
+            "5400c033.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104577": {
+            "5400c03e.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104583": {
+            "5400c04d.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104590": {
+            "5400c058.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104597": {
+            "5400c06f.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104603": {
+            "5400c076.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104610": {
+            "5400c097.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104616": {
+            "5400c0b1.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104623": {
+            "5400c0b9.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104629": {
+            "5400c0cb.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104636": {
+            "5400c0e1.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104643": {
+            "5400d2ae.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104649": {
+            "5400de51.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104656": {
+            "5400de9c.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104662": {
+            "5400e1a5.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104669": {
+            "5400ef7b.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104676": {
+            "5400f7c4.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104682": {
+            "5400fd0d.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104689": {
+            "5400fd2a.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104695": {
+            "5400fd37.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104702": {
+            "5400fd5f.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104709": {
+            "5400fd64.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104715": {
+            "5400fd6e.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104722": {
+            "5400fd7f.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104728": {
+            "5400fd97.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104735": {
+            "5400fd9e.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104742": {
+            "5400fda0.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104748": {
+            "5400fddc.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104755": {
+            "5400fdf9.dsl.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104762": {
+            "540300d4.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104768": {
+            "5403051e.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104775": {
+            "54030a0a.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104781": {
+            "540320cc.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104788": {
+            "54032419.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104795": {
+            "54032971.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104801": {
+            "54032ac8.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104808": {
+            "54032bf0.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104814": {
+            "5403308a.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104821": {
+            "5403384c.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104828": {
+            "54033e0a.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104834": {
+            "54034071.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104841": {
+            "54034231.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104847": {
+            "540345a7.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104854": {
+            "540349e1.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104861": {
+            "540351b9.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104867": {
+            "54035467.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104868": {
+            "540356f1.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104875": {
+            "54035976.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104882": {
+            "54035e26.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104888": {
+            "54036868.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104895": {
+            "54036b0a.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104901": {
+            "54036b91.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104908": {
+            "54036cb1.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104915": {
+            "54037206.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104921": {
+            "54037260.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104928": {
+            "54037325.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104934": {
+            "540376f7.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104941": {
+            "54037a0b.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104948": {
+            "54037b29.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104954": {
+            "540387a1.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104961": {
+            "54038cd5.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104967": {
+            "54039066.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104974": {
+            "54039db3.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104981": {
+            "5403a25d.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104987": {
+            "5403a2a2.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573104994": {
+            "5403a32d.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573105000": {
+            "5403a393.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573105007": {
+            "5403a3e4.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573105014": {
+            "5403a43a.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573105020": {
+            "5403a563.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573105027": {
+            "5403a82f.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573105033": {
+            "5403a835.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573105040": {
+            "5403a9f7.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573105047": {
+            "5403b02e.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573105053": {
+            "5403b050.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573105060": {
+            "5403b08e.catv.pool.telekom.hu": "INACTIVE"
+        },
+        "1573105066": {
+            "5403b2c2.catv.pool.telekom.hu": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
