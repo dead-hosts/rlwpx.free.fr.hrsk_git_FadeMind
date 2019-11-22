@@ -1,434 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1573081894": {
-            "124-144-33-191.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573081901": {
-            "124-144-48-24.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573081907": {
-            "124-144-48-52.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573081914": {
-            "124-144-50-27.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573081920": {
-            "124-144-50-5.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573081927": {
-            "124-144-54-215.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573081933": {
-            "124-144-54-220.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573081940": {
-            "124-144-6-129.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573081946": {
-            "124-169-140-121.dyn.iinet.net.au": "INACTIVE"
-        },
-        "1573081953": {
-            "124-169-189-42.dyn.iinet.net.au": "INACTIVE"
-        },
-        "1573081960": {
-            "124-169-212-130.dyn.iinet.net.au": "INACTIVE"
-        },
-        "1573081966": {
-            "124-169-221-209.dyn.iinet.net.au": "INACTIVE"
-        },
-        "1573081973": {
-            "124-169-59-45.dyn.iinet.net.au": "INACTIVE"
-        },
-        "1573081980": {
-            "124-169-6-229.dyn.iinet.net.au": "INACTIVE"
-        },
-        "1573081986": {
-            "124.214.67.209.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1573081993": {
-            "124244009153.ctinets.com": "INACTIVE"
-        },
-        "1573081999": {
-            "124244010016.ctinets.com": "INACTIVE"
-        },
-        "1573082006": {
-            "124244021077.ctinets.com": "INACTIVE"
-        },
-        "1573082012": {
-            "124244032069.ctinets.com": "INACTIVE"
-        },
-        "1573082019": {
-            "124244032108.ctinets.com": "INACTIVE"
-        },
-        "1573082025": {
-            "124244049156.ctinets.com": "INACTIVE"
-        },
-        "1573082032": {
-            "124244075136.ctinets.com": "INACTIVE"
-        },
-        "1573082038": {
-            "124244094161.ctinets.com": "INACTIVE"
-        },
-        "1573082045": {
-            "124244122234.ctinets.com": "INACTIVE"
-        },
-        "1573082051": {
-            "124244126137.ctinets.com": "INACTIVE"
-        },
-        "1573082058": {
-            "124244220116.ctinets.com": "INACTIVE"
-        },
-        "1573082065": {
-            "124244240182.ctinets.com": "INACTIVE"
-        },
-        "1573082071": {
-            "124244254078.ctinets.com": "INACTIVE"
-        },
-        "1573082078": {
-            "124-47-119-175.cidr4.kct.ad.jp": "INACTIVE"
-        },
-        "1573082084": {
-            "124-47-81-136.cidr4.kct.ad.jp": "INACTIVE"
-        },
-        "1573082090": {
-            "124.los-angeles-11rh15rt.ca.dial-access.att.net": "INACTIVE"
-        },
-        "1573082097": {
-            "124.sub-70-210-105.myvzw.com": "INACTIVE"
-        },
-        "1573082103": {
-            "124.sub-75-223-206.myvzw.com": "INACTIVE"
-        },
-        "1573082109": {
-            "124x34x105x166.ap124.ftth.ucom.ne.jp": "INACTIVE"
-        },
-        "1573082116": {
-            "124x34x72x219.ap124.ftth.ucom.ne.jp": "INACTIVE"
-        },
-        "1573082122": {
-            "124x35x187x38.ap124.ftth.ucom.ne.jp": "INACTIVE"
-        },
-        "1573082129": {
-            "124x35x92x38.ap124.ftth.ucom.ne.jp": "INACTIVE"
-        },
-        "1573082135": {
-            "124x37x173x89.ap124.ftth.ucom.ne.jp": "INACTIVE"
-        },
-        "1573082136": {
-            "124x39x211x99.ap124.ftth.ucom.ne.jp": "INACTIVE"
-        },
-        "1573082137": {
-            "125.113-64-87.adsl-dyn.isp.belgacom.be": "INACTIVE",
-            "125.114.151.202.cc9.ne.jp": "INACTIVE"
-        },
-        "1573082144": {
-            "125.114.233.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1573082150": {
-            "125-13-158-72.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573082157": {
-            "125-13-159-166.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573082163": {
-            "125-13-163-73.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573082170": {
-            "125-13-248-171.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573082176": {
-            "125-13-253-220.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573082183": {
-            "125-14-102-120.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573082189": {
-            "125-14-205-179.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573082196": {
-            "125-14-91-202.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573082202": {
-            "125-15-51-216.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573082209": {
-            "125-20-179-94.pool.ukrtel.net": "INACTIVE"
-        },
-        "1573082217": {
-            "125-253-05-153.perm.ver.bigair.net.au": "INACTIVE"
-        },
-        "1573082223": {
-            "125-8-10-201.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573082229": {
-            "125-8-206-98.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573082237": {
-            "125.sub-75-196-236.myvzw.com": "INACTIVE"
-        },
-        "1573082243": {
-            "125x101x218x53.ap125.ftth.ucom.ne.jp": "INACTIVE"
-        },
-        "1573082250": {
-            "125x102x121x153.ap125.ftth.ucom.ne.jp": "INACTIVE"
-        },
-        "1573082257": {
-            "126-36-215.ftth.xms.internl.net": "INACTIVE"
-        },
-        "1573082270": {
-            "126.red-88-25-142.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1573082276": {
-            "126.sub-75-206-226.myvzw.com": "INACTIVE"
-        },
-        "1573082282": {
-            "126.sub-75-222-163.myvzw.com": "INACTIVE"
-        },
-        "1573082288": {
-            "127-152-133-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1573082295": {
-            "127-159-133-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1573082301": {
-            "127-216-114-200.fibertel.com.ar": "INACTIVE"
-        },
-        "1573082308": {
-            "127-244-58-66.gci.net": "INACTIVE"
-        },
-        "1573082314": {
-            "12733364.bookonline.com.cn": "INACTIVE"
-        },
-        "1573082321": {
-            "127-45-135-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1573082327": {
-            "128.red-83-63-228.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1573082333": {
-            "128.sub-70-213-114.myvzw.com": "INACTIVE"
-        },
-        "1573082340": {
-            "129-200.sh.cgocable.ca": "INACTIVE"
-        },
-        "1573082346": {
-            "129.50.233.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1573082352": {
-            "129.sub-70-209-5.myvzw.com": "INACTIVE"
-        },
-        "1573082359": {
-            "12.sub-70-217-51.myvzw.com": "INACTIVE"
-        },
-        "1573082365": {
-            "12.sub-70-221-237.myvzw.com": "INACTIVE"
-        },
-        "1573082372": {
-            "12.sub-97-177-25.myvzw.com": "INACTIVE"
-        },
-        "1573082379": {
-            "130-171-58-66.gci.net": "INACTIVE",
-            "130.137.232.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1573082386": {
-            "13-074.190.popsite.net": "INACTIVE",
-            "130.red-88-30-9.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1573082392": {
-            "130.sub-70-222-227.myvzw.com": "INACTIVE"
-        },
-        "1573082393": {
-            "13-103.031.popsite.net": "INACTIVE"
-        },
-        "1573082399": {
-            "13.112.dialup.westcall.net": "INACTIVE"
-        },
-        "1573082406": {
-            "131.137.232.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1573082412": {
-            "13-14-112-92.pool.ukrtel.net": "INACTIVE"
-        },
-        "1573082419": {
-            "13-176-126-200.fibertel.com.ar": "INACTIVE"
-        },
-        "1573082425": {
-            "131.sub-75-249-142.myvzw.com": "INACTIVE"
-        },
-        "1573082431": {
-            "132-221.tyc.state.tx.us": "INACTIVE"
-        },
-        "1573082438": {
-            "133.106.232.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1573082444": {
-            "133-176-126-200.fibertel.com.ar": "INACTIVE"
-        },
-        "1573082451": {
-            "133-35-215.ftth.xms.internl.net": "INACTIVE"
-        },
-        "1573082459": {
-            "133.home.ro": "INACTIVE"
-        },
-        "1573082466": {
-            "133.red-88-25-227.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1573082472": {
-            "134-178.106-97.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1573082478": {
-            "134-84-237-24.gci.net": "INACTIVE"
-        },
-        "1573082484": {
-            "134-91-237-24.gci.net": "INACTIVE"
-        },
-        "1573082491": {
-            "135.103.151.202.cc9.ne.jp": "INACTIVE"
-        },
-        "1573082754": {
-            "135.108.151.202.cc9.ne.jp": "INACTIVE"
-        },
-        "1573082762": {
-            "135.red-88-29-98.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1573082769": {
-            "135.sub-75-222-142.myvzw.com": "INACTIVE"
-        },
-        "1573082775": {
-            "136-13.125-70.tampabay.res.rr.com": "INACTIVE"
-        },
-        "1573082781": {
-            "136.los-angeles-11rh15rt.ca.dial-access.att.net": "INACTIVE"
-        },
-        "1573082787": {
-            "136.red-80-37-47.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1573082793": {
-            "136.sub-75-213-134.myvzw.com": "INACTIVE"
-        },
-        "1573082800": {
-            "137-164-16-190.fibertel.com.ar": "INACTIVE"
-        },
-        "1573082806": {
-            "137.26.138.58.dy.bbexcite.jp": "INACTIVE"
-        },
-        "1573082813": {
-            "137-30-133-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1573082820": {
-            "137.95.108.93.rev.vodafone.pt": "INACTIVE"
-        },
-        "1573082826": {
-            "137.red-88-28-62.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1573082833": {
-            "138.206-245-81.adsl-dyn.isp.belgacom.be": "INACTIVE"
-        },
-        "1573082839": {
-            "138.207.232.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1573082846": {
-            "138.216.232.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1573082852": {
-            "138.72.202.84.customer.cdi.no": "INACTIVE"
-        },
-        "1573082858": {
-            "138.sub-70-222-103.myvzw.com": "INACTIVE"
-        },
-        "1573082865": {
-            "139.195.232.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1573082871": {
-            "139.207.232.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1573082878": {
-            "139-218-132-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1573082884": {
-            "139.red-88-24-120.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1573082890": {
-            "139.red-88-25-142.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1573082891": {
-            "139.red-88-31-84.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1573082897": {
-            "139.sub-75-196-54.myvzw.com": "INACTIVE"
-        },
-        "1573082917": {
-            "13.sub-75-198-89.myvzw.com": "INACTIVE"
-        },
-        "1573082925": {
-            "140-119.mc.royaume.com": "INACTIVE"
-        },
-        "1573082931": {
-            "140-189-179-94.pool.ukrtel.net": "INACTIVE",
-            "140.red-88-30-5.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1573082938": {
-            "14-107-133-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1573082944": {
-            "141-163-133-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1573082951": {
-            "14-185.031.popsite.net": "INACTIVE",
-            "141-24.dedicado.com.uy": "INACTIVE"
-        },
-        "1573082957": {
-            "141-9-207-82.pool.ukrtel.net": "INACTIVE"
-        },
-        "1573082964": {
-            "14-195.190.popsite.net": "INACTIVE"
-        },
-        "1573082971": {
-            "141.red-88-25-142.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1573082977": {
-            "142-138-112-92.pool.ukrtel.net": "INACTIVE"
-        },
-        "1573082984": {
-            "142-154-16-190.fibertel.com.ar": "INACTIVE"
-        },
-        "1573082990": {
-            "142-162-132-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1573082997": {
-            "142.182-31-94.telenet.ru": "INACTIVE"
-        },
-        "1573083003": {
-            "142-217-2-233.telebecinternet.net": "INACTIVE"
-        },
-        "1573083009": {
-            "142-217-36-201.telebecinternet.net": "INACTIVE"
-        },
-        "1573083016": {
-            "142.251.100.220.dy.bbexcite.jp": "INACTIVE"
-        },
-        "1573083022": {
-            "14-235-124-91.pool.ukrtel.net": "INACTIVE"
-        },
-        "1573083029": {
-            "142-36.asparuhovo.net": "INACTIVE",
-            "142.69-247-81.adsl-dyn.isp.belgacom.be": "INACTIVE"
-        },
-        "1573083036": {
-            "14.29ec54.tvnetwork.hu": "INACTIVE"
-        },
-        "1573083042": {
-            "142pc202.sshunet.nl": "INACTIVE"
-        },
-        "1573083048": {
-            "142.sub-70-213-192.myvzw.com": "INACTIVE"
-        },
-        "1573083054": {
-            "142.sub-75-193-253.myvzw.com": "INACTIVE"
-        },
-        "1573083061": {
-            "143-147-135-95.pool.ukrtel.net": "INACTIVE"
-        },
         "1573083067": {
             "143-225.dr.cgocable.ca": "INACTIVE"
         },
@@ -10656,6 +10227,171 @@
             "124-144-116-34.rev.home.ne.jp": "INACTIVE",
             "124-144-151-28.rev.home.ne.jp": "INACTIVE",
             "124-144-25-68.rev.home.ne.jp": "INACTIVE"
+        },
+        "1574464601": {
+            "124-144-33-191.rev.home.ne.jp": "INACTIVE",
+            "124-144-48-24.rev.home.ne.jp": "INACTIVE",
+            "124-144-48-52.rev.home.ne.jp": "INACTIVE",
+            "124-144-50-27.rev.home.ne.jp": "INACTIVE",
+            "124-144-50-5.rev.home.ne.jp": "INACTIVE",
+            "124-144-54-215.rev.home.ne.jp": "INACTIVE",
+            "124-144-54-220.rev.home.ne.jp": "INACTIVE",
+            "124-144-6-129.rev.home.ne.jp": "INACTIVE",
+            "124-169-140-121.dyn.iinet.net.au": "INACTIVE",
+            "124-169-189-42.dyn.iinet.net.au": "INACTIVE",
+            "124-169-212-130.dyn.iinet.net.au": "INACTIVE",
+            "124-169-221-209.dyn.iinet.net.au": "INACTIVE",
+            "124-169-59-45.dyn.iinet.net.au": "INACTIVE",
+            "124-169-6-229.dyn.iinet.net.au": "INACTIVE",
+            "124.214.67.209.static.reverse.ltdomains.com": "INACTIVE",
+            "124244009153.ctinets.com": "INACTIVE",
+            "124244010016.ctinets.com": "INACTIVE"
+        },
+        "1574464602": {
+            "124-47-119-175.cidr4.kct.ad.jp": "INACTIVE",
+            "124-47-81-136.cidr4.kct.ad.jp": "INACTIVE",
+            "124.los-angeles-11rh15rt.ca.dial-access.att.net": "INACTIVE",
+            "124.sub-70-210-105.myvzw.com": "INACTIVE",
+            "124.sub-75-223-206.myvzw.com": "INACTIVE",
+            "124244021077.ctinets.com": "INACTIVE",
+            "124244032069.ctinets.com": "INACTIVE",
+            "124244032108.ctinets.com": "INACTIVE",
+            "124244049156.ctinets.com": "INACTIVE",
+            "124244075136.ctinets.com": "INACTIVE",
+            "124244094161.ctinets.com": "INACTIVE",
+            "124244122234.ctinets.com": "INACTIVE",
+            "124244126137.ctinets.com": "INACTIVE",
+            "124244220116.ctinets.com": "INACTIVE",
+            "124244240182.ctinets.com": "INACTIVE",
+            "124244254078.ctinets.com": "INACTIVE",
+            "124x34x105x166.ap124.ftth.ucom.ne.jp": "INACTIVE"
+        },
+        "1574464603": {
+            "124x34x72x219.ap124.ftth.ucom.ne.jp": "INACTIVE",
+            "124x35x187x38.ap124.ftth.ucom.ne.jp": "INACTIVE",
+            "124x35x92x38.ap124.ftth.ucom.ne.jp": "INACTIVE",
+            "124x37x173x89.ap124.ftth.ucom.ne.jp": "INACTIVE",
+            "124x39x211x99.ap124.ftth.ucom.ne.jp": "INACTIVE",
+            "125-13-158-72.rev.home.ne.jp": "INACTIVE",
+            "125-13-159-166.rev.home.ne.jp": "INACTIVE",
+            "125-13-163-73.rev.home.ne.jp": "INACTIVE",
+            "125-13-248-171.rev.home.ne.jp": "INACTIVE",
+            "125-13-253-220.rev.home.ne.jp": "INACTIVE",
+            "125-14-102-120.rev.home.ne.jp": "INACTIVE",
+            "125-14-205-179.rev.home.ne.jp": "INACTIVE",
+            "125-14-91-202.rev.home.ne.jp": "INACTIVE",
+            "125-20-179-94.pool.ukrtel.net": "INACTIVE",
+            "125.113-64-87.adsl-dyn.isp.belgacom.be": "INACTIVE",
+            "125.114.151.202.cc9.ne.jp": "INACTIVE",
+            "125.114.233.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1574464604": {
+            "125-15-51-216.rev.home.ne.jp": "INACTIVE",
+            "125-253-05-153.perm.ver.bigair.net.au": "INACTIVE",
+            "125-8-10-201.rev.home.ne.jp": "INACTIVE",
+            "125-8-206-98.rev.home.ne.jp": "INACTIVE",
+            "125.sub-75-196-236.myvzw.com": "INACTIVE",
+            "125x101x218x53.ap125.ftth.ucom.ne.jp": "INACTIVE",
+            "125x102x121x153.ap125.ftth.ucom.ne.jp": "INACTIVE",
+            "126-36-215.ftth.xms.internl.net": "INACTIVE",
+            "126.red-88-25-142.staticip.rima-tde.net": "INACTIVE",
+            "126.sub-75-206-226.myvzw.com": "INACTIVE",
+            "126.sub-75-222-163.myvzw.com": "INACTIVE",
+            "127-152-133-95.pool.ukrtel.net": "INACTIVE",
+            "127-159-133-95.pool.ukrtel.net": "INACTIVE",
+            "127-216-114-200.fibertel.com.ar": "INACTIVE",
+            "127-244-58-66.gci.net": "INACTIVE",
+            "12733364.bookonline.com.cn": "INACTIVE"
+        },
+        "1574464605": {
+            "12.sub-70-217-51.myvzw.com": "INACTIVE",
+            "12.sub-70-221-237.myvzw.com": "INACTIVE",
+            "12.sub-97-177-25.myvzw.com": "INACTIVE",
+            "127-45-135-95.pool.ukrtel.net": "INACTIVE",
+            "128.red-83-63-228.staticip.rima-tde.net": "INACTIVE",
+            "128.sub-70-213-114.myvzw.com": "INACTIVE",
+            "129-200.sh.cgocable.ca": "INACTIVE",
+            "129.50.233.72.static.reverse.ltdomains.com": "INACTIVE",
+            "129.sub-70-209-5.myvzw.com": "INACTIVE",
+            "13-074.190.popsite.net": "INACTIVE",
+            "13-103.031.popsite.net": "INACTIVE",
+            "13.112.dialup.westcall.net": "INACTIVE",
+            "130-171-58-66.gci.net": "INACTIVE",
+            "130.137.232.72.static.reverse.ltdomains.com": "INACTIVE",
+            "130.red-88-30-9.staticip.rima-tde.net": "INACTIVE",
+            "130.sub-70-222-227.myvzw.com": "INACTIVE"
+        },
+        "1574464606": {
+            "13-14-112-92.pool.ukrtel.net": "INACTIVE",
+            "13-176-126-200.fibertel.com.ar": "INACTIVE",
+            "131.137.232.72.static.reverse.ltdomains.com": "INACTIVE",
+            "131.sub-75-249-142.myvzw.com": "INACTIVE",
+            "132-221.tyc.state.tx.us": "INACTIVE",
+            "133-176-126-200.fibertel.com.ar": "INACTIVE",
+            "133-35-215.ftth.xms.internl.net": "INACTIVE",
+            "133.106.232.72.static.reverse.ltdomains.com": "INACTIVE",
+            "133.home.ro": "INACTIVE",
+            "133.red-88-25-227.staticip.rima-tde.net": "INACTIVE",
+            "134-178.106-97.tampabay.res.rr.com": "INACTIVE",
+            "134-84-237-24.gci.net": "INACTIVE",
+            "134-91-237-24.gci.net": "INACTIVE",
+            "135.103.151.202.cc9.ne.jp": "INACTIVE",
+            "135.108.151.202.cc9.ne.jp": "INACTIVE"
+        },
+        "1574464607": {
+            "135.red-88-29-98.staticip.rima-tde.net": "INACTIVE",
+            "135.sub-75-222-142.myvzw.com": "INACTIVE",
+            "136-13.125-70.tampabay.res.rr.com": "INACTIVE",
+            "136.los-angeles-11rh15rt.ca.dial-access.att.net": "INACTIVE",
+            "136.red-80-37-47.staticip.rima-tde.net": "INACTIVE",
+            "136.sub-75-213-134.myvzw.com": "INACTIVE",
+            "137-164-16-190.fibertel.com.ar": "INACTIVE",
+            "137-30-133-95.pool.ukrtel.net": "INACTIVE",
+            "137.26.138.58.dy.bbexcite.jp": "INACTIVE",
+            "137.95.108.93.rev.vodafone.pt": "INACTIVE",
+            "137.red-88-28-62.staticip.rima-tde.net": "INACTIVE",
+            "138.206-245-81.adsl-dyn.isp.belgacom.be": "INACTIVE",
+            "138.207.232.72.static.reverse.ltdomains.com": "INACTIVE",
+            "138.216.232.72.static.reverse.ltdomains.com": "INACTIVE",
+            "138.72.202.84.customer.cdi.no": "INACTIVE",
+            "138.sub-70-222-103.myvzw.com": "INACTIVE",
+            "139.195.232.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1574464608": {
+            "13.sub-75-198-89.myvzw.com": "INACTIVE",
+            "139-218-132-95.pool.ukrtel.net": "INACTIVE",
+            "139.207.232.72.static.reverse.ltdomains.com": "INACTIVE",
+            "139.red-88-24-120.staticip.rima-tde.net": "INACTIVE",
+            "139.red-88-25-142.staticip.rima-tde.net": "INACTIVE",
+            "139.red-88-31-84.staticip.rima-tde.net": "INACTIVE",
+            "139.sub-75-196-54.myvzw.com": "INACTIVE",
+            "14-107-133-95.pool.ukrtel.net": "INACTIVE",
+            "14-185.031.popsite.net": "INACTIVE",
+            "14-195.190.popsite.net": "INACTIVE",
+            "140-119.mc.royaume.com": "INACTIVE",
+            "140-189-179-94.pool.ukrtel.net": "INACTIVE",
+            "140.red-88-30-5.staticip.rima-tde.net": "INACTIVE",
+            "141-163-133-95.pool.ukrtel.net": "INACTIVE",
+            "141-24.dedicado.com.uy": "INACTIVE",
+            "141-9-207-82.pool.ukrtel.net": "INACTIVE"
+        },
+        "1574464609": {
+            "14-235-124-91.pool.ukrtel.net": "INACTIVE",
+            "14.29ec54.tvnetwork.hu": "INACTIVE",
+            "141.red-88-25-142.staticip.rima-tde.net": "INACTIVE",
+            "142-138-112-92.pool.ukrtel.net": "INACTIVE",
+            "142-154-16-190.fibertel.com.ar": "INACTIVE",
+            "142-162-132-95.pool.ukrtel.net": "INACTIVE",
+            "142-217-2-233.telebecinternet.net": "INACTIVE",
+            "142-217-36-201.telebecinternet.net": "INACTIVE",
+            "142-36.asparuhovo.net": "INACTIVE",
+            "142.182-31-94.telenet.ru": "INACTIVE",
+            "142.251.100.220.dy.bbexcite.jp": "INACTIVE",
+            "142.69-247-81.adsl-dyn.isp.belgacom.be": "INACTIVE",
+            "142.sub-70-213-192.myvzw.com": "INACTIVE",
+            "142.sub-75-193-253.myvzw.com": "INACTIVE",
+            "142pc202.sshunet.nl": "INACTIVE",
+            "143-147-135-95.pool.ukrtel.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
