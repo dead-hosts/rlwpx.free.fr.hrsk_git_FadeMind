@@ -725,12 +725,12 @@
         "state": "future"
     },
     "2001positions.com": {
-        "epoch": "1583193600",
+        "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
         "state": "future"
     },
     "2007-search.com": {
-        "epoch": 1597622400,
+        "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
