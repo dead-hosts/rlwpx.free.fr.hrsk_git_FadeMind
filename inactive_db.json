@@ -1,441 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1573096237": {
-            "210-126-17-190.fibertel.com.ar": "INACTIVE"
-        },
-        "1573096243": {
-            "210-163-19-25.nasicnet.com": "INACTIVE"
-        },
-        "1573096250": {
-            "210.173.232.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1573096256": {
-            "210-194-120-61.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573096263": {
-            "210-194-183-81.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573096269": {
-            "210-194-32-18.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573096276": {
-            "210-20-122-216.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573096282": {
-            "210-20-82-17.rev.home.ne.jp": "INACTIVE"
-        },
-        "1573096289": {
-            "210-210-111-123.lan.sify.net": "INACTIVE"
-        },
-        "1573096296": {
-            "210-210-25-111.lan.sify.net": "INACTIVE"
-        },
-        "1573096303": {
-            "210-213-12-182.static.asianet.co.th": "INACTIVE"
-        },
-        "1573096310": {
-            "210-213-20-209.static.asianet.co.th": "INACTIVE"
-        },
-        "1573096316": {
-            "210-222-231-201.fibertel.com.ar": "INACTIVE"
-        },
-        "1573096322": {
-            "210-225-214-213.nasicnet.com": "INACTIVE"
-        },
-        "1573096329": {
-            "210.33.233.72.static.reverse.ltdomains.com": "INACTIVE"
-        },
-        "1573096336": {
-            "210-55-151-225.dialup.xtra.co.nz": "INACTIVE"
-        },
-        "1573096343": {
-            "210-55-68-80.adsl.inspire.net.nz": "INACTIVE"
-        },
-        "1573096349": {
-            "210.81-166-44.customer.lyse.net": "INACTIVE"
-        },
-        "1573096356": {
-            "210.81.202.84.customer.cdi.no": "INACTIVE"
-        },
-        "1573096362": {
-            "210-86-128-208.static.asianet.co.th": "INACTIVE"
-        },
-        "1573096368": {
-            "210.sub-75-213-73.myvzw.com": "INACTIVE"
-        },
-        "1573096375": {
-            "210.sub-97-22-111.myvzw.com": "INACTIVE"
-        },
-        "1573096381": {
-            "211-120-133-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1573096382": {
-            "211.14-218-195.catv.internet.lu": "INACTIVE"
-        },
-        "1573096389": {
-            "211-19-211-174.parkcity.ne.jp": "INACTIVE"
-        },
-        "1573096396": {
-            "211.199.48.60.klj02-home.tm.net.my": "INACTIVE"
-        },
-        "1573096402": {
-            "211-20-210-73.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1573096409": {
-            "211-23-38-203.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1573096415": {
-            "211-49-231-201.fibertel.com.ar": "INACTIVE"
-        },
-        "1573096423": {
-            "211-74-115-41.adsl.static.seed.net.tw": "INACTIVE"
-        },
-        "1573096429": {
-            "211-75-179-192.hinet-ip.hinet.net": "INACTIVE"
-        },
-        "1573096435": {
-            "211-80-178-94.pool.ukrtel.net": "INACTIVE"
-        },
-        "1573096442": {
-            "211.red-88-30-11.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1573096443": {
-            "211.red-88-31-61.staticip.rima-tde.net": "INACTIVE"
-        },
-        "1573096449": {
-            "211.sub-70-195-198.myvzw.com": "INACTIVE"
-        },
-        "1573096455": {
-            "211.sub-70-222-47.myvzw.com": "INACTIVE"
-        },
-        "1573096461": {
-            "212067224075.public.telering.at": "INACTIVE"
-        },
-        "1573096468": {
-            "212067224187.public.telering.at": "INACTIVE"
-        },
-        "1573096474": {
-            "212067227034.public.telering.at": "INACTIVE"
-        },
-        "1573096480": {
-            "212067227195.public.telering.at": "INACTIVE"
-        },
-        "1573096487": {
-            "212067227233.public.telering.at": "INACTIVE"
-        },
-        "1573096493": {
-            "212067232150.public.telering.at": "INACTIVE"
-        },
-        "1573096499": {
-            "212067233073.public.telering.at": "INACTIVE"
-        },
-        "1573096506": {
-            "212067234117.public.telering.at": "INACTIVE"
-        },
-        "1573096512": {
-            "212067234165.public.telering.at": "INACTIVE"
-        },
-        "1573096519": {
-            "212067234238.public.telering.at": "INACTIVE"
-        },
-        "1573096526": {
-            "212095022002.public.telering.at": "INACTIVE"
-        },
-        "1573096536": {
-            "212.122.100.79.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096543": {
-            "212.122.110.241.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096549": {
-            "212.122.96.131.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096556": {
-            "212.122.96.170.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096563": {
-            "212-149-211-95.bb.dnainternet.fi": "INACTIVE"
-        },
-        "1573096569": {
-            "212-149-242-92.bb.dnainternet.fi": "INACTIVE"
-        },
-        "1573096576": {
-            "212-166-139-191.red-acceso.airtel.net": "INACTIVE"
-        },
-        "1573096582": {
-            "212-166-158-91.red-acceso.airtel.net": "INACTIVE"
-        },
-        "1573096589": {
-            "212-166-226-149.red-acceso.airtel.net": "INACTIVE"
-        },
-        "1573096596": {
-            "212-166-231-217.red-acceso.airtel.net": "INACTIVE"
-        },
-        "1573096602": {
-            "212-166-247-40.red-acceso.airtel.net": "INACTIVE"
-        },
-        "1573096603": {
-            "212.183.198.174.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096604": {
-            "212.183.199.102.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096611": {
-            "212.183.199.10.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096617": {
-            "212.183.199.141.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096618": {
-            "212.183.199.147.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096624": {
-            "212.183.199.242.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096721": {
-            "212.183.199.25.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096728": {
-            "212.183.199.51.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096736": {
-            "212.183.199.71.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096743": {
-            "212.183.199.83.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096753": {
-            "212.183.208.153.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096754": {
-            "212.183.210.60.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096760": {
-            "212.183.210.61.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096767": {
-            "212.183.211.138.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096774": {
-            "212.183.213.135.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096780": {
-            "212.183.214.24.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096781": {
-            "212.183.218.175.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096792": {
-            "212.183.219.16.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096798": {
-            "212.183.219.34.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096805": {
-            "212.183.222.203.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096811": {
-            "212.183.222.23.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096818": {
-            "212.183.222.30.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096824": {
-            "212.183.222.60.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096833": {
-            "212.183.223.167.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096840": {
-            "212.183.226.248.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096846": {
-            "212.183.227.245.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096855": {
-            "212.183.231.191.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096863": {
-            "212.183.235.220.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096870": {
-            "212.183.235.40.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096878": {
-            "212.183.238.68.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096887": {
-            "212.183.244.24.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096888": {
-            "212.183.245.125.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096894": {
-            "212.183.247.90.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096901": {
-            "212.183.249.21.dyn.user.ono.com": "INACTIVE",
-            "212.183.252.224.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096908": {
-            "212.183.253.19.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096917": {
-            "212.183.253.35.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096925": {
-            "212.183.253.4.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096932": {
-            "212.183.254.109.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096940": {
-            "212.183.254.188.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096947": {
-            "212.183.254.224.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096948": {
-            "212-183-88-33.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1573096949": {
-            "212-183-95-201.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1573096956": {
-            "212.199.163.197.hosting.spd.co.il": "INACTIVE"
-        },
-        "1573096963": {
-            "212.199.193.62.static.012.net.il": "INACTIVE"
-        },
-        "1573096969": {
-            "212.21.230.27.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096976": {
-            "212.21.230.8.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096982": {
-            "212.21.231.199.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096991": {
-            "212.21.231.207.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573096997": {
-            "212.21.242.68.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573097004": {
-            "212.21.254.124.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573097010": {
-            "212-217-231-201.fibertel.com.ar": "INACTIVE"
-        },
-        "1573097017": {
-            "212-236-133-95.pool.ukrtel.net": "INACTIVE"
-        },
-        "1573097024": {
-            "212.27.17.173.bredband.3.dk": "INACTIVE"
-        },
-        "1573097030": {
-            "212.27.24.86.bredband.3.dk": "INACTIVE"
-        },
-        "1573097037": {
-            "212.27.25.20.bredband.3.dk": "INACTIVE"
-        },
-        "1573097043": {
-            "212.27.28.62.bredband.3.dk": "INACTIVE"
-        },
-        "1573097050": {
-            "212-34-112-116.domolink.elcom.ru": "INACTIVE"
-        },
-        "1573097057": {
-            "21-236-124-91.pool.ukrtel.net": "INACTIVE",
-            "212.40.229.185.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573097064": {
-            "212.40.231.236.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573097070": {
-            "212.40.252.52.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573097077": {
-            "212.40.252.64.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573097086": {
-            "212.40.253.12.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573097092": {
-            "212.40.255.147.dyn.user.ono.com": "INACTIVE"
-        },
-        "1573097099": {
-            "212-45-72-128.customers.istar-link.com": "INACTIVE"
-        },
-        "1573097105": {
-            "212-45-72-94.customers.istar-link.com": "INACTIVE"
-        },
-        "1573097112": {
-            "212-45-81-101.customers.istar-link.com": "INACTIVE"
-        },
-        "1573097119": {
-            "212-45-81-55.customers.istar-link.com": "INACTIVE"
-        },
-        "1573097125": {
-            "21.250.202.84.customer.cdi.no": "INACTIVE"
-        },
-        "1573097132": {
-            "212.71.20.68.res.static.edpnet.net": "INACTIVE"
-        },
-        "1573097138": {
-            "212-73-44-213.red-acceso.airtel.net": "INACTIVE"
-        },
-        "1573097145": {
-            "212-73-45-51.red-acceso.airtel.net": "INACTIVE"
-        },
-        "1573097151": {
-            "212-73-51-116.red-acceso.airtel.net": "INACTIVE"
-        },
-        "1573097158": {
-            "212-73-51-8.red-acceso.airtel.net": "INACTIVE"
-        },
-        "1573097165": {
-            "212-73-52-130.red-acceso.airtel.net": "INACTIVE"
-        },
-        "1573097171": {
-            "212.77.132.185.rikt.ru": "INACTIVE"
-        },
-        "1573097178": {
-            "212.77.136.111.rikt.ru": "INACTIVE"
-        },
-        "1573097185": {
-            "212.77.136.142.rikt.ru": "INACTIVE"
-        },
-        "1573097192": {
-            "212.77.142.192.rikt.ru": "INACTIVE"
-        },
-        "1573097199": {
-            "212.77.146.86.rikt.ru": "INACTIVE"
-        },
-        "1573097205": {
-            "212.77.150.181.rikt.ru": "INACTIVE"
-        },
-        "1573097212": {
-            "212.77.153.26.rikt.ru": "INACTIVE"
-        },
-        "1573097219": {
-            "212.77.155.93.rikt.ru": "INACTIVE"
-        },
-        "1573097226": {
-            "212.77.156.35.rikt.ru": "INACTIVE"
-        },
-        "1573097233": {
-            "212.77.156.75.rikt.ru": "INACTIVE"
-        },
-        "1573097240": {
-            "212.77.157.141.rikt.ru": "INACTIVE"
-        },
-        "1573097246": {
-            "212.77.157.238.rikt.ru": "INACTIVE"
-        },
         "1573097249": {
-            "212-96-188-136.cust.selfnet.cz": "INACTIVE",
             "212-96-190-187.cust.selfnet.cz": "INACTIVE"
         },
         "1573097256": {
@@ -4938,9 +4503,6 @@
         "1573108258": {
             "6.sub-70-222-217.myvzw.com": "INACTIVE"
         },
-        "1573122619": {
-            "212095021024.public.telering.at": "INACTIVE"
-        },
         "1573122644": {
             "2ae207.ddr-cash.net": "INACTIVE"
         },
@@ -7284,6 +6846,168 @@
             "210006121182.ctinets.com": "INACTIVE",
             "210006197041.ctinets.com": "INACTIVE",
             "210006200160.ctinets.com": "INACTIVE"
+        },
+        "1574473181": {
+            "210-126-17-190.fibertel.com.ar": "INACTIVE",
+            "210-163-19-25.nasicnet.com": "INACTIVE",
+            "210-194-120-61.rev.home.ne.jp": "INACTIVE",
+            "210-194-183-81.rev.home.ne.jp": "INACTIVE",
+            "210-194-32-18.rev.home.ne.jp": "INACTIVE",
+            "210-20-122-216.rev.home.ne.jp": "INACTIVE",
+            "210-20-82-17.rev.home.ne.jp": "INACTIVE",
+            "210-210-111-123.lan.sify.net": "INACTIVE",
+            "210-210-25-111.lan.sify.net": "INACTIVE",
+            "210-213-12-182.static.asianet.co.th": "INACTIVE",
+            "210.173.232.72.static.reverse.ltdomains.com": "INACTIVE"
+        },
+        "1574473182": {
+            "210-213-20-209.static.asianet.co.th": "INACTIVE",
+            "210-222-231-201.fibertel.com.ar": "INACTIVE",
+            "210-225-214-213.nasicnet.com": "INACTIVE",
+            "210-55-151-225.dialup.xtra.co.nz": "INACTIVE",
+            "210-55-68-80.adsl.inspire.net.nz": "INACTIVE",
+            "210-86-128-208.static.asianet.co.th": "INACTIVE",
+            "210.33.233.72.static.reverse.ltdomains.com": "INACTIVE",
+            "210.81-166-44.customer.lyse.net": "INACTIVE",
+            "210.81.202.84.customer.cdi.no": "INACTIVE",
+            "210.sub-75-213-73.myvzw.com": "INACTIVE",
+            "210.sub-97-22-111.myvzw.com": "INACTIVE",
+            "211-120-133-95.pool.ukrtel.net": "INACTIVE",
+            "211-19-211-174.parkcity.ne.jp": "INACTIVE",
+            "211-20-210-73.hinet-ip.hinet.net": "INACTIVE",
+            "211-23-38-203.hinet-ip.hinet.net": "INACTIVE",
+            "211-49-231-201.fibertel.com.ar": "INACTIVE",
+            "211-74-115-41.adsl.static.seed.net.tw": "INACTIVE",
+            "211-75-179-192.hinet-ip.hinet.net": "INACTIVE",
+            "211-80-178-94.pool.ukrtel.net": "INACTIVE",
+            "211.14-218-195.catv.internet.lu": "INACTIVE",
+            "211.199.48.60.klj02-home.tm.net.my": "INACTIVE",
+            "211.red-88-30-11.staticip.rima-tde.net": "INACTIVE",
+            "211.red-88-31-61.staticip.rima-tde.net": "INACTIVE",
+            "211.sub-70-195-198.myvzw.com": "INACTIVE",
+            "211.sub-70-222-47.myvzw.com": "INACTIVE",
+            "212067224075.public.telering.at": "INACTIVE",
+            "212067224187.public.telering.at": "INACTIVE"
+        },
+        "1574473183": {
+            "212-149-211-95.bb.dnainternet.fi": "INACTIVE",
+            "212-149-242-92.bb.dnainternet.fi": "INACTIVE",
+            "212-166-139-191.red-acceso.airtel.net": "INACTIVE",
+            "212-166-158-91.red-acceso.airtel.net": "INACTIVE",
+            "212-166-226-149.red-acceso.airtel.net": "INACTIVE",
+            "212-166-231-217.red-acceso.airtel.net": "INACTIVE",
+            "212-166-247-40.red-acceso.airtel.net": "INACTIVE",
+            "212.122.100.79.dyn.user.ono.com": "INACTIVE",
+            "212.122.110.241.dyn.user.ono.com": "INACTIVE",
+            "212.122.96.131.dyn.user.ono.com": "INACTIVE",
+            "212.122.96.170.dyn.user.ono.com": "INACTIVE",
+            "212.183.198.174.dyn.user.ono.com": "INACTIVE",
+            "212.183.199.10.dyn.user.ono.com": "INACTIVE",
+            "212.183.199.102.dyn.user.ono.com": "INACTIVE",
+            "212.183.199.141.dyn.user.ono.com": "INACTIVE",
+            "212.183.199.147.dyn.user.ono.com": "INACTIVE",
+            "212.183.199.242.dyn.user.ono.com": "INACTIVE",
+            "212067227034.public.telering.at": "INACTIVE",
+            "212067227195.public.telering.at": "INACTIVE",
+            "212067227233.public.telering.at": "INACTIVE",
+            "212067232150.public.telering.at": "INACTIVE",
+            "212067233073.public.telering.at": "INACTIVE",
+            "212067234117.public.telering.at": "INACTIVE",
+            "212067234165.public.telering.at": "INACTIVE",
+            "212067234238.public.telering.at": "INACTIVE",
+            "212095021024.public.telering.at": "INACTIVE",
+            "212095022002.public.telering.at": "INACTIVE"
+        },
+        "1574473184": {
+            "212.183.199.25.dyn.user.ono.com": "INACTIVE",
+            "212.183.199.51.dyn.user.ono.com": "INACTIVE",
+            "212.183.199.71.dyn.user.ono.com": "INACTIVE",
+            "212.183.199.83.dyn.user.ono.com": "INACTIVE",
+            "212.183.208.153.dyn.user.ono.com": "INACTIVE",
+            "212.183.210.60.dyn.user.ono.com": "INACTIVE",
+            "212.183.210.61.dyn.user.ono.com": "INACTIVE",
+            "212.183.211.138.dyn.user.ono.com": "INACTIVE",
+            "212.183.213.135.dyn.user.ono.com": "INACTIVE",
+            "212.183.214.24.dyn.user.ono.com": "INACTIVE",
+            "212.183.218.175.dyn.user.ono.com": "INACTIVE",
+            "212.183.219.16.dyn.user.ono.com": "INACTIVE",
+            "212.183.219.34.dyn.user.ono.com": "INACTIVE",
+            "212.183.222.203.dyn.user.ono.com": "INACTIVE",
+            "212.183.222.23.dyn.user.ono.com": "INACTIVE",
+            "212.183.222.30.dyn.user.ono.com": "INACTIVE",
+            "212.183.222.60.dyn.user.ono.com": "INACTIVE",
+            "212.183.223.167.dyn.user.ono.com": "INACTIVE",
+            "212.183.226.248.dyn.user.ono.com": "INACTIVE",
+            "212.183.227.245.dyn.user.ono.com": "INACTIVE",
+            "212.183.231.191.dyn.user.ono.com": "INACTIVE",
+            "212.183.235.220.dyn.user.ono.com": "INACTIVE",
+            "212.183.235.40.dyn.user.ono.com": "INACTIVE",
+            "212.183.238.68.dyn.user.ono.com": "INACTIVE",
+            "212.183.244.24.dyn.user.ono.com": "INACTIVE",
+            "212.183.245.125.dyn.user.ono.com": "INACTIVE",
+            "212.183.247.90.dyn.user.ono.com": "INACTIVE"
+        },
+        "1574473185": {
+            "21-236-124-91.pool.ukrtel.net": "INACTIVE",
+            "212-183-88-33.adsl.highway.telekom.at": "INACTIVE",
+            "212-183-95-201.adsl.highway.telekom.at": "INACTIVE",
+            "212-217-231-201.fibertel.com.ar": "INACTIVE",
+            "212-236-133-95.pool.ukrtel.net": "INACTIVE",
+            "212-34-112-116.domolink.elcom.ru": "INACTIVE",
+            "212.183.249.21.dyn.user.ono.com": "INACTIVE",
+            "212.183.252.224.dyn.user.ono.com": "INACTIVE",
+            "212.183.253.19.dyn.user.ono.com": "INACTIVE",
+            "212.183.253.35.dyn.user.ono.com": "INACTIVE",
+            "212.183.253.4.dyn.user.ono.com": "INACTIVE",
+            "212.183.254.109.dyn.user.ono.com": "INACTIVE",
+            "212.183.254.188.dyn.user.ono.com": "INACTIVE",
+            "212.183.254.224.dyn.user.ono.com": "INACTIVE",
+            "212.199.163.197.hosting.spd.co.il": "INACTIVE",
+            "212.199.193.62.static.012.net.il": "INACTIVE",
+            "212.21.230.27.dyn.user.ono.com": "INACTIVE",
+            "212.21.230.8.dyn.user.ono.com": "INACTIVE",
+            "212.21.231.199.dyn.user.ono.com": "INACTIVE",
+            "212.21.231.207.dyn.user.ono.com": "INACTIVE",
+            "212.21.242.68.dyn.user.ono.com": "INACTIVE",
+            "212.21.254.124.dyn.user.ono.com": "INACTIVE",
+            "212.27.17.173.bredband.3.dk": "INACTIVE",
+            "212.27.24.86.bredband.3.dk": "INACTIVE",
+            "212.27.25.20.bredband.3.dk": "INACTIVE",
+            "212.27.28.62.bredband.3.dk": "INACTIVE",
+            "212.40.229.185.dyn.user.ono.com": "INACTIVE"
+        },
+        "1574473186": {
+            "21.250.202.84.customer.cdi.no": "INACTIVE",
+            "212-45-72-128.customers.istar-link.com": "INACTIVE",
+            "212-45-72-94.customers.istar-link.com": "INACTIVE",
+            "212-45-81-101.customers.istar-link.com": "INACTIVE",
+            "212-45-81-55.customers.istar-link.com": "INACTIVE",
+            "212-73-44-213.red-acceso.airtel.net": "INACTIVE",
+            "212-73-45-51.red-acceso.airtel.net": "INACTIVE",
+            "212-73-51-116.red-acceso.airtel.net": "INACTIVE",
+            "212-73-51-8.red-acceso.airtel.net": "INACTIVE",
+            "212-73-52-130.red-acceso.airtel.net": "INACTIVE",
+            "212.40.231.236.dyn.user.ono.com": "INACTIVE",
+            "212.40.252.52.dyn.user.ono.com": "INACTIVE",
+            "212.40.252.64.dyn.user.ono.com": "INACTIVE",
+            "212.40.253.12.dyn.user.ono.com": "INACTIVE",
+            "212.40.255.147.dyn.user.ono.com": "INACTIVE",
+            "212.71.20.68.res.static.edpnet.net": "INACTIVE",
+            "212.77.132.185.rikt.ru": "INACTIVE",
+            "212.77.136.111.rikt.ru": "INACTIVE",
+            "212.77.136.142.rikt.ru": "INACTIVE",
+            "212.77.142.192.rikt.ru": "INACTIVE",
+            "212.77.146.86.rikt.ru": "INACTIVE",
+            "212.77.150.181.rikt.ru": "INACTIVE",
+            "212.77.153.26.rikt.ru": "INACTIVE",
+            "212.77.155.93.rikt.ru": "INACTIVE",
+            "212.77.156.35.rikt.ru": "INACTIVE",
+            "212.77.156.75.rikt.ru": "INACTIVE",
+            "212.77.157.141.rikt.ru": "INACTIVE",
+            "212.77.157.238.rikt.ru": "INACTIVE"
+        },
+        "1574473187": {
+            "212-96-188-136.cust.selfnet.cz": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
