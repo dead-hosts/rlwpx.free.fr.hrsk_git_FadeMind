@@ -1247,7 +1247,7 @@
     "4buy.net": {
         "epoch": 1574553600.0,
         "expiration_date": "24-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "4comtech.com": {
         "epoch": 1585785600.0,
@@ -1262,7 +1262,7 @@
     "4dlmng.com": {
         "epoch": 1574553600.0,
         "expiration_date": "24-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "4ds1.com": {
         "epoch": 1598918400.0,
