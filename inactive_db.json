@@ -1,14 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1574637468": {
-            "202-153-214-211.cust.aussiebb.net": "INACTIVE"
-        },
-        "1574637469": {
-            "203-204-110-98.adsl.static.giga.net.tw": "INACTIVE"
-        },
         "1574638190": {
-            "203-204-204-179.adsl.static.giga.net.tw": "INACTIVE",
-            "203-204-230-28.adsl.static.giga.net.tw": "INACTIVE",
             "207-255-141-194-dhcp.bfd.pa.atlanticbb.net": "INACTIVE",
             "207-255-35-042-dhcp.aoo.pa.atlanticbb.net": "INACTIVE",
             "207-255-6-071-static.jst.pa.atlanticbb.net": "INACTIVE",
@@ -118,6 +110,12 @@
         "1574809592": {
             "200-127-196-183.cab.prima.net.ar": "INACTIVE",
             "200.124-113-64.ftth.swbr.surewest.net": "INACTIVE"
+        },
+        "1574810281": {
+            "202-153-214-211.cust.aussiebb.net": "INACTIVE",
+            "203-204-110-98.adsl.static.giga.net.tw": "INACTIVE",
+            "203-204-204-179.adsl.static.giga.net.tw": "INACTIVE",
+            "203-204-230-28.adsl.static.giga.net.tw": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
