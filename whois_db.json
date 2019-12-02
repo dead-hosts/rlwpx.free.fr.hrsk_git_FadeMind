@@ -1032,7 +1032,7 @@
     "35-55.com": {
         "epoch": 1575244800.0,
         "expiration_date": "02-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "360er.com": {
         "epoch": 1582588800.0,
@@ -1055,9 +1055,9 @@
         "state": "future"
     },
     "369678.cn": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "36site.com": {
         "epoch": 1584489600.0,
