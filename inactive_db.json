@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1575139307": {
-            "200.124-113-64.ftth.swbr.surewest.net": "INACTIVE"
-        },
         "1575150157": {
             "202-153-214-211.cust.aussiebb.net": "INACTIVE"
         },
@@ -78,17 +75,6 @@
             "62.183.3.27.modem-pool.kuban.ru": "INACTIVE",
             "62.183.3.86.modem-pool.kuban.ru": "INACTIVE"
         },
-        "1575206712": {
-            "11.gxdx2.crsky.com": "INACTIVE",
-            "11163221-517901.c.adprotect.net": "INACTIVE",
-            "12.147-62-69.ftth.swbr.surewest.net": "INACTIVE",
-            "121-73-136-182.cable.telstraclear.net": "INACTIVE"
-        },
-        "1575206713": {
-            "121-73-35-60.cable.telstraclear.net": "INACTIVE",
-            "121-73-9-30.cable.telstraclear.net": "INACTIVE",
-            "121.vps.expresshost.ru": "INACTIVE"
-        },
         "1575207571": {
             "6.jsdx3.crsky.com": "INACTIVE",
             "6.scdx3.crsky.com": "INACTIVE"
@@ -103,6 +89,16 @@
             "1.ofsnetwork.com": "INACTIVE",
             "1sheep.info": "INACTIVE",
             "1x-193-157-194-200.uio.no": "INACTIVE"
+        },
+        "1575294464": {
+            "11.gxdx2.crsky.com": "INACTIVE",
+            "11163221-517901.c.adprotect.net": "INACTIVE",
+            "12.147-62-69.ftth.swbr.surewest.net": "INACTIVE",
+            "121-73-136-182.cable.telstraclear.net": "INACTIVE",
+            "121-73-35-60.cable.telstraclear.net": "INACTIVE",
+            "121-73-9-30.cable.telstraclear.net": "INACTIVE",
+            "121.vps.expresshost.ru": "INACTIVE",
+            "200.124-113-64.ftth.swbr.surewest.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
