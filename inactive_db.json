@@ -1,10 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1575709105": {
-            "3.coolerpillow.com": "INACTIVE",
-            "3.jxdx1.crsky.com": "INACTIVE",
-            "404.ragecash.com": "INACTIVE"
-        },
         "1575710380": {
             "49.137-62-69.ftth.swbr.surewest.net": "INACTIVE"
         },
@@ -115,6 +110,13 @@
         },
         "1575831125": {
             "2k3net.110mb.com": "INACTIVE"
+        },
+        "1575832352": {
+            "3.coolerpillow.com": "INACTIVE",
+            "3.jxdx1.crsky.com": "INACTIVE"
+        },
+        "1575832353": {
+            "404.ragecash.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
