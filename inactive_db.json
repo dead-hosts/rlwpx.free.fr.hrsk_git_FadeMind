@@ -1,7 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
         "1575704732": {
-            "219-69-19-17.idc.static.giga.net.tw": "INACTIVE",
             "219-69-19-36.idc.static.giga.net.tw": "INACTIVE",
             "219-69-50-213.idc.static.giga.net.tw": "INACTIVE"
         },
@@ -61,9 +60,6 @@
             "6.jsdx3.crsky.com": "INACTIVE",
             "6.scdx3.crsky.com": "INACTIVE"
         },
-        "1575740109": {
-            "168-100-182-165.static.cloud9.net": "INACTIVE"
-        },
         "1575745775": {
             "1sheep.info": "INACTIVE",
             "1x-193-157-194-200.uio.no": "INACTIVE"
@@ -112,6 +108,12 @@
         },
         "1575825707": {
             "216-73-119-74.ocdc-01.net": "INACTIVE"
+        },
+        "1575827169": {
+            "168-100-182-165.static.cloud9.net": "INACTIVE"
+        },
+        "1575827170": {
+            "219-69-19-17.idc.static.giga.net.tw": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
