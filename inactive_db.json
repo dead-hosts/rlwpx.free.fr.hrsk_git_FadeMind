@@ -1,11 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1577580773": {
-            "213-33-10-217.adsl.highway.telekom.at": "INACTIVE"
-        },
-        "1577581463": {
-            "216-73-119-74.ocdc-01.net": "INACTIVE"
-        },
         "1577582153": {
             "219-69-19-17.idc.static.giga.net.tw": "INACTIVE",
             "219-69-19-36.idc.static.giga.net.tw": "INACTIVE",
@@ -107,6 +101,10 @@
         "1577753993": {
             "212-183-88-33.adsl.highway.telekom.at": "INACTIVE",
             "212-183-95-201.adsl.highway.telekom.at": "INACTIVE"
+        },
+        "1577754678": {
+            "213-33-10-217.adsl.highway.telekom.at": "INACTIVE",
+            "216-73-119-74.ocdc-01.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
