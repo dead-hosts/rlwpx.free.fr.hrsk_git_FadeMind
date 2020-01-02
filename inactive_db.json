@@ -1,11 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1577882690": {
-            "195-12-231-207.customer.teliacarrier.com": "INACTIVE"
-        },
         "1577882691": {
-            "1sheep.info": "INACTIVE",
-            "1x-193-157-194-200.uio.no": "INACTIVE",
             "200.124-113-64.ftth.swbr.surewest.net": "INACTIVE"
         },
         "1577887600": {
@@ -106,6 +101,14 @@
         "1577967953": {
             "144.130-62-69.ftth.swbr.surewest.net": "INACTIVE",
             "168-100-182-165.static.cloud9.net": "INACTIVE"
+        },
+        "1577974334": {
+            "195-12-231-207.customer.teliacarrier.com": "INACTIVE"
+        },
+        "1577974335": {
+            "1sheep.info": "INACTIVE",
+            "1x-193-157-194-200.uio.no": "INACTIVE",
+            "200-112-170-5.bbt.net.ar": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
