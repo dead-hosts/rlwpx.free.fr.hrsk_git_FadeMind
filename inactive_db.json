@@ -1,18 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1577989281": {
-            "3.jxdx1.crsky.com": "INACTIVE",
-            "3e44a5b1.adsl.enternet.hu": "INACTIVE",
-            "3e44a82c.adsl.enternet.hu": "INACTIVE",
-            "3e44bfe1.adsl.enternet.hu": "INACTIVE",
-            "3e70ccb8.adsl.enternet.hu": "INACTIVE",
-            "404.ragecash.com": "INACTIVE"
-        },
-        "1577990154": {
-            "4.bjlt1.crsky.com": "INACTIVE",
-            "49.137-62-69.ftth.swbr.surewest.net": "INACTIVE",
-            "4d6f4467.adsl.enternet.hu": "INACTIVE"
-        },
         "1577990155": {
             "53d82deb.adsl.enternet.hu": "INACTIVE"
         },
@@ -131,6 +118,12 @@
             "29.sub-70-216-124.myvzw.com": "INACTIVE",
             "29.sub-75-254-58.myvzw.com": "INACTIVE",
             "3.coolerpillow.com": "INACTIVE"
+        },
+        "1578108974": {
+            "3.jxdx1.crsky.com": "INACTIVE",
+            "4.bjlt1.crsky.com": "INACTIVE",
+            "404.ragecash.com": "INACTIVE",
+            "49.137-62-69.ftth.swbr.surewest.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
