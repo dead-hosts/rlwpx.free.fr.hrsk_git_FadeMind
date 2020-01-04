@@ -1,9 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1577967953": {
-            "144.130-62-69.ftth.swbr.surewest.net": "INACTIVE",
-            "168-100-182-165.static.cloud9.net": "INACTIVE"
-        },
         "1577974334": {
             "195-12-231-207.customer.teliacarrier.com": "INACTIVE"
         },
@@ -114,6 +110,13 @@
         },
         "1578095690": {
             "13tw22rigobert.de": "INACTIVE"
+        },
+        "1578096619": {
+            "144.130-62-69.ftth.swbr.surewest.net": "INACTIVE",
+            "158.sub-75-222-100.myvzw.com": "INACTIVE",
+            "159.sub-75-215-212.myvzw.com": "INACTIVE",
+            "161.sub-70-208-63.myvzw.com": "INACTIVE",
+            "168-100-182-165.static.cloud9.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
