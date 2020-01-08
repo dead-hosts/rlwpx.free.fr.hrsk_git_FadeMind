@@ -25,8 +25,8 @@
         "state": "future"
     },
     "007sites.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "00fun.com": {
@@ -127,7 +127,7 @@
     "0cj.net": {
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "0fees.net": {
         "epoch": 1603411200.0,
