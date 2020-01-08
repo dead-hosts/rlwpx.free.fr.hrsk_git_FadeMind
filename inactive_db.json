@@ -1,10 +1,6 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1578411068": {
-            "64.136.61.200.host.ifxnw.com.ar": "INACTIVE"
-        },
         "1578411587": {
-            "6.jsdx3.crsky.com": "INACTIVE",
             "6.scdx3.crsky.com": "INACTIVE"
         },
         "1578479612": {
@@ -104,6 +100,12 @@
             "62.183.3.13.modem-pool.kuban.ru": "INACTIVE",
             "62.183.3.27.modem-pool.kuban.ru": "INACTIVE",
             "62.183.3.86.modem-pool.kuban.ru": "INACTIVE"
+        },
+        "1578512460": {
+            "64.136.61.200.host.ifxnw.com.ar": "INACTIVE"
+        },
+        "1578512461": {
+            "6.jsdx3.crsky.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
