@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1578483424": {
-            "13tw22rigobert.de": "INACTIVE"
-        },
         "1578485513": {
             "144.130-62-69.ftth.swbr.surewest.net": "INACTIVE",
             "168-100-182-165.static.cloud9.net": "INACTIVE"
@@ -106,6 +103,9 @@
             "121-73-35-60.cable.telstraclear.net": "INACTIVE",
             "121-73-9-30.cable.telstraclear.net": "INACTIVE",
             "121.vps.expresshost.ru": "INACTIVE"
+        },
+        "1578613231": {
+            "13tw22rigobert.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
