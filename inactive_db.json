@@ -1,21 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1578628098": {
-            "62.183.18.160.modem-pool.kuban.ru": "INACTIVE",
-            "62.183.2.135.modem-pool.kuban.ru": "INACTIVE",
-            "62.183.2.136.modem-pool.kuban.ru": "INACTIVE",
-            "62.183.2.18.modem-pool.kuban.ru": "INACTIVE",
-            "62.183.2.195.modem-pool.kuban.ru": "INACTIVE",
-            "62.183.2.41.modem-pool.kuban.ru": "INACTIVE",
-            "62.183.2.60.modem-pool.kuban.ru": "INACTIVE",
-            "62.183.3.125.modem-pool.kuban.ru": "INACTIVE",
-            "62.183.3.13.modem-pool.kuban.ru": "INACTIVE",
-            "62.183.3.27.modem-pool.kuban.ru": "INACTIVE",
-            "62.183.3.86.modem-pool.kuban.ru": "INACTIVE"
-        },
-        "1578628783": {
-            "64.136.61.200.host.ifxnw.com.ar": "INACTIVE"
-        },
         "1578629116": {
             "6.jsdx3.crsky.com": "INACTIVE",
             "6.scdx3.crsky.com": "INACTIVE"
@@ -117,6 +101,20 @@
         },
         "1578774589": {
             "61-70-224-16.adsl.static.giga.net.tw": "INACTIVE"
+        },
+        "1578775960": {
+            "62.183.18.160.modem-pool.kuban.ru": "INACTIVE",
+            "62.183.2.135.modem-pool.kuban.ru": "INACTIVE",
+            "62.183.2.136.modem-pool.kuban.ru": "INACTIVE",
+            "62.183.2.18.modem-pool.kuban.ru": "INACTIVE",
+            "62.183.2.195.modem-pool.kuban.ru": "INACTIVE",
+            "62.183.2.41.modem-pool.kuban.ru": "INACTIVE",
+            "62.183.2.60.modem-pool.kuban.ru": "INACTIVE",
+            "62.183.3.125.modem-pool.kuban.ru": "INACTIVE",
+            "62.183.3.13.modem-pool.kuban.ru": "INACTIVE",
+            "62.183.3.27.modem-pool.kuban.ru": "INACTIVE",
+            "62.183.3.86.modem-pool.kuban.ru": "INACTIVE",
+            "64.136.61.200.host.ifxnw.com.ar": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
