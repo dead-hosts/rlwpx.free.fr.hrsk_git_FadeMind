@@ -1,12 +1,7 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1579339740": {
-            "3.coolerpillow.com": "INACTIVE"
-        },
         "1579339741": {
-            "3.jxdx1.crsky.com": "INACTIVE",
             "4.bjlt1.crsky.com": "INACTIVE",
-            "404.ragecash.com": "INACTIVE",
             "49.137-62-69.ftth.swbr.surewest.net": "INACTIVE"
         },
         "1579341834": {
@@ -126,6 +121,11 @@
         "1579454325": {
             "24-145-121-232-dhcp.bfd.pa.atlanticbb.net": "INACTIVE",
             "24-145-67-088-dhcp.mia.fl.atlanticbb.net": "INACTIVE"
+        },
+        "1579456712": {
+            "3.coolerpillow.com": "INACTIVE",
+            "3.jxdx1.crsky.com": "INACTIVE",
+            "404.ragecash.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
