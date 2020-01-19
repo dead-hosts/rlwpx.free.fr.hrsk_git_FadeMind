@@ -1,9 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "1579343825": {
-            "6.jsdx3.crsky.com": "INACTIVE",
-            "6.scdx3.crsky.com": "INACTIVE"
-        },
         "1579390942": {
             "118.sub-70-208-50.myvzw.com": "INACTIVE",
             "118.sub-75-196-73.myvzw.com": "INACTIVE",
@@ -129,6 +125,10 @@
             "64.sub-70-197-239.myvzw.com": "INACTIVE",
             "64.sub-75-197-244.myvzw.com": "INACTIVE",
             "65.sub-97-52-214.myvzw.com": "INACTIVE"
+        },
+        "1579460683": {
+            "6.jsdx3.crsky.com": "INACTIVE",
+            "6.scdx3.crsky.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
