@@ -95,11 +95,7 @@
             "6.jsdx3.crsky.com": "INACTIVE",
             "6.scdx3.crsky.com": "INACTIVE"
         },
-        "1582071432": {
-            "12.147-62-69.ftth.swbr.surewest.net": "INACTIVE"
-        },
         "1582098324": {
-            "121-73-136-182.cable.telstraclear.net": "INACTIVE",
             "121-73-35-60.cable.telstraclear.net": "INACTIVE",
             "121-73-9-30.cable.telstraclear.net": "INACTIVE",
             "121.vps.expresshost.ru": "INACTIVE"
@@ -111,6 +107,10 @@
         },
         "1582247804": {
             "11.gxdx2.crsky.com": "INACTIVE"
+        },
+        "1582251229": {
+            "12.147-62-69.ftth.swbr.surewest.net": "INACTIVE",
+            "121-73-136-182.cable.telstraclear.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
