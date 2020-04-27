@@ -28,6 +28,13 @@
             "last_retested_at_iso": "2020-04-26T22:42:24.630732",
             "status": "INACTIVE"
         },
+        "12-171.pptp.artx.ru": {
+            "included_at_epoch": 1587953551.4135,
+            "included_at_iso": "2020-04-27T02:12:31.413500",
+            "last_retested_at_epoch": 1587953551.4135,
+            "last_retested_at_iso": "2020-04-27T02:12:31.413500",
+            "status": "INACTIVE"
+        },
         "12.147-62-69.ftth.swbr.surewest.net": {
             "included_at_epoch": 1586415839.0,
             "included_at_iso": "2020-04-09T07:03:59",
