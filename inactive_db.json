@@ -21,6 +21,13 @@
             "last_retested_at_iso": "2020-04-28T14:20:13.580087",
             "status": "INACTIVE"
         },
+        "104.69-54-92.telenet.ru": {
+            "included_at_epoch": 1588125164.72013,
+            "included_at_iso": "2020-04-29T01:52:44.720130",
+            "last_retested_at_epoch": 1588125164.72013,
+            "last_retested_at_iso": "2020-04-29T01:52:44.720130",
+            "status": "INACTIVE"
+        },
         "11.gxdx2.crsky.com": {
             "included_at_epoch": 1586483104.0,
             "included_at_iso": "2020-04-10T01:45:04",
