@@ -104,6 +104,27 @@
             "last_retested_at_epoch": 1588353374.733038,
             "last_retested_at_iso": "2020-05-01T17:16:14.733038",
             "status": "INACTIVE"
+        },
+        "1sheep.info": {
+            "included_at_epoch": 1588356858.764017,
+            "included_at_iso": "2020-05-01T18:14:18.764017",
+            "last_retested_at_epoch": 1588356858.764017,
+            "last_retested_at_iso": "2020-05-01T18:14:18.764017",
+            "status": "INACTIVE"
+        },
+        "1x-193-157-194-200.uio.no": {
+            "included_at_epoch": 1588356858.814345,
+            "included_at_iso": "2020-05-01T18:14:18.814345",
+            "last_retested_at_epoch": 1588356858.814345,
+            "last_retested_at_iso": "2020-05-01T18:14:18.814345",
+            "status": "INACTIVE"
+        },
+        "200.124-113-64.ftth.swbr.surewest.net": {
+            "included_at_epoch": 1588356858.860234,
+            "included_at_iso": "2020-05-01T18:14:18.860234",
+            "last_retested_at_epoch": 1588356858.860234,
+            "last_retested_at_iso": "2020-05-01T18:14:18.860234",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
