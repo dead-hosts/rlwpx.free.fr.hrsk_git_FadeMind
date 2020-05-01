@@ -195,6 +195,104 @@
             "last_retested_at_epoch": 1588362992.909264,
             "last_retested_at_iso": "2020-05-01T19:56:32.909264",
             "status": "INACTIVE"
+        },
+        "211-19-211-174.parkcity.ne.jp": {
+            "included_at_epoch": 1588365573.354362,
+            "included_at_iso": "2020-05-01T20:39:33.354362",
+            "last_retested_at_epoch": 1588365573.354362,
+            "last_retested_at_iso": "2020-05-01T20:39:33.354362",
+            "status": "INACTIVE"
+        },
+        "212-166-139-191.red-acceso.airtel.net": {
+            "included_at_epoch": 1588365573.445844,
+            "included_at_iso": "2020-05-01T20:39:33.445844",
+            "last_retested_at_epoch": 1588365573.445844,
+            "last_retested_at_iso": "2020-05-01T20:39:33.445844",
+            "status": "INACTIVE"
+        },
+        "212-166-158-91.red-acceso.airtel.net": {
+            "included_at_epoch": 1588365573.449868,
+            "included_at_iso": "2020-05-01T20:39:33.449868",
+            "last_retested_at_epoch": 1588365573.449868,
+            "last_retested_at_iso": "2020-05-01T20:39:33.449868",
+            "status": "INACTIVE"
+        },
+        "212-166-226-149.red-acceso.airtel.net": {
+            "included_at_epoch": 1588365573.458047,
+            "included_at_iso": "2020-05-01T20:39:33.458047",
+            "last_retested_at_epoch": 1588365573.458047,
+            "last_retested_at_iso": "2020-05-01T20:39:33.458047",
+            "status": "INACTIVE"
+        },
+        "212-166-231-217.red-acceso.airtel.net": {
+            "included_at_epoch": 1588365573.453948,
+            "included_at_iso": "2020-05-01T20:39:33.453948",
+            "last_retested_at_epoch": 1588365573.453948,
+            "last_retested_at_iso": "2020-05-01T20:39:33.453948",
+            "status": "INACTIVE"
+        },
+        "212-166-247-40.red-acceso.airtel.net": {
+            "included_at_epoch": 1588365573.462096,
+            "included_at_iso": "2020-05-01T20:39:33.462096",
+            "last_retested_at_epoch": 1588365573.462096,
+            "last_retested_at_iso": "2020-05-01T20:39:33.462096",
+            "status": "INACTIVE"
+        },
+        "212-183-88-33.adsl.highway.telekom.at": {
+            "included_at_epoch": 1588365573.587297,
+            "included_at_iso": "2020-05-01T20:39:33.587297",
+            "last_retested_at_epoch": 1588365573.587297,
+            "last_retested_at_iso": "2020-05-01T20:39:33.587297",
+            "status": "INACTIVE"
+        },
+        "212-183-95-201.adsl.highway.telekom.at": {
+            "included_at_epoch": 1588365573.583258,
+            "included_at_iso": "2020-05-01T20:39:33.583258",
+            "last_retested_at_epoch": 1588365573.583258,
+            "last_retested_at_iso": "2020-05-01T20:39:33.583258",
+            "status": "INACTIVE"
+        },
+        "212-73-44-213.red-acceso.airtel.net": {
+            "included_at_epoch": 1588365573.671531,
+            "included_at_iso": "2020-05-01T20:39:33.671531",
+            "last_retested_at_epoch": 1588365573.671531,
+            "last_retested_at_iso": "2020-05-01T20:39:33.671531",
+            "status": "INACTIVE"
+        },
+        "212-73-45-51.red-acceso.airtel.net": {
+            "included_at_epoch": 1588365573.675733,
+            "included_at_iso": "2020-05-01T20:39:33.675733",
+            "last_retested_at_epoch": 1588365573.675733,
+            "last_retested_at_iso": "2020-05-01T20:39:33.675733",
+            "status": "INACTIVE"
+        },
+        "212-73-51-116.red-acceso.airtel.net": {
+            "included_at_epoch": 1588365573.679893,
+            "included_at_iso": "2020-05-01T20:39:33.679893",
+            "last_retested_at_epoch": 1588365573.679893,
+            "last_retested_at_iso": "2020-05-01T20:39:33.679893",
+            "status": "INACTIVE"
+        },
+        "212-73-51-8.red-acceso.airtel.net": {
+            "included_at_epoch": 1588365573.684034,
+            "included_at_iso": "2020-05-01T20:39:33.684034",
+            "last_retested_at_epoch": 1588365573.684034,
+            "last_retested_at_iso": "2020-05-01T20:39:33.684034",
+            "status": "INACTIVE"
+        },
+        "212-73-52-130.red-acceso.airtel.net": {
+            "included_at_epoch": 1588365573.688165,
+            "included_at_iso": "2020-05-01T20:39:33.688165",
+            "last_retested_at_epoch": 1588365573.688165,
+            "last_retested_at_iso": "2020-05-01T20:39:33.688165",
+            "status": "INACTIVE"
+        },
+        "213-33-10-217.adsl.highway.telekom.at": {
+            "included_at_epoch": 1588365573.937927,
+            "included_at_iso": "2020-05-01T20:39:33.937927",
+            "last_retested_at_epoch": 1588365573.937927,
+            "last_retested_at_iso": "2020-05-01T20:39:33.937927",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
