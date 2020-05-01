@@ -125,6 +125,76 @@
             "last_retested_at_epoch": 1588356858.860234,
             "last_retested_at_iso": "2020-05-01T18:14:18.860234",
             "status": "INACTIVE"
+        },
+        "202-153-214-211.cust.aussiebb.net": {
+            "included_at_epoch": 1588362992.683087,
+            "included_at_iso": "2020-05-01T19:56:32.683087",
+            "last_retested_at_epoch": 1588362992.683087,
+            "last_retested_at_iso": "2020-05-01T19:56:32.683087",
+            "status": "INACTIVE"
+        },
+        "203-204-110-98.adsl.static.giga.net.tw": {
+            "included_at_epoch": 1588362992.74536,
+            "included_at_iso": "2020-05-01T19:56:32.745360",
+            "last_retested_at_epoch": 1588362992.74536,
+            "last_retested_at_iso": "2020-05-01T19:56:32.745360",
+            "status": "INACTIVE"
+        },
+        "203-204-204-179.adsl.static.giga.net.tw": {
+            "included_at_epoch": 1588362992.749318,
+            "included_at_iso": "2020-05-01T19:56:32.749318",
+            "last_retested_at_epoch": 1588362992.749318,
+            "last_retested_at_iso": "2020-05-01T19:56:32.749318",
+            "status": "INACTIVE"
+        },
+        "203-204-230-28.adsl.static.giga.net.tw": {
+            "included_at_epoch": 1588362992.755949,
+            "included_at_iso": "2020-05-01T19:56:32.755949",
+            "last_retested_at_epoch": 1588362992.755949,
+            "last_retested_at_iso": "2020-05-01T19:56:32.755949",
+            "status": "INACTIVE"
+        },
+        "207-255-141-194-dhcp.bfd.pa.atlanticbb.net": {
+            "included_at_epoch": 1588362992.877132,
+            "included_at_iso": "2020-05-01T19:56:32.877132",
+            "last_retested_at_epoch": 1588362992.877132,
+            "last_retested_at_iso": "2020-05-01T19:56:32.877132",
+            "status": "INACTIVE"
+        },
+        "207-255-35-042-dhcp.aoo.pa.atlanticbb.net": {
+            "included_at_epoch": 1588362992.873292,
+            "included_at_iso": "2020-05-01T19:56:32.873292",
+            "last_retested_at_epoch": 1588362992.873292,
+            "last_retested_at_iso": "2020-05-01T19:56:32.873292",
+            "status": "INACTIVE"
+        },
+        "207-255-6-071-static.jst.pa.atlanticbb.net": {
+            "included_at_epoch": 1588362992.884502,
+            "included_at_iso": "2020-05-01T19:56:32.884502",
+            "last_retested_at_epoch": 1588362992.884502,
+            "last_retested_at_iso": "2020-05-01T19:56:32.884502",
+            "status": "INACTIVE"
+        },
+        "207-255-68-141-dhcp.aoo.pa.atlanticbb.net": {
+            "included_at_epoch": 1588362992.880806,
+            "included_at_iso": "2020-05-01T19:56:32.880806",
+            "last_retested_at_epoch": 1588362992.880806,
+            "last_retested_at_iso": "2020-05-01T19:56:32.880806",
+            "status": "INACTIVE"
+        },
+        "207-255-85-253-dhcp.aoo.pa.atlanticbb.net": {
+            "included_at_epoch": 1588362992.888183,
+            "included_at_iso": "2020-05-01T19:56:32.888183",
+            "last_retested_at_epoch": 1588362992.888183,
+            "last_retested_at_iso": "2020-05-01T19:56:32.888183",
+            "status": "INACTIVE"
+        },
+        "208-38-66-28.static.izoom.net": {
+            "included_at_epoch": 1588362992.909264,
+            "included_at_iso": "2020-05-01T19:56:32.909264",
+            "last_retested_at_epoch": 1588362992.909264,
+            "last_retested_at_iso": "2020-05-01T19:56:32.909264",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
