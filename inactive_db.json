@@ -293,6 +293,34 @@
             "last_retested_at_epoch": 1588365573.937927,
             "last_retested_at_iso": "2020-05-01T20:39:33.937927",
             "status": "INACTIVE"
+        },
+        "216-73-119-74.ocdc-01.net": {
+            "included_at_epoch": 1588368290.813125,
+            "included_at_iso": "2020-05-01T21:24:50.813125",
+            "last_retested_at_epoch": 1588368290.813125,
+            "last_retested_at_iso": "2020-05-01T21:24:50.813125",
+            "status": "INACTIVE"
+        },
+        "219-69-19-17.idc.static.giga.net.tw": {
+            "included_at_epoch": 1588368291.286718,
+            "included_at_iso": "2020-05-01T21:24:51.286718",
+            "last_retested_at_epoch": 1588368291.286718,
+            "last_retested_at_iso": "2020-05-01T21:24:51.286718",
+            "status": "INACTIVE"
+        },
+        "219-69-19-36.idc.static.giga.net.tw": {
+            "included_at_epoch": 1588368291.291264,
+            "included_at_iso": "2020-05-01T21:24:51.291264",
+            "last_retested_at_epoch": 1588368291.291264,
+            "last_retested_at_iso": "2020-05-01T21:24:51.291264",
+            "status": "INACTIVE"
+        },
+        "219-69-50-213.idc.static.giga.net.tw": {
+            "included_at_epoch": 1588368291.296391,
+            "included_at_iso": "2020-05-01T21:24:51.296391",
+            "last_retested_at_epoch": 1588368291.296391,
+            "last_retested_at_iso": "2020-05-01T21:24:51.296391",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
