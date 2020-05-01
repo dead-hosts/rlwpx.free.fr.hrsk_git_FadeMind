@@ -49,11 +49,39 @@
             "last_retested_at_iso": "2020-05-01T13:06:02.937772",
             "status": "INACTIVE"
         },
+        "123.greenhome001.com.cn": {
+            "included_at_epoch": 1588345426.624984,
+            "included_at_iso": "2020-05-01T15:03:46.624984",
+            "last_retested_at_epoch": 1588345426.624984,
+            "last_retested_at_iso": "2020-05-01T15:03:46.624984",
+            "status": "INACTIVE"
+        },
         "123appz.com": {
             "included_at_epoch": 1588013902.250547,
             "included_at_iso": "2020-04-27T18:58:22.250547",
             "last_retested_at_epoch": 1588314360.986115,
             "last_retested_at_iso": "2020-05-01T06:26:00.986115",
+            "status": "INACTIVE"
+        },
+        "13copacabana37.u2m.ru": {
+            "included_at_epoch": 1588345426.846603,
+            "included_at_iso": "2020-05-01T15:03:46.846603",
+            "last_retested_at_epoch": 1588345426.846603,
+            "last_retested_at_iso": "2020-05-01T15:03:46.846603",
+            "status": "INACTIVE"
+        },
+        "13tw22rigobert.de": {
+            "included_at_epoch": 1588345426.85141,
+            "included_at_iso": "2020-05-01T15:03:46.851410",
+            "last_retested_at_epoch": 1588345426.85141,
+            "last_retested_at_iso": "2020-05-01T15:03:46.851410",
+            "status": "INACTIVE"
+        },
+        "144.130-62-69.ftth.swbr.surewest.net": {
+            "included_at_epoch": 1588345426.90187,
+            "included_at_iso": "2020-05-01T15:03:46.901870",
+            "last_retested_at_epoch": 1588345426.90187,
+            "last_retested_at_iso": "2020-05-01T15:03:46.901870",
             "status": "INACTIVE"
         }
     },
