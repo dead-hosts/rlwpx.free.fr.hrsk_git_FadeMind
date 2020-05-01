@@ -90,6 +90,20 @@
             "last_retested_at_epoch": 1588349841.668793,
             "last_retested_at_iso": "2020-05-01T16:17:21.668793",
             "status": "INACTIVE"
+        },
+        "191-74.pptp.artx.ru": {
+            "included_at_epoch": 1588353374.684785,
+            "included_at_iso": "2020-05-01T17:16:14.684785",
+            "last_retested_at_epoch": 1588353374.684785,
+            "last_retested_at_iso": "2020-05-01T17:16:14.684785",
+            "status": "INACTIVE"
+        },
+        "195-12-231-207.customer.teliacarrier.com": {
+            "included_at_epoch": 1588353374.733038,
+            "included_at_iso": "2020-05-01T17:16:14.733038",
+            "last_retested_at_epoch": 1588353374.733038,
+            "last_retested_at_iso": "2020-05-01T17:16:14.733038",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
