@@ -77,18 +77,11 @@
             "last_retested_at_iso": "2020-05-03T00:46:59.644147",
             "status": "INACTIVE"
         },
-        "191-74.pptp.artx.ru": {
-            "included_at_epoch": 1588353374.684785,
-            "included_at_iso": "2020-05-01T17:16:14.684785",
-            "last_retested_at_epoch": 1588353374.684785,
-            "last_retested_at_iso": "2020-05-01T17:16:14.684785",
-            "status": "INACTIVE"
-        },
         "195-12-231-207.customer.teliacarrier.com": {
             "included_at_epoch": 1588353374.733038,
             "included_at_iso": "2020-05-01T17:16:14.733038",
-            "last_retested_at_epoch": 1588353374.733038,
-            "last_retested_at_iso": "2020-05-01T17:16:14.733038",
+            "last_retested_at_epoch": 1588467527.562651,
+            "last_retested_at_iso": "2020-05-03T00:58:47.562651",
             "status": "INACTIVE"
         },
         "1sheep.info": {
