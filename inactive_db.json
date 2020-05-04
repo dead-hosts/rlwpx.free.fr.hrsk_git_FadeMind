@@ -91,6 +91,13 @@
             "last_retested_at_iso": "2020-05-03T00:58:47.562651",
             "status": "INACTIVE"
         },
+        "197-45.thezone.bg": {
+            "included_at_epoch": 1588552364.055196,
+            "included_at_iso": "2020-05-04T00:32:44.055196",
+            "last_retested_at_epoch": 1588552364.055196,
+            "last_retested_at_iso": "2020-05-04T00:32:44.055196",
+            "status": "INACTIVE"
+        },
         "1sheep.info": {
             "included_at_epoch": 1588356858.764017,
             "included_at_iso": "2020-05-01T18:14:18.764017",
