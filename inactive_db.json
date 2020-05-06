@@ -304,43 +304,29 @@
         "216-73-119-74.ocdc-01.net": {
             "included_at_epoch": 1588368290.813125,
             "included_at_iso": "2020-05-01T21:24:50.813125",
-            "last_retested_at_epoch": 1588560170.143671,
-            "last_retested_at_iso": "2020-05-04T02:42:50.143671",
-            "status": "INACTIVE"
-        },
-        "217.217.154.192.dyn.user.ono.com": {
-            "included_at_epoch": 1588560170.434409,
-            "included_at_iso": "2020-05-04T02:42:50.434409",
-            "last_retested_at_epoch": 1588560170.434409,
-            "last_retested_at_iso": "2020-05-04T02:42:50.434409",
-            "status": "INACTIVE"
-        },
-        "217.217.52.109.dyn.user.ono.com": {
-            "included_at_epoch": 1588560170.582105,
-            "included_at_iso": "2020-05-04T02:42:50.582105",
-            "last_retested_at_epoch": 1588560170.582105,
-            "last_retested_at_iso": "2020-05-04T02:42:50.582105",
+            "last_retested_at_epoch": 1588732804.514533,
+            "last_retested_at_iso": "2020-05-06T02:40:04.514533",
             "status": "INACTIVE"
         },
         "219-69-19-17.idc.static.giga.net.tw": {
             "included_at_epoch": 1588368291.286718,
             "included_at_iso": "2020-05-01T21:24:51.286718",
-            "last_retested_at_epoch": 1588560170.681674,
-            "last_retested_at_iso": "2020-05-04T02:42:50.681674",
+            "last_retested_at_epoch": 1588732804.996441,
+            "last_retested_at_iso": "2020-05-06T02:40:04.996441",
             "status": "INACTIVE"
         },
         "219-69-19-36.idc.static.giga.net.tw": {
             "included_at_epoch": 1588368291.291264,
             "included_at_iso": "2020-05-01T21:24:51.291264",
-            "last_retested_at_epoch": 1588560170.687161,
-            "last_retested_at_iso": "2020-05-04T02:42:50.687161",
+            "last_retested_at_epoch": 1588732805.001909,
+            "last_retested_at_iso": "2020-05-06T02:40:05.001909",
             "status": "INACTIVE"
         },
         "219-69-50-213.idc.static.giga.net.tw": {
             "included_at_epoch": 1588368291.296391,
             "included_at_iso": "2020-05-01T21:24:51.296391",
-            "last_retested_at_epoch": 1588560170.692697,
-            "last_retested_at_iso": "2020-05-04T02:42:50.692697",
+            "last_retested_at_epoch": 1588732805.007376,
+            "last_retested_at_iso": "2020-05-06T02:40:05.007376",
             "status": "INACTIVE"
         },
         "24-116-106-167.cpe.cableone.net": {
