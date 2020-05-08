@@ -77,6 +77,13 @@
             "last_retested_at_iso": "2020-05-08T00:38:23.919869",
             "status": "INACTIVE"
         },
+        "143.sub-75-195-29.myvzw.com": {
+            "included_at_epoch": 1588933916.878432,
+            "included_at_iso": "2020-05-08T10:31:56.878432",
+            "last_retested_at_epoch": 1588933916.878432,
+            "last_retested_at_iso": "2020-05-08T10:31:56.878432",
+            "status": "INACTIVE"
+        },
         "144.130-62-69.ftth.swbr.surewest.net": {
             "included_at_epoch": 1588345426.90187,
             "included_at_iso": "2020-05-01T15:03:46.901870",
