@@ -469,6 +469,13 @@
             "last_retested_at_iso": "2020-05-08T02:38:32.211239",
             "status": "INACTIVE"
         },
+        "25-201-235-201.fibertel.com.ar": {
+            "included_at_epoch": 1588940620.829831,
+            "included_at_iso": "2020-05-08T12:23:40.829831",
+            "last_retested_at_epoch": 1588940620.829831,
+            "last_retested_at_iso": "2020-05-08T12:23:40.829831",
+            "status": "INACTIVE"
+        },
         "2jo.info": {
             "included_at_epoch": 1588734972.593319,
             "included_at_iso": "2020-05-06T03:16:12.593319",
