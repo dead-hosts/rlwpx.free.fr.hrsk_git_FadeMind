@@ -266,39 +266,32 @@
             "last_retested_at_iso": "2020-05-09T02:24:05.736657",
             "status": "INACTIVE"
         },
-        "215.194-224-87.telenet.ru": {
-            "included_at_epoch": 1588904792.673624,
-            "included_at_iso": "2020-05-08T02:26:32.673624",
-            "last_retested_at_epoch": 1588904792.673624,
-            "last_retested_at_iso": "2020-05-08T02:26:32.673624",
-            "status": "INACTIVE"
-        },
         "216-73-119-74.ocdc-01.net": {
             "included_at_epoch": 1588368290.813125,
             "included_at_iso": "2020-05-01T21:24:50.813125",
-            "last_retested_at_epoch": 1588904792.720444,
-            "last_retested_at_iso": "2020-05-08T02:26:32.720444",
+            "last_retested_at_epoch": 1588992941.757062,
+            "last_retested_at_iso": "2020-05-09T02:55:41.757062",
             "status": "INACTIVE"
         },
         "219-69-19-17.idc.static.giga.net.tw": {
             "included_at_epoch": 1588368291.286718,
             "included_at_iso": "2020-05-01T21:24:51.286718",
-            "last_retested_at_epoch": 1588904793.199118,
-            "last_retested_at_iso": "2020-05-08T02:26:33.199118",
+            "last_retested_at_epoch": 1588992942.251623,
+            "last_retested_at_iso": "2020-05-09T02:55:42.251623",
             "status": "INACTIVE"
         },
         "219-69-19-36.idc.static.giga.net.tw": {
             "included_at_epoch": 1588368291.291264,
             "included_at_iso": "2020-05-01T21:24:51.291264",
-            "last_retested_at_epoch": 1588904793.203995,
-            "last_retested_at_iso": "2020-05-08T02:26:33.203995",
+            "last_retested_at_epoch": 1588992942.256514,
+            "last_retested_at_iso": "2020-05-09T02:55:42.256514",
             "status": "INACTIVE"
         },
         "219-69-50-213.idc.static.giga.net.tw": {
             "included_at_epoch": 1588368291.296391,
             "included_at_iso": "2020-05-01T21:24:51.296391",
-            "last_retested_at_epoch": 1588904793.208924,
-            "last_retested_at_iso": "2020-05-08T02:26:33.208924",
+            "last_retested_at_epoch": 1588992942.261541,
+            "last_retested_at_iso": "2020-05-09T02:55:42.261541",
             "status": "INACTIVE"
         },
         "24-116-106-167.cpe.cableone.net": {
