@@ -238,130 +238,123 @@
             "last_retested_at_iso": "2020-05-11T15:30:40.612251",
             "status": "INACTIVE"
         },
-        "225.137-224-87.telenet.ru": {
-            "included_at_epoch": 1589124523.478264,
-            "included_at_iso": "2020-05-10T15:28:43.478264",
-            "last_retested_at_epoch": 1589124523.478264,
-            "last_retested_at_iso": "2020-05-10T15:28:43.478264",
-            "status": "INACTIVE"
-        },
         "24-116-106-167.cpe.cableone.net": {
             "included_at_epoch": 1588371195.938821,
             "included_at_iso": "2020-05-01T22:13:15.938821",
-            "last_retested_at_epoch": 1589124523.768052,
-            "last_retested_at_iso": "2020-05-10T15:28:43.768052",
+            "last_retested_at_epoch": 1589212281.876074,
+            "last_retested_at_iso": "2020-05-11T15:51:21.876074",
             "status": "INACTIVE"
         },
         "24-116-145-198.cpe.cableone.net": {
             "included_at_epoch": 1588371195.951136,
             "included_at_iso": "2020-05-01T22:13:15.951136",
-            "last_retested_at_epoch": 1589124523.776835,
-            "last_retested_at_iso": "2020-05-10T15:28:43.776835",
+            "last_retested_at_epoch": 1589212281.894589,
+            "last_retested_at_iso": "2020-05-11T15:51:21.894589",
             "status": "INACTIVE"
         },
         "24-116-226-7.cpe.cableone.net": {
             "included_at_epoch": 1588371195.946514,
             "included_at_iso": "2020-05-01T22:13:15.946514",
-            "last_retested_at_epoch": 1589124523.781993,
-            "last_retested_at_iso": "2020-05-10T15:28:43.781993",
+            "last_retested_at_epoch": 1589212281.888843,
+            "last_retested_at_iso": "2020-05-11T15:51:21.888843",
             "status": "INACTIVE"
         },
         "24-116-63-154.cpe.cableone.net": {
             "included_at_epoch": 1588371195.959983,
             "included_at_iso": "2020-05-01T22:13:15.959983",
-            "last_retested_at_epoch": 1589124523.791538,
-            "last_retested_at_iso": "2020-05-10T15:28:43.791538",
+            "last_retested_at_epoch": 1589212281.906114,
+            "last_retested_at_iso": "2020-05-11T15:51:21.906114",
             "status": "INACTIVE"
         },
         "24-117-114-192.cpe.cableone.net": {
             "included_at_epoch": 1588371195.95565,
             "included_at_iso": "2020-05-01T22:13:15.955650",
-            "last_retested_at_epoch": 1589124523.786859,
-            "last_retested_at_iso": "2020-05-10T15:28:43.786859",
+            "last_retested_at_epoch": 1589212281.900213,
+            "last_retested_at_iso": "2020-05-11T15:51:21.900213",
             "status": "INACTIVE"
         },
         "24-117-114-227.cpe.cableone.net": {
             "included_at_epoch": 1588371195.964642,
             "included_at_iso": "2020-05-01T22:13:15.964642",
-            "last_retested_at_epoch": 1589124523.80179,
-            "last_retested_at_iso": "2020-05-10T15:28:43.801790",
+            "last_retested_at_epoch": 1589212281.911879,
+            "last_retested_at_iso": "2020-05-11T15:51:21.911879",
             "status": "INACTIVE"
         },
         "24-117-12-48.cpe.cableone.net": {
             "included_at_epoch": 1588371195.969827,
             "included_at_iso": "2020-05-01T22:13:15.969827",
-            "last_retested_at_epoch": 1589124523.796556,
-            "last_retested_at_iso": "2020-05-10T15:28:43.796556",
+            "last_retested_at_epoch": 1589212281.917776,
+            "last_retested_at_iso": "2020-05-11T15:51:21.917776",
             "status": "INACTIVE"
         },
         "24-117-142-140.cpe.cableone.net": {
             "included_at_epoch": 1588371195.974815,
             "included_at_iso": "2020-05-01T22:13:15.974815",
-            "last_retested_at_epoch": 1589124523.811283,
-            "last_retested_at_iso": "2020-05-10T15:28:43.811283",
+            "last_retested_at_epoch": 1589212281.923885,
+            "last_retested_at_iso": "2020-05-11T15:51:21.923885",
             "status": "INACTIVE"
         },
         "24-117-233-191.cpe.cableone.net": {
             "included_at_epoch": 1588371195.979364,
             "included_at_iso": "2020-05-01T22:13:15.979364",
-            "last_retested_at_epoch": 1589124523.806434,
-            "last_retested_at_iso": "2020-05-10T15:28:43.806434",
+            "last_retested_at_epoch": 1589212281.929734,
+            "last_retested_at_iso": "2020-05-11T15:51:21.929734",
             "status": "INACTIVE"
         },
         "24-117-234-37.cpe.cableone.net": {
             "included_at_epoch": 1588371195.9882,
             "included_at_iso": "2020-05-01T22:13:15.988200",
-            "last_retested_at_epoch": 1589124523.816035,
-            "last_retested_at_iso": "2020-05-10T15:28:43.816035",
+            "last_retested_at_epoch": 1589212281.941518,
+            "last_retested_at_iso": "2020-05-11T15:51:21.941518",
             "status": "INACTIVE"
         },
         "24-117-239-165.cpe.cableone.net": {
             "included_at_epoch": 1588371195.983804,
             "included_at_iso": "2020-05-01T22:13:15.983804",
-            "last_retested_at_epoch": 1589124523.820906,
-            "last_retested_at_iso": "2020-05-10T15:28:43.820906",
+            "last_retested_at_epoch": 1589212281.935645,
+            "last_retested_at_iso": "2020-05-11T15:51:21.935645",
             "status": "INACTIVE"
         },
         "24-117-242-185.cpe.cableone.net": {
             "included_at_epoch": 1588371195.992802,
             "included_at_iso": "2020-05-01T22:13:15.992802",
-            "last_retested_at_epoch": 1589124523.830424,
-            "last_retested_at_iso": "2020-05-10T15:28:43.830424",
+            "last_retested_at_epoch": 1589212281.947322,
+            "last_retested_at_iso": "2020-05-11T15:51:21.947322",
             "status": "INACTIVE"
         },
         "24-117-42-251.cpe.cableone.net": {
             "included_at_epoch": 1588371195.997239,
             "included_at_iso": "2020-05-01T22:13:15.997239",
-            "last_retested_at_epoch": 1589124523.825537,
-            "last_retested_at_iso": "2020-05-10T15:28:43.825537",
+            "last_retested_at_epoch": 1589212281.953272,
+            "last_retested_at_iso": "2020-05-11T15:51:21.953272",
             "status": "INACTIVE"
         },
         "24-119-132-187.cpe.cableone.net": {
             "included_at_epoch": 1588371196.006438,
             "included_at_iso": "2020-05-01T22:13:16.006438",
-            "last_retested_at_epoch": 1589124523.835178,
-            "last_retested_at_iso": "2020-05-10T15:28:43.835178",
+            "last_retested_at_epoch": 1589212281.959245,
+            "last_retested_at_iso": "2020-05-11T15:51:21.959245",
             "status": "INACTIVE"
         },
         "24-119-209-118.cpe.cableone.net": {
             "included_at_epoch": 1588371196.001908,
             "included_at_iso": "2020-05-01T22:13:16.001908",
-            "last_retested_at_epoch": 1589124523.840001,
-            "last_retested_at_iso": "2020-05-10T15:28:43.840001",
+            "last_retested_at_epoch": 1589212281.96505,
+            "last_retested_at_iso": "2020-05-11T15:51:21.965050",
             "status": "INACTIVE"
         },
         "24-145-121-232-dhcp.bfd.pa.atlanticbb.net": {
             "included_at_epoch": 1588371196.034742,
             "included_at_iso": "2020-05-01T22:13:16.034742",
-            "last_retested_at_epoch": 1589124523.869403,
-            "last_retested_at_iso": "2020-05-10T15:28:43.869403",
+            "last_retested_at_epoch": 1589212281.976674,
+            "last_retested_at_iso": "2020-05-11T15:51:21.976674",
             "status": "INACTIVE"
         },
         "24-145-67-088-dhcp.mia.fl.atlanticbb.net": {
             "included_at_epoch": 1588371196.039265,
             "included_at_iso": "2020-05-01T22:13:16.039265",
-            "last_retested_at_epoch": 1589124523.874487,
-            "last_retested_at_iso": "2020-05-10T15:28:43.874487",
+            "last_retested_at_epoch": 1589212281.970939,
+            "last_retested_at_iso": "2020-05-11T15:51:21.970939",
             "status": "INACTIVE"
         },
         "2jo.info": {
@@ -553,11 +546,25 @@
             "last_retested_at_iso": "2020-05-10T16:31:15.297386",
             "status": "INACTIVE"
         },
+        "64.89.75.9.nw.nuvox.net": {
+            "included_at_epoch": 1589212282.411969,
+            "included_at_iso": "2020-05-11T15:51:22.411969",
+            "last_retested_at_epoch": 1589212282.411969,
+            "last_retested_at_iso": "2020-05-11T15:51:22.411969",
+            "status": "INACTIVE"
+        },
         "64.89.76.24.nw.nuvox.net": {
             "included_at_epoch": 1588942416.436431,
             "included_at_iso": "2020-05-08T12:53:36.436431",
             "last_retested_at_epoch": 1589128275.386105,
             "last_retested_at_iso": "2020-05-10T16:31:15.386105",
+            "status": "INACTIVE"
+        },
+        "66-178-43-201.reverse.newskies.net": {
+            "included_at_epoch": 1589212282.708437,
+            "included_at_iso": "2020-05-11T15:51:22.708437",
+            "last_retested_at_epoch": 1589212282.708437,
+            "last_retested_at_iso": "2020-05-11T15:51:22.708437",
             "status": "INACTIVE"
         }
     },
