@@ -94,22 +94,22 @@
         "1sheep.info": {
             "included_at_epoch": 1588356858.764017,
             "included_at_iso": "2020-05-01T18:14:18.764017",
-            "last_retested_at_epoch": 1589116271.094525,
-            "last_retested_at_iso": "2020-05-10T13:11:11.094525",
+            "last_retested_at_epoch": 1589203560.765052,
+            "last_retested_at_iso": "2020-05-11T13:26:00.765052",
             "status": "INACTIVE"
         },
         "1x-193-157-194-200.uio.no": {
             "included_at_epoch": 1588356858.814345,
             "included_at_iso": "2020-05-01T18:14:18.814345",
-            "last_retested_at_epoch": 1589116271.141164,
-            "last_retested_at_iso": "2020-05-10T13:11:11.141164",
+            "last_retested_at_epoch": 1589203560.769982,
+            "last_retested_at_iso": "2020-05-11T13:26:00.769982",
             "status": "INACTIVE"
         },
         "200.124-113-64.ftth.swbr.surewest.net": {
             "included_at_epoch": 1588356858.860234,
             "included_at_iso": "2020-05-01T18:14:18.860234",
-            "last_retested_at_epoch": 1589116271.186305,
-            "last_retested_at_iso": "2020-05-10T13:11:11.186305",
+            "last_retested_at_epoch": 1589203560.774479,
+            "last_retested_at_iso": "2020-05-11T13:26:00.774479",
             "status": "INACTIVE"
         },
         "202-153-214-211.cust.aussiebb.net": {
@@ -138,6 +138,13 @@
             "included_at_iso": "2020-05-01T19:56:32.755949",
             "last_retested_at_epoch": 1589119433.861534,
             "last_retested_at_iso": "2020-05-10T14:03:53.861534",
+            "status": "INACTIVE"
+        },
+        "205.220.174.67.nw.nuvox.net": {
+            "included_at_epoch": 1589203561.432621,
+            "included_at_iso": "2020-05-11T13:26:01.432621",
+            "last_retested_at_epoch": 1589203561.432621,
+            "last_retested_at_iso": "2020-05-11T13:26:01.432621",
             "status": "INACTIVE"
         },
         "207-255-141-194-dhcp.bfd.pa.atlanticbb.net": {
