@@ -798,6 +798,13 @@
             "last_retested_at_iso": "2020-05-13T02:24:12.118511",
             "status": "INACTIVE"
         },
+        "203-174-83-75.rev.ne.com.sg": {
+            "included_at_epoch": 1589379160.869629,
+            "included_at_iso": "2020-05-13T14:12:40.869629",
+            "last_retested_at_epoch": 1589379160.869629,
+            "last_retested_at_iso": "2020-05-13T14:12:40.869629",
+            "status": "INACTIVE"
+        },
         "203-204-110-98.adsl.static.giga.net.tw": {
             "included_at_epoch": 1588362992.74536,
             "included_at_iso": "2020-05-01T19:56:32.745360",
@@ -817,6 +824,20 @@
             "included_at_iso": "2020-05-01T19:56:32.755949",
             "last_retested_at_epoch": 1589336652.189308,
             "last_retested_at_iso": "2020-05-13T02:24:12.189308",
+            "status": "INACTIVE"
+        },
+        "203-74.pptp.artx.ru": {
+            "included_at_epoch": 1589379160.893703,
+            "included_at_iso": "2020-05-13T14:12:40.893703",
+            "last_retested_at_epoch": 1589379160.893703,
+            "last_retested_at_iso": "2020-05-13T14:12:40.893703",
+            "status": "INACTIVE"
+        },
+        "205.220.174.67.nw.nuvox.net": {
+            "included_at_epoch": 1589379160.925031,
+            "included_at_iso": "2020-05-13T14:12:40.925031",
+            "last_retested_at_epoch": 1589379160.925031,
+            "last_retested_at_iso": "2020-05-13T14:12:40.925031",
             "status": "INACTIVE"
         },
         "207-255-141-194-dhcp.bfd.pa.atlanticbb.net": {
