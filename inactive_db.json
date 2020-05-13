@@ -1032,22 +1032,22 @@
         "2jo.info": {
             "included_at_epoch": 1588734972.593319,
             "included_at_iso": "2020-05-06T03:16:12.593319",
-            "last_retested_at_epoch": 1589126513.36777,
-            "last_retested_at_iso": "2020-05-10T16:01:53.367770",
+            "last_retested_at_epoch": 1589338818.580464,
+            "last_retested_at_iso": "2020-05-13T03:00:18.580464",
             "status": "INACTIVE"
         },
         "3.coolerpillow.com": {
             "included_at_epoch": 1588373554.48139,
             "included_at_iso": "2020-05-01T22:52:34.481390",
-            "last_retested_at_epoch": 1589126513.817938,
-            "last_retested_at_iso": "2020-05-10T16:01:53.817938",
+            "last_retested_at_epoch": 1589338819.038898,
+            "last_retested_at_iso": "2020-05-13T03:00:19.038898",
             "status": "INACTIVE"
         },
         "3.jxdx1.crsky.com": {
             "included_at_epoch": 1588373554.645901,
             "included_at_iso": "2020-05-01T22:52:34.645901",
-            "last_retested_at_epoch": 1589126513.990064,
-            "last_retested_at_iso": "2020-05-10T16:01:53.990064",
+            "last_retested_at_epoch": 1589338819.224254,
+            "last_retested_at_iso": "2020-05-13T03:00:19.224254",
             "status": "INACTIVE"
         },
         "4.bjlt1.crsky.com": {
@@ -1057,25 +1057,11 @@
             "last_retested_at_iso": "2020-05-10T16:01:54.353912",
             "status": "INACTIVE"
         },
-        "403236308.5166.info": {
-            "included_at_epoch": 1589209599.882773,
-            "included_at_iso": "2020-05-11T15:06:39.882773",
-            "last_retested_at_epoch": 1589209599.882773,
-            "last_retested_at_iso": "2020-05-11T15:06:39.882773",
-            "status": "INACTIVE"
-        },
         "404.ragecash.com": {
             "included_at_epoch": 1588373554.736341,
             "included_at_iso": "2020-05-01T22:52:34.736341",
-            "last_retested_at_epoch": 1589126514.08401,
-            "last_retested_at_iso": "2020-05-10T16:01:54.084010",
-            "status": "INACTIVE"
-        },
-        "41-169-195-217.cust.centrio.cz": {
-            "included_at_epoch": 1589209599.934548,
-            "included_at_iso": "2020-05-11T15:06:39.934548",
-            "last_retested_at_epoch": 1589209599.934548,
-            "last_retested_at_iso": "2020-05-11T15:06:39.934548",
+            "last_retested_at_epoch": 1589338819.334659,
+            "last_retested_at_iso": "2020-05-13T03:00:19.334659",
             "status": "INACTIVE"
         },
         "49.137-62-69.ftth.swbr.surewest.net": {
