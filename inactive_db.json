@@ -161,6 +161,48 @@
             "last_retested_at_iso": "2020-05-13T00:53:34.000828",
             "status": "INACTIVE"
         },
+        "189.202.41.188.cable.dyn.cableonline.com.mx": {
+            "included_at_epoch": 1589331927.511609,
+            "included_at_iso": "2020-05-13T01:05:27.511609",
+            "last_retested_at_epoch": 1589331927.511609,
+            "last_retested_at_iso": "2020-05-13T01:05:27.511609",
+            "status": "INACTIVE"
+        },
+        "189.202.51.14.cable.dyn.cableonline.com.mx": {
+            "included_at_epoch": 1589331927.517749,
+            "included_at_iso": "2020-05-13T01:05:27.517749",
+            "last_retested_at_epoch": 1589331927.517749,
+            "last_retested_at_iso": "2020-05-13T01:05:27.517749",
+            "status": "INACTIVE"
+        },
+        "189.202.56.63.cable.dyn.cableonline.com.mx": {
+            "included_at_epoch": 1589331927.52534,
+            "included_at_iso": "2020-05-13T01:05:27.525340",
+            "last_retested_at_epoch": 1589331927.52534,
+            "last_retested_at_iso": "2020-05-13T01:05:27.525340",
+            "status": "INACTIVE"
+        },
+        "189.202.58.152.cable.dyn.cableonline.com.mx": {
+            "included_at_epoch": 1589331927.521575,
+            "included_at_iso": "2020-05-13T01:05:27.521575",
+            "last_retested_at_epoch": 1589331927.521575,
+            "last_retested_at_iso": "2020-05-13T01:05:27.521575",
+            "status": "INACTIVE"
+        },
+        "189.202.67.45.cable.dyn.cableonline.com.mx": {
+            "included_at_epoch": 1589331927.529085,
+            "included_at_iso": "2020-05-13T01:05:27.529085",
+            "last_retested_at_epoch": 1589331927.529085,
+            "last_retested_at_iso": "2020-05-13T01:05:27.529085",
+            "status": "INACTIVE"
+        },
+        "189.202.72.143.cable.dyn.cableonline.com.mx": {
+            "included_at_epoch": 1589331927.532919,
+            "included_at_iso": "2020-05-13T01:05:27.532919",
+            "last_retested_at_epoch": 1589331927.532919,
+            "last_retested_at_iso": "2020-05-13T01:05:27.532919",
+            "status": "INACTIVE"
+        },
         "195-12-231-207.customer.teliacarrier.com": {
             "included_at_epoch": 1588353374.733038,
             "included_at_iso": "2020-05-01T17:16:14.733038",
