@@ -28,6 +28,13 @@
             "last_retested_at_iso": "2020-05-17T00:30:35.999557",
             "status": "INACTIVE"
         },
+        "117.79-54-92.telenet.ru": {
+            "included_at_epoch": 1589711552.847767,
+            "included_at_iso": "2020-05-17T10:32:32.847767",
+            "last_retested_at_epoch": 1589711552.847767,
+            "last_retested_at_iso": "2020-05-17T10:32:32.847767",
+            "status": "INACTIVE"
+        },
         "12.147-62-69.ftth.swbr.surewest.net": {
             "included_at_epoch": 1588897590.777773,
             "included_at_iso": "2020-05-08T00:26:30.777773",
