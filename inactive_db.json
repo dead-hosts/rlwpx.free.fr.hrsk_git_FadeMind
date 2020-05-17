@@ -94,8 +94,15 @@
         "168-100-182-165.static.cloud9.net": {
             "included_at_epoch": 1588349841.668793,
             "included_at_iso": "2020-05-01T16:17:21.668793",
-            "last_retested_at_epoch": 1589504444.968351,
-            "last_retested_at_iso": "2020-05-15T01:00:44.968351",
+            "last_retested_at_epoch": 1589677097.276875,
+            "last_retested_at_iso": "2020-05-17T00:58:17.276875",
+            "status": "INACTIVE"
+        },
+        "189.202.107.61.cable.dyn.cableonline.com.mx": {
+            "included_at_epoch": 1589677097.688393,
+            "included_at_iso": "2020-05-17T00:58:17.688393",
+            "last_retested_at_epoch": 1589677097.688393,
+            "last_retested_at_iso": "2020-05-17T00:58:17.688393",
             "status": "INACTIVE"
         },
         "195-12-231-207.customer.teliacarrier.com": {
