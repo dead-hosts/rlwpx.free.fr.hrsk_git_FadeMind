@@ -906,15 +906,15 @@
         "6.jsdx3.crsky.com": {
             "included_at_epoch": 1588377807.829806,
             "included_at_iso": "2020-05-02T00:03:27.829806",
-            "last_retested_at_epoch": 1589511598.052284,
-            "last_retested_at_iso": "2020-05-15T02:59:58.052284",
+            "last_retested_at_epoch": 1589684728.328902,
+            "last_retested_at_iso": "2020-05-17T03:05:28.328902",
             "status": "INACTIVE"
         },
         "6.scdx3.crsky.com": {
             "included_at_epoch": 1588377807.823352,
             "included_at_iso": "2020-05-02T00:03:27.823352",
-            "last_retested_at_epoch": 1589511598.046085,
-            "last_retested_at_iso": "2020-05-15T02:59:58.046085",
+            "last_retested_at_epoch": 1589684728.335471,
+            "last_retested_at_iso": "2020-05-17T03:05:28.335471",
             "status": "INACTIVE"
         },
         "61-70-224-16.adsl.static.giga.net.tw": {
@@ -1004,22 +1004,22 @@
         "64-175-137-108.abps.org": {
             "included_at_epoch": 1588377807.292296,
             "included_at_iso": "2020-05-02T00:03:27.292296",
-            "last_retested_at_epoch": 1589511597.461547,
-            "last_retested_at_iso": "2020-05-15T02:59:57.461547",
+            "last_retested_at_epoch": 1589684727.811317,
+            "last_retested_at_iso": "2020-05-17T03:05:27.811317",
             "status": "INACTIVE"
         },
         "64.136.61.200.host.ifxnw.com.ar": {
             "included_at_epoch": 1588377807.281878,
             "included_at_iso": "2020-05-02T00:03:27.281878",
-            "last_retested_at_epoch": 1589511597.451425,
-            "last_retested_at_iso": "2020-05-15T02:59:57.451425",
+            "last_retested_at_epoch": 1589684727.801167,
+            "last_retested_at_iso": "2020-05-17T03:05:27.801167",
             "status": "INACTIVE"
         },
         "64.89.75.9.nw.nuvox.net": {
             "included_at_epoch": 1589212282.411969,
             "included_at_iso": "2020-05-11T15:51:22.411969",
-            "last_retested_at_epoch": 1589511597.532215,
-            "last_retested_at_iso": "2020-05-15T02:59:57.532215",
+            "last_retested_at_epoch": 1589684727.875289,
+            "last_retested_at_iso": "2020-05-17T03:05:27.875289",
             "status": "INACTIVE"
         }
     },
