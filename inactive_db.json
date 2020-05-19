@@ -437,8 +437,8 @@
         "59-188-9-234.simlink.com": {
             "included_at_epoch": 1588375812.796139,
             "included_at_iso": "2020-05-01T23:30:12.796139",
-            "last_retested_at_epoch": 1589806498.871037,
-            "last_retested_at_iso": "2020-05-18T12:54:58.871037",
+            "last_retested_at_epoch": 1589901253.113352,
+            "last_retested_at_iso": "2020-05-19T15:14:13.113352",
             "status": "INACTIVE"
         },
         "6.jsdx3.crsky.com": {
@@ -458,8 +458,15 @@
         "61-70-224-16.adsl.static.giga.net.tw": {
             "included_at_epoch": 1588375813.162276,
             "included_at_iso": "2020-05-01T23:30:13.162276",
-            "last_retested_at_epoch": 1589806499.244538,
-            "last_retested_at_iso": "2020-05-18T12:54:59.244538",
+            "last_retested_at_epoch": 1589901253.470216,
+            "last_retested_at_iso": "2020-05-19T15:14:13.470216",
+            "status": "INACTIVE"
+        },
+        "61.254-224-87.telenet.ru": {
+            "included_at_epoch": 1589901253.396306,
+            "included_at_iso": "2020-05-19T15:14:13.396306",
+            "last_retested_at_epoch": 1589901253.396306,
+            "last_retested_at_iso": "2020-05-19T15:14:13.396306",
             "status": "INACTIVE"
         },
         "62.183.18.160.modem-pool.kuban.ru": {
