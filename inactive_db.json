@@ -101,29 +101,22 @@
         "1sheep.info": {
             "included_at_epoch": 1588356858.764017,
             "included_at_iso": "2020-05-01T18:14:18.764017",
-            "last_retested_at_epoch": 1589801475.179525,
-            "last_retested_at_iso": "2020-05-18T11:31:15.179525",
+            "last_retested_at_epoch": 1589891660.9156,
+            "last_retested_at_iso": "2020-05-19T12:34:20.915600",
             "status": "INACTIVE"
         },
         "1x-193-157-194-200.uio.no": {
             "included_at_epoch": 1588356858.814345,
             "included_at_iso": "2020-05-01T18:14:18.814345",
-            "last_retested_at_epoch": 1589801475.229841,
-            "last_retested_at_iso": "2020-05-18T11:31:15.229841",
+            "last_retested_at_epoch": 1589891660.963618,
+            "last_retested_at_iso": "2020-05-19T12:34:20.963618",
             "status": "INACTIVE"
         },
         "200.124-113-64.ftth.swbr.surewest.net": {
             "included_at_epoch": 1588356858.860234,
             "included_at_iso": "2020-05-01T18:14:18.860234",
-            "last_retested_at_epoch": 1589801475.274884,
-            "last_retested_at_iso": "2020-05-18T11:31:15.274884",
-            "status": "INACTIVE"
-        },
-        "200.sub-97-230-69.myvzw.com": {
-            "included_at_epoch": 1589801475.647688,
-            "included_at_iso": "2020-05-18T11:31:15.647688",
-            "last_retested_at_epoch": 1589801475.647688,
-            "last_retested_at_iso": "2020-05-18T11:31:15.647688",
+            "last_retested_at_epoch": 1589891661.007211,
+            "last_retested_at_iso": "2020-05-19T12:34:21.007211",
             "status": "INACTIVE"
         },
         "202-153-214-211.cust.aussiebb.net": {
