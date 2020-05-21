@@ -1515,36 +1515,29 @@
         "212-183-88-33.adsl.highway.telekom.at": {
             "included_at_epoch": 1588365573.587297,
             "included_at_iso": "2020-05-01T20:39:33.587297",
-            "last_retested_at_epoch": 1589895224.479633,
-            "last_retested_at_iso": "2020-05-19T13:33:44.479633",
+            "last_retested_at_epoch": 1590028602.727139,
+            "last_retested_at_iso": "2020-05-21T02:36:42.727139",
             "status": "INACTIVE"
         },
         "212-183-95-201.adsl.highway.telekom.at": {
             "included_at_epoch": 1588365573.583258,
             "included_at_iso": "2020-05-01T20:39:33.583258",
-            "last_retested_at_epoch": 1589895224.484084,
-            "last_retested_at_iso": "2020-05-19T13:33:44.484084",
-            "status": "INACTIVE"
-        },
-        "212h248.compnet.pl": {
-            "included_at_epoch": 1589895224.620481,
-            "included_at_iso": "2020-05-19T13:33:44.620481",
-            "last_retested_at_epoch": 1589895224.620481,
-            "last_retested_at_iso": "2020-05-19T13:33:44.620481",
+            "last_retested_at_epoch": 1590028602.719493,
+            "last_retested_at_iso": "2020-05-21T02:36:42.719493",
             "status": "INACTIVE"
         },
         "213-33-10-217.adsl.highway.telekom.at": {
             "included_at_epoch": 1588365573.937927,
             "included_at_iso": "2020-05-01T20:39:33.937927",
-            "last_retested_at_epoch": 1589895224.798856,
-            "last_retested_at_iso": "2020-05-19T13:33:44.798856",
+            "last_retested_at_epoch": 1590028603.074475,
+            "last_retested_at_iso": "2020-05-21T02:36:43.074475",
             "status": "INACTIVE"
         },
         "216-73-119-74.ocdc-01.net": {
             "included_at_epoch": 1588368290.813125,
             "included_at_iso": "2020-05-01T21:24:50.813125",
-            "last_retested_at_epoch": 1589896353.043028,
-            "last_retested_at_iso": "2020-05-19T13:52:33.043028",
+            "last_retested_at_epoch": 1590028603.312924,
+            "last_retested_at_iso": "2020-05-21T02:36:43.312924",
             "status": "INACTIVE"
         },
         "219-69-19-17.idc.static.giga.net.tw": {
