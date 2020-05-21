@@ -1543,113 +1543,99 @@
         "219-69-19-17.idc.static.giga.net.tw": {
             "included_at_epoch": 1588368291.286718,
             "included_at_iso": "2020-05-01T21:24:51.286718",
-            "last_retested_at_epoch": 1589896353.527983,
-            "last_retested_at_iso": "2020-05-19T13:52:33.527983",
+            "last_retested_at_epoch": 1590029316.376796,
+            "last_retested_at_iso": "2020-05-21T02:48:36.376796",
             "status": "INACTIVE"
         },
         "219-69-19-36.idc.static.giga.net.tw": {
             "included_at_epoch": 1588368291.291264,
             "included_at_iso": "2020-05-01T21:24:51.291264",
-            "last_retested_at_epoch": 1589896353.532995,
-            "last_retested_at_iso": "2020-05-19T13:52:33.532995",
+            "last_retested_at_epoch": 1590029316.385007,
+            "last_retested_at_iso": "2020-05-21T02:48:36.385007",
             "status": "INACTIVE"
         },
         "219-69-50-213.idc.static.giga.net.tw": {
             "included_at_epoch": 1588368291.296391,
             "included_at_iso": "2020-05-01T21:24:51.296391",
-            "last_retested_at_epoch": 1589896353.537719,
-            "last_retested_at_iso": "2020-05-19T13:52:33.537719",
-            "status": "INACTIVE"
-        },
-        "227.kansas-11rh15rt.mo.dial-access.att.net": {
-            "included_at_epoch": 1589897979.269926,
-            "included_at_iso": "2020-05-19T14:19:39.269926",
-            "last_retested_at_epoch": 1589897979.269926,
-            "last_retested_at_iso": "2020-05-19T14:19:39.269926",
-            "status": "INACTIVE"
-        },
-        "227.sub-70-222-53.myvzw.com": {
-            "included_at_epoch": 1589897979.284895,
-            "included_at_iso": "2020-05-19T14:19:39.284895",
-            "last_retested_at_epoch": 1589897979.284895,
-            "last_retested_at_iso": "2020-05-19T14:19:39.284895",
+            "last_retested_at_epoch": 1590029316.392024,
+            "last_retested_at_iso": "2020-05-21T02:48:36.392024",
             "status": "INACTIVE"
         },
         "24-116-106-167.cpe.cableone.net": {
             "included_at_epoch": 1588371195.938821,
             "included_at_iso": "2020-05-01T22:13:15.938821",
-            "last_retested_at_epoch": 1589897979.520493,
-            "last_retested_at_iso": "2020-05-19T14:19:39.520493",
+            "last_retested_at_epoch": 1590029317.116042,
+            "last_retested_at_iso": "2020-05-21T02:48:37.116042",
             "status": "INACTIVE"
         },
         "24-116-145-198.cpe.cableone.net": {
             "included_at_epoch": 1588371195.951136,
             "included_at_iso": "2020-05-01T22:13:15.951136",
-            "last_retested_at_epoch": 1589897979.52888,
-            "last_retested_at_iso": "2020-05-19T14:19:39.528880",
+            "last_retested_at_epoch": 1590029317.134228,
+            "last_retested_at_iso": "2020-05-21T02:48:37.134228",
             "status": "INACTIVE"
         },
         "24-116-226-7.cpe.cableone.net": {
             "included_at_epoch": 1588371195.946514,
             "included_at_iso": "2020-05-01T22:13:15.946514",
-            "last_retested_at_epoch": 1589897979.534311,
-            "last_retested_at_iso": "2020-05-19T14:19:39.534311",
+            "last_retested_at_epoch": 1590029317.126989,
+            "last_retested_at_iso": "2020-05-21T02:48:37.126989",
             "status": "INACTIVE"
         },
         "24-116-63-154.cpe.cableone.net": {
             "included_at_epoch": 1588371195.959983,
             "included_at_iso": "2020-05-01T22:13:15.959983",
-            "last_retested_at_epoch": 1589897979.54537,
-            "last_retested_at_iso": "2020-05-19T14:19:39.545370",
+            "last_retested_at_epoch": 1590029317.141552,
+            "last_retested_at_iso": "2020-05-21T02:48:37.141552",
             "status": "INACTIVE"
         },
         "24-117-114-192.cpe.cableone.net": {
             "included_at_epoch": 1588371195.95565,
             "included_at_iso": "2020-05-01T22:13:15.955650",
-            "last_retested_at_epoch": 1589897979.539892,
-            "last_retested_at_iso": "2020-05-19T14:19:39.539892",
+            "last_retested_at_epoch": 1590029317.148791,
+            "last_retested_at_iso": "2020-05-21T02:48:37.148791",
             "status": "INACTIVE"
         },
         "24-117-114-227.cpe.cableone.net": {
             "included_at_epoch": 1588371195.964642,
             "included_at_iso": "2020-05-01T22:13:15.964642",
-            "last_retested_at_epoch": 1589897979.550906,
-            "last_retested_at_iso": "2020-05-19T14:19:39.550906",
+            "last_retested_at_epoch": 1590029317.16336,
+            "last_retested_at_iso": "2020-05-21T02:48:37.163360",
             "status": "INACTIVE"
         },
         "24-117-12-48.cpe.cableone.net": {
             "included_at_epoch": 1588371195.969827,
             "included_at_iso": "2020-05-01T22:13:15.969827",
-            "last_retested_at_epoch": 1589897979.556403,
-            "last_retested_at_iso": "2020-05-19T14:19:39.556403",
+            "last_retested_at_epoch": 1590029317.156145,
+            "last_retested_at_iso": "2020-05-21T02:48:37.156145",
             "status": "INACTIVE"
         },
         "24-117-142-140.cpe.cableone.net": {
             "included_at_epoch": 1588371195.974815,
             "included_at_iso": "2020-05-01T22:13:15.974815",
-            "last_retested_at_epoch": 1589897979.561833,
-            "last_retested_at_iso": "2020-05-19T14:19:39.561833",
+            "last_retested_at_epoch": 1590029317.177784,
+            "last_retested_at_iso": "2020-05-21T02:48:37.177784",
             "status": "INACTIVE"
         },
         "24-117-233-191.cpe.cableone.net": {
             "included_at_epoch": 1588371195.979364,
             "included_at_iso": "2020-05-01T22:13:15.979364",
-            "last_retested_at_epoch": 1589897979.567172,
-            "last_retested_at_iso": "2020-05-19T14:19:39.567172",
+            "last_retested_at_epoch": 1590029317.170566,
+            "last_retested_at_iso": "2020-05-21T02:48:37.170566",
             "status": "INACTIVE"
         },
         "24-117-234-37.cpe.cableone.net": {
             "included_at_epoch": 1588371195.9882,
             "included_at_iso": "2020-05-01T22:13:15.988200",
-            "last_retested_at_epoch": 1589897979.577807,
-            "last_retested_at_iso": "2020-05-19T14:19:39.577807",
+            "last_retested_at_epoch": 1590029317.192355,
+            "last_retested_at_iso": "2020-05-21T02:48:37.192355",
             "status": "INACTIVE"
         },
         "24-117-239-165.cpe.cableone.net": {
             "included_at_epoch": 1588371195.983804,
             "included_at_iso": "2020-05-01T22:13:15.983804",
-            "last_retested_at_epoch": 1589897979.572602,
-            "last_retested_at_iso": "2020-05-19T14:19:39.572602",
+            "last_retested_at_epoch": 1590029317.185095,
+            "last_retested_at_iso": "2020-05-21T02:48:37.185095",
             "status": "INACTIVE"
         },
         "24-117-242-185.cpe.cableone.net": {
