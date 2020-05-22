@@ -147,81 +147,67 @@
             "last_retested_at_iso": "2020-05-22T12:02:23.659940",
             "status": "INACTIVE"
         },
+        "189.202.5.144.cable.dyn.cableonline.com.mx": {
+            "included_at_epoch": 1590151413.991687,
+            "included_at_iso": "2020-05-22T12:43:33.991687",
+            "last_retested_at_epoch": 1590151413.991687,
+            "last_retested_at_iso": "2020-05-22T12:43:33.991687",
+            "status": "INACTIVE"
+        },
         "189.202.51.14.cable.dyn.cableonline.com.mx": {
             "included_at_epoch": 1590023312.254992,
             "included_at_iso": "2020-05-21T01:08:32.254992",
-            "last_retested_at_epoch": 1590023312.254992,
-            "last_retested_at_iso": "2020-05-21T01:08:32.254992",
+            "last_retested_at_epoch": 1590151413.985162,
+            "last_retested_at_iso": "2020-05-22T12:43:33.985162",
             "status": "INACTIVE"
         },
         "189.202.58.152.cable.dyn.cableonline.com.mx": {
             "included_at_epoch": 1590023312.260576,
             "included_at_iso": "2020-05-21T01:08:32.260576",
-            "last_retested_at_epoch": 1590023312.260576,
-            "last_retested_at_iso": "2020-05-21T01:08:32.260576",
-            "status": "INACTIVE"
-        },
-        "189.202.72.143.cable.dyn.cableonline.com.mx": {
-            "included_at_epoch": 1590023312.266458,
-            "included_at_iso": "2020-05-21T01:08:32.266458",
-            "last_retested_at_epoch": 1590023312.266458,
-            "last_retested_at_iso": "2020-05-21T01:08:32.266458",
-            "status": "INACTIVE"
-        },
-        "189.202.79.157.cable.dyn.cableonline.com.mx": {
-            "included_at_epoch": 1590023312.270496,
-            "included_at_iso": "2020-05-21T01:08:32.270496",
-            "last_retested_at_epoch": 1590023312.270496,
-            "last_retested_at_iso": "2020-05-21T01:08:32.270496",
+            "last_retested_at_epoch": 1590151413.999749,
+            "last_retested_at_iso": "2020-05-22T12:43:33.999749",
             "status": "INACTIVE"
         },
         "189.202.8.227.cable.dyn.cableonline.com.mx": {
             "included_at_epoch": 1590023312.278718,
             "included_at_iso": "2020-05-21T01:08:32.278718",
-            "last_retested_at_epoch": 1590023312.278718,
-            "last_retested_at_iso": "2020-05-21T01:08:32.278718",
+            "last_retested_at_epoch": 1590151414.027122,
+            "last_retested_at_iso": "2020-05-22T12:43:34.027122",
             "status": "INACTIVE"
         },
         "189.202.82.137.cable.dyn.cableonline.com.mx": {
             "included_at_epoch": 1590023312.274613,
             "included_at_iso": "2020-05-21T01:08:32.274613",
-            "last_retested_at_epoch": 1590023312.274613,
-            "last_retested_at_iso": "2020-05-21T01:08:32.274613",
+            "last_retested_at_epoch": 1590151414.021126,
+            "last_retested_at_iso": "2020-05-22T12:43:34.021126",
             "status": "INACTIVE"
         },
         "189.202.82.29.cable.dyn.cableonline.com.mx": {
             "included_at_epoch": 1590023312.282734,
             "included_at_iso": "2020-05-21T01:08:32.282734",
-            "last_retested_at_epoch": 1590023312.282734,
-            "last_retested_at_iso": "2020-05-21T01:08:32.282734",
+            "last_retested_at_epoch": 1590151414.033069,
+            "last_retested_at_iso": "2020-05-22T12:43:34.033069",
             "status": "INACTIVE"
         },
-        "189.202.85.229.cable.dyn.cableonline.com.mx": {
-            "included_at_epoch": 1590023312.288371,
-            "included_at_iso": "2020-05-21T01:08:32.288371",
-            "last_retested_at_epoch": 1590023312.288371,
-            "last_retested_at_iso": "2020-05-21T01:08:32.288371",
+        "189.202.88.20.cable.dyn.cableonline.com.mx": {
+            "included_at_epoch": 1590151414.045608,
+            "included_at_iso": "2020-05-22T12:43:34.045608",
+            "last_retested_at_epoch": 1590151414.045608,
+            "last_retested_at_iso": "2020-05-22T12:43:34.045608",
             "status": "INACTIVE"
         },
-        "189.202.97.124.cable.dyn.cableonline.com.mx": {
-            "included_at_epoch": 1590023312.293999,
-            "included_at_iso": "2020-05-21T01:08:32.293999",
-            "last_retested_at_epoch": 1590023312.293999,
-            "last_retested_at_iso": "2020-05-21T01:08:32.293999",
+        "189.202.98.234.cable.dyn.cableonline.com.mx": {
+            "included_at_epoch": 1590151414.057903,
+            "included_at_iso": "2020-05-22T12:43:34.057903",
+            "last_retested_at_epoch": 1590151414.057903,
+            "last_retested_at_iso": "2020-05-22T12:43:34.057903",
             "status": "INACTIVE"
         },
-        "189.202.98.43.cable.dyn.cableonline.com.mx": {
-            "included_at_epoch": 1590023312.299764,
-            "included_at_iso": "2020-05-21T01:08:32.299764",
-            "last_retested_at_epoch": 1590023312.299764,
-            "last_retested_at_iso": "2020-05-21T01:08:32.299764",
-            "status": "INACTIVE"
-        },
-        "189.202.99.60.cable.dyn.cableonline.com.mx": {
-            "included_at_epoch": 1590023312.305666,
-            "included_at_iso": "2020-05-21T01:08:32.305666",
-            "last_retested_at_epoch": 1590023312.305666,
-            "last_retested_at_iso": "2020-05-21T01:08:32.305666",
+        "189.202.98.235.cable.dyn.cableonline.com.mx": {
+            "included_at_epoch": 1590151414.070266,
+            "included_at_iso": "2020-05-22T12:43:34.070266",
+            "last_retested_at_epoch": 1590151414.070266,
+            "last_retested_at_iso": "2020-05-22T12:43:34.070266",
             "status": "INACTIVE"
         },
         "195-12-231-207.customer.teliacarrier.com": {
