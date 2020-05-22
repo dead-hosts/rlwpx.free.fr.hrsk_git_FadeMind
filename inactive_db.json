@@ -385,25 +385,18 @@
             "last_retested_at_iso": "2020-05-22T14:33:54.341565",
             "status": "INACTIVE"
         },
-        "212h248.compnet.pl": {
-            "included_at_epoch": 1590066316.894662,
-            "included_at_iso": "2020-05-21T13:05:16.894662",
-            "last_retested_at_epoch": 1590066316.894662,
-            "last_retested_at_iso": "2020-05-21T13:05:16.894662",
-            "status": "INACTIVE"
-        },
         "213-33-10-217.adsl.highway.telekom.at": {
             "included_at_epoch": 1588365573.937927,
             "included_at_iso": "2020-05-01T20:39:33.937927",
-            "last_retested_at_epoch": 1590028603.074475,
-            "last_retested_at_iso": "2020-05-21T02:36:43.074475",
+            "last_retested_at_epoch": 1590159371.588272,
+            "last_retested_at_iso": "2020-05-22T14:56:11.588272",
             "status": "INACTIVE"
         },
         "216-73-119-74.ocdc-01.net": {
             "included_at_epoch": 1588368290.813125,
             "included_at_iso": "2020-05-01T21:24:50.813125",
-            "last_retested_at_epoch": 1590028603.312924,
-            "last_retested_at_iso": "2020-05-21T02:36:43.312924",
+            "last_retested_at_epoch": 1590159371.816814,
+            "last_retested_at_iso": "2020-05-22T14:56:11.816814",
             "status": "INACTIVE"
         },
         "219-69-19-17.idc.static.giga.net.tw": {
