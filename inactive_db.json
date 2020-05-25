@@ -28,6 +28,13 @@
             "last_retested_at_iso": "2020-05-25T10:37:29.513755",
             "status": "INACTIVE"
         },
+        "12-171.pptp.artx.ru": {
+            "included_at_epoch": 1590446832.935687,
+            "included_at_iso": "2020-05-25T22:47:12.935687",
+            "last_retested_at_epoch": 1590446832.935687,
+            "last_retested_at_iso": "2020-05-25T22:47:12.935687",
+            "status": "INACTIVE"
+        },
         "12.147-62-69.ftth.swbr.surewest.net": {
             "included_at_epoch": 1588897590.777773,
             "included_at_iso": "2020-05-08T00:26:30.777773",
@@ -47,13 +54,6 @@
             "included_at_iso": "2020-05-01T15:03:46.624984",
             "last_retested_at_epoch": 1590405443.208467,
             "last_retested_at_iso": "2020-05-25T11:17:23.208467",
-            "status": "INACTIVE"
-        },
-        "123appz.com": {
-            "included_at_epoch": 1588013902.250547,
-            "included_at_iso": "2020-04-27T18:58:22.250547",
-            "last_retested_at_epoch": 1590405443.181992,
-            "last_retested_at_iso": "2020-05-25T11:17:23.181992",
             "status": "INACTIVE"
         },
         "13.costretto.com": {
