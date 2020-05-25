@@ -322,39 +322,32 @@
             "last_retested_at_iso": "2020-05-25T12:24:17.571534",
             "status": "INACTIVE"
         },
-        "191-74.pptp.artx.ru": {
-            "included_at_epoch": 1590318204.973066,
-            "included_at_iso": "2020-05-24T11:03:24.973066",
-            "last_retested_at_epoch": 1590318204.973066,
-            "last_retested_at_iso": "2020-05-24T11:03:24.973066",
-            "status": "INACTIVE"
-        },
         "195-12-231-207.customer.teliacarrier.com": {
             "included_at_epoch": 1588353374.733038,
             "included_at_iso": "2020-05-01T17:16:14.733038",
-            "last_retested_at_epoch": 1590318205.018513,
-            "last_retested_at_iso": "2020-05-24T11:03:25.018513",
+            "last_retested_at_epoch": 1590410718.290301,
+            "last_retested_at_iso": "2020-05-25T12:45:18.290301",
             "status": "INACTIVE"
         },
         "1sheep.info": {
             "included_at_epoch": 1588356858.764017,
             "included_at_iso": "2020-05-01T18:14:18.764017",
-            "last_retested_at_epoch": 1590318912.389739,
-            "last_retested_at_iso": "2020-05-24T11:15:12.389739",
+            "last_retested_at_epoch": 1590410718.538044,
+            "last_retested_at_iso": "2020-05-25T12:45:18.538044",
             "status": "INACTIVE"
         },
         "1x-193-157-194-200.uio.no": {
             "included_at_epoch": 1588356858.814345,
             "included_at_iso": "2020-05-01T18:14:18.814345",
-            "last_retested_at_epoch": 1590318912.435893,
-            "last_retested_at_iso": "2020-05-24T11:15:12.435893",
+            "last_retested_at_epoch": 1590410718.598634,
+            "last_retested_at_iso": "2020-05-25T12:45:18.598634",
             "status": "INACTIVE"
         },
         "200.124-113-64.ftth.swbr.surewest.net": {
             "included_at_epoch": 1588356858.860234,
             "included_at_iso": "2020-05-01T18:14:18.860234",
-            "last_retested_at_epoch": 1590318912.479674,
-            "last_retested_at_iso": "2020-05-24T11:15:12.479674",
+            "last_retested_at_epoch": 1590410718.64711,
+            "last_retested_at_iso": "2020-05-25T12:45:18.647110",
             "status": "INACTIVE"
         },
         "200.77.197.36.cable.dyn.cableonline.com.mx": {
