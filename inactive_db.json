@@ -1081,22 +1081,22 @@
         "2jo.info": {
             "included_at_epoch": 1588734972.593319,
             "included_at_iso": "2020-05-06T03:16:12.593319",
-            "last_retested_at_epoch": 1590323196.375495,
-            "last_retested_at_iso": "2020-05-24T12:26:36.375495",
+            "last_retested_at_epoch": 1590419746.305638,
+            "last_retested_at_iso": "2020-05-25T15:15:46.305638",
             "status": "INACTIVE"
         },
         "3.coolerpillow.com": {
             "included_at_epoch": 1588373554.48139,
             "included_at_iso": "2020-05-01T22:52:34.481390",
-            "last_retested_at_epoch": 1590323196.838569,
-            "last_retested_at_iso": "2020-05-24T12:26:36.838569",
+            "last_retested_at_epoch": 1590419746.791381,
+            "last_retested_at_iso": "2020-05-25T15:15:46.791381",
             "status": "INACTIVE"
         },
         "3.jxdx1.crsky.com": {
             "included_at_epoch": 1588373554.645901,
             "included_at_iso": "2020-05-01T22:52:34.645901",
-            "last_retested_at_epoch": 1590323197.013818,
-            "last_retested_at_iso": "2020-05-24T12:26:37.013818",
+            "last_retested_at_epoch": 1590419746.967815,
+            "last_retested_at_iso": "2020-05-25T15:15:46.967815",
             "status": "INACTIVE"
         },
         "4.bjlt1.crsky.com": {
@@ -1109,8 +1109,8 @@
         "404.ragecash.com": {
             "included_at_epoch": 1588373554.736341,
             "included_at_iso": "2020-05-01T22:52:34.736341",
-            "last_retested_at_epoch": 1590323197.10839,
-            "last_retested_at_iso": "2020-05-24T12:26:37.108390",
+            "last_retested_at_epoch": 1590419747.067258,
+            "last_retested_at_iso": "2020-05-25T15:15:47.067258",
             "status": "INACTIVE"
         },
         "49.137-62-69.ftth.swbr.surewest.net": {
