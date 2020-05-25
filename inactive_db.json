@@ -56,6 +56,13 @@
             "last_retested_at_iso": "2020-05-25T11:17:23.208467",
             "status": "INACTIVE"
         },
+        "123appz.com": {
+            "included_at_epoch": 1590449819.138131,
+            "included_at_iso": "2020-05-25T23:36:59.138131",
+            "last_retested_at_epoch": 1590449819.138131,
+            "last_retested_at_iso": "2020-05-25T23:36:59.138131",
+            "status": "INACTIVE"
+        },
         "13.costretto.com": {
             "included_at_epoch": 1588898303.916155,
             "included_at_iso": "2020-05-08T00:38:23.916155",
