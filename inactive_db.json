@@ -14,6 +14,27 @@
             "last_retested_at_iso": "2020-05-25T10:37:29.338200",
             "status": "INACTIVE"
         },
+        "1.18.broadband7.iol.cz": {
+            "included_at_epoch": 1590489200.431626,
+            "included_at_iso": "2020-05-26T10:33:20.431626",
+            "last_retested_at_epoch": 1590489200.431626,
+            "last_retested_at_iso": "2020-05-26T10:33:20.431626",
+            "status": "INACTIVE"
+        },
+        "102.115.broadband3.iol.cz": {
+            "included_at_epoch": 1590489200.221647,
+            "included_at_iso": "2020-05-26T10:33:20.221647",
+            "last_retested_at_epoch": 1590489200.221647,
+            "last_retested_at_iso": "2020-05-26T10:33:20.221647",
+            "status": "INACTIVE"
+        },
+        "107.165.broadband7.iol.cz": {
+            "included_at_epoch": 1590489200.259893,
+            "included_at_iso": "2020-05-26T10:33:20.259893",
+            "last_retested_at_epoch": 1590489200.259893,
+            "last_retested_at_iso": "2020-05-26T10:33:20.259893",
+            "status": "INACTIVE"
+        },
         "11.gxdx2.crsky.com": {
             "included_at_epoch": 1588933191.65858,
             "included_at_iso": "2020-05-08T10:19:51.658580",
