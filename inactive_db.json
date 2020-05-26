@@ -1470,11 +1470,25 @@
             "last_retested_at_iso": "2020-05-25T15:40:14.513918",
             "status": "INACTIVE"
         },
+        "5-170-195-217.cust.centrio.cz": {
+            "included_at_epoch": 1590504423.71656,
+            "included_at_iso": "2020-05-26T14:47:03.716560",
+            "last_retested_at_epoch": 1590504423.71656,
+            "last_retested_at_iso": "2020-05-26T14:47:03.716560",
+            "status": "INACTIVE"
+        },
         "52110.odb.sh.cn": {
             "included_at_epoch": 1590466264.246945,
             "included_at_iso": "2020-05-26T04:11:04.246945",
             "last_retested_at_epoch": 1590466264.246945,
             "last_retested_at_iso": "2020-05-26T04:11:04.246945",
+            "status": "INACTIVE"
+        },
+        "54.94-65-87.adsl-dyn.isp.belgacom.be": {
+            "included_at_epoch": 1590504424.534147,
+            "included_at_iso": "2020-05-26T14:47:04.534147",
+            "last_retested_at_epoch": 1590504424.534147,
+            "last_retested_at_iso": "2020-05-26T14:47:04.534147",
             "status": "INACTIVE"
         },
         "59-188-9-234.simlink.com": {
