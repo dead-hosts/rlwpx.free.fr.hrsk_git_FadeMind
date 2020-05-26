@@ -668,8 +668,8 @@
         "201.166.121.18.cable.dyn.cableonline.com.mx": {
             "included_at_epoch": 1590370959.177995,
             "included_at_iso": "2020-05-25T01:42:39.177995",
-            "last_retested_at_epoch": 1590370959.177995,
-            "last_retested_at_iso": "2020-05-25T01:42:39.177995",
+            "last_retested_at_epoch": 1590459240.590905,
+            "last_retested_at_iso": "2020-05-26T02:14:00.590905",
             "status": "INACTIVE"
         },
         "201.166.2.74.cable.dyn.cableonline.com.mx": {
@@ -721,13 +721,6 @@
             "last_retested_at_iso": "2020-05-26T01:47:35.930818",
             "status": "INACTIVE"
         },
-        "201.166.48.45.cable.dyn.cableonline.com.mx": {
-            "included_at_epoch": 1590370959.2106,
-            "included_at_iso": "2020-05-25T01:42:39.210600",
-            "last_retested_at_epoch": 1590370959.2106,
-            "last_retested_at_iso": "2020-05-25T01:42:39.210600",
-            "status": "INACTIVE"
-        },
         "201.166.52.58.cable.dyn.cableonline.com.mx": {
             "included_at_epoch": 1590457655.93603,
             "included_at_iso": "2020-05-26T01:47:35.936030",
@@ -777,25 +770,11 @@
             "last_retested_at_iso": "2020-05-26T01:47:35.974293",
             "status": "INACTIVE"
         },
-        "201.166.69.5.cable.dyn.cableonline.com.mx": {
-            "included_at_epoch": 1590370959.241987,
-            "included_at_iso": "2020-05-25T01:42:39.241987",
-            "last_retested_at_epoch": 1590370959.241987,
-            "last_retested_at_iso": "2020-05-25T01:42:39.241987",
-            "status": "INACTIVE"
-        },
         "201.166.71.211.cable.dyn.cableonline.com.mx": {
             "included_at_epoch": 1590457655.981934,
             "included_at_iso": "2020-05-26T01:47:35.981934",
             "last_retested_at_epoch": 1590457655.981934,
             "last_retested_at_iso": "2020-05-26T01:47:35.981934",
-            "status": "INACTIVE"
-        },
-        "201.166.92.64.cable.dyn.cableonline.com.mx": {
-            "included_at_epoch": 1590370959.267604,
-            "included_at_iso": "2020-05-25T01:42:39.267604",
-            "last_retested_at_epoch": 1590370959.267604,
-            "last_retested_at_iso": "2020-05-25T01:42:39.267604",
             "status": "INACTIVE"
         },
         "202-153-214-211.cust.aussiebb.net": {
