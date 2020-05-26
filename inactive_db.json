@@ -896,6 +896,13 @@
             "last_retested_at_iso": "2020-05-25T14:13:49.637125",
             "status": "INACTIVE"
         },
+        "217.217.206.18.dyn.user.ono.com": {
+            "included_at_epoch": 1590463611.464881,
+            "included_at_iso": "2020-05-26T03:26:51.464881",
+            "last_retested_at_epoch": 1590463611.464881,
+            "last_retested_at_iso": "2020-05-26T03:26:51.464881",
+            "status": "INACTIVE"
+        },
         "219-69-19-17.idc.static.giga.net.tw": {
             "included_at_epoch": 1588368291.286718,
             "included_at_iso": "2020-05-01T21:24:51.286718",
