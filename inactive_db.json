@@ -1232,18 +1232,11 @@
             "last_retested_at_iso": "2020-05-26T14:05:14.106603",
             "status": "INACTIVE"
         },
-        "212h248.compnet.pl": {
-            "included_at_epoch": 1590321061.208862,
-            "included_at_iso": "2020-05-24T11:51:01.208862",
-            "last_retested_at_epoch": 1590416029.184756,
-            "last_retested_at_iso": "2020-05-25T14:13:49.184756",
-            "status": "INACTIVE"
-        },
         "213-33-10-217.adsl.highway.telekom.at": {
             "included_at_epoch": 1588365573.937927,
             "included_at_iso": "2020-05-01T20:39:33.937927",
-            "last_retested_at_epoch": 1590416029.389065,
-            "last_retested_at_iso": "2020-05-25T14:13:49.389065",
+            "last_retested_at_epoch": 1590503707.481172,
+            "last_retested_at_iso": "2020-05-26T14:35:07.481172",
             "status": "INACTIVE"
         },
         "216-55-181-94.dedicated.abac.net": {
@@ -1256,8 +1249,8 @@
         "216-73-119-74.ocdc-01.net": {
             "included_at_epoch": 1588368290.813125,
             "included_at_iso": "2020-05-01T21:24:50.813125",
-            "last_retested_at_epoch": 1590416029.637125,
-            "last_retested_at_iso": "2020-05-25T14:13:49.637125",
+            "last_retested_at_epoch": 1590503707.50188,
+            "last_retested_at_iso": "2020-05-26T14:35:07.501880",
             "status": "INACTIVE"
         },
         "217.217.206.18.dyn.user.ono.com": {
@@ -1428,11 +1421,32 @@
             "last_retested_at_iso": "2020-05-25T15:15:46.967815",
             "status": "INACTIVE"
         },
+        "36.12-66-87.adsl-static.isp.belgacom.be": {
+            "included_at_epoch": 1590503708.355758,
+            "included_at_iso": "2020-05-26T14:35:08.355758",
+            "last_retested_at_epoch": 1590503708.355758,
+            "last_retested_at_iso": "2020-05-26T14:35:08.355758",
+            "status": "INACTIVE"
+        },
         "4.bjlt1.crsky.com": {
             "included_at_epoch": 1588373554.997506,
             "included_at_iso": "2020-05-01T22:52:34.997506",
             "last_retested_at_epoch": 1590421214.404871,
             "last_retested_at_iso": "2020-05-25T15:40:14.404871",
+            "status": "INACTIVE"
+        },
+        "40.178-240-81.adsl-dyn.isp.belgacom.be": {
+            "included_at_epoch": 1590503708.768859,
+            "included_at_iso": "2020-05-26T14:35:08.768859",
+            "last_retested_at_epoch": 1590503708.768859,
+            "last_retested_at_iso": "2020-05-26T14:35:08.768859",
+            "status": "INACTIVE"
+        },
+        "403236308.5166.info": {
+            "included_at_epoch": 1590503708.790553,
+            "included_at_iso": "2020-05-26T14:35:08.790553",
+            "last_retested_at_epoch": 1590503708.790553,
+            "last_retested_at_iso": "2020-05-26T14:35:08.790553",
             "status": "INACTIVE"
         },
         "404.ragecash.com": {
