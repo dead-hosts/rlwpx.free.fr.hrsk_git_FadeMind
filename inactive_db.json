@@ -1217,13 +1217,6 @@
             "last_retested_at_epoch": 1590422847.353207,
             "last_retested_at_iso": "2020-05-25T16:07:27.353207",
             "status": "INACTIVE"
-        },
-        "64.89.75.9.nw.nuvox.net": {
-            "included_at_epoch": 1590379246.68078,
-            "included_at_iso": "2020-05-25T04:00:46.680780",
-            "last_retested_at_epoch": 1590379246.68078,
-            "last_retested_at_iso": "2020-05-25T04:00:46.680780",
-            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk.list": {
