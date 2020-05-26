@@ -45,8 +45,8 @@
         "121.vps.expresshost.ru": {
             "included_at_epoch": 1590365840.0961,
             "included_at_iso": "2020-05-25T00:17:20.096100",
-            "last_retested_at_epoch": 1590365840.0961,
-            "last_retested_at_iso": "2020-05-25T00:17:20.096100",
+            "last_retested_at_epoch": 1590454290.855952,
+            "last_retested_at_iso": "2020-05-26T00:51:30.855952",
             "status": "INACTIVE"
         },
         "123.greenhome001.com.cn": {
@@ -327,6 +327,20 @@
             "included_at_iso": "2020-05-25T12:24:17.571534",
             "last_retested_at_epoch": 1590409457.571534,
             "last_retested_at_iso": "2020-05-25T12:24:17.571534",
+            "status": "INACTIVE"
+        },
+        "190-76-70-201.dyn.movilnet.com.ve": {
+            "included_at_epoch": 1590454290.982693,
+            "included_at_iso": "2020-05-26T00:51:30.982693",
+            "last_retested_at_epoch": 1590454290.982693,
+            "last_retested_at_iso": "2020-05-26T00:51:30.982693",
+            "status": "INACTIVE"
+        },
+        "190-76-71-123.dyn.movilnet.com.ve": {
+            "included_at_epoch": 1590454290.987679,
+            "included_at_iso": "2020-05-26T00:51:30.987679",
+            "last_retested_at_epoch": 1590454290.987679,
+            "last_retested_at_iso": "2020-05-26T00:51:30.987679",
             "status": "INACTIVE"
         },
         "195-12-231-207.customer.teliacarrier.com": {
