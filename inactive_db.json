@@ -882,6 +882,13 @@
             "last_retested_at_iso": "2020-05-25T14:13:49.389065",
             "status": "INACTIVE"
         },
+        "216-55-181-94.dedicated.abac.net": {
+            "included_at_epoch": 1590462201.870302,
+            "included_at_iso": "2020-05-26T03:03:21.870302",
+            "last_retested_at_epoch": 1590462201.870302,
+            "last_retested_at_iso": "2020-05-26T03:03:21.870302",
+            "status": "INACTIVE"
+        },
         "216-73-119-74.ocdc-01.net": {
             "included_at_epoch": 1588368290.813125,
             "included_at_iso": "2020-05-01T21:24:50.813125",
