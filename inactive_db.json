@@ -217,46 +217,32 @@
             "last_retested_at_iso": "2020-05-28T02:18:00.720855",
             "status": "INACTIVE"
         },
-        "216-55-181-94.dedicated.abac.net": {
-            "included_at_epoch": 1590462201.870302,
-            "included_at_iso": "2020-05-26T03:03:21.870302",
-            "last_retested_at_epoch": 1590462201.870302,
-            "last_retested_at_iso": "2020-05-26T03:03:21.870302",
-            "status": "INACTIVE"
-        },
         "216-73-119-74.ocdc-01.net": {
             "included_at_epoch": 1588368290.813125,
             "included_at_iso": "2020-05-01T21:24:50.813125",
-            "last_retested_at_epoch": 1590503707.50188,
-            "last_retested_at_iso": "2020-05-26T14:35:07.501880",
-            "status": "INACTIVE"
-        },
-        "217.217.206.18.dyn.user.ono.com": {
-            "included_at_epoch": 1590463611.464881,
-            "included_at_iso": "2020-05-26T03:26:51.464881",
-            "last_retested_at_epoch": 1590463611.464881,
-            "last_retested_at_iso": "2020-05-26T03:26:51.464881",
+            "last_retested_at_epoch": 1590633070.651248,
+            "last_retested_at_iso": "2020-05-28T02:31:10.651248",
             "status": "INACTIVE"
         },
         "219-69-19-17.idc.static.giga.net.tw": {
             "included_at_epoch": 1588368291.286718,
             "included_at_iso": "2020-05-01T21:24:51.286718",
-            "last_retested_at_epoch": 1590505226.24142,
-            "last_retested_at_iso": "2020-05-26T15:00:26.241420",
+            "last_retested_at_epoch": 1590633071.135618,
+            "last_retested_at_iso": "2020-05-28T02:31:11.135618",
             "status": "INACTIVE"
         },
         "219-69-19-36.idc.static.giga.net.tw": {
             "included_at_epoch": 1588368291.291264,
             "included_at_iso": "2020-05-01T21:24:51.291264",
-            "last_retested_at_epoch": 1590505226.249232,
-            "last_retested_at_iso": "2020-05-26T15:00:26.249232",
+            "last_retested_at_epoch": 1590633071.14083,
+            "last_retested_at_iso": "2020-05-28T02:31:11.140830",
             "status": "INACTIVE"
         },
         "219-69-50-213.idc.static.giga.net.tw": {
             "included_at_epoch": 1588368291.296391,
             "included_at_iso": "2020-05-01T21:24:51.296391",
-            "last_retested_at_epoch": 1590505226.263974,
-            "last_retested_at_iso": "2020-05-26T15:00:26.263974",
+            "last_retested_at_epoch": 1590633071.145835,
+            "last_retested_at_iso": "2020-05-28T02:31:11.145835",
             "status": "INACTIVE"
         },
         "24-116-106-167.cpe.cableone.net": {
