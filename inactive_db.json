@@ -28,13 +28,6 @@
             "last_retested_at_iso": "2020-05-28T00:34:39.389021",
             "status": "INACTIVE"
         },
-        "12-171.pptp.artx.ru": {
-            "included_at_epoch": 1590446832.935687,
-            "included_at_iso": "2020-05-25T22:47:12.935687",
-            "last_retested_at_epoch": 1590446832.935687,
-            "last_retested_at_iso": "2020-05-25T22:47:12.935687",
-            "status": "INACTIVE"
-        },
         "12.147-62-69.ftth.swbr.surewest.net": {
             "included_at_epoch": 1588897590.777773,
             "included_at_iso": "2020-05-08T00:26:30.777773",
@@ -45,50 +38,50 @@
         "121.vps.expresshost.ru": {
             "included_at_epoch": 1590365840.0961,
             "included_at_iso": "2020-05-25T00:17:20.096100",
-            "last_retested_at_epoch": 1590454290.855952,
-            "last_retested_at_iso": "2020-05-26T00:51:30.855952",
+            "last_retested_at_epoch": 1590626788.862721,
+            "last_retested_at_iso": "2020-05-28T00:46:28.862721",
             "status": "INACTIVE"
         },
         "123.greenhome001.com.cn": {
             "included_at_epoch": 1588345426.624984,
             "included_at_iso": "2020-05-01T15:03:46.624984",
-            "last_retested_at_epoch": 1590493735.55802,
-            "last_retested_at_iso": "2020-05-26T11:48:55.558020",
+            "last_retested_at_epoch": 1590626788.927095,
+            "last_retested_at_iso": "2020-05-28T00:46:28.927095",
             "status": "INACTIVE"
         },
         "123appz.com": {
             "included_at_epoch": 1590449819.138131,
             "included_at_iso": "2020-05-25T23:36:59.138131",
-            "last_retested_at_epoch": 1590449819.138131,
-            "last_retested_at_iso": "2020-05-25T23:36:59.138131",
-            "status": "INACTIVE"
-        },
-        "128.sub-70-213-114.myvzw.com": {
-            "included_at_epoch": 1590491440.777107,
-            "included_at_iso": "2020-05-26T11:10:40.777107",
-            "last_retested_at_epoch": 1590491440.777107,
-            "last_retested_at_iso": "2020-05-26T11:10:40.777107",
+            "last_retested_at_epoch": 1590626788.903953,
+            "last_retested_at_iso": "2020-05-28T00:46:28.903953",
             "status": "INACTIVE"
         },
         "13.costretto.com": {
             "included_at_epoch": 1588898303.916155,
             "included_at_iso": "2020-05-08T00:38:23.916155",
-            "last_retested_at_epoch": 1590493735.552435,
-            "last_retested_at_iso": "2020-05-26T11:48:55.552435",
+            "last_retested_at_epoch": 1590626789.215329,
+            "last_retested_at_iso": "2020-05-28T00:46:29.215329",
+            "status": "INACTIVE"
+        },
+        "13copacabana37.u2m.ru": {
+            "included_at_epoch": 1590626789.207791,
+            "included_at_iso": "2020-05-28T00:46:29.207791",
+            "last_retested_at_epoch": 1590626789.207791,
+            "last_retested_at_iso": "2020-05-28T00:46:29.207791",
             "status": "INACTIVE"
         },
         "13tw22rigobert.de": {
             "included_at_epoch": 1588345426.85141,
             "included_at_iso": "2020-05-01T15:03:46.851410",
-            "last_retested_at_epoch": 1590493735.568967,
-            "last_retested_at_iso": "2020-05-26T11:48:55.568967",
+            "last_retested_at_epoch": 1590626789.221241,
+            "last_retested_at_iso": "2020-05-28T00:46:29.221241",
             "status": "INACTIVE"
         },
         "144.130-62-69.ftth.swbr.surewest.net": {
             "included_at_epoch": 1588345426.90187,
             "included_at_iso": "2020-05-01T15:03:46.901870",
-            "last_retested_at_epoch": 1590493735.563897,
-            "last_retested_at_iso": "2020-05-26T11:48:55.563897",
+            "last_retested_at_epoch": 1590626789.29203,
+            "last_retested_at_iso": "2020-05-28T00:46:29.292030",
             "status": "INACTIVE"
         },
         "168-100-182-165.static.cloud9.net": {
