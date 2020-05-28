@@ -413,18 +413,11 @@
             "last_retested_at_iso": "2020-05-28T02:55:56.140810",
             "status": "INACTIVE"
         },
-        "54.94-65-87.adsl-dyn.isp.belgacom.be": {
-            "included_at_epoch": 1590504424.534147,
-            "included_at_iso": "2020-05-26T14:47:04.534147",
-            "last_retested_at_epoch": 1590504424.534147,
-            "last_retested_at_iso": "2020-05-26T14:47:04.534147",
-            "status": "INACTIVE"
-        },
         "59-188-9-234.simlink.com": {
             "included_at_epoch": 1588375812.796139,
             "included_at_iso": "2020-05-01T23:30:12.796139",
-            "last_retested_at_epoch": 1590422846.411147,
-            "last_retested_at_iso": "2020-05-25T16:07:26.411147",
+            "last_retested_at_epoch": 1590635281.93087,
+            "last_retested_at_iso": "2020-05-28T03:08:01.930870",
             "status": "INACTIVE"
         },
         "6.jsdx3.crsky.com": {
@@ -444,8 +437,8 @@
         "61-70-224-16.adsl.static.giga.net.tw": {
             "included_at_epoch": 1588375813.162276,
             "included_at_iso": "2020-05-01T23:30:13.162276",
-            "last_retested_at_epoch": 1590422846.798148,
-            "last_retested_at_iso": "2020-05-25T16:07:26.798148",
+            "last_retested_at_epoch": 1590635282.296328,
+            "last_retested_at_iso": "2020-05-28T03:08:02.296328",
             "status": "INACTIVE"
         },
         "62.183.18.160.modem-pool.kuban.ru": {
