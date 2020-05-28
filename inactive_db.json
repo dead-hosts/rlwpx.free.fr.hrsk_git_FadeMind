@@ -91,32 +91,11 @@
             "last_retested_at_iso": "2020-05-28T01:01:16.964149",
             "status": "INACTIVE"
         },
-        "190-76-70-201.dyn.movilnet.com.ve": {
-            "included_at_epoch": 1590454290.982693,
-            "included_at_iso": "2020-05-26T00:51:30.982693",
-            "last_retested_at_epoch": 1590454290.982693,
-            "last_retested_at_iso": "2020-05-26T00:51:30.982693",
-            "status": "INACTIVE"
-        },
-        "190-76-71-123.dyn.movilnet.com.ve": {
-            "included_at_epoch": 1590454290.987679,
-            "included_at_iso": "2020-05-26T00:51:30.987679",
-            "last_retested_at_epoch": 1590454290.987679,
-            "last_retested_at_iso": "2020-05-26T00:51:30.987679",
-            "status": "INACTIVE"
-        },
-        "190-82-20-51.adsl.tie.cl": {
-            "included_at_epoch": 1590495391.333646,
-            "included_at_iso": "2020-05-26T12:16:31.333646",
-            "last_retested_at_epoch": 1590495391.333646,
-            "last_retested_at_iso": "2020-05-26T12:16:31.333646",
-            "status": "INACTIVE"
-        },
         "195-12-231-207.customer.teliacarrier.com": {
             "included_at_epoch": 1588353374.733038,
             "included_at_iso": "2020-05-01T17:16:14.733038",
-            "last_retested_at_epoch": 1590498294.165067,
-            "last_retested_at_iso": "2020-05-26T13:04:54.165067",
+            "last_retested_at_epoch": 1590628397.291071,
+            "last_retested_at_iso": "2020-05-28T01:13:17.291071",
             "status": "INACTIVE"
         },
         "1sheep.info": {
