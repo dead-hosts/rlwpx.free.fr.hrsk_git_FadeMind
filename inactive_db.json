@@ -462,6 +462,20 @@
             "last_retested_at_iso": "2020-05-30T03:25:52.676253",
             "status": "INACTIVE"
         },
+        "59-188-9-234.simlink.com": {
+            "included_at_epoch": 1590810219.703985,
+            "included_at_iso": "2020-05-30T03:43:39.703985",
+            "last_retested_at_epoch": 1590810219.703985,
+            "last_retested_at_iso": "2020-05-30T03:43:39.703985",
+            "status": "INACTIVE"
+        },
+        "61-70-224-16.adsl.static.giga.net.tw": {
+            "included_at_epoch": 1590810220.084455,
+            "included_at_iso": "2020-05-30T03:43:40.084455",
+            "last_retested_at_epoch": 1590810220.084455,
+            "last_retested_at_iso": "2020-05-30T03:43:40.084455",
+            "status": "INACTIVE"
+        },
         "64.89.75.9.nw.nuvox.net": {
             "included_at_epoch": 1590636076.468777,
             "included_at_iso": "2020-05-28T03:21:16.468777",
