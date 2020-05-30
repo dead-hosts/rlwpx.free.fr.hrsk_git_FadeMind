@@ -126,6 +126,34 @@
             "last_retested_at_iso": "2020-05-30T00:45:05.352827",
             "status": "INACTIVE"
         },
+        "1cust86.an2.dca17.da.uu.net": {
+            "included_at_epoch": 1590801250.237097,
+            "included_at_iso": "2020-05-30T01:14:10.237097",
+            "last_retested_at_epoch": 1590801250.237097,
+            "last_retested_at_iso": "2020-05-30T01:14:10.237097",
+            "status": "INACTIVE"
+        },
+        "1sheep.info": {
+            "included_at_epoch": 1590801250.36255,
+            "included_at_iso": "2020-05-30T01:14:10.362550",
+            "last_retested_at_epoch": 1590801250.36255,
+            "last_retested_at_iso": "2020-05-30T01:14:10.362550",
+            "status": "INACTIVE"
+        },
+        "1x-193-157-194-200.uio.no": {
+            "included_at_epoch": 1590801250.418327,
+            "included_at_iso": "2020-05-30T01:14:10.418327",
+            "last_retested_at_epoch": 1590801250.418327,
+            "last_retested_at_iso": "2020-05-30T01:14:10.418327",
+            "status": "INACTIVE"
+        },
+        "200.124-113-64.ftth.swbr.surewest.net": {
+            "included_at_epoch": 1590801250.473146,
+            "included_at_iso": "2020-05-30T01:14:10.473146",
+            "last_retested_at_epoch": 1590801250.473146,
+            "last_retested_at_iso": "2020-05-30T01:14:10.473146",
+            "status": "INACTIVE"
+        },
         "205.220.174.67.nw.nuvox.net": {
             "included_at_epoch": 1590414566.55607,
             "included_at_iso": "2020-05-25T13:49:26.556070",
