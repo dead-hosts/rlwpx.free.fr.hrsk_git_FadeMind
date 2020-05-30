@@ -416,8 +416,50 @@
         "2jo.info": {
             "included_at_epoch": 1588734972.593319,
             "included_at_iso": "2020-05-06T03:16:12.593319",
-            "last_retested_at_epoch": 1590634555.030759,
-            "last_retested_at_iso": "2020-05-28T02:55:55.030759",
+            "last_retested_at_epoch": 1590809151.549763,
+            "last_retested_at_iso": "2020-05-30T03:25:51.549763",
+            "status": "INACTIVE"
+        },
+        "3.coolerpillow.com": {
+            "included_at_epoch": 1590809152.009737,
+            "included_at_iso": "2020-05-30T03:25:52.009737",
+            "last_retested_at_epoch": 1590809152.009737,
+            "last_retested_at_iso": "2020-05-30T03:25:52.009737",
+            "status": "INACTIVE"
+        },
+        "3.jxdx1.crsky.com": {
+            "included_at_epoch": 1590809152.188027,
+            "included_at_iso": "2020-05-30T03:25:52.188027",
+            "last_retested_at_epoch": 1590809152.188027,
+            "last_retested_at_iso": "2020-05-30T03:25:52.188027",
+            "status": "INACTIVE"
+        },
+        "4.bjlt1.crsky.com": {
+            "included_at_epoch": 1590809152.563615,
+            "included_at_iso": "2020-05-30T03:25:52.563615",
+            "last_retested_at_epoch": 1590809152.563615,
+            "last_retested_at_iso": "2020-05-30T03:25:52.563615",
+            "status": "INACTIVE"
+        },
+        "404.ragecash.com": {
+            "included_at_epoch": 1590809152.287472,
+            "included_at_iso": "2020-05-30T03:25:52.287472",
+            "last_retested_at_epoch": 1590809152.287472,
+            "last_retested_at_iso": "2020-05-30T03:25:52.287472",
+            "status": "INACTIVE"
+        },
+        "49.137-62-69.ftth.swbr.surewest.net": {
+            "included_at_epoch": 1590809152.531727,
+            "included_at_iso": "2020-05-30T03:25:52.531727",
+            "last_retested_at_epoch": 1590809152.531727,
+            "last_retested_at_iso": "2020-05-30T03:25:52.531727",
+            "status": "INACTIVE"
+        },
+        "4love.info": {
+            "included_at_epoch": 1590809152.676253,
+            "included_at_iso": "2020-05-30T03:25:52.676253",
+            "last_retested_at_epoch": 1590809152.676253,
+            "last_retested_at_iso": "2020-05-30T03:25:52.676253",
             "status": "INACTIVE"
         },
         "64.89.75.9.nw.nuvox.net": {
