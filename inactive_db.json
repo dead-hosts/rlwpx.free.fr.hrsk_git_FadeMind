@@ -129,22 +129,15 @@
         "194-224-38-89-cable.canals.ro": {
             "included_at_epoch": 1590799505.34769,
             "included_at_iso": "2020-05-30T00:45:05.347690",
-            "last_retested_at_epoch": 1590799505.34769,
-            "last_retested_at_iso": "2020-05-30T00:45:05.347690",
+            "last_retested_at_epoch": 1590928185.22982,
+            "last_retested_at_iso": "2020-05-31T12:29:45.229820",
             "status": "INACTIVE"
         },
         "195-12-231-207.customer.teliacarrier.com": {
             "included_at_epoch": 1590799505.352827,
             "included_at_iso": "2020-05-30T00:45:05.352827",
-            "last_retested_at_epoch": 1590799505.352827,
-            "last_retested_at_iso": "2020-05-30T00:45:05.352827",
-            "status": "INACTIVE"
-        },
-        "1cust86.an2.dca17.da.uu.net": {
-            "included_at_epoch": 1590801250.237097,
-            "included_at_iso": "2020-05-30T01:14:10.237097",
-            "last_retested_at_epoch": 1590801250.237097,
-            "last_retested_at_iso": "2020-05-30T01:14:10.237097",
+            "last_retested_at_epoch": 1590928185.235862,
+            "last_retested_at_iso": "2020-05-31T12:29:45.235862",
             "status": "INACTIVE"
         },
         "1sheep.info": {
