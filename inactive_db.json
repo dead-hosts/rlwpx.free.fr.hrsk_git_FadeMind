@@ -189,11 +189,25 @@
             "last_retested_at_iso": "2020-05-31T13:48:10.003511",
             "status": "INACTIVE"
         },
+        "203-74.pptp.artx.ru": {
+            "included_at_epoch": 1590974597.182373,
+            "included_at_iso": "2020-06-01T01:23:17.182373",
+            "last_retested_at_epoch": 1590974597.182373,
+            "last_retested_at_iso": "2020-06-01T01:23:17.182373",
+            "status": "INACTIVE"
+        },
         "205.220.174.67.nw.nuvox.net": {
             "included_at_epoch": 1590932890.047732,
             "included_at_iso": "2020-05-31T13:48:10.047732",
             "last_retested_at_epoch": 1590932890.047732,
             "last_retested_at_iso": "2020-05-31T13:48:10.047732",
+            "status": "INACTIVE"
+        },
+        "206-225-94-32.dedicated.abac.net": {
+            "included_at_epoch": 1590974597.245082,
+            "included_at_iso": "2020-06-01T01:23:17.245082",
+            "last_retested_at_epoch": 1590974597.245082,
+            "last_retested_at_iso": "2020-06-01T01:23:17.245082",
             "status": "INACTIVE"
         },
         "207-255-141-194-dhcp.bfd.pa.atlanticbb.net": {
