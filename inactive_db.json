@@ -469,6 +469,13 @@
             "last_retested_at_iso": "2020-05-31T15:41:14.089714",
             "status": "INACTIVE"
         },
+        "40.219-224-87.telenet.ru": {
+            "included_at_epoch": 1590979493.495376,
+            "included_at_iso": "2020-06-01T02:44:53.495376",
+            "last_retested_at_epoch": 1590979493.495376,
+            "last_retested_at_iso": "2020-06-01T02:44:53.495376",
+            "status": "INACTIVE"
+        },
         "404.ragecash.com": {
             "included_at_epoch": 1590809152.287472,
             "included_at_iso": "2020-05-30T03:25:52.287472",
