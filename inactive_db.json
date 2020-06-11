@@ -395,57 +395,64 @@
         "2jo.info": {
             "included_at_epoch": 1591324561.075077,
             "included_at_iso": "2020-06-05T02:36:01.075077",
-            "last_retested_at_epoch": 1591671073.405462,
-            "last_retested_at_iso": "2020-06-09T02:51:13.405462",
+            "last_retested_at_epoch": 1591843879.476618,
+            "last_retested_at_iso": "2020-06-11T02:51:19.476618",
             "status": "INACTIVE"
         },
         "3.coolerpillow.com": {
             "included_at_epoch": 1590809152.009737,
             "included_at_iso": "2020-05-30T03:25:52.009737",
-            "last_retested_at_epoch": 1591671073.908416,
-            "last_retested_at_iso": "2020-06-09T02:51:13.908416",
+            "last_retested_at_epoch": 1591843879.946478,
+            "last_retested_at_iso": "2020-06-11T02:51:19.946478",
             "status": "INACTIVE"
         },
         "3.jxdx1.crsky.com": {
             "included_at_epoch": 1590809152.188027,
             "included_at_iso": "2020-05-30T03:25:52.188027",
-            "last_retested_at_epoch": 1591671074.091159,
-            "last_retested_at_iso": "2020-06-09T02:51:14.091159",
+            "last_retested_at_epoch": 1591843880.112756,
+            "last_retested_at_iso": "2020-06-11T02:51:20.112756",
             "status": "INACTIVE"
         },
         "4.bjlt1.crsky.com": {
             "included_at_epoch": 1590809152.563615,
             "included_at_iso": "2020-05-30T03:25:52.563615",
-            "last_retested_at_epoch": 1591671074.499539,
-            "last_retested_at_iso": "2020-06-09T02:51:14.499539",
+            "last_retested_at_epoch": 1591843880.48894,
+            "last_retested_at_iso": "2020-06-11T02:51:20.488940",
             "status": "INACTIVE"
         },
         "4.collecorvino.org": {
             "included_at_epoch": 1591671074.50917,
             "included_at_iso": "2020-06-09T02:51:14.509170",
-            "last_retested_at_epoch": 1591671074.50917,
-            "last_retested_at_iso": "2020-06-09T02:51:14.509170",
+            "last_retested_at_epoch": 1591843880.498194,
+            "last_retested_at_iso": "2020-06-11T02:51:20.498194",
+            "status": "INACTIVE"
+        },
+        "4.whereinitaly.com": {
+            "included_at_epoch": 1591843880.688075,
+            "included_at_iso": "2020-06-11T02:51:20.688075",
+            "last_retested_at_epoch": 1591843880.688075,
+            "last_retested_at_iso": "2020-06-11T02:51:20.688075",
             "status": "INACTIVE"
         },
         "404.ragecash.com": {
             "included_at_epoch": 1590809152.287472,
             "included_at_iso": "2020-05-30T03:25:52.287472",
-            "last_retested_at_epoch": 1591671074.193076,
-            "last_retested_at_iso": "2020-06-09T02:51:14.193076",
+            "last_retested_at_epoch": 1591843880.210415,
+            "last_retested_at_iso": "2020-06-11T02:51:20.210415",
             "status": "INACTIVE"
         },
         "49.137-62-69.ftth.swbr.surewest.net": {
             "included_at_epoch": 1590809152.531727,
             "included_at_iso": "2020-05-30T03:25:52.531727",
-            "last_retested_at_epoch": 1591671074.461453,
-            "last_retested_at_iso": "2020-06-09T02:51:14.461453",
+            "last_retested_at_epoch": 1591843880.457503,
+            "last_retested_at_iso": "2020-06-11T02:51:20.457503",
             "status": "INACTIVE"
         },
         "4love.info": {
             "included_at_epoch": 1590809152.676253,
             "included_at_iso": "2020-05-30T03:25:52.676253",
-            "last_retested_at_epoch": 1591671074.623138,
-            "last_retested_at_iso": "2020-06-09T02:51:14.623138",
+            "last_retested_at_epoch": 1591843880.605274,
+            "last_retested_at_iso": "2020-06-11T02:51:20.605274",
             "status": "INACTIVE"
         },
         "59-188-9-234.simlink.com": {
