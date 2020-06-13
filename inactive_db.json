@@ -101,29 +101,29 @@
         "194-224-38-89-cable.canals.ro": {
             "included_at_epoch": 1590799505.34769,
             "included_at_iso": "2020-05-30T00:45:05.347690",
-            "last_retested_at_epoch": 1591963934.574087,
-            "last_retested_at_iso": "2020-06-12T12:12:14.574087",
+            "last_retested_at_epoch": 1592051790.822942,
+            "last_retested_at_iso": "2020-06-13T12:36:30.822942",
             "status": "INACTIVE"
         },
         "195-12-231-207.customer.teliacarrier.com": {
             "included_at_epoch": 1590799505.352827,
             "included_at_iso": "2020-05-30T00:45:05.352827",
-            "last_retested_at_epoch": 1591963934.580744,
-            "last_retested_at_iso": "2020-06-12T12:12:14.580744",
+            "last_retested_at_epoch": 1592051790.827557,
+            "last_retested_at_iso": "2020-06-13T12:36:30.827557",
             "status": "INACTIVE"
         },
         "1sheep.info": {
             "included_at_epoch": 1590801250.36255,
             "included_at_iso": "2020-05-30T01:14:10.362550",
-            "last_retested_at_epoch": 1591963934.847755,
-            "last_retested_at_iso": "2020-06-12T12:12:14.847755",
+            "last_retested_at_epoch": 1592051790.831771,
+            "last_retested_at_iso": "2020-06-13T12:36:30.831771",
             "status": "INACTIVE"
         },
         "1x-193-157-194-200.uio.no": {
             "included_at_epoch": 1590801250.418327,
             "included_at_iso": "2020-05-30T01:14:10.418327",
-            "last_retested_at_epoch": 1591963934.904658,
-            "last_retested_at_iso": "2020-06-12T12:12:14.904658",
+            "last_retested_at_epoch": 1592051790.835989,
+            "last_retested_at_iso": "2020-06-13T12:36:30.835989",
             "status": "INACTIVE"
         },
         "20.dallas-33rh15-16rt.tx.dial-access.att.net": {
@@ -136,8 +136,8 @@
         "200.124-113-64.ftth.swbr.surewest.net": {
             "included_at_epoch": 1590801250.473146,
             "included_at_iso": "2020-05-30T01:14:10.473146",
-            "last_retested_at_epoch": 1591963934.952356,
-            "last_retested_at_iso": "2020-06-12T12:12:14.952356",
+            "last_retested_at_epoch": 1592051790.840077,
+            "last_retested_at_iso": "2020-06-13T12:36:30.840077",
             "status": "INACTIVE"
         },
         "202-153-214-211.cust.aussiebb.net": {
@@ -166,6 +166,13 @@
             "included_at_iso": "2020-05-30T02:02:42.647881",
             "last_retested_at_epoch": 1591967699.531672,
             "last_retested_at_iso": "2020-06-12T13:14:59.531672",
+            "status": "INACTIVE"
+        },
+        "205.220.174.67.nw.nuvox.net": {
+            "included_at_epoch": 1592051791.492906,
+            "included_at_iso": "2020-06-13T12:36:31.492906",
+            "last_retested_at_epoch": 1592051791.492906,
+            "last_retested_at_iso": "2020-06-13T12:36:31.492906",
             "status": "INACTIVE"
         },
         "207-255-141-194-dhcp.bfd.pa.atlanticbb.net": {
@@ -201,6 +208,13 @@
             "included_at_iso": "2020-05-30T02:02:42.779161",
             "last_retested_at_epoch": 1591967699.691176,
             "last_retested_at_iso": "2020-06-12T13:14:59.691176",
+            "status": "INACTIVE"
+        },
+        "208-38-66-28.static.izoom.net": {
+            "included_at_epoch": 1592051791.585944,
+            "included_at_iso": "2020-06-13T12:36:31.585944",
+            "last_retested_at_epoch": 1592051791.585944,
+            "last_retested_at_iso": "2020-06-13T12:36:31.585944",
             "status": "INACTIVE"
         },
         "211-19-211-174.parkcity.ne.jp": {
