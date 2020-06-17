@@ -245,6 +245,13 @@
             "last_retested_at_iso": "2020-06-17T02:08:33.262767",
             "status": "INACTIVE"
         },
+        "203-74.pptp.artx.ru": {
+            "included_at_epoch": 1592438153.677884,
+            "included_at_iso": "2020-06-17T23:55:53.677884",
+            "last_retested_at_epoch": 1592438153.677884,
+            "last_retested_at_iso": "2020-06-17T23:55:53.677884",
+            "status": "INACTIVE"
+        },
         "205.220.174.67.nw.nuvox.net": {
             "included_at_epoch": 1592397941.19613,
             "included_at_iso": "2020-06-17T12:45:41.196130",
