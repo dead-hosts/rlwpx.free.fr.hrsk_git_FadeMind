@@ -210,6 +210,13 @@
             "last_retested_at_iso": "2020-06-17T01:34:40.992791",
             "status": "INACTIVE"
         },
+        "201.140.77.153.cable.dyn.cableonline.com.mx": {
+            "included_at_epoch": 1592396088.458361,
+            "included_at_iso": "2020-06-17T12:14:48.458361",
+            "last_retested_at_epoch": 1592396088.458361,
+            "last_retested_at_iso": "2020-06-17T12:14:48.458361",
+            "status": "INACTIVE"
+        },
         "202-153-214-211.cust.aussiebb.net": {
             "included_at_epoch": 1590804162.58231,
             "included_at_iso": "2020-05-30T02:02:42.582310",
