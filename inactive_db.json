@@ -112,6 +112,13 @@
             "last_retested_at_iso": "2020-06-17T01:05:48.807206",
             "status": "INACTIVE"
         },
+        "190-76-172-234.dyn.movilnet.com.ve": {
+            "included_at_epoch": 1592394430.159102,
+            "included_at_iso": "2020-06-17T11:47:10.159102",
+            "last_retested_at_epoch": 1592394430.159102,
+            "last_retested_at_iso": "2020-06-17T11:47:10.159102",
+            "status": "INACTIVE"
+        },
         "190-76-71-123.dyn.movilnet.com.ve": {
             "included_at_epoch": 1592357680.295907,
             "included_at_iso": "2020-06-17T01:34:40.295907",
@@ -119,11 +126,46 @@
             "last_retested_at_iso": "2020-06-17T01:34:40.295907",
             "status": "INACTIVE"
         },
+        "190-76-77-225.dyn.movilnet.com.ve": {
+            "included_at_epoch": 1592394430.176443,
+            "included_at_iso": "2020-06-17T11:47:10.176443",
+            "last_retested_at_epoch": 1592394430.176443,
+            "last_retested_at_iso": "2020-06-17T11:47:10.176443",
+            "status": "INACTIVE"
+        },
+        "190-76-80-244.dyn.movilnet.com.ve": {
+            "included_at_epoch": 1592394430.172304,
+            "included_at_iso": "2020-06-17T11:47:10.172304",
+            "last_retested_at_epoch": 1592394430.172304,
+            "last_retested_at_iso": "2020-06-17T11:47:10.172304",
+            "status": "INACTIVE"
+        },
         "190-76-93-99.dyn.movilnet.com.ve": {
             "included_at_epoch": 1592357680.312946,
             "included_at_iso": "2020-06-17T01:34:40.312946",
             "last_retested_at_epoch": 1592357680.312946,
             "last_retested_at_iso": "2020-06-17T01:34:40.312946",
+            "status": "INACTIVE"
+        },
+        "190-76-94-84.dyn.movilnet.com.ve": {
+            "included_at_epoch": 1592394430.192138,
+            "included_at_iso": "2020-06-17T11:47:10.192138",
+            "last_retested_at_epoch": 1592394430.192138,
+            "last_retested_at_iso": "2020-06-17T11:47:10.192138",
+            "status": "INACTIVE"
+        },
+        "190-76-97-212.dyn.movilnet.com.ve": {
+            "included_at_epoch": 1592394430.187892,
+            "included_at_iso": "2020-06-17T11:47:10.187892",
+            "last_retested_at_epoch": 1592394430.187892,
+            "last_retested_at_iso": "2020-06-17T11:47:10.187892",
+            "status": "INACTIVE"
+        },
+        "190-76-98-175.dyn.movilnet.com.ve": {
+            "included_at_epoch": 1592394430.198088,
+            "included_at_iso": "2020-06-17T11:47:10.198088",
+            "last_retested_at_epoch": 1592394430.198088,
+            "last_retested_at_iso": "2020-06-17T11:47:10.198088",
             "status": "INACTIVE"
         },
         "191-74.pptp.artx.ru": {
