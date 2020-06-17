@@ -1,15 +1,15 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "custom_pyfunceble_config": {},
     "days_until_next_test": 0.0,
-    "finish_datetime": "2020-06-17T14:16:05.048223",
-    "finish_timestamp": 1592403365.048223,
-    "last_download_datetime": "2020-06-17T14:06:49.451614",
-    "last_download_timestamp": 1592402809.451614,
-    "latest_part_finish_datetime": "2020-06-17T14:16:05.048223",
-    "latest_part_finish_timestamp": 1592403365.048223,
-    "latest_part_start_datetime": "2020-06-17T14:06:49.464309",
-    "latest_part_start_timestamp": 1592402809.464309,
+    "finish_datetime": "1970-01-01T00:00:00",
+    "finish_timestamp": 0.0,
+    "last_download_datetime": "2020-06-17T22:14:33.161792",
+    "last_download_timestamp": 1592432073.161792,
+    "latest_part_finish_datetime": "2020-06-17T22:29:34.801540",
+    "latest_part_finish_timestamp": 1592432974.80154,
+    "latest_part_start_datetime": "2020-06-17T22:14:33.179161",
+    "latest_part_start_timestamp": 1592432073.179161,
     "live_update": true,
     "name": "rlwpx.free.fr.hrsk_git_FadeMind",
     "own_management": false,
@@ -17,6 +17,6 @@
         "@FadeMind"
     ],
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/rlwpx.free.fr.hrsk/hosts",
-    "start_datetime": "2020-06-17T10:22:46.969482",
-    "start_timestamp": 1592389366.969482
+    "start_datetime": "2020-06-17T22:14:33.175995",
+    "start_timestamp": 1592432073.175995
 }
