@@ -234,64 +234,57 @@
         "212-183-88-33.adsl.highway.telekom.at": {
             "included_at_epoch": 1590805594.264983,
             "included_at_iso": "2020-05-30T02:26:34.264983",
-            "last_retested_at_epoch": 1592186094.969534,
-            "last_retested_at_iso": "2020-06-15T01:54:54.969534",
+            "last_retested_at_epoch": 1592361173.741111,
+            "last_retested_at_iso": "2020-06-17T02:32:53.741111",
             "status": "INACTIVE"
         },
         "212-183-95-201.adsl.highway.telekom.at": {
             "included_at_epoch": 1590805594.268798,
             "included_at_iso": "2020-05-30T02:26:34.268798",
-            "last_retested_at_epoch": 1592186094.974201,
-            "last_retested_at_iso": "2020-06-15T01:54:54.974201",
-            "status": "INACTIVE"
-        },
-        "212h248.compnet.pl": {
-            "included_at_epoch": 1591968718.063788,
-            "included_at_iso": "2020-06-12T13:31:58.063788",
-            "last_retested_at_epoch": 1592187112.553986,
-            "last_retested_at_iso": "2020-06-15T02:11:52.553986",
+            "last_retested_at_epoch": 1592361173.735843,
+            "last_retested_at_iso": "2020-06-17T02:32:53.735843",
             "status": "INACTIVE"
         },
         "213-33-10-217.adsl.highway.telekom.at": {
             "included_at_epoch": 1590805594.586282,
             "included_at_iso": "2020-05-30T02:26:34.586282",
-            "last_retested_at_epoch": 1592187112.746218,
-            "last_retested_at_iso": "2020-06-15T02:11:52.746218",
+            "last_retested_at_epoch": 1592361174.092716,
+            "last_retested_at_iso": "2020-06-17T02:32:54.092716",
             "status": "INACTIVE"
         },
         "214-185-42-89-cable.canals.ro": {
             "included_at_epoch": 1590805594.74785,
             "included_at_iso": "2020-05-30T02:26:34.747850",
-            "last_retested_at_epoch": 1592187112.908724,
-            "last_retested_at_iso": "2020-06-15T02:11:52.908724",
+            "last_retested_at_epoch": 1592361174.255119,
+            "last_retested_at_iso": "2020-06-17T02:32:54.255119",
             "status": "INACTIVE"
         },
         "216-73-119-74.ocdc-01.net": {
             "included_at_epoch": 1590806974.347524,
             "included_at_iso": "2020-05-30T02:49:34.347524",
-            "last_retested_at_epoch": 1592187112.980443,
-            "last_retested_at_iso": "2020-06-15T02:11:52.980443",
+            "last_retested_at_epoch": 1592361174.325135,
+            "last_retested_at_iso": "2020-06-17T02:32:54.325135",
             "status": "INACTIVE"
         },
         "219-69-19-17.idc.static.giga.net.tw": {
             "included_at_epoch": 1590806974.863822,
             "included_at_iso": "2020-05-30T02:49:34.863822",
-            "last_retested_at_epoch": 1592187113.500315,
-            "last_retested_at_iso": "2020-06-15T02:11:53.500315",
+            "last_retested_at_epoch": 1592361174.832998,
+            "last_retested_at_iso": "2020-06-17T02:32:54.832998",
             "status": "INACTIVE"
         },
         "219-69-19-36.idc.static.giga.net.tw": {
             "included_at_epoch": 1590806974.868504,
             "included_at_iso": "2020-05-30T02:49:34.868504",
-            "last_retested_at_epoch": 1592187113.511054,
-            "last_retested_at_iso": "2020-06-15T02:11:53.511054",
+            "last_retested_at_epoch": 1592361174.838068,
+            "last_retested_at_iso": "2020-06-17T02:32:54.838068",
             "status": "INACTIVE"
         },
         "219-69-50-213.idc.static.giga.net.tw": {
             "included_at_epoch": 1590806974.87329,
             "included_at_iso": "2020-05-30T02:49:34.873290",
-            "last_retested_at_epoch": 1592187113.506,
-            "last_retested_at_iso": "2020-06-15T02:11:53.506000",
+            "last_retested_at_epoch": 1592361174.843218,
+            "last_retested_at_iso": "2020-06-17T02:32:54.843218",
             "status": "INACTIVE"
         },
         "24-116-106-167.cpe.cableone.net": {
