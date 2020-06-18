@@ -52,8 +52,8 @@
         "13.costretto.com": {
             "included_at_epoch": 1591318128.804213,
             "included_at_iso": "2020-06-05T00:48:48.804213",
-            "last_retested_at_epoch": 1592355948.511283,
-            "last_retested_at_iso": "2020-06-17T01:05:48.511283",
+            "last_retested_at_epoch": 1592443487.791769,
+            "last_retested_at_iso": "2020-06-18T01:24:47.791769",
             "status": "INACTIVE"
         },
         "130-131-81-77-cable.canals.ro": {
@@ -66,15 +66,15 @@
         "13tw22rigobert.de": {
             "included_at_epoch": 1590795063.85587,
             "included_at_iso": "2020-05-29T23:31:03.855870",
-            "last_retested_at_epoch": 1592355948.514666,
-            "last_retested_at_iso": "2020-06-17T01:05:48.514666",
+            "last_retested_at_epoch": 1592443487.797856,
+            "last_retested_at_iso": "2020-06-18T01:24:47.797856",
             "status": "INACTIVE"
         },
         "144.130-62-69.ftth.swbr.surewest.net": {
             "included_at_epoch": 1590795063.921143,
             "included_at_iso": "2020-05-29T23:31:03.921143",
-            "last_retested_at_epoch": 1592355948.583529,
-            "last_retested_at_iso": "2020-06-17T01:05:48.583529",
+            "last_retested_at_epoch": 1592443487.80342,
+            "last_retested_at_iso": "2020-06-18T01:24:47.803420",
             "status": "INACTIVE"
         },
         "145.70.dialup.westcall.net": {
@@ -87,15 +87,15 @@
         "166-186-42-89-cable.canals.ro": {
             "included_at_epoch": 1590797076.53222,
             "included_at_iso": "2020-05-30T00:04:36.532220",
-            "last_retested_at_epoch": 1592355948.781043,
-            "last_retested_at_iso": "2020-06-17T01:05:48.781043",
+            "last_retested_at_epoch": 1592443487.808951,
+            "last_retested_at_iso": "2020-06-18T01:24:47.808951",
             "status": "INACTIVE"
         },
         "168-100-182-165.static.cloud9.net": {
             "included_at_epoch": 1590797076.558551,
             "included_at_iso": "2020-05-30T00:04:36.558551",
-            "last_retested_at_epoch": 1592355948.807206,
-            "last_retested_at_iso": "2020-06-17T01:05:48.807206",
+            "last_retested_at_epoch": 1592443487.814389,
+            "last_retested_at_iso": "2020-06-18T01:24:47.814389",
             "status": "INACTIVE"
         },
         "190-76-172-234.dyn.movilnet.com.ve": {
@@ -649,6 +649,13 @@
             "included_at_iso": "2020-05-30T03:58:19.125444",
             "last_retested_at_epoch": 1592364013.575351,
             "last_retested_at_iso": "2020-06-17T03:20:13.575351",
+            "status": "INACTIVE"
+        },
+        "64-8-218-21.client.dsl.net": {
+            "included_at_epoch": 1592443488.224835,
+            "included_at_iso": "2020-06-18T01:24:48.224835",
+            "last_retested_at_epoch": 1592443488.224835,
+            "last_retested_at_iso": "2020-06-18T01:24:48.224835",
             "status": "INACTIVE"
         },
         "64.136.61.200.host.ifxnw.com.ar": {
