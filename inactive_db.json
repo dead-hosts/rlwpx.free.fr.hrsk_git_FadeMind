@@ -112,102 +112,46 @@
             "last_retested_at_iso": "2020-06-20T01:07:23.116522",
             "status": "INACTIVE"
         },
-        "190-76-172-234.dyn.movilnet.com.ve": {
-            "included_at_epoch": 1592394430.159102,
-            "included_at_iso": "2020-06-17T11:47:10.159102",
-            "last_retested_at_epoch": 1592394430.159102,
-            "last_retested_at_iso": "2020-06-17T11:47:10.159102",
-            "status": "INACTIVE"
-        },
-        "190-76-71-123.dyn.movilnet.com.ve": {
-            "included_at_epoch": 1592357680.295907,
-            "included_at_iso": "2020-06-17T01:34:40.295907",
-            "last_retested_at_epoch": 1592357680.295907,
-            "last_retested_at_iso": "2020-06-17T01:34:40.295907",
-            "status": "INACTIVE"
-        },
-        "190-76-77-225.dyn.movilnet.com.ve": {
-            "included_at_epoch": 1592394430.176443,
-            "included_at_iso": "2020-06-17T11:47:10.176443",
-            "last_retested_at_epoch": 1592394430.176443,
-            "last_retested_at_iso": "2020-06-17T11:47:10.176443",
-            "status": "INACTIVE"
-        },
-        "190-76-80-244.dyn.movilnet.com.ve": {
-            "included_at_epoch": 1592394430.172304,
-            "included_at_iso": "2020-06-17T11:47:10.172304",
-            "last_retested_at_epoch": 1592394430.172304,
-            "last_retested_at_iso": "2020-06-17T11:47:10.172304",
-            "status": "INACTIVE"
-        },
-        "190-76-93-99.dyn.movilnet.com.ve": {
-            "included_at_epoch": 1592357680.312946,
-            "included_at_iso": "2020-06-17T01:34:40.312946",
-            "last_retested_at_epoch": 1592357680.312946,
-            "last_retested_at_iso": "2020-06-17T01:34:40.312946",
-            "status": "INACTIVE"
-        },
-        "190-76-94-84.dyn.movilnet.com.ve": {
-            "included_at_epoch": 1592394430.192138,
-            "included_at_iso": "2020-06-17T11:47:10.192138",
-            "last_retested_at_epoch": 1592394430.192138,
-            "last_retested_at_iso": "2020-06-17T11:47:10.192138",
-            "status": "INACTIVE"
-        },
-        "190-76-97-212.dyn.movilnet.com.ve": {
-            "included_at_epoch": 1592394430.187892,
-            "included_at_iso": "2020-06-17T11:47:10.187892",
-            "last_retested_at_epoch": 1592394430.187892,
-            "last_retested_at_iso": "2020-06-17T11:47:10.187892",
-            "status": "INACTIVE"
-        },
-        "190-76-98-175.dyn.movilnet.com.ve": {
-            "included_at_epoch": 1592394430.198088,
-            "included_at_iso": "2020-06-17T11:47:10.198088",
-            "last_retested_at_epoch": 1592394430.198088,
-            "last_retested_at_iso": "2020-06-17T11:47:10.198088",
-            "status": "INACTIVE"
-        },
-        "191-74.pptp.artx.ru": {
-            "included_at_epoch": 1592357680.567742,
-            "included_at_iso": "2020-06-17T01:34:40.567742",
-            "last_retested_at_epoch": 1592357680.567742,
-            "last_retested_at_iso": "2020-06-17T01:34:40.567742",
+        "189-69-92-106.dsl.telesp.net.br": {
+            "included_at_epoch": 1592616255.322525,
+            "included_at_iso": "2020-06-20T01:24:15.322525",
+            "last_retested_at_epoch": 1592616255.322525,
+            "last_retested_at_iso": "2020-06-20T01:24:15.322525",
             "status": "INACTIVE"
         },
         "194-224-38-89-cable.canals.ro": {
             "included_at_epoch": 1590799505.34769,
             "included_at_iso": "2020-05-30T00:45:05.347690",
-            "last_retested_at_epoch": 1592357680.616464,
-            "last_retested_at_iso": "2020-06-17T01:34:40.616464",
+            "last_retested_at_epoch": 1592616255.725354,
+            "last_retested_at_iso": "2020-06-20T01:24:15.725354",
             "status": "INACTIVE"
         },
         "195-12-231-207.customer.teliacarrier.com": {
             "included_at_epoch": 1590799505.352827,
             "included_at_iso": "2020-05-30T00:45:05.352827",
-            "last_retested_at_epoch": 1592357680.622723,
-            "last_retested_at_iso": "2020-06-17T01:34:40.622723",
+            "last_retested_at_epoch": 1592616255.731403,
+            "last_retested_at_iso": "2020-06-20T01:24:15.731403",
             "status": "INACTIVE"
         },
         "1sheep.info": {
             "included_at_epoch": 1590801250.36255,
             "included_at_iso": "2020-05-30T01:14:10.362550",
-            "last_retested_at_epoch": 1592357680.893777,
-            "last_retested_at_iso": "2020-06-17T01:34:40.893777",
+            "last_retested_at_epoch": 1592616256.002413,
+            "last_retested_at_iso": "2020-06-20T01:24:16.002413",
             "status": "INACTIVE"
         },
         "1x-193-157-194-200.uio.no": {
             "included_at_epoch": 1590801250.418327,
             "included_at_iso": "2020-05-30T01:14:10.418327",
-            "last_retested_at_epoch": 1592357680.945708,
-            "last_retested_at_iso": "2020-06-17T01:34:40.945708",
+            "last_retested_at_epoch": 1592616256.049816,
+            "last_retested_at_iso": "2020-06-20T01:24:16.049816",
             "status": "INACTIVE"
         },
         "200.124-113-64.ftth.swbr.surewest.net": {
             "included_at_epoch": 1590801250.473146,
             "included_at_iso": "2020-05-30T01:14:10.473146",
-            "last_retested_at_epoch": 1592357680.992791,
-            "last_retested_at_iso": "2020-06-17T01:34:40.992791",
+            "last_retested_at_epoch": 1592616256.096573,
+            "last_retested_at_iso": "2020-06-20T01:24:16.096573",
             "status": "INACTIVE"
         },
         "201.140.77.153.cable.dyn.cableonline.com.mx": {
