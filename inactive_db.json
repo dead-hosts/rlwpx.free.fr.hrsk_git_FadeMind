@@ -59,8 +59,8 @@
         "13.costretto.com": {
             "included_at_epoch": 1591318128.804213,
             "included_at_iso": "2020-06-05T00:48:48.804213",
-            "last_retested_at_epoch": 1592615242.451418,
-            "last_retested_at_iso": "2020-06-20T01:07:22.451418",
+            "last_retested_at_epoch": 1592737117.606789,
+            "last_retested_at_iso": "2020-06-21T10:58:37.606789",
             "status": "INACTIVE"
         },
         "130-131-81-77-cable.canals.ro": {
@@ -70,46 +70,53 @@
             "last_retested_at_iso": "2020-06-21T10:31:36.384921",
             "status": "INACTIVE"
         },
+        "13copacabana37.u2m.ru": {
+            "included_at_epoch": 1592737117.601791,
+            "included_at_iso": "2020-06-21T10:58:37.601791",
+            "last_retested_at_epoch": 1592737117.601791,
+            "last_retested_at_iso": "2020-06-21T10:58:37.601791",
+            "status": "INACTIVE"
+        },
         "13tw22rigobert.de": {
             "included_at_epoch": 1590795063.85587,
             "included_at_iso": "2020-05-29T23:31:03.855870",
-            "last_retested_at_epoch": 1592615242.455254,
-            "last_retested_at_iso": "2020-06-20T01:07:22.455254",
+            "last_retested_at_epoch": 1592737117.610345,
+            "last_retested_at_iso": "2020-06-21T10:58:37.610345",
             "status": "INACTIVE"
         },
         "14-195.190.popsite.net": {
             "included_at_epoch": 1592615242.473977,
             "included_at_iso": "2020-06-20T01:07:22.473977",
-            "last_retested_at_epoch": 1592615242.473977,
-            "last_retested_at_iso": "2020-06-20T01:07:22.473977",
+            "last_retested_at_epoch": 1592737117.625656,
+            "last_retested_at_iso": "2020-06-21T10:58:37.625656",
             "status": "INACTIVE"
         },
         "144.130-62-69.ftth.swbr.surewest.net": {
             "included_at_epoch": 1590795063.921143,
             "included_at_iso": "2020-05-29T23:31:03.921143",
-            "last_retested_at_epoch": 1592615242.520911,
-            "last_retested_at_iso": "2020-06-20T01:07:22.520911",
+            "last_retested_at_epoch": 1592737117.670027,
+            "last_retested_at_iso": "2020-06-21T10:58:37.670027",
             "status": "INACTIVE"
         },
         "166-186-42-89-cable.canals.ro": {
             "included_at_epoch": 1590797076.53222,
             "included_at_iso": "2020-05-30T00:04:36.532220",
-            "last_retested_at_epoch": 1592615242.7299,
-            "last_retested_at_iso": "2020-06-20T01:07:22.729900",
+            "last_retested_at_epoch": 1592737117.846584,
+            "last_retested_at_iso": "2020-06-21T10:58:37.846584",
+            "status": "INACTIVE"
+        },
+        "167-216-114-200.fibertel.com.ar": {
+            "included_at_epoch": 1592737117.864642,
+            "included_at_iso": "2020-06-21T10:58:37.864642",
+            "last_retested_at_epoch": 1592737117.864642,
+            "last_retested_at_iso": "2020-06-21T10:58:37.864642",
             "status": "INACTIVE"
         },
         "168-100-182-165.static.cloud9.net": {
             "included_at_epoch": 1590797076.558551,
             "included_at_iso": "2020-05-30T00:04:36.558551",
-            "last_retested_at_epoch": 1592615242.756717,
-            "last_retested_at_iso": "2020-06-20T01:07:22.756717",
-            "status": "INACTIVE"
-        },
-        "189-19-219-212.dsl.telesp.net.br": {
-            "included_at_epoch": 1592615243.116522,
-            "included_at_iso": "2020-06-20T01:07:23.116522",
-            "last_retested_at_epoch": 1592615243.116522,
-            "last_retested_at_iso": "2020-06-20T01:07:23.116522",
+            "last_retested_at_epoch": 1592737117.871769,
+            "last_retested_at_iso": "2020-06-21T10:58:37.871769",
             "status": "INACTIVE"
         },
         "189-69-92-106.dsl.telesp.net.br": {
