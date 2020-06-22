@@ -14,6 +14,13 @@
             "last_retested_at_iso": "2020-06-22T11:32:28.228435",
             "status": "INACTIVE"
         },
+        "10minutenerfolg.de": {
+            "included_at_epoch": 1592865123.962875,
+            "included_at_iso": "2020-06-22T22:32:03.962875",
+            "last_retested_at_epoch": 1592865123.962875,
+            "last_retested_at_iso": "2020-06-22T22:32:03.962875",
+            "status": "INACTIVE"
+        },
         "11.gxdx2.crsky.com": {
             "included_at_epoch": 1591490310.462698,
             "included_at_iso": "2020-06-07T00:38:30.462698",
