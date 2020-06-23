@@ -287,6 +287,13 @@
             "last_retested_at_iso": "2020-06-22T14:11:05.877035",
             "status": "INACTIVE"
         },
+        "216-55-181-94.dedicated.abac.net": {
+            "included_at_epoch": 1592871590.998069,
+            "included_at_iso": "2020-06-23T00:19:50.998069",
+            "last_retested_at_epoch": 1592871590.998069,
+            "last_retested_at_iso": "2020-06-23T00:19:50.998069",
+            "status": "INACTIVE"
+        },
         "216-73-119-74.ocdc-01.net": {
             "included_at_epoch": 1590806974.347524,
             "included_at_iso": "2020-05-30T02:49:34.347524",
