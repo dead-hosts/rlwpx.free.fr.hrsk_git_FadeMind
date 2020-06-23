@@ -532,6 +532,13 @@
             "last_retested_at_iso": "2020-06-22T15:49:56.307865",
             "status": "INACTIVE"
         },
+        "6.sub-70-212-77.myvzw.com": {
+            "included_at_epoch": 1592874275.110134,
+            "included_at_iso": "2020-06-23T01:04:35.110134",
+            "last_retested_at_epoch": 1592874275.110134,
+            "last_retested_at_iso": "2020-06-23T01:04:35.110134",
+            "status": "INACTIVE"
+        },
         "61-70-224-16.adsl.static.giga.net.tw": {
             "included_at_epoch": 1590810220.084455,
             "included_at_iso": "2020-05-30T03:43:40.084455",
