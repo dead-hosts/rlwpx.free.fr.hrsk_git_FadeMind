@@ -50,10 +50,10 @@
             "status": "INACTIVE"
         },
         "123appz.com": {
-            "included_at_epoch": 1590449819.138131,
-            "included_at_iso": "2020-05-25T23:36:59.138131",
-            "last_retested_at_epoch": 1592822397.076176,
-            "last_retested_at_iso": "2020-06-22T10:39:57.076176",
+            "included_at_epoch": 1592870578.10793,
+            "included_at_iso": "2020-06-23T00:02:58.107930",
+            "last_retested_at_epoch": 1592870578.10793,
+            "last_retested_at_iso": "2020-06-23T00:02:58.107930",
             "status": "INACTIVE"
         },
         "13.costretto.com": {
@@ -182,6 +182,13 @@
             "last_retested_at_iso": "2020-06-22T13:36:26.387084",
             "status": "INACTIVE"
         },
+        "203-74.pptp.artx.ru": {
+            "included_at_epoch": 1592870578.696672,
+            "included_at_iso": "2020-06-23T00:02:58.696672",
+            "last_retested_at_epoch": 1592870578.696672,
+            "last_retested_at_iso": "2020-06-23T00:02:58.696672",
+            "status": "INACTIVE"
+        },
         "205.220.174.67.nw.nuvox.net": {
             "included_at_epoch": 1592832986.432891,
             "included_at_iso": "2020-06-22T13:36:26.432891",
@@ -229,6 +236,13 @@
             "included_at_iso": "2020-06-22T13:36:26.665688",
             "last_retested_at_epoch": 1592832986.665688,
             "last_retested_at_iso": "2020-06-22T13:36:26.665688",
+            "status": "INACTIVE"
+        },
+        "210-210-25-111.lan.sify.net": {
+            "included_at_epoch": 1592870578.922952,
+            "included_at_iso": "2020-06-23T00:02:58.922952",
+            "last_retested_at_epoch": 1592870578.922952,
+            "last_retested_at_iso": "2020-06-23T00:02:58.922952",
             "status": "INACTIVE"
         },
         "211-19-211-174.parkcity.ne.jp": {
