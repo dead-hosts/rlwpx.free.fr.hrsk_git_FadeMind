@@ -38,8 +38,8 @@
         "121.vps.expresshost.ru": {
             "included_at_epoch": 1592786142.585278,
             "included_at_iso": "2020-06-22T00:35:42.585278",
-            "last_retested_at_epoch": 1592786142.585278,
-            "last_retested_at_iso": "2020-06-22T00:35:42.585278",
+            "last_retested_at_epoch": 1592873713.517208,
+            "last_retested_at_iso": "2020-06-23T00:55:13.517208",
             "status": "INACTIVE"
         },
         "123.greenhome001.com.cn": {
@@ -502,6 +502,13 @@
             "included_at_iso": "2020-05-30T03:25:52.531727",
             "last_retested_at_epoch": 1592838635.76081,
             "last_retested_at_iso": "2020-06-22T15:10:35.760810",
+            "status": "INACTIVE"
+        },
+        "54-69.ae.cgocable.ca": {
+            "included_at_epoch": 1592873714.769147,
+            "included_at_iso": "2020-06-23T00:55:14.769147",
+            "last_retested_at_epoch": 1592873714.769147,
+            "last_retested_at_iso": "2020-06-23T00:55:14.769147",
             "status": "INACTIVE"
         },
         "59-188-9-234.simlink.com": {
