@@ -427,6 +427,13 @@
             "last_retested_at_iso": "2020-06-22T14:31:45.110193",
             "status": "INACTIVE"
         },
+        "24-122-218-24.si.cgocable.ca": {
+            "included_at_epoch": 1592872607.47493,
+            "included_at_iso": "2020-06-23T00:36:47.474930",
+            "last_retested_at_epoch": 1592872607.47493,
+            "last_retested_at_iso": "2020-06-23T00:36:47.474930",
+            "status": "INACTIVE"
+        },
         "24-145-121-232-dhcp.bfd.pa.atlanticbb.net": {
             "included_at_epoch": 1590808050.490645,
             "included_at_iso": "2020-05-30T03:07:30.490645",
