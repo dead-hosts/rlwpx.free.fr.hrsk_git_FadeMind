@@ -105,25 +105,18 @@
             "last_retested_at_iso": "2020-06-26T00:10:46.776599",
             "status": "INACTIVE"
         },
-        "191-74.pptp.artx.ru": {
-            "included_at_epoch": 1592829134.972534,
-            "included_at_iso": "2020-06-22T12:32:14.972534",
-            "last_retested_at_epoch": 1593043872.998052,
-            "last_retested_at_iso": "2020-06-25T00:11:12.998052",
-            "status": "INACTIVE"
-        },
         "194-224-38-89-cable.canals.ro": {
             "included_at_epoch": 1590799505.34769,
             "included_at_iso": "2020-05-30T00:45:05.347690",
-            "last_retested_at_epoch": 1593043873.041018,
-            "last_retested_at_iso": "2020-06-25T00:11:13.041018",
+            "last_retested_at_epoch": 1593132490.367669,
+            "last_retested_at_iso": "2020-06-26T00:48:10.367669",
             "status": "INACTIVE"
         },
         "195-12-231-207.customer.teliacarrier.com": {
             "included_at_epoch": 1590799505.352827,
             "included_at_iso": "2020-05-30T00:45:05.352827",
-            "last_retested_at_epoch": 1593043873.046941,
-            "last_retested_at_iso": "2020-06-25T00:11:13.046941",
+            "last_retested_at_epoch": 1593132490.373244,
+            "last_retested_at_iso": "2020-06-26T00:48:10.373244",
             "status": "INACTIVE"
         },
         "1cust5069.an4.dca17.da.uu.net": {
@@ -136,22 +129,22 @@
         "1sheep.info": {
             "included_at_epoch": 1590801250.36255,
             "included_at_iso": "2020-05-30T01:14:10.362550",
-            "last_retested_at_epoch": 1593043873.295558,
-            "last_retested_at_iso": "2020-06-25T00:11:13.295558",
+            "last_retested_at_epoch": 1593132490.378622,
+            "last_retested_at_iso": "2020-06-26T00:48:10.378622",
             "status": "INACTIVE"
         },
         "1x-193-157-194-200.uio.no": {
             "included_at_epoch": 1590801250.418327,
             "included_at_iso": "2020-05-30T01:14:10.418327",
-            "last_retested_at_epoch": 1593043873.343789,
-            "last_retested_at_iso": "2020-06-25T00:11:13.343789",
+            "last_retested_at_epoch": 1593132490.383827,
+            "last_retested_at_iso": "2020-06-26T00:48:10.383827",
             "status": "INACTIVE"
         },
         "200.124-113-64.ftth.swbr.surewest.net": {
             "included_at_epoch": 1590801250.473146,
             "included_at_iso": "2020-05-30T01:14:10.473146",
-            "last_retested_at_epoch": 1593043873.389732,
-            "last_retested_at_iso": "2020-06-25T00:11:13.389732",
+            "last_retested_at_epoch": 1593132490.389703,
+            "last_retested_at_iso": "2020-06-26T00:48:10.389703",
             "status": "INACTIVE"
         },
         "202-153-214-211.cust.aussiebb.net": {
@@ -243,6 +236,13 @@
             "included_at_iso": "2020-05-30T02:26:34.268798",
             "last_retested_at_epoch": 1593048506.971673,
             "last_retested_at_iso": "2020-06-25T01:28:26.971673",
+            "status": "INACTIVE"
+        },
+        "212h248.compnet.pl": {
+            "included_at_epoch": 1593132490.466444,
+            "included_at_iso": "2020-06-26T00:48:10.466444",
+            "last_retested_at_epoch": 1593132490.466444,
+            "last_retested_at_iso": "2020-06-26T00:48:10.466444",
             "status": "INACTIVE"
         },
         "213-33-10-217.adsl.highway.telekom.at": {
