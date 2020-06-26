@@ -66,8 +66,8 @@
         "13.costretto.com": {
             "included_at_epoch": 1591318128.804213,
             "included_at_iso": "2020-06-05T00:48:48.804213",
-            "last_retested_at_epoch": 1593041709.146791,
-            "last_retested_at_iso": "2020-06-24T23:35:09.146791",
+            "last_retested_at_epoch": 1593130246.758316,
+            "last_retested_at_iso": "2020-06-26T00:10:46.758316",
             "status": "INACTIVE"
         },
         "130-131-81-77-cable.canals.ro": {
@@ -80,29 +80,29 @@
         "13tw22rigobert.de": {
             "included_at_epoch": 1590795063.85587,
             "included_at_iso": "2020-05-29T23:31:03.855870",
-            "last_retested_at_epoch": 1593041709.150624,
-            "last_retested_at_iso": "2020-06-24T23:35:09.150624",
+            "last_retested_at_epoch": 1593130246.763263,
+            "last_retested_at_iso": "2020-06-26T00:10:46.763263",
             "status": "INACTIVE"
         },
         "144.130-62-69.ftth.swbr.surewest.net": {
             "included_at_epoch": 1590795063.921143,
             "included_at_iso": "2020-05-29T23:31:03.921143",
-            "last_retested_at_epoch": 1593041709.204133,
-            "last_retested_at_iso": "2020-06-24T23:35:09.204133",
+            "last_retested_at_epoch": 1593130246.767742,
+            "last_retested_at_iso": "2020-06-26T00:10:46.767742",
             "status": "INACTIVE"
         },
         "166-186-42-89-cable.canals.ro": {
             "included_at_epoch": 1590797076.53222,
             "included_at_iso": "2020-05-30T00:04:36.532220",
-            "last_retested_at_epoch": 1593041709.40085,
-            "last_retested_at_iso": "2020-06-24T23:35:09.400850",
+            "last_retested_at_epoch": 1593130246.772207,
+            "last_retested_at_iso": "2020-06-26T00:10:46.772207",
             "status": "INACTIVE"
         },
         "168-100-182-165.static.cloud9.net": {
             "included_at_epoch": 1590797076.558551,
             "included_at_iso": "2020-05-30T00:04:36.558551",
-            "last_retested_at_epoch": 1593041709.426921,
-            "last_retested_at_iso": "2020-06-24T23:35:09.426921",
+            "last_retested_at_epoch": 1593130246.776599,
+            "last_retested_at_iso": "2020-06-26T00:10:46.776599",
             "status": "INACTIVE"
         },
         "191-74.pptp.artx.ru": {
@@ -180,6 +180,13 @@
             "included_at_iso": "2020-05-30T02:02:42.647881",
             "last_retested_at_epoch": 1593048506.428827,
             "last_retested_at_iso": "2020-06-25T01:28:26.428827",
+            "status": "INACTIVE"
+        },
+        "203-74.pptp.artx.ru": {
+            "included_at_epoch": 1593130247.40337,
+            "included_at_iso": "2020-06-26T00:10:47.403370",
+            "last_retested_at_epoch": 1593130247.40337,
+            "last_retested_at_iso": "2020-06-26T00:10:47.403370",
             "status": "INACTIVE"
         },
         "207-255-141-194-dhcp.bfd.pa.atlanticbb.net": {
