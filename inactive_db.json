@@ -105,11 +105,46 @@
             "last_retested_at_iso": "2020-06-27T23:35:13.540977",
             "status": "INACTIVE"
         },
-        "1cust5069.an4.dca17.da.uu.net": {
-            "included_at_epoch": 1593127769.904319,
-            "included_at_iso": "2020-06-25T23:29:29.904319",
-            "last_retested_at_epoch": 1593127769.904319,
-            "last_retested_at_iso": "2020-06-25T23:29:29.904319",
+        "19.73-54-92.telenet.ru": {
+            "included_at_epoch": 1593303662.336683,
+            "included_at_iso": "2020-06-28T00:21:02.336683",
+            "last_retested_at_epoch": 1593303662.336683,
+            "last_retested_at_iso": "2020-06-28T00:21:02.336683",
+            "status": "INACTIVE"
+        },
+        "194-224-38-89-cable.canals.ro": {
+            "included_at_epoch": 1593303662.30515,
+            "included_at_iso": "2020-06-28T00:21:02.305150",
+            "last_retested_at_epoch": 1593303662.30515,
+            "last_retested_at_iso": "2020-06-28T00:21:02.305150",
+            "status": "INACTIVE"
+        },
+        "195-12-231-207.customer.teliacarrier.com": {
+            "included_at_epoch": 1593303662.30999,
+            "included_at_iso": "2020-06-28T00:21:02.309990",
+            "last_retested_at_epoch": 1593303662.30999,
+            "last_retested_at_iso": "2020-06-28T00:21:02.309990",
+            "status": "INACTIVE"
+        },
+        "1sheep.info": {
+            "included_at_epoch": 1593303662.562101,
+            "included_at_iso": "2020-06-28T00:21:02.562101",
+            "last_retested_at_epoch": 1593303662.562101,
+            "last_retested_at_iso": "2020-06-28T00:21:02.562101",
+            "status": "INACTIVE"
+        },
+        "1x-193-157-194-200.uio.no": {
+            "included_at_epoch": 1593303662.608819,
+            "included_at_iso": "2020-06-28T00:21:02.608819",
+            "last_retested_at_epoch": 1593303662.608819,
+            "last_retested_at_iso": "2020-06-28T00:21:02.608819",
+            "status": "INACTIVE"
+        },
+        "200.124-113-64.ftth.swbr.surewest.net": {
+            "included_at_epoch": 1593303662.661106,
+            "included_at_iso": "2020-06-28T00:21:02.661106",
+            "last_retested_at_epoch": 1593303662.661106,
+            "last_retested_at_iso": "2020-06-28T00:21:02.661106",
             "status": "INACTIVE"
         },
         "203-74.pptp.artx.ru": {
