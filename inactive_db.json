@@ -259,46 +259,53 @@
             "last_retested_at_iso": "2020-06-29T23:36:40.731979",
             "status": "INACTIVE"
         },
+        "212h248.compnet.pl": {
+            "included_at_epoch": 1593474807.252434,
+            "included_at_iso": "2020-06-29T23:53:27.252434",
+            "last_retested_at_epoch": 1593474807.252434,
+            "last_retested_at_iso": "2020-06-29T23:53:27.252434",
+            "status": "INACTIVE"
+        },
         "213-33-10-217.adsl.highway.telekom.at": {
             "included_at_epoch": 1593309271.32708,
             "included_at_iso": "2020-06-28T01:54:31.327080",
-            "last_retested_at_epoch": 1593309271.32708,
-            "last_retested_at_iso": "2020-06-28T01:54:31.327080",
+            "last_retested_at_epoch": 1593474807.438059,
+            "last_retested_at_iso": "2020-06-29T23:53:27.438059",
             "status": "INACTIVE"
         },
         "214-185-42-89-cable.canals.ro": {
             "included_at_epoch": 1593309271.50476,
             "included_at_iso": "2020-06-28T01:54:31.504760",
-            "last_retested_at_epoch": 1593309271.50476,
-            "last_retested_at_iso": "2020-06-28T01:54:31.504760",
+            "last_retested_at_epoch": 1593474807.597826,
+            "last_retested_at_iso": "2020-06-29T23:53:27.597826",
             "status": "INACTIVE"
         },
         "216-73-119-74.ocdc-01.net": {
             "included_at_epoch": 1593309271.582026,
             "included_at_iso": "2020-06-28T01:54:31.582026",
-            "last_retested_at_epoch": 1593309271.582026,
-            "last_retested_at_iso": "2020-06-28T01:54:31.582026",
+            "last_retested_at_epoch": 1593474807.661761,
+            "last_retested_at_iso": "2020-06-29T23:53:27.661761",
             "status": "INACTIVE"
         },
         "219-69-19-17.idc.static.giga.net.tw": {
             "included_at_epoch": 1593309272.131187,
             "included_at_iso": "2020-06-28T01:54:32.131187",
-            "last_retested_at_epoch": 1593309272.131187,
-            "last_retested_at_iso": "2020-06-28T01:54:32.131187",
+            "last_retested_at_epoch": 1593474808.145533,
+            "last_retested_at_iso": "2020-06-29T23:53:28.145533",
             "status": "INACTIVE"
         },
         "219-69-19-36.idc.static.giga.net.tw": {
             "included_at_epoch": 1593309272.136063,
             "included_at_iso": "2020-06-28T01:54:32.136063",
-            "last_retested_at_epoch": 1593309272.136063,
-            "last_retested_at_iso": "2020-06-28T01:54:32.136063",
+            "last_retested_at_epoch": 1593474808.150671,
+            "last_retested_at_iso": "2020-06-29T23:53:28.150671",
             "status": "INACTIVE"
         },
         "219-69-50-213.idc.static.giga.net.tw": {
             "included_at_epoch": 1593309272.140633,
             "included_at_iso": "2020-06-28T01:54:32.140633",
-            "last_retested_at_epoch": 1593309272.140633,
-            "last_retested_at_iso": "2020-06-28T01:54:32.140633",
+            "last_retested_at_epoch": 1593474808.155707,
+            "last_retested_at_iso": "2020-06-29T23:53:28.155707",
             "status": "INACTIVE"
         },
         "24-116-106-167.cpe.cableone.net": {
