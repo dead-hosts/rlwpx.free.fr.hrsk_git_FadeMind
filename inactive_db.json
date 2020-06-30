@@ -7,6 +7,13 @@
             "last_retested_at_iso": "2020-06-29T22:22:04.306032",
             "status": "INACTIVE"
         },
+        "093105003066.radomsko.vectranet.pl": {
+            "included_at_epoch": 1593514341.397501,
+            "included_at_iso": "2020-06-30T10:52:21.397501",
+            "last_retested_at_epoch": 1593514341.397501,
+            "last_retested_at_iso": "2020-06-30T10:52:21.397501",
+            "status": "INACTIVE"
+        },
         "094.104-113-64.ftth.swbr.surewest.net": {
             "included_at_epoch": 1592182033.321649,
             "included_at_iso": "2020-06-15T00:47:13.321649",
@@ -61,6 +68,13 @@
             "included_at_iso": "2020-06-23T00:02:58.107930",
             "last_retested_at_epoch": 1593469324.858816,
             "last_retested_at_iso": "2020-06-29T22:22:04.858816",
+            "status": "INACTIVE"
+        },
+        "13-103.031.popsite.net": {
+            "included_at_epoch": 1593514342.014574,
+            "included_at_iso": "2020-06-30T10:52:22.014574",
+            "last_retested_at_epoch": 1593514342.014574,
+            "last_retested_at_iso": "2020-06-30T10:52:22.014574",
             "status": "INACTIVE"
         },
         "13.costretto.com": {
