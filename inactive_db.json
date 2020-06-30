@@ -101,15 +101,8 @@
         "144.130-62-69.ftth.swbr.surewest.net": {
             "included_at_epoch": 1593300913.311581,
             "included_at_iso": "2020-06-27T23:35:13.311581",
-            "last_retested_at_epoch": 1593470339.66169,
-            "last_retested_at_iso": "2020-06-29T22:38:59.661690",
-            "status": "INACTIVE"
-        },
-        "150.sub-75-218-203.myvzw.com": {
-            "included_at_epoch": 1593470339.72858,
-            "included_at_iso": "2020-06-29T22:38:59.728580",
-            "last_retested_at_epoch": 1593470339.72858,
-            "last_retested_at_iso": "2020-06-29T22:38:59.728580",
+            "last_retested_at_epoch": 1593560247.428723,
+            "last_retested_at_iso": "2020-06-30T23:37:27.428723",
             "status": "INACTIVE"
         },
         "159.sub-70-198-248.myvzw.com": {
@@ -122,15 +115,15 @@
         "166-186-42-89-cable.canals.ro": {
             "included_at_epoch": 1593300913.517119,
             "included_at_iso": "2020-06-27T23:35:13.517119",
-            "last_retested_at_epoch": 1593470339.871545,
-            "last_retested_at_iso": "2020-06-29T22:38:59.871545",
+            "last_retested_at_epoch": 1593560247.64841,
+            "last_retested_at_iso": "2020-06-30T23:37:27.648410",
             "status": "INACTIVE"
         },
         "168-100-182-165.static.cloud9.net": {
             "included_at_epoch": 1593300913.540977,
             "included_at_iso": "2020-06-27T23:35:13.540977",
-            "last_retested_at_epoch": 1593470339.898744,
-            "last_retested_at_iso": "2020-06-29T22:38:59.898744",
+            "last_retested_at_epoch": 1593560247.675202,
+            "last_retested_at_iso": "2020-06-30T23:37:27.675202",
             "status": "INACTIVE"
         },
         "1901.nordstrom.com": {
