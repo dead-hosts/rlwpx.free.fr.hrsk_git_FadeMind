@@ -511,6 +511,13 @@
             "last_retested_at_iso": "2020-06-30T00:37:38.532817",
             "status": "INACTIVE"
         },
+        "4d6f4467.adsl.enternet.hu": {
+            "included_at_epoch": 1593529059.942725,
+            "included_at_iso": "2020-06-30T14:57:39.942725",
+            "last_retested_at_epoch": 1593529059.942725,
+            "last_retested_at_iso": "2020-06-30T14:57:39.942725",
+            "status": "INACTIVE"
+        },
         "59-188-9-234.simlink.com": {
             "included_at_epoch": 1593312376.139583,
             "included_at_iso": "2020-06-28T02:46:16.139583",
@@ -530,6 +537,13 @@
             "included_at_iso": "2020-06-28T02:58:10.157316",
             "last_retested_at_epoch": 1593478299.450202,
             "last_retested_at_iso": "2020-06-30T00:51:39.450202",
+            "status": "INACTIVE"
+        },
+        "61-144-126-200.fibertel.com.ar": {
+            "included_at_epoch": 1593529061.44938,
+            "included_at_iso": "2020-06-30T14:57:41.449380",
+            "last_retested_at_epoch": 1593529061.44938,
+            "last_retested_at_iso": "2020-06-30T14:57:41.449380",
             "status": "INACTIVE"
         },
         "61-70-224-16.adsl.static.giga.net.tw": {
