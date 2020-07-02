@@ -437,57 +437,50 @@
         "3.jxdx1.crsky.com": {
             "included_at_epoch": 1593312374.381289,
             "included_at_iso": "2020-06-28T02:46:14.381289",
-            "last_retested_at_epoch": 1593567320.680047,
-            "last_retested_at_iso": "2020-07-01T01:35:20.680047",
+            "last_retested_at_epoch": 1593699971.103456,
+            "last_retested_at_iso": "2020-07-02T14:26:11.103456",
             "status": "INACTIVE"
         },
         "4.bjlt1.crsky.com": {
             "included_at_epoch": 1593312374.753414,
             "included_at_iso": "2020-06-28T02:46:14.753414",
-            "last_retested_at_epoch": 1593567321.060958,
-            "last_retested_at_iso": "2020-07-01T01:35:21.060958",
+            "last_retested_at_epoch": 1593699971.485819,
+            "last_retested_at_iso": "2020-07-02T14:26:11.485819",
             "status": "INACTIVE"
         },
         "4.collecorvino.org": {
             "included_at_epoch": 1591671074.50917,
             "included_at_iso": "2020-06-09T02:51:14.509170",
-            "last_retested_at_epoch": 1593567321.077423,
-            "last_retested_at_iso": "2020-07-01T01:35:21.077423",
+            "last_retested_at_epoch": 1593699971.491567,
+            "last_retested_at_iso": "2020-07-02T14:26:11.491567",
             "status": "INACTIVE"
         },
         "4.whereinitaly.com": {
             "included_at_epoch": 1592838636.009027,
             "included_at_iso": "2020-06-22T15:10:36.009027",
-            "last_retested_at_epoch": 1593567321.262132,
-            "last_retested_at_iso": "2020-07-01T01:35:21.262132",
+            "last_retested_at_epoch": 1593699971.698527,
+            "last_retested_at_iso": "2020-07-02T14:26:11.698527",
             "status": "INACTIVE"
         },
         "404.ragecash.com": {
             "included_at_epoch": 1593312374.477183,
             "included_at_iso": "2020-06-28T02:46:14.477183",
-            "last_retested_at_epoch": 1593567320.779016,
-            "last_retested_at_iso": "2020-07-01T01:35:20.779016",
+            "last_retested_at_epoch": 1593699971.215301,
+            "last_retested_at_iso": "2020-07-02T14:26:11.215301",
             "status": "INACTIVE"
         },
         "49.137-62-69.ftth.swbr.surewest.net": {
             "included_at_epoch": 1593312374.720612,
             "included_at_iso": "2020-06-28T02:46:14.720612",
-            "last_retested_at_epoch": 1593567321.034177,
-            "last_retested_at_iso": "2020-07-01T01:35:21.034177",
-            "status": "INACTIVE"
-        },
-        "4d6f4467.adsl.enternet.hu": {
-            "included_at_epoch": 1593529059.942725,
-            "included_at_iso": "2020-06-30T14:57:39.942725",
-            "last_retested_at_epoch": 1593529059.942725,
-            "last_retested_at_iso": "2020-06-30T14:57:39.942725",
+            "last_retested_at_epoch": 1593699971.455937,
+            "last_retested_at_iso": "2020-07-02T14:26:11.455937",
             "status": "INACTIVE"
         },
         "59-188-9-234.simlink.com": {
             "included_at_epoch": 1593312376.139583,
             "included_at_iso": "2020-06-28T02:46:16.139583",
-            "last_retested_at_epoch": 1593567322.513996,
-            "last_retested_at_iso": "2020-07-01T01:35:22.513996",
+            "last_retested_at_epoch": 1593699972.919018,
+            "last_retested_at_iso": "2020-07-02T14:26:12.919018",
             "status": "INACTIVE"
         },
         "6.jsdx3.crsky.com": {
@@ -502,13 +495,6 @@
             "included_at_iso": "2020-06-28T02:58:10.157316",
             "last_retested_at_epoch": 1593568012.858394,
             "last_retested_at_iso": "2020-07-01T01:46:52.858394",
-            "status": "INACTIVE"
-        },
-        "61-144-126-200.fibertel.com.ar": {
-            "included_at_epoch": 1593529061.44938,
-            "included_at_iso": "2020-06-30T14:57:41.449380",
-            "last_retested_at_epoch": 1593529061.44938,
-            "last_retested_at_iso": "2020-06-30T14:57:41.449380",
             "status": "INACTIVE"
         },
         "61-70-224-16.adsl.static.giga.net.tw": {
