@@ -63,6 +63,13 @@
             "last_retested_at_iso": "2020-07-03T10:48:53.185179",
             "status": "INACTIVE"
         },
+        "13.costretto.com": {
+            "included_at_epoch": 1593776841.714386,
+            "included_at_iso": "2020-07-03T11:47:21.714386",
+            "last_retested_at_epoch": 1593776841.714386,
+            "last_retested_at_iso": "2020-07-03T11:47:21.714386",
+            "status": "INACTIVE"
+        },
         "130-131-81-77-cable.canals.ro": {
             "included_at_epoch": 1593298851.821796,
             "included_at_iso": "2020-06-27T23:00:51.821796",
@@ -73,29 +80,29 @@
         "13tw22rigobert.de": {
             "included_at_epoch": 1593300913.252945,
             "included_at_iso": "2020-06-27T23:35:13.252945",
-            "last_retested_at_epoch": 1593687714.860034,
-            "last_retested_at_iso": "2020-07-02T11:01:54.860034",
+            "last_retested_at_epoch": 1593776841.717815,
+            "last_retested_at_iso": "2020-07-03T11:47:21.717815",
             "status": "INACTIVE"
         },
         "144.130-62-69.ftth.swbr.surewest.net": {
             "included_at_epoch": 1593300913.311581,
             "included_at_iso": "2020-06-27T23:35:13.311581",
-            "last_retested_at_epoch": 1593687714.927308,
-            "last_retested_at_iso": "2020-07-02T11:01:54.927308",
+            "last_retested_at_epoch": 1593776841.778492,
+            "last_retested_at_iso": "2020-07-03T11:47:21.778492",
             "status": "INACTIVE"
         },
         "166-186-42-89-cable.canals.ro": {
             "included_at_epoch": 1593300913.517119,
             "included_at_iso": "2020-06-27T23:35:13.517119",
-            "last_retested_at_epoch": 1593687715.148542,
-            "last_retested_at_iso": "2020-07-02T11:01:55.148542",
+            "last_retested_at_epoch": 1593776841.977402,
+            "last_retested_at_iso": "2020-07-03T11:47:21.977402",
             "status": "INACTIVE"
         },
         "168-100-182-165.static.cloud9.net": {
             "included_at_epoch": 1593300913.540977,
             "included_at_iso": "2020-06-27T23:35:13.540977",
-            "last_retested_at_epoch": 1593687715.175465,
-            "last_retested_at_iso": "2020-07-02T11:01:55.175465",
+            "last_retested_at_epoch": 1593776842.004069,
+            "last_retested_at_iso": "2020-07-03T11:47:22.004069",
             "status": "INACTIVE"
         },
         "1901.nordstrom.com": {
