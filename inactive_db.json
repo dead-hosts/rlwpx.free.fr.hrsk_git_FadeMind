@@ -129,43 +129,43 @@
         "1901.nordstrom.com": {
             "included_at_epoch": 1593471430.67649,
             "included_at_iso": "2020-06-29T22:57:10.676490",
-            "last_retested_at_epoch": 1593779747.934927,
-            "last_retested_at_iso": "2020-07-03T12:35:47.934927",
+            "last_retested_at_epoch": 1593867561.476732,
+            "last_retested_at_iso": "2020-07-04T12:59:21.476732",
             "status": "INACTIVE"
         },
         "194-224-38-89-cable.canals.ro": {
             "included_at_epoch": 1593303662.30515,
             "included_at_iso": "2020-06-28T00:21:02.305150",
-            "last_retested_at_epoch": 1593779748.234944,
-            "last_retested_at_iso": "2020-07-03T12:35:48.234944",
+            "last_retested_at_epoch": 1593867561.482688,
+            "last_retested_at_iso": "2020-07-04T12:59:21.482688",
             "status": "INACTIVE"
         },
         "195-12-231-207.customer.teliacarrier.com": {
             "included_at_epoch": 1593303662.30999,
             "included_at_iso": "2020-06-28T00:21:02.309990",
-            "last_retested_at_epoch": 1593779748.24084,
-            "last_retested_at_iso": "2020-07-03T12:35:48.240840",
+            "last_retested_at_epoch": 1593867561.488397,
+            "last_retested_at_iso": "2020-07-04T12:59:21.488397",
             "status": "INACTIVE"
         },
         "1sheep.info": {
             "included_at_epoch": 1593303662.562101,
             "included_at_iso": "2020-06-28T00:21:02.562101",
-            "last_retested_at_epoch": 1593779748.491845,
-            "last_retested_at_iso": "2020-07-03T12:35:48.491845",
+            "last_retested_at_epoch": 1593867561.49416,
+            "last_retested_at_iso": "2020-07-04T12:59:21.494160",
             "status": "INACTIVE"
         },
         "1x-193-157-194-200.uio.no": {
             "included_at_epoch": 1593303662.608819,
             "included_at_iso": "2020-06-28T00:21:02.608819",
-            "last_retested_at_epoch": 1593779748.538822,
-            "last_retested_at_iso": "2020-07-03T12:35:48.538822",
+            "last_retested_at_epoch": 1593867561.499995,
+            "last_retested_at_iso": "2020-07-04T12:59:21.499995",
             "status": "INACTIVE"
         },
         "200.124-113-64.ftth.swbr.surewest.net": {
             "included_at_epoch": 1593303662.661106,
             "included_at_iso": "2020-06-28T00:21:02.661106",
-            "last_retested_at_epoch": 1593779748.584014,
-            "last_retested_at_iso": "2020-07-03T12:35:48.584014",
+            "last_retested_at_epoch": 1593867561.505921,
+            "last_retested_at_iso": "2020-07-04T12:59:21.505921",
             "status": "INACTIVE"
         },
         "202-153-214-211.cust.aussiebb.net": {
@@ -600,6 +600,13 @@
             "included_at_iso": "2020-06-28T02:58:09.615170",
             "last_retested_at_epoch": 1593794666.757975,
             "last_retested_at_iso": "2020-07-03T16:44:26.757975",
+            "status": "INACTIVE"
+        },
+        "64.89.75.9.nw.nuvox.net": {
+            "included_at_epoch": 1593867561.885851,
+            "included_at_iso": "2020-07-04T12:59:21.885851",
+            "last_retested_at_epoch": 1593867561.885851,
+            "last_retested_at_iso": "2020-07-04T12:59:21.885851",
             "status": "INACTIVE"
         },
         "64.89.76.24.nw.nuvox.net": {
