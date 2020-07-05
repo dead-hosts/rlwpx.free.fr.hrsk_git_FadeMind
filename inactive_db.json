@@ -7,6 +7,13 @@
             "last_retested_at_iso": "2020-07-04T10:23:12.952298",
             "status": "INACTIVE"
         },
+        "093105164233.elblag.vectranet.pl": {
+            "included_at_epoch": 1593944623.385508,
+            "included_at_iso": "2020-07-05T10:23:43.385508",
+            "last_retested_at_epoch": 1593944623.385508,
+            "last_retested_at_iso": "2020-07-05T10:23:43.385508",
+            "status": "INACTIVE"
+        },
         "094.104-113-64.ftth.swbr.surewest.net": {
             "included_at_epoch": 1592182033.321649,
             "included_at_iso": "2020-06-15T00:47:13.321649",
@@ -22,10 +29,10 @@
             "status": "INACTIVE"
         },
         "11.gxdx2.crsky.com": {
-            "included_at_epoch": 1591490310.462698,
-            "included_at_iso": "2020-06-07T00:38:30.462698",
-            "last_retested_at_epoch": 1593860961.291068,
-            "last_retested_at_iso": "2020-07-04T11:09:21.291068",
+            "included_at_epoch": 1593944623.740707,
+            "included_at_iso": "2020-07-05T10:23:43.740707",
+            "last_retested_at_epoch": 1593944623.740707,
+            "last_retested_at_iso": "2020-07-05T10:23:43.740707",
             "status": "INACTIVE"
         },
         "110-132-11-147.rev.home.ne.jp": {
