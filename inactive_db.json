@@ -1,12 +1,5 @@
 {
     "/home/travis/build/dead-hosts/rlwpx.free.fr.hrsk_git_FadeMind/domains.list": {
-        "02-195.031.popsite.net": {
-            "included_at_epoch": 1593858192.952298,
-            "included_at_iso": "2020-07-04T10:23:12.952298",
-            "last_retested_at_epoch": 1593858192.952298,
-            "last_retested_at_iso": "2020-07-04T10:23:12.952298",
-            "status": "INACTIVE"
-        },
         "093105164233.elblag.vectranet.pl": {
             "included_at_epoch": 1593944623.385508,
             "included_at_iso": "2020-07-05T10:23:43.385508",
@@ -33,13 +26,6 @@
             "included_at_iso": "2020-07-05T10:23:43.740707",
             "last_retested_at_epoch": 1593944623.740707,
             "last_retested_at_iso": "2020-07-05T10:23:43.740707",
-            "status": "INACTIVE"
-        },
-        "110-132-11-147.rev.home.ne.jp": {
-            "included_at_epoch": 1593858193.298872,
-            "included_at_iso": "2020-07-04T10:23:13.298872",
-            "last_retested_at_epoch": 1593858193.298872,
-            "last_retested_at_iso": "2020-07-04T10:23:13.298872",
             "status": "INACTIVE"
         },
         "11163221-517901.c.adprotect.net": {
@@ -82,13 +68,6 @@
             "included_at_iso": "2020-06-23T00:02:58.107930",
             "last_retested_at_epoch": 1593860961.307473,
             "last_retested_at_iso": "2020-07-04T11:09:21.307473",
-            "status": "INACTIVE"
-        },
-        "13-074.190.popsite.net": {
-            "included_at_epoch": 1593858193.787612,
-            "included_at_iso": "2020-07-04T10:23:13.787612",
-            "last_retested_at_epoch": 1593858193.787612,
-            "last_retested_at_iso": "2020-07-04T10:23:13.787612",
             "status": "INACTIVE"
         },
         "13.costretto.com": {
