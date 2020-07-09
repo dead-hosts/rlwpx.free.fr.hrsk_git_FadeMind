@@ -105,6 +105,13 @@
             "last_retested_at_iso": "2020-07-09T01:23:31.842334",
             "status": "INACTIVE"
         },
+        "177.214.38.84.otvk.pl": {
+            "included_at_epoch": 1594292068.914898,
+            "included_at_iso": "2020-07-09T10:54:28.914898",
+            "last_retested_at_epoch": 1594292068.914898,
+            "last_retested_at_iso": "2020-07-09T10:54:28.914898",
+            "status": "INACTIVE"
+        },
         "1901.nordstrom.com": {
             "included_at_epoch": 1593471430.67649,
             "included_at_iso": "2020-06-29T22:57:10.676490",
