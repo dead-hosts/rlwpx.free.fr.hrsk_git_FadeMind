@@ -609,6 +609,13 @@
             "last_retested_at_iso": "2020-07-09T03:38:46.933747",
             "status": "INACTIVE"
         },
+        "64.89.75.9.nw.nuvox.net": {
+            "included_at_epoch": 1594302206.693387,
+            "included_at_iso": "2020-07-09T13:43:26.693387",
+            "last_retested_at_epoch": 1594302206.693387,
+            "last_retested_at_iso": "2020-07-09T13:43:26.693387",
+            "status": "INACTIVE"
+        },
         "64.89.76.24.nw.nuvox.net": {
             "included_at_epoch": 1594265927.017314,
             "included_at_iso": "2020-07-09T03:38:47.017314",
