@@ -514,8 +514,8 @@
         "6.scdx3.crsky.com": {
             "included_at_epoch": 1593313090.157316,
             "included_at_iso": "2020-06-28T02:58:10.157316",
-            "last_retested_at_epoch": 1594636641.48173,
-            "last_retested_at_iso": "2020-07-13T10:37:21.481730",
+            "last_retested_at_epoch": 1594823510.081144,
+            "last_retested_at_iso": "2020-07-15T14:31:50.081144",
             "status": "INACTIVE"
         },
         "61-70-224-16.adsl.static.giga.net.tw": {
@@ -621,6 +621,13 @@
             "included_at_iso": "2020-06-28T02:58:09.615170",
             "last_retested_at_epoch": 1594775519.592319,
             "last_retested_at_iso": "2020-07-15T01:11:59.592319",
+            "status": "INACTIVE"
+        },
+        "64.89.76.24.nw.nuvox.net": {
+            "included_at_epoch": 1594823509.582883,
+            "included_at_iso": "2020-07-15T14:31:49.582883",
+            "last_retested_at_epoch": 1594823509.582883,
+            "last_retested_at_iso": "2020-07-15T14:31:49.582883",
             "status": "INACTIVE"
         }
     },
