@@ -420,6 +420,20 @@
             "last_retested_at_iso": "2020-07-15T01:11:59.532896",
             "status": "INACTIVE"
         },
+        "3e44a5b1.adsl.enternet.hu": {
+            "included_at_epoch": 1594820891.091378,
+            "included_at_iso": "2020-07-15T13:48:11.091378",
+            "last_retested_at_epoch": 1594820891.091378,
+            "last_retested_at_iso": "2020-07-15T13:48:11.091378",
+            "status": "INACTIVE"
+        },
+        "3e44a82c.adsl.enternet.hu": {
+            "included_at_epoch": 1594820891.101228,
+            "included_at_iso": "2020-07-15T13:48:11.101228",
+            "last_retested_at_epoch": 1594820891.101228,
+            "last_retested_at_iso": "2020-07-15T13:48:11.101228",
+            "status": "INACTIVE"
+        },
         "4.bjlt1.crsky.com": {
             "included_at_epoch": 1593312374.753414,
             "included_at_iso": "2020-06-28T02:46:14.753414",
