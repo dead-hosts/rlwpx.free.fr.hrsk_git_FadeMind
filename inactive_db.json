@@ -259,6 +259,13 @@
             "last_retested_at_iso": "2020-07-17T02:52:05.679693",
             "status": "INACTIVE"
         },
+        "212h248.compnet.pl": {
+            "included_at_epoch": 1594988153.635985,
+            "included_at_iso": "2020-07-17T12:15:53.635985",
+            "last_retested_at_epoch": 1594988153.635985,
+            "last_retested_at_iso": "2020-07-17T12:15:53.635985",
+            "status": "INACTIVE"
+        },
         "213-33-10-217.adsl.highway.telekom.at": {
             "included_at_epoch": 1593309271.32708,
             "included_at_iso": "2020-06-28T01:54:31.327080",
