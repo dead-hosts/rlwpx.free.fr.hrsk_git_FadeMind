@@ -8,10 +8,10 @@
             "status": "INACTIVE"
         },
         "10minutenerfolg.de": {
-            "included_at_epoch": 1592865123.962875,
-            "included_at_iso": "2020-06-22T22:32:03.962875",
-            "last_retested_at_epoch": 1595242466.090563,
-            "last_retested_at_iso": "2020-07-20T10:54:26.090563",
+            "included_at_epoch": 1595327850.664437,
+            "included_at_iso": "2020-07-21T10:37:30.664437",
+            "last_retested_at_epoch": 1595327850.664437,
+            "last_retested_at_iso": "2020-07-21T10:37:30.664437",
             "status": "INACTIVE"
         },
         "11.gxdx2.crsky.com": {
@@ -50,10 +50,10 @@
             "status": "INACTIVE"
         },
         "123appz.com": {
-            "included_at_epoch": 1592870578.10793,
-            "included_at_iso": "2020-06-23T00:02:58.107930",
-            "last_retested_at_epoch": 1595242466.106149,
-            "last_retested_at_iso": "2020-07-20T10:54:26.106149",
+            "included_at_epoch": 1595327850.930069,
+            "included_at_iso": "2020-07-21T10:37:30.930069",
+            "last_retested_at_epoch": 1595327850.930069,
+            "last_retested_at_iso": "2020-07-21T10:37:30.930069",
             "status": "INACTIVE"
         },
         "13.costretto.com": {
@@ -439,13 +439,6 @@
             "included_at_iso": "2020-07-07T03:23:43.749346",
             "last_retested_at_epoch": 1595169643.754309,
             "last_retested_at_iso": "2020-07-19T14:40:43.754309",
-            "status": "INACTIVE"
-        },
-        "4.whereinitaly.com": {
-            "included_at_epoch": 1592838636.009027,
-            "included_at_iso": "2020-06-22T15:10:36.009027",
-            "last_retested_at_epoch": 1595169643.952013,
-            "last_retested_at_iso": "2020-07-19T14:40:43.952013",
             "status": "INACTIVE"
         },
         "4.whereinlazio.com": {
