@@ -514,120 +514,127 @@
         "6.jsdx3.crsky.com": {
             "included_at_epoch": 1593313090.151892,
             "included_at_iso": "2020-06-28T02:58:10.151892",
-            "last_retested_at_epoch": 1595340052.144578,
-            "last_retested_at_iso": "2020-07-21T14:00:52.144578",
+            "last_retested_at_epoch": 1595560788.278294,
+            "last_retested_at_iso": "2020-07-24T03:19:48.278294",
             "status": "INACTIVE"
         },
         "6.scdx3.crsky.com": {
             "included_at_epoch": 1593313090.157316,
             "included_at_iso": "2020-06-28T02:58:10.157316",
-            "last_retested_at_epoch": 1595340052.15015,
-            "last_retested_at_iso": "2020-07-21T14:00:52.150150",
+            "last_retested_at_epoch": 1595560788.272008,
+            "last_retested_at_iso": "2020-07-24T03:19:48.272008",
             "status": "INACTIVE"
         },
         "61-70-224-16.adsl.static.giga.net.tw": {
             "included_at_epoch": 1593313089.095383,
             "included_at_iso": "2020-06-28T02:58:09.095383",
-            "last_retested_at_epoch": 1595340051.086904,
-            "last_retested_at_iso": "2020-07-21T14:00:51.086904",
+            "last_retested_at_epoch": 1595560787.179946,
+            "last_retested_at_iso": "2020-07-24T03:19:47.179946",
             "status": "INACTIVE"
         },
         "62.183.18.160.modem-pool.kuban.ru": {
             "included_at_epoch": 1593313089.252172,
             "included_at_iso": "2020-06-28T02:58:09.252172",
-            "last_retested_at_epoch": 1595340051.239247,
-            "last_retested_at_iso": "2020-07-21T14:00:51.239247",
+            "last_retested_at_epoch": 1595560787.338996,
+            "last_retested_at_iso": "2020-07-24T03:19:47.338996",
             "status": "INACTIVE"
         },
         "62.183.2.135.modem-pool.kuban.ru": {
             "included_at_epoch": 1593313089.263191,
             "included_at_iso": "2020-06-28T02:58:09.263191",
-            "last_retested_at_epoch": 1595340051.25138,
-            "last_retested_at_iso": "2020-07-21T14:00:51.251380",
+            "last_retested_at_epoch": 1595560787.350685,
+            "last_retested_at_iso": "2020-07-24T03:19:47.350685",
             "status": "INACTIVE"
         },
         "62.183.2.136.modem-pool.kuban.ru": {
             "included_at_epoch": 1593313089.257655,
             "included_at_iso": "2020-06-28T02:58:09.257655",
-            "last_retested_at_epoch": 1595340051.244838,
-            "last_retested_at_iso": "2020-07-21T14:00:51.244838",
+            "last_retested_at_epoch": 1595560787.344684,
+            "last_retested_at_iso": "2020-07-24T03:19:47.344684",
             "status": "INACTIVE"
         },
         "62.183.2.18.modem-pool.kuban.ru": {
             "included_at_epoch": 1593313089.268585,
             "included_at_iso": "2020-06-28T02:58:09.268585",
-            "last_retested_at_epoch": 1595340051.2634,
-            "last_retested_at_iso": "2020-07-21T14:00:51.263400",
+            "last_retested_at_epoch": 1595560787.356376,
+            "last_retested_at_iso": "2020-07-24T03:19:47.356376",
             "status": "INACTIVE"
         },
         "62.183.2.195.modem-pool.kuban.ru": {
             "included_at_epoch": 1593313089.275765,
             "included_at_iso": "2020-06-28T02:58:09.275765",
-            "last_retested_at_epoch": 1595340051.257757,
-            "last_retested_at_iso": "2020-07-21T14:00:51.257757",
+            "last_retested_at_epoch": 1595560787.362098,
+            "last_retested_at_iso": "2020-07-24T03:19:47.362098",
             "status": "INACTIVE"
         },
         "62.183.2.41.modem-pool.kuban.ru": {
             "included_at_epoch": 1593313089.281957,
             "included_at_iso": "2020-06-28T02:58:09.281957",
-            "last_retested_at_epoch": 1595340051.26921,
-            "last_retested_at_iso": "2020-07-21T14:00:51.269210",
+            "last_retested_at_epoch": 1595560787.373419,
+            "last_retested_at_iso": "2020-07-24T03:19:47.373419",
             "status": "INACTIVE"
         },
         "62.183.2.60.modem-pool.kuban.ru": {
             "included_at_epoch": 1593313089.288053,
             "included_at_iso": "2020-06-28T02:58:09.288053",
-            "last_retested_at_epoch": 1595340051.274832,
-            "last_retested_at_iso": "2020-07-21T14:00:51.274832",
+            "last_retested_at_epoch": 1595560787.367732,
+            "last_retested_at_iso": "2020-07-24T03:19:47.367732",
             "status": "INACTIVE"
         },
         "62.183.3.125.modem-pool.kuban.ru": {
             "included_at_epoch": 1593313089.300134,
             "included_at_iso": "2020-06-28T02:58:09.300134",
-            "last_retested_at_epoch": 1595340051.286317,
-            "last_retested_at_iso": "2020-07-21T14:00:51.286317",
+            "last_retested_at_epoch": 1595560787.384861,
+            "last_retested_at_iso": "2020-07-24T03:19:47.384861",
             "status": "INACTIVE"
         },
         "62.183.3.13.modem-pool.kuban.ru": {
             "included_at_epoch": 1593313089.294173,
             "included_at_iso": "2020-06-28T02:58:09.294173",
-            "last_retested_at_epoch": 1595340051.280589,
-            "last_retested_at_iso": "2020-07-21T14:00:51.280589",
+            "last_retested_at_epoch": 1595560787.379042,
+            "last_retested_at_iso": "2020-07-24T03:19:47.379042",
             "status": "INACTIVE"
         },
         "62.183.3.27.modem-pool.kuban.ru": {
             "included_at_epoch": 1593313089.312442,
             "included_at_iso": "2020-06-28T02:58:09.312442",
-            "last_retested_at_epoch": 1595340051.29198,
-            "last_retested_at_iso": "2020-07-21T14:00:51.291980",
+            "last_retested_at_epoch": 1595560787.390496,
+            "last_retested_at_iso": "2020-07-24T03:19:47.390496",
             "status": "INACTIVE"
         },
         "62.183.3.86.modem-pool.kuban.ru": {
             "included_at_epoch": 1593313089.306161,
             "included_at_iso": "2020-06-28T02:58:09.306161",
-            "last_retested_at_epoch": 1595340051.297764,
-            "last_retested_at_iso": "2020-07-21T14:00:51.297764",
+            "last_retested_at_epoch": 1595560787.396134,
+            "last_retested_at_iso": "2020-07-24T03:19:47.396134",
             "status": "INACTIVE"
         },
         "64-175-137-108.abps.org": {
             "included_at_epoch": 1593313089.624724,
             "included_at_iso": "2020-06-28T02:58:09.624724",
-            "last_retested_at_epoch": 1595340051.606912,
-            "last_retested_at_iso": "2020-07-21T14:00:51.606912",
+            "last_retested_at_epoch": 1595560787.711436,
+            "last_retested_at_iso": "2020-07-24T03:19:47.711436",
             "status": "INACTIVE"
         },
         "64-189-42-89-cable.canals.ro": {
             "included_at_epoch": 1593313089.630478,
             "included_at_iso": "2020-06-28T02:58:09.630478",
-            "last_retested_at_epoch": 1595340051.612657,
-            "last_retested_at_iso": "2020-07-21T14:00:51.612657",
+            "last_retested_at_epoch": 1595560787.717576,
+            "last_retested_at_iso": "2020-07-24T03:19:47.717576",
             "status": "INACTIVE"
         },
         "64.136.61.200.host.ifxnw.com.ar": {
             "included_at_epoch": 1593313089.61517,
             "included_at_iso": "2020-06-28T02:58:09.615170",
-            "last_retested_at_epoch": 1595340051.59742,
-            "last_retested_at_iso": "2020-07-21T14:00:51.597420",
+            "last_retested_at_epoch": 1595560787.70131,
+            "last_retested_at_iso": "2020-07-24T03:19:47.701310",
+            "status": "INACTIVE"
+        },
+        "64.89.76.24.nw.nuvox.net": {
+            "included_at_epoch": 1595560787.790708,
+            "included_at_iso": "2020-07-24T03:19:47.790708",
+            "last_retested_at_epoch": 1595560787.790708,
+            "last_retested_at_iso": "2020-07-24T03:19:47.790708",
             "status": "INACTIVE"
         }
     },
