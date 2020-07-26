@@ -94,8 +94,43 @@
         "1901.nordstrom.com": {
             "included_at_epoch": 1593471430.67649,
             "included_at_iso": "2020-06-29T22:57:10.676490",
-            "last_retested_at_epoch": 1595554910.315333,
-            "last_retested_at_iso": "2020-07-24T01:41:50.315333",
+            "last_retested_at_epoch": 1595727712.600516,
+            "last_retested_at_iso": "2020-07-26T01:41:52.600516",
+            "status": "INACTIVE"
+        },
+        "194-224-38-89-cable.canals.ro": {
+            "included_at_epoch": 1595727712.943533,
+            "included_at_iso": "2020-07-26T01:41:52.943533",
+            "last_retested_at_epoch": 1595727712.943533,
+            "last_retested_at_iso": "2020-07-26T01:41:52.943533",
+            "status": "INACTIVE"
+        },
+        "195-12-231-207.customer.teliacarrier.com": {
+            "included_at_epoch": 1595727712.949492,
+            "included_at_iso": "2020-07-26T01:41:52.949492",
+            "last_retested_at_epoch": 1595727712.949492,
+            "last_retested_at_iso": "2020-07-26T01:41:52.949492",
+            "status": "INACTIVE"
+        },
+        "1sheep.info": {
+            "included_at_epoch": 1595727713.195576,
+            "included_at_iso": "2020-07-26T01:41:53.195576",
+            "last_retested_at_epoch": 1595727713.195576,
+            "last_retested_at_iso": "2020-07-26T01:41:53.195576",
+            "status": "INACTIVE"
+        },
+        "1x-193-157-194-200.uio.no": {
+            "included_at_epoch": 1595727713.24346,
+            "included_at_iso": "2020-07-26T01:41:53.243460",
+            "last_retested_at_epoch": 1595727713.24346,
+            "last_retested_at_iso": "2020-07-26T01:41:53.243460",
+            "status": "INACTIVE"
+        },
+        "200.124-113-64.ftth.swbr.surewest.net": {
+            "included_at_epoch": 1595727713.290363,
+            "included_at_iso": "2020-07-26T01:41:53.290363",
+            "last_retested_at_epoch": 1595727713.290363,
+            "last_retested_at_iso": "2020-07-26T01:41:53.290363",
             "status": "INACTIVE"
         },
         "202-153-214-211.cust.aussiebb.net": {
