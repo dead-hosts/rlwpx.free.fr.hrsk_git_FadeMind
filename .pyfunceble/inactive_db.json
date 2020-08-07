@@ -430,92 +430,99 @@
         "3.jxdx1.crsky.com": {
             "included_at_epoch": 1595732819.990555,
             "included_at_iso": "2020-07-26T03:06:59.990555",
-            "last_retested_at_epoch": 1596630506.989806,
-            "last_retested_at_iso": "2020-08-05T12:28:26.989806",
+            "last_retested_at_epoch": 1596771200.583242,
+            "last_retested_at_iso": "2020-08-07T03:33:20.583242",
             "status": "INACTIVE"
         },
         "4.bjlt1.crsky.com": {
             "included_at_epoch": 1595732820.349753,
             "included_at_iso": "2020-07-26T03:07:00.349753",
-            "last_retested_at_epoch": 1596630507.451094,
-            "last_retested_at_iso": "2020-08-05T12:28:27.451094",
+            "last_retested_at_epoch": 1596771200.962264,
+            "last_retested_at_iso": "2020-08-07T03:33:20.962264",
             "status": "INACTIVE"
         },
         "4.collecorvino.org": {
             "included_at_epoch": 1596630507.469576,
             "included_at_iso": "2020-08-05T12:28:27.469576",
-            "last_retested_at_epoch": 1596630507.469576,
-            "last_retested_at_iso": "2020-08-05T12:28:27.469576",
+            "last_retested_at_epoch": 1596771200.978251,
+            "last_retested_at_iso": "2020-08-07T03:33:20.978251",
             "status": "INACTIVE"
         },
         "4.whereinitaly.com": {
             "included_at_epoch": 1595339108.571155,
             "included_at_iso": "2020-07-21T13:45:08.571155",
-            "last_retested_at_epoch": 1596630507.691305,
-            "last_retested_at_iso": "2020-08-05T12:28:27.691305",
+            "last_retested_at_epoch": 1596771201.170045,
+            "last_retested_at_iso": "2020-08-07T03:33:21.170045",
+            "status": "INACTIVE"
+        },
+        "4.whereinlazio.com": {
+            "included_at_epoch": 1596771201.184347,
+            "included_at_iso": "2020-08-07T03:33:21.184347",
+            "last_retested_at_epoch": 1596771201.184347,
+            "last_retested_at_iso": "2020-08-07T03:33:21.184347",
             "status": "INACTIVE"
         },
         "4.whereinmilan.com": {
             "included_at_epoch": 1594387528.053469,
             "included_at_iso": "2020-07-10T13:25:28.053469",
-            "last_retested_at_epoch": 1596630507.716884,
-            "last_retested_at_iso": "2020-08-05T12:28:27.716884",
+            "last_retested_at_epoch": 1596771201.194407,
+            "last_retested_at_iso": "2020-08-07T03:33:21.194407",
             "status": "INACTIVE"
         },
         "4.whereinpuglia.com": {
             "included_at_epoch": 1594387528.069226,
             "included_at_iso": "2020-07-10T13:25:28.069226",
-            "last_retested_at_epoch": 1596630507.736027,
-            "last_retested_at_iso": "2020-08-05T12:28:27.736027",
+            "last_retested_at_epoch": 1596771201.211574,
+            "last_retested_at_iso": "2020-08-07T03:33:21.211574",
             "status": "INACTIVE"
         },
         "4.whereinsicily.com": {
             "included_at_epoch": 1594387528.078408,
             "included_at_iso": "2020-07-10T13:25:28.078408",
-            "last_retested_at_epoch": 1596630507.746737,
-            "last_retested_at_iso": "2020-08-05T12:28:27.746737",
+            "last_retested_at_epoch": 1596771201.221263,
+            "last_retested_at_iso": "2020-08-07T03:33:21.221263",
             "status": "INACTIVE"
         },
         "404.ragecash.com": {
             "included_at_epoch": 1595732820.083082,
             "included_at_iso": "2020-07-26T03:07:00.083082",
-            "last_retested_at_epoch": 1596630507.114137,
-            "last_retested_at_iso": "2020-08-05T12:28:27.114137",
+            "last_retested_at_epoch": 1596771200.683593,
+            "last_retested_at_iso": "2020-08-07T03:33:20.683593",
             "status": "INACTIVE"
         },
         "49.137-62-69.ftth.swbr.surewest.net": {
             "included_at_epoch": 1595732820.324158,
             "included_at_iso": "2020-07-26T03:07:00.324158",
-            "last_retested_at_epoch": 1596630507.419871,
-            "last_retested_at_iso": "2020-08-05T12:28:27.419871",
+            "last_retested_at_epoch": 1596771200.933624,
+            "last_retested_at_iso": "2020-08-07T03:33:20.933624",
             "status": "INACTIVE"
         },
         "5571e4b6.ftth.concepts.nl": {
             "included_at_epoch": 1596251395.486103,
             "included_at_iso": "2020-08-01T03:09:55.486103",
-            "last_retested_at_epoch": 1596630508.851915,
-            "last_retested_at_iso": "2020-08-05T12:28:28.851915",
+            "last_retested_at_epoch": 1596771202.200553,
+            "last_retested_at_iso": "2020-08-07T03:33:22.200553",
             "status": "INACTIVE"
         },
         "5571f46e.ftth.concepts.nl": {
             "included_at_epoch": 1596251395.497548,
             "included_at_iso": "2020-08-01T03:09:55.497548",
-            "last_retested_at_epoch": 1596630508.865327,
-            "last_retested_at_iso": "2020-08-05T12:28:28.865327",
+            "last_retested_at_epoch": 1596771202.206554,
+            "last_retested_at_iso": "2020-08-07T03:33:22.206554",
             "status": "INACTIVE"
         },
         "5571f6ce.ftth.concepts.nl": {
             "included_at_epoch": 1596251395.491727,
             "included_at_iso": "2020-08-01T03:09:55.491727",
-            "last_retested_at_epoch": 1596630508.85877,
-            "last_retested_at_iso": "2020-08-05T12:28:28.858770",
+            "last_retested_at_epoch": 1596771202.21242,
+            "last_retested_at_iso": "2020-08-07T03:33:22.212420",
             "status": "INACTIVE"
         },
         "59-188-9-234.simlink.com": {
             "included_at_epoch": 1595732821.769234,
             "included_at_iso": "2020-07-26T03:07:01.769234",
-            "last_retested_at_epoch": 1596630509.16375,
-            "last_retested_at_iso": "2020-08-05T12:28:29.163750",
+            "last_retested_at_epoch": 1596771202.483337,
+            "last_retested_at_iso": "2020-08-07T03:33:22.483337",
             "status": "INACTIVE"
         },
         "6.jsdx3.crsky.com": {
