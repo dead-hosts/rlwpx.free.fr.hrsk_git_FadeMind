@@ -430,71 +430,99 @@
         "4.bjlt1.crsky.com": {
             "included_at_epoch": 1595732820.349753,
             "included_at_iso": "2020-07-26T03:07:00.349753",
-            "last_retested_at_epoch": 1596771200.962264,
-            "last_retested_at_iso": "2020-08-07T03:33:20.962264",
+            "last_retested_at_epoch": 1596943751.063466,
+            "last_retested_at_iso": "2020-08-09T03:29:11.063466",
             "status": "INACTIVE"
         },
         "4.collecorvino.org": {
             "included_at_epoch": 1596630507.469576,
             "included_at_iso": "2020-08-05T12:28:27.469576",
-            "last_retested_at_epoch": 1596771200.978251,
-            "last_retested_at_iso": "2020-08-07T03:33:20.978251",
+            "last_retested_at_epoch": 1596943751.081818,
+            "last_retested_at_iso": "2020-08-09T03:29:11.081818",
             "status": "INACTIVE"
         },
         "4.whereinitaly.com": {
             "included_at_epoch": 1595339108.571155,
             "included_at_iso": "2020-07-21T13:45:08.571155",
-            "last_retested_at_epoch": 1596771201.170045,
-            "last_retested_at_iso": "2020-08-07T03:33:21.170045",
+            "last_retested_at_epoch": 1596943751.257991,
+            "last_retested_at_iso": "2020-08-09T03:29:11.257991",
             "status": "INACTIVE"
         },
         "4.whereinlazio.com": {
             "included_at_epoch": 1596771201.184347,
             "included_at_iso": "2020-08-07T03:33:21.184347",
-            "last_retested_at_epoch": 1596771201.184347,
-            "last_retested_at_iso": "2020-08-07T03:33:21.184347",
+            "last_retested_at_epoch": 1596943751.269845,
+            "last_retested_at_iso": "2020-08-09T03:29:11.269845",
+            "status": "INACTIVE"
+        },
+        "4.whereinmilan.com": {
+            "included_at_epoch": 1596943751.278503,
+            "included_at_iso": "2020-08-09T03:29:11.278503",
+            "last_retested_at_epoch": 1596943751.278503,
+            "last_retested_at_iso": "2020-08-09T03:29:11.278503",
+            "status": "INACTIVE"
+        },
+        "4.whereinpuglia.com": {
+            "included_at_epoch": 1596943751.293686,
+            "included_at_iso": "2020-08-09T03:29:11.293686",
+            "last_retested_at_epoch": 1596943751.293686,
+            "last_retested_at_iso": "2020-08-09T03:29:11.293686",
+            "status": "INACTIVE"
+        },
+        "4.whereinsicily.com": {
+            "included_at_epoch": 1596943751.302406,
+            "included_at_iso": "2020-08-09T03:29:11.302406",
+            "last_retested_at_epoch": 1596943751.302406,
+            "last_retested_at_iso": "2020-08-09T03:29:11.302406",
             "status": "INACTIVE"
         },
         "404.ragecash.com": {
             "included_at_epoch": 1595732820.083082,
             "included_at_iso": "2020-07-26T03:07:00.083082",
-            "last_retested_at_epoch": 1596771200.683593,
-            "last_retested_at_iso": "2020-08-07T03:33:20.683593",
+            "last_retested_at_epoch": 1596943750.795462,
+            "last_retested_at_iso": "2020-08-09T03:29:10.795462",
+            "status": "INACTIVE"
+        },
+        "41-169-195-217.cust.centrio.cz": {
+            "included_at_epoch": 1596943750.83626,
+            "included_at_iso": "2020-08-09T03:29:10.836260",
+            "last_retested_at_epoch": 1596943750.83626,
+            "last_retested_at_iso": "2020-08-09T03:29:10.836260",
             "status": "INACTIVE"
         },
         "49.137-62-69.ftth.swbr.surewest.net": {
             "included_at_epoch": 1595732820.324158,
             "included_at_iso": "2020-07-26T03:07:00.324158",
-            "last_retested_at_epoch": 1596771200.933624,
-            "last_retested_at_iso": "2020-08-07T03:33:20.933624",
+            "last_retested_at_epoch": 1596943751.03841,
+            "last_retested_at_iso": "2020-08-09T03:29:11.038410",
             "status": "INACTIVE"
         },
         "5571e4b6.ftth.concepts.nl": {
             "included_at_epoch": 1596251395.486103,
             "included_at_iso": "2020-08-01T03:09:55.486103",
-            "last_retested_at_epoch": 1596771202.200553,
-            "last_retested_at_iso": "2020-08-07T03:33:22.200553",
+            "last_retested_at_epoch": 1596943752.207542,
+            "last_retested_at_iso": "2020-08-09T03:29:12.207542",
             "status": "INACTIVE"
         },
         "5571f46e.ftth.concepts.nl": {
             "included_at_epoch": 1596251395.497548,
             "included_at_iso": "2020-08-01T03:09:55.497548",
-            "last_retested_at_epoch": 1596771202.206554,
-            "last_retested_at_iso": "2020-08-07T03:33:22.206554",
+            "last_retested_at_epoch": 1596943752.213675,
+            "last_retested_at_iso": "2020-08-09T03:29:12.213675",
             "status": "INACTIVE"
         },
         "5571f6ce.ftth.concepts.nl": {
             "included_at_epoch": 1596251395.491727,
             "included_at_iso": "2020-08-01T03:09:55.491727",
-            "last_retested_at_epoch": 1596771202.21242,
-            "last_retested_at_iso": "2020-08-07T03:33:22.212420",
+            "last_retested_at_epoch": 1596943752.219132,
+            "last_retested_at_iso": "2020-08-09T03:29:12.219132",
             "status": "INACTIVE"
         },
         "59-188-9-234.simlink.com": {
             "included_at_epoch": 1595732821.769234,
             "included_at_iso": "2020-07-26T03:07:01.769234",
-            "last_retested_at_epoch": 1596771202.483337,
-            "last_retested_at_iso": "2020-08-07T03:33:22.483337",
+            "last_retested_at_epoch": 1596943752.465972,
+            "last_retested_at_iso": "2020-08-09T03:29:12.465972",
             "status": "INACTIVE"
         },
         "6.jsdx3.crsky.com": {
