@@ -52,8 +52,8 @@
         "13.costretto.com": {
             "included_at_epoch": 1596245271.86019,
             "included_at_iso": "2020-08-01T01:27:51.860190",
-            "last_retested_at_epoch": 1597974415.695024,
-            "last_retested_at_iso": "2020-08-21T01:46:55.695024",
+            "last_retested_at_epoch": 1598147337.025262,
+            "last_retested_at_iso": "2020-08-23T01:48:57.025262",
             "status": "INACTIVE"
         },
         "130-131-81-77-cable.canals.ro": {
@@ -63,39 +63,32 @@
             "last_retested_at_iso": "2020-08-23T01:31:54.441591",
             "status": "INACTIVE"
         },
-        "13copacabana37.u2m.ru": {
-            "included_at_epoch": 1597974415.689687,
-            "included_at_iso": "2020-08-21T01:46:55.689687",
-            "last_retested_at_epoch": 1597974415.689687,
-            "last_retested_at_iso": "2020-08-21T01:46:55.689687",
-            "status": "INACTIVE"
-        },
         "13tw22rigobert.de": {
-            "included_at_epoch": 1595726696.475945,
-            "included_at_iso": "2020-07-26T01:24:56.475945",
-            "last_retested_at_epoch": 1597974415.698726,
-            "last_retested_at_iso": "2020-08-21T01:46:55.698726",
+            "included_at_epoch": 1598147337.02877,
+            "included_at_iso": "2020-08-23T01:48:57.028770",
+            "last_retested_at_epoch": 1598147337.02877,
+            "last_retested_at_iso": "2020-08-23T01:48:57.028770",
             "status": "INACTIVE"
         },
         "144.130-62-69.ftth.swbr.surewest.net": {
-            "included_at_epoch": 1595726696.528992,
-            "included_at_iso": "2020-07-26T01:24:56.528992",
-            "last_retested_at_epoch": 1597974415.75528,
-            "last_retested_at_iso": "2020-08-21T01:46:55.755280",
+            "included_at_epoch": 1598147337.09025,
+            "included_at_iso": "2020-08-23T01:48:57.090250",
+            "last_retested_at_epoch": 1598147337.09025,
+            "last_retested_at_iso": "2020-08-23T01:48:57.090250",
             "status": "INACTIVE"
         },
         "166-186-42-89-cable.canals.ro": {
-            "included_at_epoch": 1595726696.7583,
-            "included_at_iso": "2020-07-26T01:24:56.758300",
-            "last_retested_at_epoch": 1597974415.970315,
-            "last_retested_at_iso": "2020-08-21T01:46:55.970315",
+            "included_at_epoch": 1598147337.303085,
+            "included_at_iso": "2020-08-23T01:48:57.303085",
+            "last_retested_at_epoch": 1598147337.303085,
+            "last_retested_at_iso": "2020-08-23T01:48:57.303085",
             "status": "INACTIVE"
         },
         "168-100-182-165.static.cloud9.net": {
-            "included_at_epoch": 1595726696.786999,
-            "included_at_iso": "2020-07-26T01:24:56.786999",
-            "last_retested_at_epoch": 1597974415.996449,
-            "last_retested_at_iso": "2020-08-21T01:46:55.996449",
+            "included_at_epoch": 1598147337.329555,
+            "included_at_iso": "2020-08-23T01:48:57.329555",
+            "last_retested_at_epoch": 1598147337.329555,
+            "last_retested_at_iso": "2020-08-23T01:48:57.329555",
             "status": "INACTIVE"
         },
         "1901.nordstrom.com": {
