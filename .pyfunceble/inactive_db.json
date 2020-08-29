@@ -497,27 +497,6 @@
             "last_retested_at_iso": "2020-08-27T03:51:03.058401",
             "status": "INACTIVE"
         },
-        "5571e4b6.ftth.concepts.nl": {
-            "included_at_epoch": 1596251395.486103,
-            "included_at_iso": "2020-08-01T03:09:55.486103",
-            "last_retested_at_epoch": 1598500264.186242,
-            "last_retested_at_iso": "2020-08-27T03:51:04.186242",
-            "status": "INACTIVE"
-        },
-        "5571f46e.ftth.concepts.nl": {
-            "included_at_epoch": 1596251395.497548,
-            "included_at_iso": "2020-08-01T03:09:55.497548",
-            "last_retested_at_epoch": 1598500264.191595,
-            "last_retested_at_iso": "2020-08-27T03:51:04.191595",
-            "status": "INACTIVE"
-        },
-        "5571f6ce.ftth.concepts.nl": {
-            "included_at_epoch": 1596251395.491727,
-            "included_at_iso": "2020-08-01T03:09:55.491727",
-            "last_retested_at_epoch": 1598500264.197012,
-            "last_retested_at_iso": "2020-08-27T03:51:04.197012",
-            "status": "INACTIVE"
-        },
         "59-188-9-234.simlink.com": {
             "included_at_epoch": 1598154629.561187,
             "included_at_iso": "2020-08-23T03:50:29.561187",
