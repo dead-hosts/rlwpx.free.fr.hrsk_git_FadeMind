@@ -952,6 +952,7 @@
     "2x2.biz": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
+        "server": "whois.nic.biz",
         "state": "past"
     },
     "2younger.com": {
@@ -1222,6 +1223,7 @@
     "452.us": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
+        "server": "whois.nic.us",
         "state": "past"
     },
     "45bytes.info": {
