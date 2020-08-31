@@ -329,6 +329,13 @@
             "last_retested_at_iso": "2020-08-27T03:16:04.193331",
             "status": "INACTIVE"
         },
+        "231.81-200-80.adsl-dyn.isp.belgacom.be": {
+            "included_at_epoch": 1598844557.9159,
+            "included_at_iso": "2020-08-31T03:29:17.915900",
+            "last_retested_at_epoch": 1598844557.9159,
+            "last_retested_at_iso": "2020-08-31T03:29:17.915900",
+            "status": "INACTIVE"
+        },
         "24-116-106-167.cpe.cableone.net": {
             "included_at_epoch": 1598153610.260328,
             "included_at_iso": "2020-08-23T03:33:30.260328",
@@ -455,11 +462,25 @@
             "last_retested_at_iso": "2020-08-27T03:34:04.925716",
             "status": "INACTIVE"
         },
+        "240.35-241-81.adsl-dyn.isp.belgacom.be": {
+            "included_at_epoch": 1598844558.047627,
+            "included_at_iso": "2020-08-31T03:29:18.047627",
+            "last_retested_at_epoch": 1598844558.047627,
+            "last_retested_at_iso": "2020-08-31T03:29:18.047627",
+            "status": "INACTIVE"
+        },
         "247help-desk.com": {
             "included_at_epoch": 1597115307.246565,
             "included_at_iso": "2020-08-11T03:08:27.246565",
             "last_retested_at_epoch": 1598499245.004415,
             "last_retested_at_iso": "2020-08-27T03:34:05.004415",
+            "status": "INACTIVE"
+        },
+        "25-117-169-81.mobileinternet.proximus.be": {
+            "included_at_epoch": 1598844558.697292,
+            "included_at_iso": "2020-08-31T03:29:18.697292",
+            "last_retested_at_epoch": 1598844558.697292,
+            "last_retested_at_iso": "2020-08-31T03:29:18.697292",
             "status": "INACTIVE"
         },
         "2jo.info": {
@@ -481,6 +502,13 @@
             "included_at_iso": "2020-08-23T03:50:27.759645",
             "last_retested_at_epoch": 1598500262.729232,
             "last_retested_at_iso": "2020-08-27T03:51:02.729232",
+            "status": "INACTIVE"
+        },
+        "36.12-66-87.adsl-static.isp.belgacom.be": {
+            "included_at_epoch": 1598844559.180563,
+            "included_at_iso": "2020-08-31T03:29:19.180563",
+            "last_retested_at_epoch": 1598844559.180563,
+            "last_retested_at_iso": "2020-08-31T03:29:19.180563",
             "status": "INACTIVE"
         },
         "4.bjlt1.crsky.com": {
