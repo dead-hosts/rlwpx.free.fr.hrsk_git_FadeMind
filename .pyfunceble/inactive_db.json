@@ -112,6 +112,13 @@
             "last_retested_at_iso": "2020-08-27T01:50:41.591798",
             "status": "INACTIVE"
         },
+        "18.172-201-80.adsl-dyn.isp.belgacom.be": {
+            "included_at_epoch": 1598838453.926943,
+            "included_at_iso": "2020-08-31T01:47:33.926943",
+            "last_retested_at_epoch": 1598838453.926943,
+            "last_retested_at_iso": "2020-08-31T01:47:33.926943",
+            "status": "INACTIVE"
+        },
         "1901.nordstrom.com": {
             "included_at_epoch": 1598321830.839359,
             "included_at_iso": "2020-08-25T02:17:10.839359",
