@@ -210,6 +210,13 @@
             "last_retested_at_iso": "2020-08-27T02:59:04.948657",
             "status": "INACTIVE"
         },
+        "205.220.174.67.nw.nuvox.net": {
+            "included_at_epoch": 1598841543.709861,
+            "included_at_iso": "2020-08-31T02:39:03.709861",
+            "last_retested_at_epoch": 1598841543.709861,
+            "last_retested_at_iso": "2020-08-31T02:39:03.709861",
+            "status": "INACTIVE"
+        },
         "207-255-141-194-dhcp.bfd.pa.atlanticbb.net": {
             "included_at_epoch": 1598150781.28483,
             "included_at_iso": "2020-08-23T02:46:21.284830",
