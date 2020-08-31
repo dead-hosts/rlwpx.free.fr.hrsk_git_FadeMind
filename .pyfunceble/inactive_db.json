@@ -8,10 +8,10 @@
             "status": "INACTIVE"
         },
         "11.gxdx2.crsky.com": {
-            "included_at_epoch": 1596407443.132306,
-            "included_at_iso": "2020-08-02T22:30:43.132306",
-            "last_retested_at_epoch": 1598492014.39293,
-            "last_retested_at_iso": "2020-08-27T01:33:34.392930",
+            "included_at_epoch": 1598837419.175333,
+            "included_at_iso": "2020-08-31T01:30:19.175333",
+            "last_retested_at_epoch": 1598837419.175333,
+            "last_retested_at_iso": "2020-08-31T01:30:19.175333",
             "status": "INACTIVE"
         },
         "11163221-517901.c.adprotect.net": {
@@ -19,6 +19,20 @@
             "included_at_iso": "2020-08-11T01:16:08.497729",
             "last_retested_at_epoch": 1598492014.190827,
             "last_retested_at_iso": "2020-08-27T01:33:34.190827",
+            "status": "INACTIVE"
+        },
+        "118.116-65-87.adsl-dyn.isp.belgacom.be": {
+            "included_at_epoch": 1598837419.094763,
+            "included_at_iso": "2020-08-31T01:30:19.094763",
+            "last_retested_at_epoch": 1598837419.094763,
+            "last_retested_at_iso": "2020-08-31T01:30:19.094763",
+            "status": "INACTIVE"
+        },
+        "12-16-169-81.mobileinternet.proximus.be": {
+            "included_at_epoch": 1598837419.19689,
+            "included_at_iso": "2020-08-31T01:30:19.196890",
+            "last_retested_at_epoch": 1598837419.19689,
+            "last_retested_at_iso": "2020-08-31T01:30:19.196890",
             "status": "INACTIVE"
         },
         "12.147-62-69.ftth.swbr.surewest.net": {
@@ -47,6 +61,13 @@
             "included_at_iso": "2020-08-19T01:20:46.528086",
             "last_retested_at_epoch": 1598492014.481322,
             "last_retested_at_iso": "2020-08-27T01:33:34.481322",
+            "status": "INACTIVE"
+        },
+        "125.113-64-87.adsl-dyn.isp.belgacom.be": {
+            "included_at_epoch": 1598837419.355655,
+            "included_at_iso": "2020-08-31T01:30:19.355655",
+            "last_retested_at_epoch": 1598837419.355655,
+            "last_retested_at_iso": "2020-08-31T01:30:19.355655",
             "status": "INACTIVE"
         },
         "13.costretto.com": {
