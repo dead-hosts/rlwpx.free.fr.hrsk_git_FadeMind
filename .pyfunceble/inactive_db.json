@@ -112,6 +112,13 @@
             "last_retested_at_iso": "2020-08-27T01:50:41.347949",
             "status": "INACTIVE"
         },
+        "164.221132175.m-net.ne.jp": {
+            "included_at_epoch": 1599011143.072861,
+            "included_at_iso": "2020-09-02T01:45:43.072861",
+            "last_retested_at_epoch": 1599011143.072861,
+            "last_retested_at_iso": "2020-09-02T01:45:43.072861",
+            "status": "INACTIVE"
+        },
         "166-186-42-89-cable.canals.ro": {
             "included_at_epoch": 1598147337.303085,
             "included_at_iso": "2020-08-23T01:48:57.303085",
