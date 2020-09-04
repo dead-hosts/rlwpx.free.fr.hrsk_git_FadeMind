@@ -1489,7 +1489,8 @@
     "5hk.net": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "5l0.net": {
         "epoch": 1609804800.0,
