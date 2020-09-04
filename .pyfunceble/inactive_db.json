@@ -189,6 +189,13 @@
             "last_retested_at_iso": "2020-08-27T02:07:44.821755",
             "status": "INACTIVE"
         },
+        "201-83.thezone.bg": {
+            "included_at_epoch": 1599187325.366894,
+            "included_at_iso": "2020-09-04T02:42:05.366894",
+            "last_retested_at_epoch": 1599187325.366894,
+            "last_retested_at_iso": "2020-09-04T02:42:05.366894",
+            "status": "INACTIVE"
+        },
         "202-110.thezone.bg": {
             "included_at_epoch": 1598670919.23131,
             "included_at_iso": "2020-08-29T03:15:19.231310",
