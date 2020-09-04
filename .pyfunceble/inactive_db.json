@@ -567,13 +567,6 @@
             "last_retested_at_iso": "2020-08-27T03:51:03.266888",
             "status": "INACTIVE"
         },
-        "4.whereinlazio.com": {
-            "included_at_epoch": 1596771201.184347,
-            "included_at_iso": "2020-08-07T03:33:21.184347",
-            "last_retested_at_epoch": 1598500263.278411,
-            "last_retested_at_iso": "2020-08-27T03:51:03.278411",
-            "status": "INACTIVE"
-        },
         "4.whereinmilan.com": {
             "included_at_epoch": 1596943751.278503,
             "included_at_iso": "2020-08-09T03:29:11.278503",
