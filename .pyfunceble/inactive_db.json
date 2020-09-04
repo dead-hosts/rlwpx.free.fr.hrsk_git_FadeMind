@@ -511,13 +511,6 @@
             "last_retested_at_iso": "2020-08-29T03:52:59.582780",
             "status": "INACTIVE"
         },
-        "2k3net.110mb.com": {
-            "included_at_epoch": 1596628563.385394,
-            "included_at_iso": "2020-08-05T11:56:03.385394",
-            "last_retested_at_epoch": 1598499245.352972,
-            "last_retested_at_iso": "2020-08-27T03:34:05.352972",
-            "status": "INACTIVE"
-        },
         "3.jxdx1.crsky.com": {
             "included_at_epoch": 1598154627.759645,
             "included_at_iso": "2020-08-23T03:50:27.759645",
@@ -537,13 +530,6 @@
             "included_at_iso": "2020-08-23T03:50:28.136662",
             "last_retested_at_epoch": 1598500263.081902,
             "last_retested_at_iso": "2020-08-27T03:51:03.081902",
-            "status": "INACTIVE"
-        },
-        "4.collecorvino.org": {
-            "included_at_epoch": 1596630507.469576,
-            "included_at_iso": "2020-08-05T12:28:27.469576",
-            "last_retested_at_epoch": 1598500263.096168,
-            "last_retested_at_iso": "2020-08-27T03:51:03.096168",
             "status": "INACTIVE"
         },
         "4.whereinitaly.com": {
