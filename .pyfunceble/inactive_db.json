@@ -294,13 +294,6 @@
             "last_retested_at_iso": "2020-08-27T02:59:05.090007",
             "status": "INACTIVE"
         },
-        "209.209.77.65.static.hardhathosting.com": {
-            "included_at_epoch": 1597286041.4535,
-            "included_at_iso": "2020-08-13T02:34:01.453500",
-            "last_retested_at_epoch": 1598497145.142914,
-            "last_retested_at_iso": "2020-08-27T02:59:05.142914",
-            "status": "INACTIVE"
-        },
         "211-19-211-174.parkcity.ne.jp": {
             "included_at_epoch": 1598150781.477923,
             "included_at_iso": "2020-08-23T02:46:21.477923",
