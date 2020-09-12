@@ -7,6 +7,13 @@
             "last_retested_at_iso": "2020-09-02T01:28:28.482551",
             "status": "INACTIVE"
         },
+        "03-080.031.popsite.net": {
+            "included_at_epoch": 1599874415.673032,
+            "included_at_iso": "2020-09-12T01:33:35.673032",
+            "last_retested_at_epoch": 1599874415.673032,
+            "last_retested_at_iso": "2020-09-12T01:33:35.673032",
+            "status": "INACTIVE"
+        },
         "046.221132170.m-net.ne.jp": {
             "included_at_epoch": 1599010108.504978,
             "included_at_iso": "2020-09-02T01:28:28.504978",
