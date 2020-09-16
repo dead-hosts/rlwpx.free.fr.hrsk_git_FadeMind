@@ -322,6 +322,13 @@
             "last_retested_at_iso": "2020-08-27T03:16:03.114378",
             "status": "INACTIVE"
         },
+        "212h248.compnet.pl": {
+            "included_at_epoch": 1600224264.750885,
+            "included_at_iso": "2020-09-16T02:44:24.750885",
+            "last_retested_at_epoch": 1600224264.750885,
+            "last_retested_at_iso": "2020-09-16T02:44:24.750885",
+            "status": "INACTIVE"
+        },
         "213-241-5-188.mobileinternet.proximus.be": {
             "included_at_epoch": 1598843104.437598,
             "included_at_iso": "2020-08-31T03:05:04.437598",
