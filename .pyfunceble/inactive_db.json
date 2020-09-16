@@ -63,25 +63,11 @@
             "last_retested_at_iso": "2020-08-29T01:40:43.947432",
             "status": "INACTIVE"
         },
-        "121.vps.expresshost.ru": {
-            "included_at_epoch": 1597800046.493395,
-            "included_at_iso": "2020-08-19T01:20:46.493395",
-            "last_retested_at_epoch": 1598492014.440126,
-            "last_retested_at_iso": "2020-08-27T01:33:34.440126",
-            "status": "INACTIVE"
-        },
         "123.greenhome001.com.cn": {
             "included_at_epoch": 1598146314.26954,
             "included_at_iso": "2020-08-23T01:31:54.269540",
             "last_retested_at_epoch": 1598492014.501192,
             "last_retested_at_iso": "2020-08-27T01:33:34.501192",
-            "status": "INACTIVE"
-        },
-        "123appz.com": {
-            "included_at_epoch": 1597800046.528086,
-            "included_at_iso": "2020-08-19T01:20:46.528086",
-            "last_retested_at_epoch": 1598492014.481322,
-            "last_retested_at_iso": "2020-08-27T01:33:34.481322",
             "status": "INACTIVE"
         },
         "125.113-64-87.adsl-dyn.isp.belgacom.be": {
