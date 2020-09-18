@@ -224,20 +224,6 @@
             "last_retested_at_iso": "2020-08-27T02:59:04.855617",
             "status": "INACTIVE"
         },
-        "203-174-83-55.rev.ne.com.sg": {
-            "included_at_epoch": 1597978185.3991,
-            "included_at_iso": "2020-08-21T02:49:45.399100",
-            "last_retested_at_epoch": 1598497144.916556,
-            "last_retested_at_iso": "2020-08-27T02:59:04.916556",
-            "status": "INACTIVE"
-        },
-        "203-174-83-75.rev.ne.com.sg": {
-            "included_at_epoch": 1597978185.394259,
-            "included_at_iso": "2020-08-21T02:49:45.394259",
-            "last_retested_at_epoch": 1598497144.921455,
-            "last_retested_at_iso": "2020-08-27T02:59:04.921455",
-            "status": "INACTIVE"
-        },
         "203-204-110-98.adsl.static.giga.net.tw": {
             "included_at_epoch": 1598150781.149727,
             "included_at_iso": "2020-08-23T02:46:21.149727",
@@ -586,6 +572,13 @@
             "included_at_iso": "2020-09-04T03:22:46.948386",
             "last_retested_at_epoch": 1599189766.948386,
             "last_retested_at_iso": "2020-09-04T03:22:46.948386",
+            "status": "INACTIVE"
+        },
+        "4.whereinitaly.com": {
+            "included_at_epoch": 1600399110.944754,
+            "included_at_iso": "2020-09-18T03:18:30.944754",
+            "last_retested_at_epoch": 1600399110.944754,
+            "last_retested_at_iso": "2020-09-18T03:18:30.944754",
             "status": "INACTIVE"
         },
         "4.whereinlazio.com": {
