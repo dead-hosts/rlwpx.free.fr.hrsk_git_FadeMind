@@ -189,20 +189,6 @@
             "last_retested_at_iso": "2020-09-12T02:42:02.249307",
             "status": "INACTIVE"
         },
-        "212-183-88-33.adsl.highway.telekom.at": {
-            "included_at_epoch": 1598152586.104776,
-            "included_at_iso": "2020-08-23T03:16:26.104776",
-            "last_retested_at_epoch": 1598498163.119282,
-            "last_retested_at_iso": "2020-08-27T03:16:03.119282",
-            "status": "INACTIVE"
-        },
-        "212-183-95-201.adsl.highway.telekom.at": {
-            "included_at_epoch": 1598152586.100031,
-            "included_at_iso": "2020-08-23T03:16:26.100031",
-            "last_retested_at_epoch": 1598498163.114378,
-            "last_retested_at_iso": "2020-08-27T03:16:03.114378",
-            "status": "INACTIVE"
-        },
         "212h248.compnet.pl": {
             "included_at_epoch": 1600224264.750885,
             "included_at_iso": "2020-09-16T02:44:24.750885",
@@ -215,48 +201,6 @@
             "included_at_iso": "2020-08-31T03:05:04.437598",
             "last_retested_at_epoch": 1598843104.437598,
             "last_retested_at_iso": "2020-08-31T03:05:04.437598",
-            "status": "INACTIVE"
-        },
-        "213-33-10-217.adsl.highway.telekom.at": {
-            "included_at_epoch": 1598152586.443714,
-            "included_at_iso": "2020-08-23T03:16:26.443714",
-            "last_retested_at_epoch": 1598498163.449149,
-            "last_retested_at_iso": "2020-08-27T03:16:03.449149",
-            "status": "INACTIVE"
-        },
-        "214-185-42-89-cable.canals.ro": {
-            "included_at_epoch": 1598152586.610511,
-            "included_at_iso": "2020-08-23T03:16:26.610511",
-            "last_retested_at_epoch": 1598498163.60518,
-            "last_retested_at_iso": "2020-08-27T03:16:03.605180",
-            "status": "INACTIVE"
-        },
-        "216-73-119-74.ocdc-01.net": {
-            "included_at_epoch": 1598152586.6774,
-            "included_at_iso": "2020-08-23T03:16:26.677400",
-            "last_retested_at_epoch": 1598498163.670129,
-            "last_retested_at_iso": "2020-08-27T03:16:03.670129",
-            "status": "INACTIVE"
-        },
-        "219-69-19-17.idc.static.giga.net.tw": {
-            "included_at_epoch": 1598152587.187258,
-            "included_at_iso": "2020-08-23T03:16:27.187258",
-            "last_retested_at_epoch": 1598498164.182247,
-            "last_retested_at_iso": "2020-08-27T03:16:04.182247",
-            "status": "INACTIVE"
-        },
-        "219-69-19-36.idc.static.giga.net.tw": {
-            "included_at_epoch": 1598152587.191859,
-            "included_at_iso": "2020-08-23T03:16:27.191859",
-            "last_retested_at_epoch": 1598498164.187324,
-            "last_retested_at_iso": "2020-08-27T03:16:04.187324",
-            "status": "INACTIVE"
-        },
-        "219-69-50-213.idc.static.giga.net.tw": {
-            "included_at_epoch": 1598152587.196496,
-            "included_at_iso": "2020-08-23T03:16:27.196496",
-            "last_retested_at_epoch": 1598498164.193331,
-            "last_retested_at_iso": "2020-08-27T03:16:04.193331",
             "status": "INACTIVE"
         },
         "231.81-200-80.adsl-dyn.isp.belgacom.be": {
