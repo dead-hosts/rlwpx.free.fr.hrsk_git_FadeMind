@@ -105,20 +105,6 @@
             "last_retested_at_iso": "2020-08-29T02:06:11.595192",
             "status": "INACTIVE"
         },
-        "13tw22rigobert.de": {
-            "included_at_epoch": 1598147337.02877,
-            "included_at_iso": "2020-08-23T01:48:57.028770",
-            "last_retested_at_epoch": 1598493041.284764,
-            "last_retested_at_iso": "2020-08-27T01:50:41.284764",
-            "status": "INACTIVE"
-        },
-        "144.130-62-69.ftth.swbr.surewest.net": {
-            "included_at_epoch": 1598147337.09025,
-            "included_at_iso": "2020-08-23T01:48:57.090250",
-            "last_retested_at_epoch": 1598493041.347949,
-            "last_retested_at_iso": "2020-08-27T01:50:41.347949",
-            "status": "INACTIVE"
-        },
         "15-085.031.popsite.net": {
             "included_at_epoch": 1599183996.625283,
             "included_at_iso": "2020-09-04T01:46:36.625283",
@@ -131,20 +117,6 @@
             "included_at_iso": "2020-09-02T01:45:43.072861",
             "last_retested_at_epoch": 1599011143.072861,
             "last_retested_at_iso": "2020-09-02T01:45:43.072861",
-            "status": "INACTIVE"
-        },
-        "166-186-42-89-cable.canals.ro": {
-            "included_at_epoch": 1598147337.303085,
-            "included_at_iso": "2020-08-23T01:48:57.303085",
-            "last_retested_at_epoch": 1598493041.564355,
-            "last_retested_at_iso": "2020-08-27T01:50:41.564355",
-            "status": "INACTIVE"
-        },
-        "168-100-182-165.static.cloud9.net": {
-            "included_at_epoch": 1598147337.329555,
-            "included_at_iso": "2020-08-23T01:48:57.329555",
-            "last_retested_at_epoch": 1598493041.591798,
-            "last_retested_at_iso": "2020-08-27T01:50:41.591798",
             "status": "INACTIVE"
         },
         "18.172-201-80.adsl-dyn.isp.belgacom.be": {
@@ -173,6 +145,13 @@
             "included_at_iso": "2020-08-23T02:06:29.322727",
             "last_retested_at_epoch": 1598494064.449961,
             "last_retested_at_iso": "2020-08-27T02:07:44.449961",
+            "status": "INACTIVE"
+        },
+        "197-45.thezone.bg": {
+            "included_at_epoch": 1600567806.074537,
+            "included_at_iso": "2020-09-20T02:10:06.074537",
+            "last_retested_at_epoch": 1600567806.074537,
+            "last_retested_at_iso": "2020-09-20T02:10:06.074537",
             "status": "INACTIVE"
         },
         "1sheep.info": {
