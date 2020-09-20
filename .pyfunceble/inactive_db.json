@@ -161,6 +161,20 @@
             "last_retested_at_iso": "2020-08-27T02:59:04.855617",
             "status": "INACTIVE"
         },
+        "203-174-83-55.rev.ne.com.sg": {
+            "included_at_epoch": 1600569862.822928,
+            "included_at_iso": "2020-09-20T02:44:22.822928",
+            "last_retested_at_epoch": 1600569862.822928,
+            "last_retested_at_iso": "2020-09-20T02:44:22.822928",
+            "status": "INACTIVE"
+        },
+        "203-174-83-75.rev.ne.com.sg": {
+            "included_at_epoch": 1600569862.817719,
+            "included_at_iso": "2020-09-20T02:44:22.817719",
+            "last_retested_at_epoch": 1600569862.817719,
+            "last_retested_at_iso": "2020-09-20T02:44:22.817719",
+            "status": "INACTIVE"
+        },
         "203-204-110-98.adsl.static.giga.net.tw": {
             "included_at_epoch": 1598150781.149727,
             "included_at_iso": "2020-08-23T02:46:21.149727",
