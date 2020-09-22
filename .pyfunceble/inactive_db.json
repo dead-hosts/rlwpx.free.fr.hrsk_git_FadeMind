@@ -525,13 +525,6 @@
             "last_retested_at_iso": "2020-09-22T03:19:26.727427",
             "status": "INACTIVE"
         },
-        "24.48.145.147.usa2net.net": {
-            "included_at_epoch": 1598326414.195047,
-            "included_at_iso": "2020-08-25T03:33:34.195047",
-            "last_retested_at_epoch": 1598499244.925716,
-            "last_retested_at_iso": "2020-08-27T03:34:04.925716",
-            "status": "INACTIVE"
-        },
         "240.35-241-81.adsl-dyn.isp.belgacom.be": {
             "included_at_epoch": 1598844558.047627,
             "included_at_iso": "2020-08-31T03:29:18.047627",
@@ -670,6 +663,20 @@
             "included_at_iso": "2020-09-22T03:36:48.281520",
             "last_retested_at_epoch": 1600745808.28152,
             "last_retested_at_iso": "2020-09-22T03:36:48.281520",
+            "status": "INACTIVE"
+        },
+        "6.jsdx3.crsky.com": {
+            "included_at_epoch": 1600746124.229495,
+            "included_at_iso": "2020-09-22T03:42:04.229495",
+            "last_retested_at_epoch": 1600746124.229495,
+            "last_retested_at_iso": "2020-09-22T03:42:04.229495",
+            "status": "INACTIVE"
+        },
+        "6.scdx3.crsky.com": {
+            "included_at_epoch": 1600746124.239706,
+            "included_at_iso": "2020-09-22T03:42:04.239706",
+            "last_retested_at_epoch": 1600746124.239706,
+            "last_retested_at_iso": "2020-09-22T03:42:04.239706",
             "status": "INACTIVE"
         },
         "61-70-224-16.adsl.static.giga.net.tw": {
