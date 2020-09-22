@@ -119,6 +119,20 @@
             "last_retested_at_iso": "2020-09-22T01:36:44.822242",
             "status": "INACTIVE"
         },
+        "13tw22rigobert.de": {
+            "included_at_epoch": 1600739633.269648,
+            "included_at_iso": "2020-09-22T01:53:53.269648",
+            "last_retested_at_epoch": 1600739633.269648,
+            "last_retested_at_iso": "2020-09-22T01:53:53.269648",
+            "status": "INACTIVE"
+        },
+        "144.130-62-69.ftth.swbr.surewest.net": {
+            "included_at_epoch": 1600739633.336964,
+            "included_at_iso": "2020-09-22T01:53:53.336964",
+            "last_retested_at_epoch": 1600739633.336964,
+            "last_retested_at_iso": "2020-09-22T01:53:53.336964",
+            "status": "INACTIVE"
+        },
         "15-085.031.popsite.net": {
             "included_at_epoch": 1599183996.625283,
             "included_at_iso": "2020-09-04T01:46:36.625283",
@@ -131,6 +145,20 @@
             "included_at_iso": "2020-09-02T01:45:43.072861",
             "last_retested_at_epoch": 1599011143.072861,
             "last_retested_at_iso": "2020-09-02T01:45:43.072861",
+            "status": "INACTIVE"
+        },
+        "166-186-42-89-cable.canals.ro": {
+            "included_at_epoch": 1600739633.57867,
+            "included_at_iso": "2020-09-22T01:53:53.578670",
+            "last_retested_at_epoch": 1600739633.57867,
+            "last_retested_at_iso": "2020-09-22T01:53:53.578670",
+            "status": "INACTIVE"
+        },
+        "168-100-182-165.static.cloud9.net": {
+            "included_at_epoch": 1600739633.602811,
+            "included_at_iso": "2020-09-22T01:53:53.602811",
+            "last_retested_at_epoch": 1600739633.602811,
+            "last_retested_at_iso": "2020-09-22T01:53:53.602811",
             "status": "INACTIVE"
         },
         "18.172-201-80.adsl-dyn.isp.belgacom.be": {
