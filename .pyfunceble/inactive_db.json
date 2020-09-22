@@ -357,6 +357,48 @@
             "last_retested_at_iso": "2020-08-31T03:05:04.437598",
             "status": "INACTIVE"
         },
+        "213-33-10-217.adsl.highway.telekom.at": {
+            "included_at_epoch": 1600743744.012885,
+            "included_at_iso": "2020-09-22T03:02:24.012885",
+            "last_retested_at_epoch": 1600743744.012885,
+            "last_retested_at_iso": "2020-09-22T03:02:24.012885",
+            "status": "INACTIVE"
+        },
+        "214-185-42-89-cable.canals.ro": {
+            "included_at_epoch": 1600743744.165209,
+            "included_at_iso": "2020-09-22T03:02:24.165209",
+            "last_retested_at_epoch": 1600743744.165209,
+            "last_retested_at_iso": "2020-09-22T03:02:24.165209",
+            "status": "INACTIVE"
+        },
+        "216-73-119-74.ocdc-01.net": {
+            "included_at_epoch": 1600743744.229746,
+            "included_at_iso": "2020-09-22T03:02:24.229746",
+            "last_retested_at_epoch": 1600743744.229746,
+            "last_retested_at_iso": "2020-09-22T03:02:24.229746",
+            "status": "INACTIVE"
+        },
+        "219-69-19-17.idc.static.giga.net.tw": {
+            "included_at_epoch": 1600743744.720141,
+            "included_at_iso": "2020-09-22T03:02:24.720141",
+            "last_retested_at_epoch": 1600743744.720141,
+            "last_retested_at_iso": "2020-09-22T03:02:24.720141",
+            "status": "INACTIVE"
+        },
+        "219-69-19-36.idc.static.giga.net.tw": {
+            "included_at_epoch": 1600743744.72533,
+            "included_at_iso": "2020-09-22T03:02:24.725330",
+            "last_retested_at_epoch": 1600743744.72533,
+            "last_retested_at_iso": "2020-09-22T03:02:24.725330",
+            "status": "INACTIVE"
+        },
+        "219-69-50-213.idc.static.giga.net.tw": {
+            "included_at_epoch": 1600743744.730673,
+            "included_at_iso": "2020-09-22T03:02:24.730673",
+            "last_retested_at_epoch": 1600743744.730673,
+            "last_retested_at_iso": "2020-09-22T03:02:24.730673",
+            "status": "INACTIVE"
+        },
         "231.81-200-80.adsl-dyn.isp.belgacom.be": {
             "included_at_epoch": 1598844557.9159,
             "included_at_iso": "2020-08-31T03:29:17.915900",
