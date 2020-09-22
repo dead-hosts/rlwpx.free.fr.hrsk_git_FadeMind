@@ -175,11 +175,46 @@
             "last_retested_at_iso": "2020-08-27T02:07:44.090413",
             "status": "INACTIVE"
         },
+        "194-224-38-89-cable.canals.ro": {
+            "included_at_epoch": 1600740660.359117,
+            "included_at_iso": "2020-09-22T02:11:00.359117",
+            "last_retested_at_epoch": 1600740660.359117,
+            "last_retested_at_iso": "2020-09-22T02:11:00.359117",
+            "status": "INACTIVE"
+        },
+        "195-12-231-207.customer.teliacarrier.com": {
+            "included_at_epoch": 1600740660.371132,
+            "included_at_iso": "2020-09-22T02:11:00.371132",
+            "last_retested_at_epoch": 1600740660.371132,
+            "last_retested_at_iso": "2020-09-22T02:11:00.371132",
+            "status": "INACTIVE"
+        },
         "197-45.thezone.bg": {
             "included_at_epoch": 1600567806.074537,
             "included_at_iso": "2020-09-20T02:10:06.074537",
             "last_retested_at_epoch": 1600567806.074537,
             "last_retested_at_iso": "2020-09-20T02:10:06.074537",
+            "status": "INACTIVE"
+        },
+        "1sheep.info": {
+            "included_at_epoch": 1600740660.571581,
+            "included_at_iso": "2020-09-22T02:11:00.571581",
+            "last_retested_at_epoch": 1600740660.571581,
+            "last_retested_at_iso": "2020-09-22T02:11:00.571581",
+            "status": "INACTIVE"
+        },
+        "1x-193-157-194-200.uio.no": {
+            "included_at_epoch": 1600740660.605964,
+            "included_at_iso": "2020-09-22T02:11:00.605964",
+            "last_retested_at_epoch": 1600740660.605964,
+            "last_retested_at_iso": "2020-09-22T02:11:00.605964",
+            "status": "INACTIVE"
+        },
+        "200.124-113-64.ftth.swbr.surewest.net": {
+            "included_at_epoch": 1600740660.652134,
+            "included_at_iso": "2020-09-22T02:11:00.652134",
+            "last_retested_at_epoch": 1600740660.652134,
+            "last_retested_at_iso": "2020-09-22T02:11:00.652134",
             "status": "INACTIVE"
         },
         "201-83.thezone.bg": {
