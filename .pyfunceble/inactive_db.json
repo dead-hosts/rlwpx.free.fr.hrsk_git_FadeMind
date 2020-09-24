@@ -532,6 +532,13 @@
             "last_retested_at_iso": "2020-09-22T03:19:26.727427",
             "status": "INACTIVE"
         },
+        "24.48.145.147.usa2net.net": {
+            "included_at_epoch": 1600917819.307669,
+            "included_at_iso": "2020-09-24T03:23:39.307669",
+            "last_retested_at_epoch": 1600917819.307669,
+            "last_retested_at_iso": "2020-09-24T03:23:39.307669",
+            "status": "INACTIVE"
+        },
         "240.35-241-81.adsl-dyn.isp.belgacom.be": {
             "included_at_epoch": 1598844558.047627,
             "included_at_iso": "2020-08-31T03:29:18.047627",
