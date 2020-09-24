@@ -168,6 +168,13 @@
             "last_retested_at_iso": "2020-08-31T01:47:33.926943",
             "status": "INACTIVE"
         },
+        "1901.nordstrom.com": {
+            "included_at_epoch": 1600913621.090707,
+            "included_at_iso": "2020-09-24T02:13:41.090707",
+            "last_retested_at_epoch": 1600913621.090707,
+            "last_retested_at_iso": "2020-09-24T02:13:41.090707",
+            "status": "INACTIVE"
+        },
         "194-224-38-89-cable.canals.ro": {
             "included_at_epoch": 1600740660.359117,
             "included_at_iso": "2020-09-22T02:11:00.359117",
