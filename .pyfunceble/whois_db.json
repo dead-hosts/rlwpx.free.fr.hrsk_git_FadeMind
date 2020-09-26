@@ -1481,7 +1481,8 @@
     "5558x7.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "55880.cn": {
         "epoch": 1606694400.0,
