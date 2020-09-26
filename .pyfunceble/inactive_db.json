@@ -27965,6 +27965,34 @@
             "last_retested_at_iso": "2020-09-22T03:42:04.239706",
             "status": "INACTIVE"
         },
+        "6.sub-70-211-6.myvzw.com": {
+            "included_at_epoch": 1601091938.548545,
+            "included_at_iso": "2020-09-26T03:45:38.548545",
+            "last_retested_at_epoch": 1601091938.548545,
+            "last_retested_at_iso": "2020-09-26T03:45:38.548545",
+            "status": "ACTIVE"
+        },
+        "6.sub-70-212-77.myvzw.com": {
+            "included_at_epoch": 1601091938.608418,
+            "included_at_iso": "2020-09-26T03:45:38.608418",
+            "last_retested_at_epoch": 1601091938.608418,
+            "last_retested_at_iso": "2020-09-26T03:45:38.608418",
+            "status": "ACTIVE"
+        },
+        "6.sub-70-222-217.myvzw.com": {
+            "included_at_epoch": 1601091938.72845,
+            "included_at_iso": "2020-09-26T03:45:38.728450",
+            "last_retested_at_epoch": 1601091938.72845,
+            "last_retested_at_iso": "2020-09-26T03:45:38.728450",
+            "status": "ACTIVE"
+        },
+        "6.zupload.com": {
+            "included_at_epoch": 1601091938.668511,
+            "included_at_iso": "2020-09-26T03:45:38.668511",
+            "last_retested_at_epoch": 1601091938.668511,
+            "last_retested_at_iso": "2020-09-26T03:45:38.668511",
+            "status": "ACTIVE"
+        },
         "60-234-124-91.pool.ukrtel.net": {
             "included_at_epoch": 1601091691.715978,
             "included_at_iso": "2020-09-26T03:41:31.715978",
@@ -29874,6 +29902,391 @@
             "included_at_iso": "2020-09-26T03:41:47.329247",
             "last_retested_at_epoch": 1601091707.329247,
             "last_retested_at_iso": "2020-09-26T03:41:47.329247",
+            "status": "ACTIVE"
+        },
+        "66-169-14-199.dhcp.spbg.sc.charter.com": {
+            "included_at_epoch": 1601091935.204804,
+            "included_at_iso": "2020-09-26T03:45:35.204804",
+            "last_retested_at_epoch": 1601091935.204804,
+            "last_retested_at_iso": "2020-09-26T03:45:35.204804",
+            "status": "ACTIVE"
+        },
+        "66-169-14-242.dhcp.spbg.sc.charter.com": {
+            "included_at_epoch": 1601091935.267469,
+            "included_at_iso": "2020-09-26T03:45:35.267469",
+            "last_retested_at_epoch": 1601091935.267469,
+            "last_retested_at_iso": "2020-09-26T03:45:35.267469",
+            "status": "ACTIVE"
+        },
+        "66-169-15-185.dhcp.spbg.sc.charter.com": {
+            "included_at_epoch": 1601091935.389161,
+            "included_at_iso": "2020-09-26T03:45:35.389161",
+            "last_retested_at_epoch": 1601091935.389161,
+            "last_retested_at_iso": "2020-09-26T03:45:35.389161",
+            "status": "ACTIVE"
+        },
+        "66-169-151-219.dhcp.ftwo.tx.charter.com": {
+            "included_at_epoch": 1601091935.329276,
+            "included_at_iso": "2020-09-26T03:45:35.329276",
+            "last_retested_at_epoch": 1601091935.329276,
+            "last_retested_at_iso": "2020-09-26T03:45:35.329276",
+            "status": "ACTIVE"
+        },
+        "66-169-39-223.dhcp.gnvl.sc.charter.com": {
+            "included_at_epoch": 1601091935.449408,
+            "included_at_iso": "2020-09-26T03:45:35.449408",
+            "last_retested_at_epoch": 1601091935.449408,
+            "last_retested_at_iso": "2020-09-26T03:45:35.449408",
+            "status": "ACTIVE"
+        },
+        "66-169-41-127.dhcp.gnvl.sc.charter.com": {
+            "included_at_epoch": 1601091935.510045,
+            "included_at_iso": "2020-09-26T03:45:35.510045",
+            "last_retested_at_epoch": 1601091935.510045,
+            "last_retested_at_iso": "2020-09-26T03:45:35.510045",
+            "status": "ACTIVE"
+        },
+        "66-169-42-244.dhcp.gnvl.sc.charter.com": {
+            "included_at_epoch": 1601091935.630264,
+            "included_at_iso": "2020-09-26T03:45:35.630264",
+            "last_retested_at_epoch": 1601091935.630264,
+            "last_retested_at_iso": "2020-09-26T03:45:35.630264",
+            "status": "ACTIVE"
+        },
+        "66-169-46-238.dhcp.gnvl.sc.charter.com": {
+            "included_at_epoch": 1601091935.570407,
+            "included_at_iso": "2020-09-26T03:45:35.570407",
+            "last_retested_at_epoch": 1601091935.570407,
+            "last_retested_at_iso": "2020-09-26T03:45:35.570407",
+            "status": "ACTIVE"
+        },
+        "66-169-8-250.dhcp.spbg.sc.charter.com": {
+            "included_at_epoch": 1601091935.690247,
+            "included_at_iso": "2020-09-26T03:45:35.690247",
+            "last_retested_at_epoch": 1601091935.690247,
+            "last_retested_at_iso": "2020-09-26T03:45:35.690247",
+            "status": "ACTIVE"
+        },
+        "66-178-43-201.reverse.newskies.net": {
+            "included_at_epoch": 1601091935.749782,
+            "included_at_iso": "2020-09-26T03:45:35.749782",
+            "last_retested_at_epoch": 1601091935.749782,
+            "last_retested_at_iso": "2020-09-26T03:45:35.749782",
+            "status": "ACTIVE"
+        },
+        "66-188-75-140.dhcp.athn.ga.charter.com": {
+            "included_at_epoch": 1601091935.808441,
+            "included_at_iso": "2020-09-26T03:45:35.808441",
+            "last_retested_at_epoch": 1601091935.808441,
+            "last_retested_at_iso": "2020-09-26T03:45:35.808441",
+            "status": "ACTIVE"
+        },
+        "66-189-105-253.dhcp.oxfr.ma.charter.com": {
+            "included_at_epoch": 1601091935.867844,
+            "included_at_iso": "2020-09-26T03:45:35.867844",
+            "last_retested_at_epoch": 1601091935.867844,
+            "last_retested_at_iso": "2020-09-26T03:45:35.867844",
+            "status": "ACTIVE"
+        },
+        "66-189-246-99.dhcp.lgrn.ga.charter.com": {
+            "included_at_epoch": 1601091935.986349,
+            "included_at_iso": "2020-09-26T03:45:35.986349",
+            "last_retested_at_epoch": 1601091935.986349,
+            "last_retested_at_iso": "2020-09-26T03:45:35.986349",
+            "status": "ACTIVE"
+        },
+        "66-189-64-104.dhcp.oxfr.ma.charter.com": {
+            "included_at_epoch": 1601091935.927333,
+            "included_at_iso": "2020-09-26T03:45:35.927333",
+            "last_retested_at_epoch": 1601091935.927333,
+            "last_retested_at_iso": "2020-09-26T03:45:35.927333",
+            "status": "ACTIVE"
+        },
+        "66-189-65-31.dhcp.oxfr.ma.charter.com": {
+            "included_at_epoch": 1601091936.105242,
+            "included_at_iso": "2020-09-26T03:45:36.105242",
+            "last_retested_at_epoch": 1601091936.105242,
+            "last_retested_at_iso": "2020-09-26T03:45:36.105242",
+            "status": "ACTIVE"
+        },
+        "66-189-69-11.dhcp.oxfr.ma.charter.com": {
+            "included_at_epoch": 1601091936.046272,
+            "included_at_iso": "2020-09-26T03:45:36.046272",
+            "last_retested_at_epoch": 1601091936.046272,
+            "last_retested_at_iso": "2020-09-26T03:45:36.046272",
+            "status": "ACTIVE"
+        },
+        "66-190-175-221.dhcp.thtn.ga.charter.com": {
+            "included_at_epoch": 1601091936.193732,
+            "included_at_iso": "2020-09-26T03:45:36.193732",
+            "last_retested_at_epoch": 1601091936.193732,
+            "last_retested_at_iso": "2020-09-26T03:45:36.193732",
+            "status": "ACTIVE"
+        },
+        "66-190-204-31.dhcp.thbd.la.charter.com": {
+            "included_at_epoch": 1601091936.253198,
+            "included_at_iso": "2020-09-26T03:45:36.253198",
+            "last_retested_at_epoch": 1601091936.253198,
+            "last_retested_at_iso": "2020-09-26T03:45:36.253198",
+            "status": "ACTIVE"
+        },
+        "66-190-222-91.dhcp.slid.la.charter.com": {
+            "included_at_epoch": 1601091936.312999,
+            "included_at_iso": "2020-09-26T03:45:36.312999",
+            "last_retested_at_epoch": 1601091936.312999,
+            "last_retested_at_iso": "2020-09-26T03:45:36.312999",
+            "status": "ACTIVE"
+        },
+        "66-191-161-225.dhcp.gnvl.sc.charter.com": {
+            "included_at_epoch": 1601091936.372267,
+            "included_at_iso": "2020-09-26T03:45:36.372267",
+            "last_retested_at_epoch": 1601091936.372267,
+            "last_retested_at_iso": "2020-09-26T03:45:36.372267",
+            "status": "ACTIVE"
+        },
+        "66-191-162-186.dhcp.gnvl.sc.charter.com": {
+            "included_at_epoch": 1601091936.433399,
+            "included_at_iso": "2020-09-26T03:45:36.433399",
+            "last_retested_at_epoch": 1601091936.433399,
+            "last_retested_at_iso": "2020-09-26T03:45:36.433399",
+            "status": "ACTIVE"
+        },
+        "66-191-165-173.dhcp.gnvl.sc.charter.com": {
+            "included_at_epoch": 1601091936.493194,
+            "included_at_iso": "2020-09-26T03:45:36.493194",
+            "last_retested_at_epoch": 1601091936.493194,
+            "last_retested_at_iso": "2020-09-26T03:45:36.493194",
+            "status": "ACTIVE"
+        },
+        "66-191-17-8.dhcp.rsbg.or.charter.com": {
+            "included_at_epoch": 1601091936.553289,
+            "included_at_iso": "2020-09-26T03:45:36.553289",
+            "last_retested_at_epoch": 1601091936.553289,
+            "last_retested_at_iso": "2020-09-26T03:45:36.553289",
+            "status": "ACTIVE"
+        },
+        "66-191-194-173.dhcp.spbg.sc.charter.com": {
+            "included_at_epoch": 1601091936.613263,
+            "included_at_iso": "2020-09-26T03:45:36.613263",
+            "last_retested_at_epoch": 1601091936.613263,
+            "last_retested_at_iso": "2020-09-26T03:45:36.613263",
+            "status": "ACTIVE"
+        },
+        "66-191-228-245.dhcp.kgpt.tn.charter.com": {
+            "included_at_epoch": 1601091936.675346,
+            "included_at_iso": "2020-09-26T03:45:36.675346",
+            "last_retested_at_epoch": 1601091936.675346,
+            "last_retested_at_iso": "2020-09-26T03:45:36.675346",
+            "status": "ACTIVE"
+        },
+        "66-191-231-240.dhcp.kgpt.tn.charter.com": {
+            "included_at_epoch": 1601091936.736686,
+            "included_at_iso": "2020-09-26T03:45:36.736686",
+            "last_retested_at_epoch": 1601091936.736686,
+            "last_retested_at_iso": "2020-09-26T03:45:36.736686",
+            "status": "ACTIVE"
+        },
+        "66-191-232-147.dhcp.kgpt.tn.charter.com": {
+            "included_at_epoch": 1601091936.798565,
+            "included_at_iso": "2020-09-26T03:45:36.798565",
+            "last_retested_at_epoch": 1601091936.798565,
+            "last_retested_at_iso": "2020-09-26T03:45:36.798565",
+            "status": "ACTIVE"
+        },
+        "66-191-234-83.dhcp.kgpt.tn.charter.com": {
+            "included_at_epoch": 1601091936.860109,
+            "included_at_iso": "2020-09-26T03:45:36.860109",
+            "last_retested_at_epoch": 1601091936.860109,
+            "last_retested_at_iso": "2020-09-26T03:45:36.860109",
+            "status": "ACTIVE"
+        },
+        "66-191-248-17.dhcp.kgpt.tn.charter.com": {
+            "included_at_epoch": 1601091936.92309,
+            "included_at_iso": "2020-09-26T03:45:36.923090",
+            "last_retested_at_epoch": 1601091936.92309,
+            "last_retested_at_iso": "2020-09-26T03:45:36.923090",
+            "status": "ACTIVE"
+        },
+        "66-191-249-167.dhcp.kgpt.tn.charter.com": {
+            "included_at_epoch": 1601091936.985502,
+            "included_at_iso": "2020-09-26T03:45:36.985502",
+            "last_retested_at_epoch": 1601091936.985502,
+            "last_retested_at_iso": "2020-09-26T03:45:36.985502",
+            "status": "ACTIVE"
+        },
+        "66-191-95-148.dhcp.stpt.wi.charter.com": {
+            "included_at_epoch": 1601091937.10811,
+            "included_at_iso": "2020-09-26T03:45:37.108110",
+            "last_retested_at_epoch": 1601091937.10811,
+            "last_retested_at_iso": "2020-09-26T03:45:37.108110",
+            "status": "ACTIVE"
+        },
+        "66-194-168-122.static.twtelecom.net": {
+            "included_at_epoch": 1601091937.047053,
+            "included_at_iso": "2020-09-26T03:45:37.047053",
+            "last_retested_at_epoch": 1601091937.047053,
+            "last_retested_at_iso": "2020-09-26T03:45:37.047053",
+            "status": "ACTIVE"
+        },
+        "66-200-117-220.client.dsl.net": {
+            "included_at_epoch": 1601091937.228936,
+            "included_at_iso": "2020-09-26T03:45:37.228936",
+            "last_retested_at_epoch": 1601091937.228936,
+            "last_retested_at_iso": "2020-09-26T03:45:37.228936",
+            "status": "ACTIVE"
+        },
+        "66-214-1-81.dhcp.lnbh.ca.charter.com": {
+            "included_at_epoch": 1601091937.34844,
+            "included_at_iso": "2020-09-26T03:45:37.348440",
+            "last_retested_at_epoch": 1601091937.34844,
+            "last_retested_at_iso": "2020-09-26T03:45:37.348440",
+            "status": "ACTIVE"
+        },
+        "66-214-112-95.dhcp.hspr.ca.charter.com": {
+            "included_at_epoch": 1601091937.168519,
+            "included_at_iso": "2020-09-26T03:45:37.168519",
+            "last_retested_at_epoch": 1601091937.168519,
+            "last_retested_at_iso": "2020-09-26T03:45:37.168519",
+            "status": "ACTIVE"
+        },
+        "66-214-116-46.dhcp.hspr.ca.charter.com": {
+            "included_at_epoch": 1601091937.2886,
+            "included_at_iso": "2020-09-26T03:45:37.288600",
+            "last_retested_at_epoch": 1601091937.2886,
+            "last_retested_at_iso": "2020-09-26T03:45:37.288600",
+            "status": "ACTIVE"
+        },
+        "66-215-113-140.dhcp.snlo.ca.charter.com": {
+            "included_at_epoch": 1601091937.408458,
+            "included_at_iso": "2020-09-26T03:45:37.408458",
+            "last_retested_at_epoch": 1601091937.408458,
+            "last_retested_at_iso": "2020-09-26T03:45:37.408458",
+            "status": "ACTIVE"
+        },
+        "66-215-161-155.dhcp.rvsd.ca.charter.com": {
+            "included_at_epoch": 1601091937.468556,
+            "included_at_iso": "2020-09-26T03:45:37.468556",
+            "last_retested_at_epoch": 1601091937.468556,
+            "last_retested_at_iso": "2020-09-26T03:45:37.468556",
+            "status": "ACTIVE"
+        },
+        "66-215-203-53.dhcp.rvsd.ca.charter.com": {
+            "included_at_epoch": 1601091937.58876,
+            "included_at_iso": "2020-09-26T03:45:37.588760",
+            "last_retested_at_epoch": 1601091937.58876,
+            "last_retested_at_iso": "2020-09-26T03:45:37.588760",
+            "status": "ACTIVE"
+        },
+        "66-215-247-101.dhcp.rvsd.ca.charter.com": {
+            "included_at_epoch": 1601091937.528947,
+            "included_at_iso": "2020-09-26T03:45:37.528947",
+            "last_retested_at_epoch": 1601091937.528947,
+            "last_retested_at_iso": "2020-09-26T03:45:37.528947",
+            "status": "ACTIVE"
+        },
+        "66-215-38-191.dhcp.hspr.ca.charter.com": {
+            "included_at_epoch": 1601091937.648548,
+            "included_at_iso": "2020-09-26T03:45:37.648548",
+            "last_retested_at_epoch": 1601091937.648548,
+            "last_retested_at_iso": "2020-09-26T03:45:37.648548",
+            "status": "ACTIVE"
+        },
+        "66-215-61-24.dhcp.atsc.ca.charter.com": {
+            "included_at_epoch": 1601091937.769696,
+            "included_at_iso": "2020-09-26T03:45:37.769696",
+            "last_retested_at_epoch": 1601091937.769696,
+            "last_retested_at_iso": "2020-09-26T03:45:37.769696",
+            "status": "ACTIVE"
+        },
+        "66-215-61-247.dhcp.atsc.ca.charter.com": {
+            "included_at_epoch": 1601091937.709453,
+            "included_at_iso": "2020-09-26T03:45:37.709453",
+            "last_retested_at_epoch": 1601091937.709453,
+            "last_retested_at_iso": "2020-09-26T03:45:37.709453",
+            "status": "ACTIVE"
+        },
+        "66-215-86-103.dhcp.psdn.ca.charter.com": {
+            "included_at_epoch": 1601091937.829865,
+            "included_at_iso": "2020-09-26T03:45:37.829865",
+            "last_retested_at_epoch": 1601091937.829865,
+            "last_retested_at_iso": "2020-09-26T03:45:37.829865",
+            "status": "ACTIVE"
+        },
+        "66-215-92-157.dhcp.psdn.ca.charter.com": {
+            "included_at_epoch": 1601091937.889696,
+            "included_at_iso": "2020-09-26T03:45:37.889696",
+            "last_retested_at_epoch": 1601091937.889696,
+            "last_retested_at_iso": "2020-09-26T03:45:37.889696",
+            "status": "ACTIVE"
+        },
+        "66-215-93-135.dhcp.psdn.ca.charter.com": {
+            "included_at_epoch": 1601091937.94925,
+            "included_at_iso": "2020-09-26T03:45:37.949250",
+            "last_retested_at_epoch": 1601091937.94925,
+            "last_retested_at_iso": "2020-09-26T03:45:37.949250",
+            "status": "ACTIVE"
+        },
+        "66-226-75-10.dedicated.abac.net": {
+            "included_at_epoch": 1601091938.068618,
+            "included_at_iso": "2020-09-26T03:45:38.068618",
+            "last_retested_at_epoch": 1601091938.068618,
+            "last_retested_at_iso": "2020-09-26T03:45:38.068618",
+            "status": "ACTIVE"
+        },
+        "66-231-194-106.oxfordnetworks.net": {
+            "included_at_epoch": 1601091938.008506,
+            "included_at_iso": "2020-09-26T03:45:38.008506",
+            "last_retested_at_epoch": 1601091938.008506,
+            "last_retested_at_iso": "2020-09-26T03:45:38.008506",
+            "status": "ACTIVE"
+        },
+        "66-38-113-90.pool.dsl.nctc.com": {
+            "included_at_epoch": 1601091938.188818,
+            "included_at_iso": "2020-09-26T03:45:38.188818",
+            "last_retested_at_epoch": 1601091938.188818,
+            "last_retested_at_iso": "2020-09-26T03:45:38.188818",
+            "status": "ACTIVE"
+        },
+        "66-38-116-134.pool.dsl.nctc.com": {
+            "included_at_epoch": 1601091938.1293,
+            "included_at_iso": "2020-09-26T03:45:38.129300",
+            "last_retested_at_epoch": 1601091938.1293,
+            "last_retested_at_iso": "2020-09-26T03:45:38.129300",
+            "status": "ACTIVE"
+        },
+        "66-50-23-1.prtc.net": {
+            "included_at_epoch": 1601091938.24835,
+            "included_at_iso": "2020-09-26T03:45:38.248350",
+            "last_retested_at_epoch": 1601091938.24835,
+            "last_retested_at_iso": "2020-09-26T03:45:38.248350",
+            "status": "ACTIVE"
+        },
+        "66-50-23-30.prtc.net": {
+            "included_at_epoch": 1601091938.309031,
+            "included_at_iso": "2020-09-26T03:45:38.309031",
+            "last_retested_at_epoch": 1601091938.309031,
+            "last_retested_at_iso": "2020-09-26T03:45:38.309031",
+            "status": "ACTIVE"
+        },
+        "66-50-4-143.prtc.net": {
+            "included_at_epoch": 1601091938.427943,
+            "included_at_iso": "2020-09-26T03:45:38.427943",
+            "last_retested_at_epoch": 1601091938.427943,
+            "last_retested_at_iso": "2020-09-26T03:45:38.427943",
+            "status": "ACTIVE"
+        },
+        "66-50-83-12.prtc.net": {
+            "included_at_epoch": 1601091938.36849,
+            "included_at_iso": "2020-09-26T03:45:38.368490",
+            "last_retested_at_epoch": 1601091938.36849,
+            "last_retested_at_iso": "2020-09-26T03:45:38.368490",
+            "status": "ACTIVE"
+        },
+        "66-50-83-15.prtc.net": {
+            "included_at_epoch": 1601091938.488275,
+            "included_at_iso": "2020-09-26T03:45:38.488275",
+            "last_retested_at_epoch": 1601091938.488275,
+            "last_retested_at_iso": "2020-09-26T03:45:38.488275",
             "status": "ACTIVE"
         }
     },
