@@ -2625,6 +2625,13 @@
             "last_retested_at_iso": "2020-09-26T01:39:42.997382",
             "status": "ACTIVE"
         },
+        "12.147-62-69.ftth.swbr.surewest.net": {
+            "included_at_epoch": 1601256470.733053,
+            "included_at_iso": "2020-09-28T01:27:50.733053",
+            "last_retested_at_epoch": 1601256470.733053,
+            "last_retested_at_iso": "2020-09-28T01:27:50.733053",
+            "status": "INACTIVE"
+        },
         "12.162.174.70.coalfld.static.coalfields.net": {
             "included_at_epoch": 1601084383.04121,
             "included_at_iso": "2020-09-26T01:39:43.041210",
@@ -3631,6 +3638,13 @@
             "included_at_iso": "2020-09-26T01:39:44.443737",
             "last_retested_at_epoch": 1601084384.443737,
             "last_retested_at_iso": "2020-09-26T01:39:44.443737",
+            "status": "ACTIVE"
+        },
+        "13.costretto.com": {
+            "included_at_epoch": 1601256470.799084,
+            "included_at_iso": "2020-09-28T01:27:50.799084",
+            "last_retested_at_epoch": 1601256470.799084,
+            "last_retested_at_iso": "2020-09-28T01:27:50.799084",
             "status": "ACTIVE"
         },
         "13.sharedsource.org": {
@@ -16142,6 +16156,13 @@
             "last_retested_at_iso": "2020-09-26T02:48:57.692814",
             "status": "ACTIVE"
         },
+        "202-110.thezone.bg": {
+            "included_at_epoch": 1601256470.875966,
+            "included_at_iso": "2020-09-28T01:27:50.875966",
+            "last_retested_at_epoch": 1601256470.875966,
+            "last_retested_at_iso": "2020-09-28T01:27:50.875966",
+            "status": "ACTIVE"
+        },
         "202-123-79-15.static.hdcdatacentre.com": {
             "included_at_epoch": 1601088537.760712,
             "included_at_iso": "2020-09-26T02:48:57.760712",
@@ -23598,10 +23619,10 @@
             "status": "ACTIVE"
         },
         "2jo.info": {
-            "included_at_epoch": 1598673179.58278,
-            "included_at_iso": "2020-08-29T03:52:59.582780",
-            "last_retested_at_epoch": 1598673179.58278,
-            "last_retested_at_iso": "2020-08-29T03:52:59.582780",
+            "included_at_epoch": 1601256470.941568,
+            "included_at_iso": "2020-09-28T01:27:50.941568",
+            "last_retested_at_epoch": 1601256470.941568,
+            "last_retested_at_iso": "2020-09-28T01:27:50.941568",
             "status": "INACTIVE"
         },
         "2k3net.110mb.com": {
@@ -27280,24 +27301,24 @@
             "status": "ACTIVE"
         },
         "5571e4b6.ftth.concepts.nl": {
-            "included_at_epoch": 1598674212.828123,
-            "included_at_iso": "2020-08-29T04:10:12.828123",
-            "last_retested_at_epoch": 1598674212.828123,
-            "last_retested_at_iso": "2020-08-29T04:10:12.828123",
+            "included_at_epoch": 1601256471.036499,
+            "included_at_iso": "2020-09-28T01:27:51.036499",
+            "last_retested_at_epoch": 1601256471.036499,
+            "last_retested_at_iso": "2020-09-28T01:27:51.036499",
             "status": "INACTIVE"
         },
         "5571f46e.ftth.concepts.nl": {
-            "included_at_epoch": 1598674212.839577,
-            "included_at_iso": "2020-08-29T04:10:12.839577",
-            "last_retested_at_epoch": 1598674212.839577,
-            "last_retested_at_iso": "2020-08-29T04:10:12.839577",
+            "included_at_epoch": 1601256471.100338,
+            "included_at_iso": "2020-09-28T01:27:51.100338",
+            "last_retested_at_epoch": 1601256471.100338,
+            "last_retested_at_iso": "2020-09-28T01:27:51.100338",
             "status": "INACTIVE"
         },
         "5571f6ce.ftth.concepts.nl": {
-            "included_at_epoch": 1598674212.83386,
-            "included_at_iso": "2020-08-29T04:10:12.833860",
-            "last_retested_at_epoch": 1598674212.83386,
-            "last_retested_at_iso": "2020-08-29T04:10:12.833860",
+            "included_at_epoch": 1601256471.165665,
+            "included_at_iso": "2020-09-28T01:27:51.165665",
+            "last_retested_at_epoch": 1601256471.165665,
+            "last_retested_at_iso": "2020-09-28T01:27:51.165665",
             "status": "INACTIVE"
         },
         "55880.cn": {
@@ -29569,11 +29590,11 @@
             "status": "INACTIVE"
         },
         "64.89.76.24.nw.nuvox.net": {
-            "included_at_epoch": 1598674213.960497,
-            "included_at_iso": "2020-08-29T04:10:13.960497",
-            "last_retested_at_epoch": 1598674213.960497,
-            "last_retested_at_iso": "2020-08-29T04:10:13.960497",
-            "status": "INACTIVE"
+            "included_at_epoch": 1601256471.229668,
+            "included_at_iso": "2020-09-28T01:27:51.229668",
+            "last_retested_at_epoch": 1601256471.229668,
+            "last_retested_at_iso": "2020-09-28T01:27:51.229668",
+            "status": "ACTIVE"
         },
         "64.red-88-31-85.staticip.rima-tde.net": {
             "included_at_epoch": 1601091704.630373,
