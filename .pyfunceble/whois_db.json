@@ -1398,8 +1398,9 @@
         "state": "future"
     },
     "4usd.com": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "4vcoin.com": {
@@ -1423,8 +1424,9 @@
         "state": "future"
     },
     "50pic.com": {
-        "epoch": 1603584000.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "50sbeachshack.com": {
@@ -1496,13 +1498,14 @@
     "554.us": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
-        "state": "future"
+        "server": "whois.nic.us",
+        "state": "past"
     },
     "5558x7.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "55880.cn": {
         "epoch": 1606694400.0,
@@ -1541,8 +1544,9 @@
         "state": "future"
     },
     "5qzone.net": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "5sec.info": {
