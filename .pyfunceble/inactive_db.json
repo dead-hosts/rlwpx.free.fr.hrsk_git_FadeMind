@@ -3606,10 +3606,10 @@
             "status": "ACTIVE"
         },
         "13-074.190.popsite.net": {
-            "included_at_epoch": 1602207134.515758,
-            "included_at_iso": "2020-10-09T01:32:14.515758",
-            "last_retested_at_epoch": 1602553699.901013,
-            "last_retested_at_iso": "2020-10-13T01:48:19.901013",
+            "included_at_epoch": 1604628338.30899,
+            "included_at_iso": "2020-11-06T02:05:38.308990",
+            "last_retested_at_epoch": 1604628338.30899,
+            "last_retested_at_iso": "2020-11-06T02:05:38.308990",
             "status": "ACTIVE"
         },
         "13-103.031.popsite.net": {
@@ -23017,10 +23017,10 @@
             "status": "ACTIVE"
         },
         "247help-desk.com": {
-            "included_at_epoch": 1602207134.596546,
-            "included_at_iso": "2020-10-09T01:32:14.596546",
-            "last_retested_at_epoch": 1602207134.596546,
-            "last_retested_at_iso": "2020-10-09T01:32:14.596546",
+            "included_at_epoch": 1604628338.387222,
+            "included_at_iso": "2020-11-06T02:05:38.387222",
+            "last_retested_at_epoch": 1604628338.387222,
+            "last_retested_at_iso": "2020-11-06T02:05:38.387222",
             "status": "INACTIVE"
         },
         "247mahjong.com": {
