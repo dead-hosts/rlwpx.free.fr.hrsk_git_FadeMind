@@ -2591,11 +2591,11 @@
             "status": "ACTIVE"
         },
         "12-171.pptp.artx.ru": {
-            "included_at_epoch": 1603071414.051667,
-            "included_at_iso": "2020-10-19T01:36:54.051667",
-            "last_retested_at_epoch": 1604977110.503917,
-            "last_retested_at_iso": "2020-11-10T02:58:30.503917",
-            "status": "INACTIVE"
+            "included_at_epoch": 1605491480.75073,
+            "included_at_iso": "2020-11-16T01:51:20.750730",
+            "last_retested_at_epoch": 1605491480.75073,
+            "last_retested_at_iso": "2020-11-16T01:51:20.750730",
+            "status": "ACTIVE"
         },
         "12-175.031.popsite.net": {
             "included_at_epoch": 1603590860.629947,
@@ -9395,10 +9395,10 @@
             "status": "ACTIVE"
         },
         "197-45.thezone.bg": {
-            "included_at_epoch": 1603071414.147745,
-            "included_at_iso": "2020-10-19T01:36:54.147745",
-            "last_retested_at_epoch": 1603071414.147745,
-            "last_retested_at_iso": "2020-10-19T01:36:54.147745",
+            "included_at_epoch": 1605491480.843837,
+            "included_at_iso": "2020-11-16T01:51:20.843837",
+            "last_retested_at_epoch": 1605491480.843837,
+            "last_retested_at_iso": "2020-11-16T01:51:20.843837",
             "status": "ACTIVE"
         },
         "197.25.189.78.static.turktelekom.com.tr": {
@@ -16269,17 +16269,17 @@
             "status": "ACTIVE"
         },
         "203-174-83-55.rev.ne.com.sg": {
-            "included_at_epoch": 1603071414.211084,
-            "included_at_iso": "2020-10-19T01:36:54.211084",
-            "last_retested_at_epoch": 1603071414.211084,
-            "last_retested_at_iso": "2020-10-19T01:36:54.211084",
+            "included_at_epoch": 1605491480.907141,
+            "included_at_iso": "2020-11-16T01:51:20.907141",
+            "last_retested_at_epoch": 1605491480.907141,
+            "last_retested_at_iso": "2020-11-16T01:51:20.907141",
             "status": "INACTIVE"
         },
         "203-174-83-75.rev.ne.com.sg": {
-            "included_at_epoch": 1603071414.274488,
-            "included_at_iso": "2020-10-19T01:36:54.274488",
-            "last_retested_at_epoch": 1603071414.274488,
-            "last_retested_at_iso": "2020-10-19T01:36:54.274488",
+            "included_at_epoch": 1605491480.970694,
+            "included_at_iso": "2020-11-16T01:51:20.970694",
+            "last_retested_at_epoch": 1605491480.970694,
+            "last_retested_at_iso": "2020-11-16T01:51:20.970694",
             "status": "INACTIVE"
         },
         "203-199.126-70.tampabay.res.rr.com": {
