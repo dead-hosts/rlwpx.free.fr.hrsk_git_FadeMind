@@ -636,8 +636,9 @@
         "state": "future"
     },
     "1h1.net": {
-        "epoch": 1603843200.0,
-        "expiration_date": "28-oct-2020",
+        "epoch": 1635379200.0,
+        "expiration_date": "28-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1hour.info": {
@@ -734,8 +735,9 @@
         "state": "future"
     },
     "1tk.us": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
+        "server": "whois.nic.us",
         "state": "future"
     },
     "1trac.com": {
