@@ -1175,8 +1175,9 @@
         "state": "future"
     },
     "3monkeys.org": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "3neek.com": {
@@ -1210,8 +1211,9 @@
         "state": "future"
     },
     "3xstuff.com": {
-        "epoch": 1605312000.0,
-        "expiration_date": "14-nov-2020",
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "4-links.net": {
@@ -1220,8 +1222,9 @@
         "state": "future"
     },
     "403porn.com": {
-        "epoch": 1604880000.0,
-        "expiration_date": "09-nov-2020",
+        "epoch": 1636416000.0,
+        "expiration_date": "09-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "404search.com": {
@@ -1266,10 +1269,10 @@
         "state": "future"
     },
     "452.us": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
         "server": "whois.nic.us",
-        "state": "past"
+        "state": "future"
     },
     "45bytes.info": {
         "epoch": 1623888000.0,
@@ -1375,8 +1378,9 @@
         "state": "future"
     },
     "4pokertips.com": {
-        "epoch": 1604361600.0,
-        "expiration_date": "03-nov-2020",
+        "epoch": 1635897600.0,
+        "expiration_date": "03-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "4pu.com": {
@@ -1499,8 +1503,9 @@
         "state": "future"
     },
     "54417.cn": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "554.us": {
@@ -1547,8 +1552,9 @@
         "state": "future"
     },
     "5ok.org": {
-        "epoch": 1603756800.0,
-        "expiration_date": "27-oct-2020",
+        "epoch": 1635292800.0,
+        "expiration_date": "27-oct-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "5qzone.net": {
