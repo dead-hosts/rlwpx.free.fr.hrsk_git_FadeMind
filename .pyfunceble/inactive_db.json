@@ -182,13 +182,6 @@
             "last_retested_at_iso": "2020-11-28T02:39:54.243915",
             "status": "ACTIVE"
         },
-        "013.219113103.m-net.ne.jp": {
-            "included_at_epoch": 1604112696.491408,
-            "included_at_iso": "2020-10-31T02:51:36.491408",
-            "last_retested_at_epoch": 1606531194.431034,
-            "last_retested_at_iso": "2020-11-28T02:39:54.431034",
-            "status": "INACTIVE"
-        },
         "0141design.co.uk": {
             "included_at_epoch": 1606011117.138583,
             "included_at_iso": "2020-11-22T02:11:57.138583",
@@ -307,13 +300,6 @@
             "last_retested_at_epoch": 1606531195.676079,
             "last_retested_at_iso": "2020-11-28T02:39:55.676079",
             "status": "ACTIVE"
-        },
-        "046.221132170.m-net.ne.jp": {
-            "included_at_epoch": 1604112696.60151,
-            "included_at_iso": "2020-10-31T02:51:36.601510",
-            "last_retested_at_epoch": 1606531195.613738,
-            "last_retested_at_iso": "2020-11-28T02:39:55.613738",
-            "status": "INACTIVE"
         },
         "05.sharedsource.org": {
             "included_at_epoch": 1606011118.333832,
@@ -5188,10 +5174,10 @@
             "status": "ACTIVE"
         },
         "164.221132175.m-net.ne.jp": {
-            "included_at_epoch": 1604112696.668341,
-            "included_at_iso": "2020-10-31T02:51:36.668341",
-            "last_retested_at_epoch": 1604112696.668341,
-            "last_retested_at_iso": "2020-10-31T02:51:36.668341",
+            "included_at_epoch": 1606532099.594482,
+            "included_at_iso": "2020-11-28T02:54:59.594482",
+            "last_retested_at_epoch": 1606532099.594482,
+            "last_retested_at_iso": "2020-11-28T02:54:59.594482",
             "status": "INACTIVE"
         },
         "164.sub-70-208-206.myvzw.com": {
