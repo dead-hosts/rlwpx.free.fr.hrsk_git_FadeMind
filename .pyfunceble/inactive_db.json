@@ -18040,11 +18040,11 @@
             "status": "ACTIVE"
         },
         "212h248.compnet.pl": {
-            "included_at_epoch": 1605147642.028441,
-            "included_at_iso": "2020-11-12T02:20:42.028441",
-            "last_retested_at_epoch": 1605147642.028441,
-            "last_retested_at_iso": "2020-11-12T02:20:42.028441",
-            "status": "ACTIVE"
+            "included_at_epoch": 1607572108.452871,
+            "included_at_iso": "2020-12-10T03:48:28.452871",
+            "last_retested_at_epoch": 1607572108.452871,
+            "last_retested_at_iso": "2020-12-10T03:48:28.452871",
+            "status": "INACTIVE"
         },
         "213-133-109-58.clients.your-server.de": {
             "included_at_epoch": 1606017525.74043,
