@@ -189,8 +189,9 @@
         "state": "future"
     },
     "1-se.com": {
-        "epoch": 1607040000.0,
-        "expiration_date": "04-dec-2020",
+        "epoch": 1638576000.0,
+        "expiration_date": "04-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1.vg": {
@@ -589,8 +590,9 @@
         "state": "future"
     },
     "1allfree.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1annuaire.com": {
@@ -670,8 +672,9 @@
         "state": "future"
     },
     "1se.org": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "1se.ru": {
