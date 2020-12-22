@@ -767,8 +767,9 @@
         "state": "future"
     },
     "2007-search.com": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "2013-hacks.net": {
