@@ -2625,6 +2625,13 @@
             "last_retested_at_iso": "2020-12-22T02:38:16.140570",
             "status": "ACTIVE"
         },
+        "12.147-62-69.ftth.swbr.surewest.net": {
+            "included_at_epoch": 1608776054.318009,
+            "included_at_iso": "2020-12-24T02:14:14.318009",
+            "last_retested_at_epoch": 1608776054.318009,
+            "last_retested_at_iso": "2020-12-24T02:14:14.318009",
+            "status": "INACTIVE"
+        },
         "12.162.174.70.coalfld.static.coalfields.net": {
             "included_at_epoch": 1608604696.185911,
             "included_at_iso": "2020-12-22T02:38:16.185911",
@@ -3631,6 +3638,13 @@
             "included_at_iso": "2020-12-22T03:05:01.528174",
             "last_retested_at_epoch": 1608606301.528174,
             "last_retested_at_iso": "2020-12-22T03:05:01.528174",
+            "status": "ACTIVE"
+        },
+        "13.costretto.com": {
+            "included_at_epoch": 1608776054.397735,
+            "included_at_iso": "2020-12-24T02:14:14.397735",
+            "last_retested_at_epoch": 1608776054.397735,
+            "last_retested_at_iso": "2020-12-24T02:14:14.397735",
             "status": "ACTIVE"
         },
         "13.sharedsource.org": {
@@ -16140,6 +16154,13 @@
             "included_at_iso": "2020-12-22T04:18:30.521266",
             "last_retested_at_epoch": 1608610710.521266,
             "last_retested_at_iso": "2020-12-22T04:18:30.521266",
+            "status": "ACTIVE"
+        },
+        "202-110.thezone.bg": {
+            "included_at_epoch": 1608776054.461831,
+            "included_at_iso": "2020-12-24T02:14:14.461831",
+            "last_retested_at_epoch": 1608776054.461831,
+            "last_retested_at_iso": "2020-12-24T02:14:14.461831",
             "status": "ACTIVE"
         },
         "202-123-79-15.static.hdcdatacentre.com": {
