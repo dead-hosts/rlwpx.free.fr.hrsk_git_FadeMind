@@ -6,8 +6,8 @@
     "finish_timestamp": 1668234115.917254,
     "last_download_datetime": "2020-12-28T02:14:41.288289",
     "last_download_timestamp": 1609121681.288289,
-    "latest_part_finish_datetime": "2022-11-12T06:21:55.917254",
-    "latest_part_finish_timestamp": 1668234115.917254,
+    "latest_part_finish_datetime": "2022-11-13T05:30:38.876999",
+    "latest_part_finish_timestamp": 1668317438.876999,
     "latest_part_start_datetime": "2020-12-28T02:14:41.307347",
     "latest_part_start_timestamp": 1609121681.307347,
     "live_update": true,
@@ -17,6 +17,7 @@
         "@FadeMind"
     ],
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/rlwpx.free.fr.hrsk/hosts",
+    "repo": "rlwpx.free.fr.hrsk_git_FadeMind/rlwpx.free.fr.hrsk_git_FadeMind",
     "start_datetime": "2020-12-28T02:14:41.304512",
     "start_timestamp": 1609121681.304512
 }
