@@ -1,18 +1,24 @@
 {
     "counter": {
+        "1API GmbH": 2,
         "CommuniGal Communications Ltd.": 2,
-        "GoDaddy.com, LLC": 6,
+        "Dynadot LLC": 2,
+        "GoDaddy.com, LLC": 10,
+        "Nom-iq Ltd. dba COM LAUDE": 2,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
         "Porkbun": 2,
         "Rebel.ca Corp.": 2,
-        "total": 14
+        "total": 24
     },
     "percentage": {
-        "CommuniGal Communications Ltd.": 14.285714285714286,
-        "GoDaddy.com, LLC": 42.857142857142854,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 14.285714285714286,
-        "Porkbun": 14.285714285714286,
-        "Rebel.ca Corp.": 14.285714285714286,
-        "total": 100.00000000000001
+        "1API GmbH": 8.333333333333334,
+        "CommuniGal Communications Ltd.": 8.333333333333334,
+        "Dynadot LLC": 8.333333333333334,
+        "GoDaddy.com, LLC": 41.666666666666664,
+        "Nom-iq Ltd. dba COM LAUDE": 8.333333333333334,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 8.333333333333334,
+        "Porkbun": 8.333333333333334,
+        "Rebel.ca Corp.": 8.333333333333334,
+        "total": 99.99999999999997
     }
 }
