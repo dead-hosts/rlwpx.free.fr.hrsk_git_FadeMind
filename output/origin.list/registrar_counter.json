@@ -1,10 +1,20 @@
 {
     "counter": {
-        "GoDaddy.com, LLC": 2,
-        "total": 2
+        "1API GmbH": 2,
+        "CommuniGal Communications Ltd.": 2,
+        "GoDaddy.com, LLC": 6,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "Porkbun": 2,
+        "Rebel.ca Corp.": 2,
+        "total": 16
     },
     "percentage": {
-        "GoDaddy.com, LLC": 100.0,
+        "1API GmbH": 12.5,
+        "CommuniGal Communications Ltd.": 12.5,
+        "GoDaddy.com, LLC": 37.5,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 12.5,
+        "Porkbun": 12.5,
+        "Rebel.ca Corp.": 12.5,
         "total": 100.0
     }
 }
