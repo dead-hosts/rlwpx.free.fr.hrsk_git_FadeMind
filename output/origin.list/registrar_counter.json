@@ -1,10 +1,12 @@
 {
     "counter": {
-        "GoDaddy.com, LLC": 2,
-        "total": 2
+        "GoDaddy.com, LLC": 6,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "total": 8
     },
     "percentage": {
-        "GoDaddy.com, LLC": 100.0,
+        "GoDaddy.com, LLC": 75.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 25.0,
         "total": 100.0
     }
 }
